@@ -1,0 +1,43 @@
+# ──────────────────────────────────────────────────────────────
+#  Pokéradar – Einstellungen
+#  Änderungen hier greifen beim nächsten Lauf (spätestens nach 20 Min.)
+# ──────────────────────────────────────────────────────────────
+
+# Welche Sprachversionen interessieren dich?  de · en · jp  (beliebig kombinierbar)
+# Gilt für Push-Nachrichten. Im Dashboard kannst du zusätzlich live umschalten.
+sprachen: [de, en]
+
+# Welche Produktarten?
+#   etb     – Elite-Trainer-Box / Top-Trainer-Box (inkl. Pokémon-Center-Edition)
+#   display – Booster-Box / Display (36er, 18er, JP-Boxen)
+#   upc     – Ultra-Premium-Kollektion
+produkte: [etb, display, upc]
+
+benachrichtigung:
+  # Neue Ankündigungen ab diesem Hype-Wert (1–10) sofort aufs Handy,
+  # alles darunter landet in der Abendübersicht.
+  sofort_ab_hype: 8
+  # Vorverkaufsstart und Nachschub immer sofort melden (unabhängig vom Hype)
+  vorverkauf_sofort: true
+  # Schnäppchen-Alarm: Angebote ab diesem Radar-Rating (1–5 Pokébälle) sofort melden
+  schnaeppchen_ab_rating: 4
+  # Abendübersicht um ca. 19 Uhr
+  abenduebersicht: true
+
+markt:
+  # Preisalarm, wenn sich der Cardmarket-Trendpreis in 7 Tagen um mindestens
+  # so viel Prozent ändert (nach oben oder unten)
+  alarm_prozent: 15
+  # Nur Produkte ab diesem Trendpreis (EUR) – darunter ist das Rauschen zu groß
+  mindestpreis: 40
+  # Kartons mit mehreren Displays/ETBs (Cases) mitbeobachten?
+  cases: false
+
+ki:
+  # OpenAI-kompatibler Endpunkt. Standard: Z.ai mit den kostenlosen GLM-Flash-Modellen.
+  # Der Schlüssel kommt aus dem GitHub-Secret LLM_API_KEY. Ohne Schlüssel arbeitet
+  # das Radar mit eingebauten Regeln weiter (etwas ungenauer).
+  basis_url: https://api.z.ai/api/paas/v4
+  modelle: [glm-4.7-flash, glm-4.5-flash]
+  # Obergrenze pro Lauf, damit das Gratis-Kontingent reicht
+  max_meldungen_pro_lauf: 64

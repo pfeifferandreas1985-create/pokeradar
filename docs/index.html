@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Pokéradar</title>
+  <meta name="description" content="Limitierte Pokémon-TCG-Boxen, Vorverkäufe, Schnäppchen und Marktpreise – auf einen Blick.">
+  <meta name="theme-color" content="#f5f5f7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Pokéradar">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="favicon.svg">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="ball" viewBox="0 0 24 24">
+      <circle cx="12" cy="12" r="10.5" style="fill:var(--b-fill);stroke:var(--b-line);stroke-width:1.8"/>
+      <path d="M1.5 12a10.5 10.5 0 0 1 21 0z" style="fill:var(--b-top)"/>
+      <circle cx="12" cy="12" r="10.5" style="fill:none;stroke:var(--b-line);stroke-width:1.8"/>
+      <path d="M1.5 12h21" style="stroke:var(--b-line);stroke-width:1.8"/>
+      <circle cx="12" cy="12" r="3.4" style="fill:var(--b-fill);stroke:var(--b-line);stroke-width:1.8"/>
+    </symbol>
+  </svg>
+
+  <header class="bar">
+    <div class="bar-inner">
+      <a class="brand" href="#radar" aria-label="Pokéradar">
+        <span class="logo" aria-hidden="true">
+          <img src="favicon.svg" alt="">
+          <span class="sweep"></span>
+        </span>
+        <span class="wordmark">Poké<b>radar</b></span>
+      </a>
+      <nav class="seg" role="tablist" aria-label="Bereiche">
+        <button role="tab" data-tab="radar" aria-selected="true">Radar</button>
+        <button role="tab" data-tab="deals">Schnäppchen</button>
+        <button role="tab" data-tab="markt">Markt</button>
+        <button role="tab" data-tab="kalender">Kalender</button>
+      </nav>
+      <div class="live" id="live" title="">
+        <span class="dot"></span><span id="live-text">Lädt …</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="rings" aria-hidden="true"><i></i><i></i><i></i><span class="beam"></span></div>
+      <h1 id="hero-title">Nichts Limitiertes<br>mehr verpassen.</h1>
+      <p class="sub" id="hero-sub">Elite-Trainer-Boxen, Displays und Ultra-Premium-Kollektionen – vom ersten Gerücht bis zum Vorverkauf.</p>
+      <div class="filters" role="group" aria-label="Filter">
+        <div class="chips" id="f-sprache" aria-label="Sprachen">
+          <button data-v="de">DE</button><button data-v="en">EN</button><button data-v="jp">JP</button>
+        </div>
+        <span class="sep"></span>
+        <div class="chips" id="f-typ" aria-label="Produktarten">
+          <button data-v="etb">Elite-Trainer-Box</button><button data-v="display">Display</button><button data-v="upc">Ultra-Premium</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Radar -->
+    <section class="view" id="view-radar">
+      <div class="tiles" id="tiles"></div>
+      <div id="radar-hot"></div>
+      <div class="head"><h2>Auf dem Radar</h2><span class="muted" id="radar-count"></span></div>
+      <div class="grid" id="radar-grid"></div>
+    </section>
+
+    <!-- Schnäppchen -->
+    <section class="view" id="view-deals" hidden>
+      <div class="head"><h2>Schnäppchen-Alarm</h2><span class="muted">Angebote im Vergleich zum Cardmarket-Trendpreis</span></div>
+      <div class="deals" id="deals"></div>
+    </section>
+
+    <!-- Markt -->
+    <section class="view" id="view-markt" hidden>
+      <div id="markt-intro"></div>
+      <div class="movers" id="movers"></div>
+      <div id="markt-news"></div>
+      <div class="head">
+        <h2>Alle Boxen</h2>
+        <div class="tools">
+          <input type="search" id="markt-suche" placeholder="Set oder Produkt suchen" autocomplete="off">
+          <div class="seg small" id="markt-sort">
+            <button data-v="ch7" aria-selected="true">7 Tage</button>
+            <button data-v="ch30">30 Tage</button>
+            <button data-v="trend">Preis</button>
+            <button data-v="seit">Neu</button>
+          </div>
+        </div>
+      </div>
+      <div class="table" id="markt-liste"></div>
+      <button class="more" id="markt-mehr" hidden>Mehr anzeigen</button>
+    </section>
+
+    <!-- Kalender -->
+    <section class="view" id="view-kalender" hidden>
+      <div class="head"><h2>Termine</h2><span class="muted">Vorverkäufe und Releases aus den Meldungen</span></div>
+      <div class="cal" id="kalender"></div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <p><b>Radar-Rating</b> = Einschätzung aus Hype, Preisabstand, Preisverlauf und Lieferwelle. Keine Anlageberatung – Sammeln soll Spaß machen.</p>
+    <p>Preise: öffentliche Cardmarket-Preisübersicht (EUR). Meldungen: Google News, mydealz, Reddit. Inoffizielles Fanprojekt – Pokémon ist eine Marke von Nintendo, Creatures und GAME FREAK.</p>
+  </footer>
+
+  <div class="sheet-wrap" id="sheet" hidden>
+    <div class="sheet-bg" data-close></div>
+    <article class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title">
+      <button class="close" data-close aria-label="Schließen">✕</button>
+      <div id="sheet-body"></div>
+    </article>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
