@@ -207,7 +207,7 @@
     const liste = S.radar.deals.filter(passt)
       .sort((a, b) => (b.rating?.sterne - a.rating?.sterne) || (d(b.datum) - d(a.datum)));
     $("#deals").innerHTML = liste.length ? liste.map(dealKarte).join("")
-      : leer("Gerade keine Angebote", "<br>Das Radar prüft mydealz, Reddit und die News alle 20 Minuten.");
+      : leer("Gerade keine Angebote", "<br>Das Radar prüft mydealz, Reddit und die News alle 30 Minuten.");
   }
 
   // ── Markt ──────────────────────────────────────────────────

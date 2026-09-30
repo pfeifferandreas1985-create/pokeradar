@@ -2,7 +2,7 @@ name: Pokéradar
 
 on:
   schedule:
-    - cron: "*/20 * * * *"   # News, Vorverkäufe, Schnäppchen
+    - cron: "*/30 * * * *"   # News, Vorverkäufe, Schnäppchen (privates Repo: 2.000 Gratis-Minuten/Monat)
     - cron: "40 8 * * *"     # Cardmarket-Preise (Datei wird morgens aktualisiert)
     - cron: "0 17 * * *"     # Abendübersicht (19 Uhr Sommerzeit, 18 Uhr Winterzeit)
   workflow_dispatch:
