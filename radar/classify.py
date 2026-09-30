@@ -52,8 +52,9 @@ Antworte ausschließlich mit JSON der Form {"items":[...]} – ein Objekt pro Me
  "lieferwelle": 1|2|3|null (Liefer-/Zuteilungswelle bei Vorbestellungen, z. B. "Welle 1", "2. Welle", "second wave"),
  "liefertermin": "<voraussichtliche Lieferung, z. B. 2026-11-07, KW 45, Dezember 2026>"|null,
  "hype": 1-10, "trend": "steigt"|"faellt"|null,
- "gruende": ["<bis zu 3 kurze deutsche Gründe, warum begehrt/lohnend oder nicht>"],
- "kurz": "<ein deutscher Satz: was ist passiert und was bedeutet es für Sammler>"}
+ "gruende": ["<bis zu 3 kurze deutsche Gründe (je max. 10 Wörter), warum begehrt/lohnend oder nicht>"],
+ "kurz": "<ein deutscher Satz, max. 20 Wörter: was ist passiert und was bedeutet es für Sammler>"}
+Bei nicht relevanten Meldungen reicht {"i": n, "relevant": false}.
 Erfinde keine Daten: Unbekanntes ist null. Heute ist __HEUTE__."""
 
 
@@ -187,6 +188,10 @@ class KI:
         self.start = time.monotonic()
 
     @property
+    def lokal(self) -> bool:
+        return self.aktiv and "127.0.0.1" in self.ziele[self.idx]["url"]
+
+    @property
     def zeit_um(self) -> bool:
         """Zeitbudget pro Lauf – der Rest wird im nächsten Lauf eingeordnet."""
         return time.monotonic() - self.start > self.cfg.ki_budget
@@ -304,11 +309,12 @@ def einordnen(meldungen: list[Meldung], cfg: Config, ki: KI) -> dict[str, dict]:
     heute = datetime.now().strftime("%Y-%m-%d")
     system = SYSTEM_PROMPT.replace("__HEUTE__", heute)
     stapel = meldungen[: cfg.ki_max]
-    for start in range(0, len(stapel), 8):
+    groesse = 4 if ki.lokal else 8  # lokal kleinere Stapel, damit das Zeitbudget gut ausgenutzt wird
+    for start in range(0, len(stapel), groesse):
         if ki.zeit_um:
             log.info("KI-Zeitbudget erreicht – %d Meldungen folgen im nächsten Lauf", len(stapel) - start)
             break
-        teil = stapel[start:start + 8]
+        teil = stapel[start:start + groesse]
         user = "\n\n".join(
             f"[{i}] Quelle: {m.quelle} ({m.art}, {m.sprache}) · {m.datum[:10]}\n"
             f"Titel: {m.titel}\n"
