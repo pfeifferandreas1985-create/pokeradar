@@ -12,6 +12,8 @@ def bauen(cfg: Config, info: dict) -> None:
                       key=lambda p: p.get("aktualisiert", p["erstmals"]), reverse=True)
     for p in produkte:
         p.pop("gemeldet", None)
+        if p.get("set") and p["set"].lower() not in p["name"].lower():
+            p["name"] = f"{p['set']} {p['name']}"[:100]
     write_json(SITE_DATA / "radar.json", {
         "konfig": cfg.public(),
         "produkte": produkte,

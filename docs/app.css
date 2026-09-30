@@ -175,7 +175,7 @@ main { max-width: 1180px; margin: 0 auto; padding: 0 22px; }
 .hot .art { aspect-ratio: 16 / 9; }
 .art.display { --a: var(--dis-a); --b: var(--dis-b); }
 .art.upc { --a: var(--upc-a); --b: var(--upc-b); }
-.art svg.box { position: absolute; right: 7%; bottom: -6%; height: 88%; filter: drop-shadow(0 14px 22px rgba(0, 0, 0, .22)); transition: transform .6s var(--ease); }
+.art svg.box { position: absolute; right: 5%; bottom: -6%; height: 80%; filter: drop-shadow(0 14px 22px rgba(0, 0, 0, .22)); transition: transform .6s var(--ease); }
 .card:hover .art svg.box { transform: translateY(-4px) rotate(-1.5deg) scale(1.02); }
 .art .ghost {
   position: absolute; left: -12%; top: -30%; width: 70%; aspect-ratio: 1; border-radius: 50%;
@@ -185,10 +185,10 @@ main { max-width: 1180px; margin: 0 auto; padding: 0 22px; }
   box-shadow: inset 0 0 0 7px rgba(255, 255, 255, .16);
 }
 .art .set {
-  position: absolute; z-index: 1; left: 18px; bottom: 14px; right: 40%; color: #fff;
-  font-weight: 700; font-size: 21px; line-height: 1.08; letter-spacing: -.025em; text-shadow: 0 2px 14px rgba(0, 0, 0, .18);
+  position: absolute; z-index: 1; left: 18px; bottom: 14px; right: 50%; color: #fff; overflow-wrap: anywhere;
+  font-weight: 700; font-size: 20px; line-height: 1.08; letter-spacing: -.025em; text-shadow: 0 2px 14px rgba(0, 0, 0, .18);
 }
-.hot .art .set { font-size: 27px; }
+.hot .art .set { font-size: 24px; }
 .art .set small { display: block; font-size: 12px; font-weight: 600; letter-spacing: .02em; opacity: .85; text-transform: uppercase; margin-bottom: 4px; }
 .art .lang {
   position: absolute; top: 14px; left: 16px; padding: 3px 8px; border-radius: 7px; font-size: 11.5px; font-weight: 700; letter-spacing: .04em;
