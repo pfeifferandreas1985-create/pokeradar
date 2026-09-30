@@ -153,6 +153,200 @@
    "typ": "etb",
    "variante": "pokemon-center",
    "vorverkauf_ab": "2026-09-15"
+  },
+  {
+   "aktualisiert": "2026-09-30T00:45:21Z",
+   "erscheint_am": "2026-10-01",
+   "erstmals": "2026-09-30T00:45:21Z",
+   "gruende": [
+    "Jubiläums-Set",
+    "limitiert",
+    "hohe Nachfrage"
+   ],
+   "hype": 9,
+   "key": "30th-celebration-etb-en-pokemon-center",
+   "kurz": "Pokémon Center Vorverkauf für Jubiläums-ETB startet morgen",
+   "liefertermin": "2026-10-01",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 327.85,
+    "id": 895552,
+    "low": 175,
+    "name": "30th Celebration Pokémon Center Elite Trainer Box",
+    "trend": 327.85
+   },
+   "name": "30th Celebration Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-09-30T00:45:21Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wtr6gl/pokemon_center_drop_likely_tomorrow/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "POKEMON CENTER DROP LIKELY TOMORROW!"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Jubiläums-Set",
+     "limitiert",
+     "hohe Nachfrage"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Celebration",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
+   "vorverkauf_ab": "2026-10-01"
+  },
+  {
+   "aktualisiert": "2026-09-29T20:07:49Z",
+   "erscheint_am": "2026-10-01",
+   "erstmals": "2026-09-29T20:07:49Z",
+   "gruende": [
+    "Jubiläums-Set",
+    "limitiert",
+    "hohe Nachfrage"
+   ],
+   "hype": 8,
+   "key": "30th-celebration-display-en-18er",
+   "kurz": "30. Jubiläum: Pitch Black Booster Display vorbestellbar",
+   "liefertermin": "2026-10-01",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 124.05,
+    "id": 401659,
+    "low": 179,
+    "name": "Sun & Moon Booster Box (18 Boosters)",
+    "trend": 124.05
+   },
+   "name": "30th Celebration Pitch Black Booster Display",
+   "quellen": [
+    {
+     "datum": "2026-09-29T20:07:49Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wtknjk/target_drop_schedule_midnight_pdt_3am_edt_good/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "Target Drop schedule Midnight PDT , 3AM EDT Good luck!"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Jubiläums-Set",
+     "limitiert",
+     "hohe Nachfrage"
+    ],
+    "sterne": 4,
+    "urteil": "Lohnt sich"
+   },
+   "set": "30th Celebration",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "display",
+   "variante": "18er",
+   "vorverkauf_ab": "2026-10-01"
+  },
+  {
+   "aktualisiert": "2026-09-29T06:35:02Z",
+   "erstmals": "2026-09-29T06:35:02Z",
+   "gruende": [
+    "30. Jubiläum, limitiert",
+    "Erweiterungspacks, begehrt",
+    "Vorverkauf mit Ziehungen"
+   ],
+   "hype": 8,
+   "key": "30th-celebration-display-jp",
+   "kurz": "30. Jubiläum: Erweiterungspacks im Vorverkauf, knapp und begehrt.",
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 139.04,
+    "id": 891464,
+    "low": 109.9,
+    "name": "30th Celebration JP Booster Box",
+    "trend": 139.04
+   },
+   "name": "30th CELEBRATION Erweiterungspack",
+   "quellen": [
+    {
+     "datum": "2026-09-29T06:35:02Z",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0dJZU5URlRzS1dpVHA3MDVPYmJsSml0a0MwMGs0cVlkSHpBaHF2SENSRklqT0p2a2pORzVSV1dlUGRTQ1BiN1Q5VXVYdEtUcnBDTTlQV2toOGlUb3VlSkNTSEREeFp0eHZSdllUN29DbHBUMVNWdXFaZUVEelVoX3lLbHp4cmtOdGtXR21B?oc=5",
+     "quelle": "Yahoo!ニュース",
+     "status": "vorbestellbar",
+     "titel": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象 (インサイド)"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "30. Jubiläum, limitiert",
+     "Erweiterungspacks, begehrt",
+     "Vorverkauf mit Ziehungen"
+    ],
+    "sterne": 4,
+    "urteil": "Lohnt sich"
+   },
+   "set": "30th CELEBRATION",
+   "sprache": "jp",
+   "stage": "vorbestellbar",
+   "typ": "display",
+   "variante": null,
+   "vorverkauf_ab": "2026-10-01"
+  },
+  {
+   "aktualisiert": "2026-09-29T05:45:02Z",
+   "erstmals": "2026-09-29T05:45:02Z",
+   "gruende": [
+    "Starkes Jubiläum-Set",
+    "limitierte Ausgabe",
+    "begehrt bei Sammlern"
+   ],
+   "hype": 7,
+   "key": "inferno-x-display-jp",
+   "kurz": "Inferno X und Storm Emerald: Erweiterungspacks im Vorverkauf, knapp.",
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 71.39,
+    "id": 845910,
+    "low": 51.42,
+    "name": "Inferno X Booster Box",
+    "trend": 71.39
+   },
+   "name": "Inferno X Erweiterungspack",
+   "quellen": [
+    {
+     "datum": "2026-09-29T05:45:02Z",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVkhyUURVN1Nic1Q3RWo0a2ZYT2tKcGNZNl93X3l1U2tIWTNIeFR0aWUxX096el9UWjlZN2xCOGN1Nlc4VlpxRXE0VEJoLXFlMVJ2S0ZNMms1UkpCRGlSUWMtUmQ0UnZzZTdDdElnOEwwb3dGUnVxNW01NW5tUDA?oc=5",
+     "quelle": "Yahoo!ニュース",
+     "status": "vorbestellbar",
+     "titel": "『ポケカ』拡張パック「インフェルノX」「ストームエメラルダ」がポケセンオンラインで追加抽選！大半を「本人認証済みの方の当選分」として用意（インサイド）"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Starkes Jubiläum-Set",
+     "limitierte Ausgabe",
+     "begehrt bei Sammlern"
+    ],
+    "sterne": 3,
+    "urteil": "Interessant"
+   },
+   "set": "Inferno X",
+   "sprache": "jp",
+   "stage": "vorbestellbar",
+   "typ": "display",
+   "variante": null,
+   "vorverkauf_ab": "2026-10-01"
   }
  ]
 }
