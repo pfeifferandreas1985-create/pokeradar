@@ -45,7 +45,7 @@ Welle 1 bedeutet Lieferung zum Release, spätere Wellen kosten einen Pokéball (
    *Settings → Secrets and variables → Actions* als `LLM_API_KEY` speichern
    (oder im Terminal: `gh secret set LLM_API_KEY`). Die Modelle `glm-4.7-flash` / `glm-4.5-flash` sind gratis.
    Ohne Schlüssel arbeitet das Radar mit eingebauten Regeln.
-3. Fertig. Der Workflow läuft alle 30 Minuten, die Preise einmal täglich.
+3. Fertig. Der Workflow läuft alle 20 Minuten, die Preise einmal täglich.
 
 ## Einstellungen
 
