@@ -49,6 +49,9 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          ZAI_API_KEY: ${{ secrets.ZAI_API_KEY }}
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
         run: python -m radar ${{ steps.modus.outputs.wert }}
 

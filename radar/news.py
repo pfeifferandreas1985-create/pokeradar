@@ -278,5 +278,5 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
     write_json(MARKTNEWS, marktnews)
     write_json(QUEUE, queue[-60:])
     return {"quellen": quellen_status, "ki": ki.aktiv or ki.aufrufe > 0,
-            "modell": cfg.ki_modelle[min(ki.modell_idx, len(cfg.ki_modelle) - 1)] if ki.aufrufe else None,
+            "modell": ki.modell,
             "neu": len(neu), "alarme": len(alarme)}

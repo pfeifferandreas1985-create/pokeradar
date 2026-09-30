@@ -170,57 +170,81 @@ def regeln(m: Meldung) -> dict:
 # ── KI ───────────────────────────────────────────────────────────────────────
 
 class KI:
+    """Probiert der Reihe nach alle Anbieter/Modelle, für die ein Schlüssel hinterlegt ist."""
+
     def __init__(self, cfg: Config):
         self.cfg = cfg
-        self.key = os.environ.get("LLM_API_KEY", "").strip()
-        self.modell_idx = 0
-        self.extra_ok = True  # "thinking: disabled" wird nicht von jedem Anbieter verstanden
+        self.ziele: list[dict] = []  # je Eintrag: Anbieter + Modell
+        for a in cfg.ki_anbieter:
+            key = next((os.environ.get(n, "").strip() for n in a["schluessel"] if os.environ.get(n, "").strip()), "")
+            if key:
+                for modell in a["modelle"]:
+                    self.ziele.append({"anbieter": a["name"], "url": a["basis_url"].rstrip("/"), "key": key,
+                                       "modell": modell, "extra": dict(a.get("extra") or {}), "json": True})
+        self.idx = 0
         self.aufrufe = 0
+        self.modell: str | None = None
 
     @property
     def aktiv(self) -> bool:
-        return bool(self.key) and self.modell_idx < len(self.cfg.ki_modelle)
+        return self.idx < len(self.ziele)
+
+    def _weiter(self, grund: str) -> None:
+        z = self.ziele[self.idx]
+        log.warning("%s/%s: %s – nächster Kandidat", z["anbieter"], z["modell"], grund)
+        self.idx += 1
 
     def chat(self, system: str, user: str) -> dict | None:
         while self.aktiv:
-            modell = self.cfg.ki_modelle[self.modell_idx]
-            body = {"model": modell, "temperature": 0.2,
+            z = self.ziele[self.idx]
+            body = {"model": z["modell"], "temperature": 0.2,
                     "messages": [{"role": "system", "content": system},
-                                 {"role": "user", "content": user}],
-                    "response_format": {"type": "json_object"}}
-            if self.extra_ok:
-                body["thinking"] = {"type": "disabled"}
+                                 {"role": "user", "content": user}], **z["extra"]}
+            if z["json"]:
+                body["response_format"] = {"type": "json_object"}
+            headers = {"Authorization": f"Bearer {z['key']}", "X-Title": "Pokeradar"}
             try:
-                r = http().post(f"{self.cfg.ki_basis_url}/chat/completions", json=body, timeout=120,
-                                headers={"Authorization": f"Bearer {self.key}"})
+                r = http().post(f"{z['url']}/chat/completions", json=body, timeout=150, headers=headers)
+                if r.status_code == 429:
+                    log.info("%s: Limit erreicht – kurze Pause", z["anbieter"])
+                    time.sleep(10)
+                    r = http().post(f"{z['url']}/chat/completions", json=body, timeout=150, headers=headers)
             except Exception as e:  # noqa: BLE001
-                log.warning("KI nicht erreichbar (%s): %s", modell, e)
-                return None
-            self.aufrufe += 1
-            if r.status_code == 400 and self.extra_ok:
-                self.extra_ok = False
+                self._weiter(f"nicht erreichbar ({e})")
                 continue
-            if r.status_code == 429:
-                log.info("KI-Limit erreicht – kurze Pause")
-                time.sleep(8)
-                r = http().post(f"{self.cfg.ki_basis_url}/chat/completions", json=body, timeout=120,
-                                headers={"Authorization": f"Bearer {self.key}"})
+            self.aufrufe += 1
+            if r.status_code == 400 and (z["extra"] or z["json"]):
+                # Zusatzparameter werden nicht von jedem Modell verstanden → schrittweise weglassen
+                if z["extra"]:
+                    z["extra"] = {}
+                else:
+                    z["json"] = False
+                continue
             if r.status_code in (401, 403):
-                log.error("KI-Schlüssel ungültig (HTTP %s) – arbeite mit Regeln", r.status_code)
-                self.key = ""
-                return None
+                # Schlüssel ungültig oder kein Guthaben → alle Modelle dieses Anbieters überspringen
+                log.error("%s: Zugriff verweigert (HTTP %s) %s", z["anbieter"], r.status_code, r.text[:160])
+                anbieter = z["anbieter"]
+                while self.aktiv and self.ziele[self.idx]["anbieter"] == anbieter:
+                    self.idx += 1
+                continue
             if r.status_code >= 400:
-                log.warning("Modell %s antwortet mit HTTP %s: %s – nächstes Modell",
-                            modell, r.status_code, r.text[:200])
-                self.modell_idx += 1
+                self._weiter(f"HTTP {r.status_code} {r.text[:160]}")
                 continue
             try:
                 inhalt = r.json()["choices"][0]["message"]["content"] or ""
-                inhalt = re.sub(r"^```(?:json)?|```$", "", inhalt.strip(), flags=re.M).strip()
-                return json.loads(inhalt)
             except (KeyError, IndexError, ValueError) as e:
-                log.warning("Unlesbare KI-Antwort (%s): %s", modell, e)
+                self._weiter(f"unerwartete Antwort ({e})")
+                continue
+            inhalt = re.sub(r"<think>.*?</think>", "", inhalt, flags=re.S).strip()
+            inhalt = re.sub(r"^```(?:json)?|```$", "", inhalt, flags=re.M).strip()
+            treffer = re.search(r"\{.*\}", inhalt, re.S)
+            try:
+                antwort = json.loads(treffer.group(0) if treffer else inhalt)
+            except ValueError:
+                log.warning("%s/%s: Antwort ist kein JSON", z["anbieter"], z["modell"])
                 return None
+            self.modell = f"{z['anbieter']} · {z['modell']}"
+            return antwort
         return None
 
 

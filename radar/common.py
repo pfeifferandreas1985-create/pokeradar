@@ -37,8 +37,7 @@ class Config:
     alarm_prozent: float = 15
     mindestpreis: float = 40
     cases: bool = False
-    ki_basis_url: str = "https://api.z.ai/api/paas/v4"
-    ki_modelle: list[str] = field(default_factory=lambda: ["glm-4.7-flash"])
+    ki_anbieter: list[dict] = field(default_factory=list)
     ki_max: int = 64
 
     @staticmethod
@@ -59,8 +58,11 @@ class Config:
             alarm_prozent=float(m.get("alarm_prozent", 15)),
             mindestpreis=float(m.get("mindestpreis", 40)),
             cases=bool(m.get("cases", False)),
-            ki_basis_url=str(k.get("basis_url", "https://api.z.ai/api/paas/v4")).rstrip("/"),
-            ki_modelle=list(k.get("modelle") or ["glm-4.7-flash"]),
+            ki_anbieter=[{"name": str(a.get("name", "KI")), "basis_url": str(a["basis_url"]),
+                          "schluessel": [a["schluessel"]] if isinstance(a.get("schluessel"), str)
+                          else list(a.get("schluessel") or []),
+                          "modelle": list(a.get("modelle") or []), "extra": a.get("extra") or {}}
+                         for a in (k.get("anbieter") or []) if a.get("basis_url")],
             ki_max=int(k.get("max_meldungen_pro_lauf", 64)),
         )
 

@@ -40,10 +40,16 @@ Welle 1 bedeutet Lieferung zum Release, spätere Wellen kosten einen Pokéball (
 
 1. **ntfy-App** installieren (Android/iOS, kostenlos, kein Konto) → „Thema abonnieren“ →
    deinen geheimen Themennamen eintragen (steht im GitHub-Secret `NTFY_TOPIC`).
-2. **Kostenloser KI-Schlüssel** (optional, macht das Radar deutlich klüger):
-   Konto auf [z.ai](https://z.ai) anlegen → API Keys → Schlüssel erzeugen → im Repo unter
-   *Settings → Secrets and variables → Actions* als `LLM_API_KEY` speichern
-   (oder im Terminal: `gh secret set LLM_API_KEY`). Die Modelle `glm-4.7-flash` / `glm-4.5-flash` sind gratis.
+2. **Kostenloser KI-Schlüssel** (optional, macht das Radar deutlich klüger). Einer reicht, mehrere
+   dienen als Reserve – das Radar nimmt den ersten, der funktioniert:
+
+   | Anbieter | Modelle (gratis) | Secret |
+   |---|---|---|
+   | [SiliconFlow](https://cloud.siliconflow.com) – Handynummer nötig, großzügige Limits | Qwen3-8B, GLM-4-9B | `SILICONFLOW_API_KEY` |
+   | [OpenRouter](https://openrouter.ai) – nur E-Mail, ca. 50 Anfragen/Tag | Qwen 3.8 27B | `OPENROUTER_API_KEY` |
+   | [Z.ai](https://z.ai/manage-apikey/apikey-list) – API-Schlüssel, **nicht** der Coding-Plan | GLM-4.7/4.5-Flash | `ZAI_API_KEY` |
+
+   Speichern im Terminal, z. B. `gh secret set OPENROUTER_API_KEY` (Schlüssel einfügen, Enter).
    Ohne Schlüssel arbeitet das Radar mit eingebauten Regeln.
 3. Fertig. Der Workflow läuft alle 20 Minuten, die Preise einmal täglich.
 
