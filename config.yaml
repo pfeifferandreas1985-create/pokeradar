@@ -52,5 +52,11 @@ ki:
       schluessel: [ZAI_API_KEY, LLM_API_KEY]
       modelle: [glm-4.7-flash, glm-4.5-flash]
       extra: {thinking: {type: disabled}}
+    - name: Qwen lokal           # läuft im GitHub-Lauf selbst – ohne Konto, ohne Schlüssel
+      basis_url: http://127.0.0.1:8080/v1
+      schluessel: LOKALE_KI
+      modelle: [qwen3-4b-instruct]
   # Obergrenze pro Lauf, damit das Gratis-Kontingent reicht
   max_meldungen_pro_lauf: 64
+  # Maximale KI-Zeit pro Lauf; was nicht fertig wird, kommt im nächsten Lauf dran
+  zeitbudget_sekunden: 480

@@ -10,11 +10,16 @@ on:
       modus:
         description: "Was soll laufen?"
         type: choice
-        options: [alles, news, markt, abend]
+        options: [alles, news, markt, abend, ki-test]
         default: alles
 
 permissions:
   contents: write
+
+env:
+  LLAMA_VERSION: b11297
+  MODELL_DATEI: Qwen3-4B-Instruct-2507-Q4_K_M.gguf
+  MODELL_URL: https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/resolve/main/Qwen3-4B-Instruct-2507-Q4_K_M.gguf
 
 concurrency:
   group: pokeradar
@@ -23,7 +28,7 @@ concurrency:
 jobs:
   radar:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
 
@@ -43,6 +48,37 @@ jobs:
             "")           echo "wert=${{ inputs.modus || 'alles' }}" >> "$GITHUB_OUTPUT" ;;
             *)            echo "wert=news" >> "$GITHUB_OUTPUT" ;;
           esac
+
+      # ── Lokale KI: Qwen3-4B über llama.cpp, direkt im Lauf (kein Konto, kein Schlüssel) ──
+      - name: KI aus dem Zwischenspeicher
+        if: steps.modus.outputs.wert != 'markt' && steps.modus.outputs.wert != 'abend'
+        uses: actions/cache@v4
+        with:
+          path: ~/ki
+          key: ki-${{ env.LLAMA_VERSION }}-${{ env.MODELL_DATEI }}
+
+      - name: Lokale KI starten
+        if: steps.modus.outputs.wert != 'markt' && steps.modus.outputs.wert != 'abend'
+        run: |
+          mkdir -p ~/ki && cd ~/ki
+          if [ ! -f "$MODELL_DATEI" ]; then
+            curl -sSLf --retry 3 -o "$MODELL_DATEI.part" "$MODELL_URL" && mv "$MODELL_DATEI.part" "$MODELL_DATEI"
+          fi
+          if [ ! -x "llama-$LLAMA_VERSION/llama-server" ]; then
+            curl -sSLf --retry 3 -o llama.tgz \
+              "https://github.com/ggml-org/llama.cpp/releases/download/$LLAMA_VERSION/llama-$LLAMA_VERSION-bin-ubuntu-x64.tar.gz"
+            tar -xzf llama.tgz && rm llama.tgz
+          fi
+          cd "llama-$LLAMA_VERSION"
+          LD_LIBRARY_PATH=. nohup ./llama-server -m ~/ki/"$MODELL_DATEI" --host 127.0.0.1 --port 8080 \
+            -c 8192 -np 1 -t "$(nproc)" --jinja --alias qwen3-4b-instruct > ~/ki/server.log 2>&1 &
+          for i in $(seq 1 90); do
+            if curl -sf http://127.0.0.1:8080/health > /dev/null; then
+              echo "LOKALE_KI=1" >> "$GITHUB_ENV"; echo "KI bereit nach ${i}s"; exit 0
+            fi
+            sleep 1
+          done
+          echo "::warning::Lokale KI nicht gestartet – Radar nutzt Regeln"; tail -20 ~/ki/server.log
 
       - name: Radar ausführen
         env:

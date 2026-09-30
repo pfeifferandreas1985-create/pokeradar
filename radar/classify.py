@@ -184,6 +184,12 @@ class KI:
         self.idx = 0
         self.aufrufe = 0
         self.modell: str | None = None
+        self.start = time.monotonic()
+
+    @property
+    def zeit_um(self) -> bool:
+        """Zeitbudget pro Lauf – der Rest wird im nächsten Lauf eingeordnet."""
+        return time.monotonic() - self.start > self.cfg.ki_budget
 
     @property
     def aktiv(self) -> bool:
@@ -203,12 +209,13 @@ class KI:
             if z["json"]:
                 body["response_format"] = {"type": "json_object"}
             headers = {"Authorization": f"Bearer {z['key']}", "X-Title": "Pokeradar"}
+            t0 = time.monotonic()
             try:
-                r = http().post(f"{z['url']}/chat/completions", json=body, timeout=150, headers=headers)
+                r = http().post(f"{z['url']}/chat/completions", json=body, timeout=300, headers=headers)
                 if r.status_code == 429:
                     log.info("%s: Limit erreicht – kurze Pause", z["anbieter"])
                     time.sleep(10)
-                    r = http().post(f"{z['url']}/chat/completions", json=body, timeout=150, headers=headers)
+                    r = http().post(f"{z['url']}/chat/completions", json=body, timeout=300, headers=headers)
             except Exception as e:  # noqa: BLE001
                 self._weiter(f"nicht erreichbar ({e})")
                 continue
@@ -244,6 +251,7 @@ class KI:
                 log.warning("%s/%s: Antwort ist kein JSON", z["anbieter"], z["modell"])
                 return None
             self.modell = f"{z['anbieter']} · {z['modell']}"
+            log.info("KI %s: Antwort in %.0f s", self.modell, time.monotonic() - t0)
             return antwort
         return None
 
@@ -297,6 +305,9 @@ def einordnen(meldungen: list[Meldung], cfg: Config, ki: KI) -> dict[str, dict]:
     system = SYSTEM_PROMPT.replace("__HEUTE__", heute)
     stapel = meldungen[: cfg.ki_max]
     for start in range(0, len(stapel), 8):
+        if ki.zeit_um:
+            log.info("KI-Zeitbudget erreicht – %d Meldungen folgen im nächsten Lauf", len(stapel) - start)
+            break
         teil = stapel[start:start + 8]
         user = "\n\n".join(
             f"[{i}] Quelle: {m.quelle} ({m.art}, {m.sprache}) · {m.datum[:10]}\n"

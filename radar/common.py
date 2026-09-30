@@ -39,6 +39,7 @@ class Config:
     cases: bool = False
     ki_anbieter: list[dict] = field(default_factory=list)
     ki_max: int = 64
+    ki_budget: float = 480
 
     @staticmethod
     def load(path: Path = ROOT / "config.yaml") -> "Config":
@@ -64,6 +65,7 @@ class Config:
                           "modelle": list(a.get("modelle") or []), "extra": a.get("extra") or {}}
                          for a in (k.get("anbieter") or []) if a.get("basis_url")],
             ki_max=int(k.get("max_meldungen_pro_lauf", 64)),
+            ki_budget=float(k.get("zeitbudget_sekunden", 480)),
         )
 
     def public(self) -> dict:

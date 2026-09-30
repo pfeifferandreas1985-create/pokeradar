@@ -67,7 +67,7 @@ def _markt_ref(p: dict | None, markt_idx: dict) -> dict | None:
 
 def _ki_sets(kandidaten: list[tuple[Meldung, dict]], kat: list[dict], ki: KI) -> dict[str, str]:
     """Lässt die KI deutsche/japanische Setnamen den englischen Cardmarket-Namen zuordnen."""
-    if not kandidaten or not ki.aktiv:
+    if not kandidaten or not ki.aktiv or ki.zeit_um:
         return {}
     sets_int = [s for s in market.set_namen([p for p in kat if p["sprache"] == "int"])]
     sets_jp = [s for s in market.set_namen([p for p in kat if p["sprache"] == "jp"])]
