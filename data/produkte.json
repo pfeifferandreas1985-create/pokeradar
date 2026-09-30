@@ -1,0 +1,102 @@
+{
+ "30th-celebration-etb-jp-pokemon-center": {
+  "aktualisiert": "2026-09-30T05:02:42Z",
+  "erstmals": "2026-09-30T05:02:42Z",
+  "gemeldet": [],
+  "gruende": [
+   "30. Jubiläum",
+   "exklusiv",
+   "viel Nachfrage"
+  ],
+  "hype": 9,
+  "key": "30th-celebration-etb-jp-pokemon-center",
+  "kurz": "30. Jubiläum vorbestellbar, hoher Hype, knapp.",
+  "lieferwelle": 1,
+  "name": "Pokémon Center 30th Celebration",
+  "quellen": [
+   {
+    "datum": "2026-09-30T05:02:42Z",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16Y1BNa2hNSWxFV2JrY1hqWVE0WEFYZXphTFVIQXJSWjJvUjNvNV9xUWRsWFE5RklTY3BnWDJYaUVWaUhMdmI1ZnRfdWg?oc=5",
+    "quelle": "SNKRDUNK",
+    "status": "vorbestellbar",
+    "titel": "【ポケカ】30th CELEBRATION(30th セレブレーション)の予約・抽選情報まとめ【9/15更新】 | スニーカーダンク"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "30. Jubiläum",
+    "exklusiv",
+    "viel Nachfrage"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "30th CELEBRATION",
+  "sprache": "jp",
+  "stage": "vorbestellbar",
+  "typ": "etb",
+  "variante": "pokemon-center",
+  "vorverkauf_ab": "2026-09-15"
+ },
+ "delta-reign-etb-en-pokemon-center": {
+  "aktualisiert": "2026-09-30T16:01:29Z",
+  "erstmals": "2026-09-30T16:01:29Z",
+  "gemeldet": [],
+  "gruende": [
+   "Neues Hauptset, Pokémon-Center-Exklusiv",
+   "Hype um Delta Reign, große Nachfrage",
+   "Vorbestellungen live, Warteschlange",
+   "Neues Set, Pokémon-Center-Exklusiv"
+  ],
+  "hype": 10,
+  "key": "delta-reign-etb-en-pokemon-center",
+  "kurz": "Pokémon-Center-Queue steigt, Delta Reign-ETB knapp und begehrt.",
+  "markt": {
+   "id": 903954,
+   "low": null,
+   "name": "Delta Reign Pokémon Center Elite Trainer Box",
+   "trend": null
+  },
+  "name": "Elite Trainer Box",
+  "quellen": [
+   {
+    "datum": "2026-09-30T15:47:34Z",
+    "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wu8fgt/pokemon_center_queue_is_up/",
+    "quelle": "Reddit",
+    "status": "vorbestellbar",
+    "titel": "Pokemon Center Queue is up"
+   },
+   {
+    "datum": "2026-09-30T15:54:07Z",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVk5vVWlSSW90aFV2M0MyYjQwbnltdkNFanFHN3ZKWmczdlZxLUUxM2Q5MFdxTmw0cEFRN2hUamRZRGZvUU1OTVotb1lTdHZ3Y3NVbGg2VXJBMlJIcEc1WUszNHNQVDltZzQtOHIyNUU0NnQwcWJLTWlheFNsYUNKUFZkU1dLQi14Vk1RUXpTTEc2QlFObWxKWjBmSXM?oc=5",
+    "quelle": "Joseph Writer Anderson",
+    "status": "vorbestellbar",
+    "titel": "Delta Reign Pokémon Center Preorders Are Live"
+   },
+   {
+    "datum": "2026-09-30T16:01:29Z",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON0pVU3ZJaWhma0thRkVkV1BwdXE0NDhUbGtNVmNONjREOEFVRE9lcHVhb2QycnVUcnBYZHZPTW9LbktRSzJJZjc4ZUVoLUlPVFloN185QnpBZFlzWGQxNHBYTmFlTFlSRS1QMy1fVEZ3N2J2cmNPOXRZMm1Bakh4RjRTb0RjcF9xSUYwRw?oc=5",
+    "quelle": "Polygon.com",
+    "status": "vorbestellbar",
+    "titel": "The Pokémon Center Opens Pre-Orders For Delta Reign, The Next Big TCG Set"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Neues Hauptset, Pokémon-Center-Exklusiv",
+    "Hype um Delta Reign, große Nachfrage",
+    "Vorbestellungen live, Warteschlange"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "Delta Reign",
+  "sprache": "en",
+  "stage": "vorbestellbar",
+  "typ": "etb",
+  "variante": "pokemon-center",
+  "vorverkauf_ab": "2026-10-01"
+ }
+}

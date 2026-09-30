@@ -1,0 +1,42 @@
+[
+ {
+  "datum": "2026-09-30T03:15:13Z",
+  "id": "1f97b8b4eae16cf0",
+  "kurz": "Storm Emerald auf Markt, Preise fallen, weniger Nachfrage.",
+  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rYTVkODVGUUtEZXhCQkRRUjMwc2dkRmFVX3NyWU03OWFhczF6QnNEQnJ4UXJyOWRRb1c4RnVyWXpOWWF6dnV0YW9TUTY?oc=5",
+  "markt": {
+   "ch30": null,
+   "ch7": null,
+   "hoch": 163.62,
+   "id": 463834,
+   "low": 50,
+   "name": "Infinity Zone Booster Box",
+   "trend": 163.62
+  },
+  "quelle": "SNKRDUNK",
+  "sprache": "jp",
+  "titel": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
+  "trend": "faellt",
+  "typ": "display"
+ },
+ {
+  "datum": "2026-09-30T04:33:37Z",
+  "id": "71bbbef27f2ac1e2",
+  "kurz": "Loth Aegis auf Markt, Preisanstieg, begehrt.",
+  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04RmxCWHJFNHBjMzM5c0RzaDdreGNpSVNYRlZKSTNTUXhZd2RXNnlOV21rby1QaENxd1pyNXA3R1pzWkhlcVB4VUliUWU?oc=5",
+  "markt": {
+   "ch30": null,
+   "ch7": null,
+   "hoch": 163.62,
+   "id": 463834,
+   "low": 50,
+   "name": "Infinity Zone Booster Box",
+   "trend": 163.62
+  },
+  "quelle": "SNKRDUNK",
+  "sprache": "jp",
+  "titel": "【ポケカ】ロストアビスの当たりランキング/買取相場情報/封入率/予約再販抽選/値段まとめ",
+  "trend": "steigt",
+  "typ": "display"
+ }
+]
