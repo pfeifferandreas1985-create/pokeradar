@@ -1,0 +1,15 @@
+{
+ "alarme": 0,
+ "ki": false,
+ "lauf": "2026-09-30T19:37:40Z",
+ "markt_stand": "2026-09-30",
+ "markt_tage": 1,
+ "neu": 75,
+ "quellen": {
+  "Google News (de)": "ok",
+  "Google News (en)": "ok",
+  "Google News (jp)": "ok",
+  "Reddit (en)": "ok",
+  "mydealz (de)": "ok"
+ }
+}
