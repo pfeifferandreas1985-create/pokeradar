@@ -88,6 +88,15 @@ def _ki_sets(kandidaten: list[tuple[Meldung, dict]], kat: list[dict], ki: KI) ->
     return out
 
 
+def _name(a: dict) -> str:
+    """Produktname immer mit Set: 'Elite Trainer Box' + 'Delta Reign' → 'Delta Reign Elite Trainer Box'."""
+    name = (a.get("produkt") or "").strip()
+    s = (a.get("set_en") or a.get("set") or "").strip()
+    if s and s.lower() not in name.lower():
+        name = f"{s} {name}".strip()
+    return name[:100]
+
+
 def _deal(m: Meldung, a: dict, ref: dict | None, preis_eur: float | None, deals: list[dict]) -> dict | None:
     """Legt ein Angebot an. None, wenn kein Preis bekannt ist oder es das Angebot schon gibt."""
     rabatt = round((1 - preis_eur / ref["trend"]) * 100, 1) if preis_eur and ref and ref.get("trend") else None
@@ -96,7 +105,7 @@ def _deal(m: Meldung, a: dict, ref: dict | None, preis_eur: float | None, deals:
     if not preis_eur:
         return None
     d = {"id": m.id, "titel": m.titel, "link": m.link, "quelle": m.quelle, "datum": m.datum,
-         "produkt": a["produkt"], "typ": a["typ"], "sprache": a["sprache"], "preis": a["preis"],
+         "produkt": _name(a), "typ": a["typ"], "sprache": a["sprache"], "preis": a["preis"],
          "waehrung": a["waehrung"], "preis_eur": preis_eur, "haendler": a["haendler"],
          "lieferwelle": a.get("lieferwelle"), "liefertermin": a.get("liefertermin"),
          "hype": a["hype"], "kurz": a["kurz"], "markt": ref, "rabatt": rabatt, "status": a["status"]}
@@ -208,7 +217,7 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
         alt_stufe = p["stage"] if p else None
         if p is None:
             p = produkte[key] = {
-                "key": key, "name": a["produkt"], "set": a.get("set_en") or a.get("set"), "typ": a["typ"],
+                "key": key, "name": _name(a), "set": a.get("set_en") or a.get("set"), "typ": a["typ"],
                 "sprache": a["sprache"], "variante": a.get("variante"), "stage": a["status"],
                 "hype": a["hype"], "erstmals": m.datum, "quellen": [], "gemeldet": [],
             }
@@ -225,6 +234,8 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
         if a.get("gruende"):
             p["gruende"] = list(dict.fromkeys((p.get("gruende") or []) + a["gruende"]))[:4]
         p["kurz"] = a["kurz"]
+        if p.get("set") and p["set"].lower() not in p["name"].lower():
+            p["name"] = f"{p['set']} {p['name']}"[:100]
         p["aktualisiert"] = max(p.get("aktualisiert", m.datum), m.datum)
         p["quellen"] = ([_quelle(m, a)] + p["quellen"])[:8]
         if ref:

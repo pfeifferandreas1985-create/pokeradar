@@ -40,8 +40,12 @@ Welle 1 bedeutet Lieferung zum Release, spätere Wellen kosten einen Pokéball (
 
 1. **ntfy-App** installieren (Android/iOS, kostenlos, kein Konto) → „Thema abonnieren“ →
    deinen geheimen Themennamen eintragen (steht im GitHub-Secret `NTFY_TOPIC`).
-2. **Kostenloser KI-Schlüssel** (optional, macht das Radar deutlich klüger). Einer reicht, mehrere
-   dienen als Reserve – das Radar nimmt den ersten, der funktioniert:
+2. **KI – funktioniert ohne Einrichtung:** Im GitHub-Lauf startet automatisch ein lokales
+   **Qwen3-4B** (llama.cpp, Modell wird zwischengespeichert). Kein Konto, kein Schlüssel, keine Kosten
+   im öffentlichen Repo. Es schafft rund 20 Meldungen pro Lauf; ein Rückstau wird in den Folgeläufen abgearbeitet.
+
+   Optional schneller über einen Cloud-Anbieter – das Radar nimmt den ersten, der funktioniert,
+   und fällt sonst auf das lokale Qwen zurück:
 
    | Anbieter | Modelle (gratis) | Secret |
    |---|---|---|
