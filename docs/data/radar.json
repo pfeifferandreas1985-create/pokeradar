@@ -1,5 +1,44 @@
 {
- "deals": [],
+ "deals": [
+  {
+   "datum": "2026-09-30T06:37:58Z",
+   "haendler": "Amazon",
+   "hype": 9,
+   "id": "e780a584b82b0937",
+   "kurz": "30. Jubiläum-ETB für 89,99 USD im Angebot, knapp und begehrt.",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkF5YUJHektVRk5CbVY2al9DVENMclVaZ3h4ZGhEbTdwdW0xeENab1VIMlBGZDNrT0xpeUpPUEZ3aDJ0UEFuMDdzZk41OHhCc1lveHlPWXJTMUExM0c0bUJTZDBkd1hMVU9xMDhZelZzV2JwR252dnVDRnd0Y3hTMS04QUNsV3JUbmdHbW13?oc=5",
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 215.58,
+    "id": 567355,
+    "low": 319,
+    "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
+    "trend": 215.58
+   },
+   "preis": 89.99,
+   "preis_eur": 79.25,
+   "produkt": "Pokémon 30th Celebration Elite Trainer Box",
+   "quelle": "Mashable",
+   "rabatt": 63.2,
+   "rating": {
+    "gruende": [
+     "63 % unter Cardmarket-Trend (79,25 € statt 215,58 €)",
+     "Begehrtes Produkt (Hype 9/10)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 4,
+    "urteil": "Lohnt sich"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "The Pokémon 30th Celebration Elite Trainer Box is still under market price — buy for $89.99 on Amazon",
+   "typ": "etb",
+   "waehrung": "USD"
+  }
+ ],
  "konfig": {
   "alarm_prozent": 15.0,
   "mindestpreis": 40.0,
@@ -14,6 +53,18 @@
   ]
  },
  "marktnews": [
+  {
+   "datum": "2026-09-28T15:01:43Z",
+   "id": "4258e47370dd1bb5",
+   "kurz": "18er Mega Entwicklung Display im Markt für 89,82€, knapp und preiswirksam.",
+   "link": "https://www.mydealz.de/deals/lokal-marktkauf-bad-salzuflen-pokemon-mega-entwicklung-18er-display-2845156",
+   "markt": null,
+   "quelle": "mydealz",
+   "sprache": "de",
+   "titel": "[Lokal Marktkauf Bad Salzuflen] Pokémon - Mega Entwicklung 18er Display",
+   "trend": "faellt",
+   "typ": "display"
+  },
   {
    "datum": "2026-09-30T03:15:13Z",
    "id": "1f97b8b4eae16cf0",
@@ -74,7 +125,7 @@
     "name": "Delta Reign Pokémon Center Elite Trainer Box",
     "trend": null
    },
-   "name": "Elite Trainer Box",
+   "name": "Delta Reign Elite Trainer Box",
    "quellen": [
     {
      "datum": "2026-09-30T15:47:34Z",
@@ -121,14 +172,23 @@
    "gruende": [
     "30. Jubiläum",
     "exklusiv",
-    "viel Nachfrage"
+    "viel Nachfrage",
+    "Jubiläums-Set, 30 Jahre Pokémon"
    ],
-   "hype": 9,
+   "hype": 10,
    "key": "30th-celebration-etb-jp-pokemon-center",
-   "kurz": "30. Jubiläum vorbestellbar, hoher Hype, knapp.",
+   "kurz": "Japanische Vorbestellung für Pokémon 30. Jubiläum-ETB mit Draw.",
+   "liefertermin": "2026-11-15",
    "lieferwelle": 1,
    "name": "Pokémon Center 30th Celebration",
    "quellen": [
+    {
+     "datum": "2026-09-28T07:00:00Z",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhY28xVVJlcVRwa0E4WEN4SHJPamUwTkJBZ0pyTmgtZDBsa2FTX05hcUxheVZBeEEwcHV2OEo4RFFsNVczMzlGSGdaY3E?oc=5",
+     "quelle": "SNKRDUNK",
+     "status": "vorbestellbar",
+     "titel": "【ポケカ】御三家セットとは？買取・相場予想/予約抽選情報まとめ【30th CELEBRATION カードセット】"
+    },
     {
      "datum": "2026-09-30T05:02:42Z",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16Y1BNa2hNSWxFV2JrY1hqWVE0WEFYZXphTFVIQXJSWjJvUjNvNV9xUWRsWFE5RklTY3BnWDJYaUVWaUhMdmI1ZnRfdWg?oc=5",
@@ -152,7 +212,7 @@
    "stage": "vorbestellbar",
    "typ": "etb",
    "variante": "pokemon-center",
-   "vorverkauf_ab": "2026-09-15"
+   "vorverkauf_ab": "2026-10-01"
   },
   {
    "aktualisiert": "2026-09-30T00:45:21Z",
@@ -260,11 +320,13 @@
    "gruende": [
     "30. Jubiläum, limitiert",
     "Erweiterungspacks, begehrt",
-    "Vorverkauf mit Ziehungen"
+    "Vorverkauf mit Ziehungen",
+    "30. Jubiläum"
    ],
-   "hype": 8,
+   "haendler": "ゲオ",
+   "hype": 9,
    "key": "30th-celebration-display-jp",
-   "kurz": "30. Jubiläum: Erweiterungspacks im Vorverkauf, knapp und begehrt.",
+   "kurz": "Regionale Sonderkarten im 30. Jubiläum-Set, Vorbestellung",
    "markt": {
     "ch30": null,
     "ch7": null,
@@ -276,6 +338,27 @@
    },
    "name": "30th CELEBRATION Erweiterungspack",
    "quellen": [
+    {
+     "datum": "2026-09-28T09:35:02Z",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc004aEppY1pxalJWWnNCcWdpNjRQN1JmcVhRUFBreEsxVnJQZW0waEpUb3NESlhlYW4yc2ZZdjR4S0RRZFpqX09MZ0NyQ192aGJLbG5JZzIyM09sSnkydHkzck5fbUJ1N3JyLVA5X19DRGVlWjNuOWZjWjE3c3RqazNiZw?oc=5",
+     "quelle": "インサイド",
+     "status": "vorbestellbar",
+     "titel": "ゲオで、『ポケカ』30周年記念商品「30th CELEBRATION カードセット」9種セットが抽選受付中！ “御三家”の特別カードを地方ごとに収録した胸アツなアイテム"
+    },
+    {
+     "datum": "2026-09-28T10:45:03Z",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sNDZTaW52TWh6b3ZfUEZXZ0VnUkxmNFhac3M3T0pJb1JpTlJ3b055UzQyN3RIbWU2cmZmaDl1NmdBc2JIT0gyWXpDTkdSdXdfNFhlWjZJZGlfQ0ZiblVTRzZGTHBRX1Ztdi1MN1lfNWdkTWlPVERv?oc=5",
+     "quelle": "インサイド",
+     "status": "vorbestellbar",
+     "titel": "ゲオで『ポケカ』30周年記念拡張パック「30th CELEBRATION」が抽選販売中！1BOX限定でパック単位は受付不可 2枚目の写真・画像"
+    },
+    {
+     "datum": "2026-09-28T10:45:03Z",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHBWMW1VZnBZekxDSldwYUtDUDdjQzlrZ0FTN1FxU3d4TkxhT1ROaHB6eTlRTnFCUVBSdDk2cm9oeFVtNXZNWjg2bnVzdVg4TU1hSlpWUDFrZEFnazV6cGR3elR5YnFEdXVLUnlkYUw0UTVxSXdsVkZjeW9RanZMVnVMQWE?oc=5",
+     "quelle": "インサイド",
+     "status": "vorbestellbar",
+     "titel": "ゲオで『ポケカ』30周年記念拡張パック「30th CELEBRATION」が抽選販売中！1BOX限定でパック単位は受付不可"
+    },
     {
      "datum": "2026-09-29T06:35:02Z",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0dJZU5URlRzS1dpVHA3MDVPYmJsSml0a0MwMGs0cVlkSHpBaHF2SENSRklqT0p2a2pORzVSV1dlUGRTQ1BiN1Q5VXVYdEtUcnBDTTlQV2toOGlUb3VlSkNTSEREeFp0eHZSdllUN29DbHBUMVNWdXFaZUVEelVoX3lLbHp4cmtOdGtXR21B?oc=5",
@@ -291,15 +374,15 @@
      "Erweiterungspacks, begehrt",
      "Vorverkauf mit Ziehungen"
     ],
-    "sterne": 4,
-    "urteil": "Lohnt sich"
+    "sterne": 5,
+    "urteil": "Top-Chance"
    },
    "set": "30th CELEBRATION",
    "sprache": "jp",
    "stage": "vorbestellbar",
    "typ": "display",
    "variante": null,
-   "vorverkauf_ab": "2026-10-01"
+   "vorverkauf_ab": "2026-09-28"
   },
   {
    "aktualisiert": "2026-09-29T05:45:02Z",
@@ -347,6 +430,194 @@
    "typ": "display",
    "variante": null,
    "vorverkauf_ab": "2026-10-01"
+  },
+  {
+   "aktualisiert": "2026-09-28T17:20:11Z",
+   "erstmals": "2026-09-28T17:20:11Z",
+   "gruende": [
+    "Limitiert, nur 1 Box",
+    "Vorbestellung im Gange",
+    "Discord-Community aktiv"
+   ],
+   "hype": 7,
+   "key": "delta-reign-display-en-18er",
+   "kurz": "Delta Reign-18er Display vorbestellbar, Limitierung und Nachfrage steigen.",
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 150,
+    "id": 903944,
+    "low": 150,
+    "name": "Delta Reign Booster Box (18 Boosters)",
+    "trend": 150
+   },
+   "name": "Delta Reign Display",
+   "quellen": [
+    {
+     "datum": "2026-09-28T17:20:11Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wskqle/delta_reign_has_loaded_on_pokemon_center_keep_an/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "Delta Reign Has loaded on Pokemon center ,keep an eye out for a queue in the near future!"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Limitiert, nur 1 Box",
+     "Vorbestellung im Gange",
+     "Discord-Community aktiv"
+    ],
+    "sterne": 3,
+    "urteil": "Interessant"
+   },
+   "set": "Delta Reign",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "display",
+   "variante": "18er",
+   "vorverkauf_ab": "2026-10-01"
+  },
+  {
+   "aktualisiert": "2026-09-28T15:00:00Z",
+   "erstmals": "2026-09-28T15:00:00Z",
+   "gruende": [
+    "Einladung notwendig",
+    "Englische Variante verfügbar",
+    "Teurer Preis",
+    "30. Jubiläum, große Nachfrage"
+   ],
+   "haendler": "Amazon",
+   "hype": 9,
+   "key": "pokemon-trainerbox-etb-de",
+   "kurz": "30. Jubiläum: ETB aktuell ohne Versandkosten, hohe Nachfrage.",
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 993.88,
+    "id": 286942,
+    "low": 1049.98,
+    "name": "BREAKthrough Elite Trainer Box (Mega Mewtwo X)",
+    "trend": 993.88
+   },
+   "name": "Pokémon-Trainerbox Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-09-27T05:28:22Z",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHZ4N1liV2x3MHVCZzR2SlhESmUybkFWWkVQbjQ5VjBtNTBqaXRtRE1fZjczRE93VmdJU1hpSGlaUWhRamw1Z3p4TjlGTWhDallaY0pLM1p0aVRJSkJ0Z3N5dDRCYkg4NkhGeC1DdmNCSG9vbnpSYWQ2UW5PMlhuX1JCTjlsWFYyUC1Xb0J0NUh2ZG91bjI3eW55cmV0ZE9NcW1SUUxEQjBLbUJISTFoVlAyZlNlTkVlcWhEa2Q0QnB6TGFtTC1DamZweWg3RFRNNWtj?oc=5",
+     "quelle": "giga.de",
+     "status": "angekuendigt",
+     "titel": "Pokémon-Karten: Netto verkauft 30 Jahre Elite-Trainer-Box aktuell ohne Versandkosten"
+    },
+    {
+     "datum": "2026-09-28T15:00:00Z",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEkxcWQtQVMwVjJlMGY5SmEyMy1hS0p0eHpXV3JCRFJwOC04TjJoXzlUaTY2dTE1aHJhQW0ybkRid3FMdFFPejJTbklCNWdUMUlya3JvV3VzSVVNREpjZXNZNzdicXAydkxTZzRzZko3T3JaQlpZd2o1S2p6U0UtUFRwYjJiTXdkN21WOUhDV2w3QlpLUFhWUFpHOFJ2eDNjQkZFZlhqdjRCV0ZxQkZaY04wWi1fN2RDcHNXbFZYMUJiUGpJck1ERnlPZw?oc=5",
+     "quelle": "Netzwelt",
+     "status": "vorbestellbar",
+     "titel": "Pokémon-Trainerbox bei Amazon nur mit Einladung: Bei Netto gibt es die englische Variante sofort, aber teurer"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Einladung notwendig",
+     "Englische Variante verfügbar",
+     "Teurer Preis"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Pokémon-Trainerbox",
+   "sprache": "de",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": null
+  },
+  {
+   "aktualisiert": "2026-09-28T07:00:00Z",
+   "erstmals": "2026-09-28T07:00:00Z",
+   "gruende": [
+    "Jubiläums-Set, 30 Jahre Pokémon",
+    "nur per Einladung verfügbare Vorbestellung",
+    "knapp und exklusiv"
+   ],
+   "haendler": "Amazon",
+   "hype": 10,
+   "key": "30th-celebration-etb-de-pokemon-center",
+   "kurz": "Pokémon 30. Jubiläum: ETB-Box nur per Einladung bestellbar.",
+   "liefertermin": "2026-11-15",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 327.85,
+    "id": 895552,
+    "low": 175,
+    "name": "30th Celebration Pokémon Center Elite Trainer Box",
+    "trend": 327.85
+   },
+   "name": "30th Celebration Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-09-28T07:00:00Z",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMkZwMXM0b01UWUhyeEo3T0doYl9ESzdfbjZ1WmY0c0RKN0NGb05CSVRrWVhUQ1FZWm45ZXIxeGQyT0FFV2VyeUFPcDQ5dnB5WjVVbkZLQWthWkxBSDNYWnFURFNuT3ktaU00SzI4VWxIem1FbEl5YU92QUozUTFjUUNJZ2pFSDRuRUNvczhONlljN3ZBUVdBM2EwYzYtbE5HdThrV0REamM0Ni1CTE1BSGM3ZE5PV20zQldNMURqbk9vNTlhb1p0ZDEtYkRoalJEVHBad0RFTXpDRTlf?oc=5",
+     "quelle": "T-Online",
+     "status": "vorbestellbar",
+     "titel": "Pokémon wird 30 – Amazon lässt die Jubiläums-Boxen nur per Einladung in den Warenkorb"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Jubiläums-Set, 30 Jahre Pokémon",
+     "nur per Einladung verfügbare Vorbestellung",
+     "knapp und exklusiv"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Celebration",
+   "sprache": "de",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
+   "vorverkauf_ab": "2026-10-01"
+  },
+  {
+   "aktualisiert": "2026-09-25T11:55:05Z",
+   "erstmals": "2026-09-25T11:55:05Z",
+   "gruende": [
+    "MEGA-Pokémon, exklusiv",
+    "neue Ausgabe, viele Exklusivkeiten",
+    "nachfolgende Box mit hohem Interesse"
+   ],
+   "hype": 7,
+   "key": "hya-class-pack-mega-display-jp",
+   "kurz": "Hybrid-Box MEGA angekündigt – begehrt, knapp.",
+   "name": "HYA-Class Pack MEGA High-Class Pack",
+   "quellen": [
+    {
+     "datum": "2026-09-25T11:55:05Z",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UNFdrQ180RnN4Z0dvZUwzLUF2N0t3dmJUV1R6UVRrN09PVkVza3NZVzVRU2dGSFRVYUxqenBmY0RULUotaXpGV1Itc3U?oc=5",
+     "quelle": "SNKRDUNK",
+     "status": "angekuendigt",
+     "titel": "【ポケポケ】ハイクラスパック MEGAの配信決定！多数収録のポケモンexと関連ポケカを丸ごと紹介！【ポケカ】"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "MEGA-Pokémon, exklusiv",
+     "neue Ausgabe, viele Exklusivkeiten",
+     "nachfolgende Box mit hohem Interesse"
+    ],
+    "sterne": 3,
+    "urteil": "Interessant"
+   },
+   "set": "HYA-Class Pack MEGA",
+   "sprache": "jp",
+   "stage": "angekuendigt",
+   "typ": "display",
+   "variante": null
   }
  ]
 }
