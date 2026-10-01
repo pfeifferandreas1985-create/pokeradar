@@ -65,7 +65,7 @@
   "haendler": "ゲオ",
   "hype": 9,
   "key": "30th-celebration-display-jp",
-  "kurz": "Regionale Sonderkarten im 30. Jubiläum-Set, Vorbestellung",
+  "kurz": "30. Jubiläum-Box: Online-Ziehung startet, sehr begehrt",
   "markt": {
    "ch30": null,
    "ch7": null,
@@ -77,6 +77,13 @@
   },
   "name": "30th CELEBRATION Erweiterungspack",
   "quellen": [
+   {
+    "datum": "2026-09-29T06:35:02Z",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ldTdaZ3drUFY0LWh2YWl2cG50Y1VSR1Z3ZlVxVFMtYi13RmNmek5oaGJTNDRDd09PWU9OVTBqcjhNRXg1RHllaTVKNDdHT2RubXBxdHJBU21aZUlsWkVVWWM1NGFFMzRnRTgwVjRCYmNqOHd4RU4wUjNn?oc=5",
+    "quelle": "インサイド",
+    "status": "vorbestellbar",
+    "titel": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象 1枚目の写真・画像"
+   },
    {
     "datum": "2026-09-28T09:35:02Z",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc004aEppY1pxalJWWnNCcWdpNjRQN1JmcVhRUFBreEsxVnJQZW0waEpUb3NESlhlYW4yc2ZZdjR4S0RRZFpqX09MZ0NyQ192aGJLbG5JZzIyM09sSnkydHkzck5fbUJ1N3JyLVA5X19DRGVlWjNuOWZjWjE3c3RqazNiZw?oc=5",
@@ -121,7 +128,7 @@
   "stage": "vorbestellbar",
   "typ": "display",
   "variante": null,
-  "vorverkauf_ab": "2026-09-28"
+  "vorverkauf_ab": "2026-10-01"
  },
  "30th-celebration-etb-de-pokemon-center": {
   "aktualisiert": "2026-09-28T07:00:00Z",
@@ -195,9 +202,10 @@
    "hohe Nachfrage",
    "Jubiläums-Box"
   ],
+  "haendler": "nicht genannt",
   "hype": 9,
   "key": "30th-celebration-etb-en-pokemon-center",
-  "kurz": "30. Jubiläum-ETB mit ex-Karten und Greninja-Box vorbestellbar",
+  "kurz": "Großer Vorverkauf für 30. Jubiläum-ETB, knapp und begehrt",
   "liefertermin": "2026-11-07",
   "lieferwelle": 1,
   "markt": {
@@ -211,6 +219,13 @@
   },
   "name": "30th Celebration Elite Trainer Box",
   "quellen": [
+   {
+    "datum": "2026-09-15T22:39:03Z",
+    "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1whf9om/massive_30th_restock_tonight_dont_miss_it/",
+    "quelle": "Reddit",
+    "status": "vorbestellbar",
+    "titel": "MASSIVE 30TH RESTOCK TONIGHT , DONT MISS IT"
+   },
    {
     "datum": "2026-09-22T20:41:23Z",
     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wnlcnz/target_drop_tonight_30th_midnight_pdt_3_am_est/",
@@ -241,7 +256,7 @@
   "stage": "vorbestellbar",
   "typ": "etb",
   "variante": "pokemon-center",
-  "vorverkauf_ab": "2026-09-30"
+  "vorverkauf_ab": "2026-09-15"
  },
  "30th-celebration-etb-jp-pokemon-center": {
   "aktualisiert": "2026-09-30T05:02:42Z",
@@ -647,10 +662,10 @@
    "Teurer Preis",
    "30. Jubiläum, große Nachfrage"
   ],
-  "haendler": "Amazon",
+  "haendler": "SB-Lüning",
   "hype": 9,
   "key": "pokemon-trainerbox-etb-de",
-  "kurz": "30. Jubiläum: ETB aktuell ohne Versandkosten, hohe Nachfrage.",
+  "kurz": "Top-Trainer-Box in SB-Lüning ab 19.09 für 44€, Vorbestellung möglich.",
   "markt": {
    "ch30": null,
    "ch7": null,
@@ -661,7 +676,15 @@
    "trend": 993.88
   },
   "name": "Pokémon-Trainerbox Elite Trainer Box",
+  "preis_eur": 44.0,
   "quellen": [
+   {
+    "datum": "2026-09-14T15:52:59Z",
+    "link": "https://www.mydealz.de/deals/sb-luning-ab-1909-app-willkommensgutschein-ohne-einladung-pokemon-top-trainer-box-in-verschiedenen-ausfuhrungen-fur-44eur-2839229",
+    "quelle": "mydealz",
+    "status": "vorbestellbar",
+    "titel": "[SB-Lüning ab 19.09-APP Willkommensgutschein] (Ohne Einladung) Pokémon Top Trainer Box in verschiedenen Ausführungen für 44€"
+   },
    {
     "datum": "2026-09-27T05:28:22Z",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHZ4N1liV2x3MHVCZzR2SlhESmUybkFWWkVQbjQ5VjBtNTBqaXRtRE1fZjczRE93VmdJU1hpSGlaUWhRamw1Z3p4TjlGTWhDallaY0pLM1p0aVRJSkJ0Z3N5dDRCYkg4NkhGeC1DdmNCSG9vbnpSYWQ2UW5PMlhuX1JCTjlsWFYyUC1Xb0J0NUh2ZG91bjI3eW55cmV0ZE9NcW1SUUxEQjBLbUJISTFoVlAyZlNlTkVlcWhEa2Q0QnB6TGFtTC1DamZweWg3RFRNNWtj?oc=5",
@@ -691,6 +714,7 @@
   "sprache": "de",
   "stage": "vorbestellbar",
   "typ": "etb",
-  "variante": null
+  "variante": null,
+  "vorverkauf_ab": "2026-09-19"
  }
 }
