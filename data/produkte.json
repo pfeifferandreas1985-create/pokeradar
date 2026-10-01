@@ -130,13 +130,14 @@
   "gruende": [
    "Jubiläums-Set, 30 Jahre Pokémon",
    "nur per Einladung verfügbare Vorbestellung",
-   "knapp und exklusiv"
+   "knapp und exklusiv",
+   "Jubiläum-Box"
   ],
   "haendler": "Amazon",
   "hype": 10,
   "key": "30th-celebration-etb-de-pokemon-center",
-  "kurz": "Pokémon 30. Jubiläum: ETB-Box nur per Einladung bestellbar.",
-  "liefertermin": "2026-11-15",
+  "kurz": "Jubiläums-Box nur per Einladung auf Amazon bestellbar, knapp und begehrt",
+  "liefertermin": "2026-11-07",
   "lieferwelle": 1,
   "markt": {
    "ch30": null,
@@ -149,6 +150,13 @@
   },
   "name": "30th Celebration Elite Trainer Box",
   "quellen": [
+   {
+    "datum": "2026-09-24T14:12:20Z",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOHdjUnphX2lyeW5pNThwQTV3OEJCZ3FRTmlJZGMxMmpuV0xZRF9nTG15V2FWUEgwdGd2QkNKR2VTNzZmdU9NTkh5aWNNSFdJT0tMY1luRGpBYlp6MkJfZHZTUGVGNVZyaDctTGYtNFA2STZrWEhFRTBCUmxFV05YNnhJd2pYTGNXMUNFdEkzVFg3ZzVLSHQ4RjRMRUhDUU1xUjdjZVBET21ZZFV4WC1TVHpYRlJwV0d0M3RQQTJmX2xnS2FtcC1oaGlJZ3NSdU5jUXJJ?oc=5",
+    "quelle": "T-Online",
+    "status": "vorbestellbar",
+    "titel": "Pokémon wird 30 – Amazon lässt die Jubiläums-Box nur per Einladung in den Warenkorb"
+   },
    {
     "datum": "2026-09-28T07:00:00Z",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMkZwMXM0b01UWUhyeEo3T0doYl9ESzdfbjZ1WmY0c0RKN0NGb05CSVRrWVhUQ1FZWm45ZXIxeGQyT0FFV2VyeUFPcDQ5dnB5WjVVbkZLQWthWkxBSDNYWnFURFNuT3ktaU00SzI4VWxIem1FbEl5YU92QUozUTFjUUNJZ2pFSDRuRUNvczhONlljN3ZBUVdBM2EwYzYtbE5HdThrV0REamM0Ni1CTE1BSGM3ZE5PV20zQldNMURqbk9vNTlhb1p0ZDEtYkRoalJEVHBad0RFTXpDRTlf?oc=5",
@@ -172,7 +180,7 @@
   "stage": "vorbestellbar",
   "typ": "etb",
   "variante": "pokemon-center",
-  "vorverkauf_ab": "2026-10-01"
+  "vorverkauf_ab": "2026-09-24"
  },
  "30th-celebration-etb-en-pokemon-center": {
   "aktualisiert": "2026-09-30T00:45:21Z",
@@ -184,12 +192,13 @@
   "gruende": [
    "Jubiläums-Set",
    "limitiert",
-   "hohe Nachfrage"
+   "hohe Nachfrage",
+   "Jubiläums-Box"
   ],
   "hype": 9,
   "key": "30th-celebration-etb-en-pokemon-center",
-  "kurz": "Pokémon Center Vorverkauf für Jubiläums-ETB startet morgen",
-  "liefertermin": "2026-10-01",
+  "kurz": "30. Jubiläum-ETB mit ex-Karten und Greninja-Box vorbestellbar",
+  "liefertermin": "2026-11-07",
   "lieferwelle": 1,
   "markt": {
    "ch30": null,
@@ -202,6 +211,13 @@
   },
   "name": "30th Celebration Elite Trainer Box",
   "quellen": [
+   {
+    "datum": "2026-09-22T20:41:23Z",
+    "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wnlcnz/target_drop_tonight_30th_midnight_pdt_3_am_est/",
+    "quelle": "Reddit",
+    "status": "vorbestellbar",
+    "titel": "Target Drop tonight 30th! Midnight PDT , 3 Am EST"
+   },
    {
     "datum": "2026-09-30T00:45:21Z",
     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wtr6gl/pokemon_center_drop_likely_tomorrow/",
@@ -225,7 +241,7 @@
   "stage": "vorbestellbar",
   "typ": "etb",
   "variante": "pokemon-center",
-  "vorverkauf_ab": "2026-10-01"
+  "vorverkauf_ab": "2026-09-30"
  },
  "30th-celebration-etb-jp-pokemon-center": {
   "aktualisiert": "2026-09-30T05:02:42Z",
@@ -275,6 +291,56 @@
   "typ": "etb",
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-10-01"
+ },
+ "30th-etb-en-pokemon-center": {
+  "aktualisiert": "2026-09-18T00:29:28Z",
+  "erstmals": "2026-09-18T00:29:28Z",
+  "gemeldet": [],
+  "gruende": [
+   "30. Jubiläum",
+   "über 50.000 Stück",
+   "Warteschlange"
+  ],
+  "hype": 9,
+  "key": "30th-etb-en-pokemon-center",
+  "kurz": "30. Jubiläum-ETB mit Nachschub, stark begehrt",
+  "liefertermin": "2026-10-01",
+  "lieferwelle": 1,
+  "markt": {
+   "ch30": null,
+   "ch7": null,
+   "hoch": 215.58,
+   "id": 567355,
+   "low": 319,
+   "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
+   "trend": 215.58
+  },
+  "name": "30th ETB",
+  "quellen": [
+   {
+    "datum": "2026-09-18T00:29:28Z",
+    "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wjb7iq/30th_restock_expected_tonight_midnight_pdt_3am_edt/",
+    "quelle": "Reddit",
+    "status": "nachschub",
+    "titel": "30th Restock expected tonight Midnight PDT/ 3am EDT"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Nachschub – kurze Gelegenheit zum Originalpreis",
+    "30. Jubiläum",
+    "über 50.000 Stück",
+    "Warteschlange"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "30th",
+  "sprache": "en",
+  "stage": "nachschub",
+  "typ": "etb",
+  "variante": "pokemon-center",
+  "vorverkauf_ab": "2026-09-18"
  },
  "delta-reign-display-en-18er": {
   "aktualisiert": "2026-09-28T17:20:11Z",
@@ -421,6 +487,60 @@
   "typ": "display",
   "variante": null
  },
+ "hya-class-pack-mega-display-jp-18er": {
+  "aktualisiert": "2026-09-24T13:55:06Z",
+  "erscheint_am": "2026-09-30",
+  "erstmals": "2026-09-24T13:55:06Z",
+  "gemeldet": [],
+  "gruende": [
+   "Mega-Pack",
+   "altbekannte Karten",
+   "neue Illustrationen"
+  ],
+  "hype": 7,
+  "key": "hya-class-pack-mega-display-jp-18er",
+  "kurz": "Hyaclass Mega-Pack mit alten Karten wird ab 30.09.2026 erhältlich, knapp",
+  "markt": {
+   "ch30": null,
+   "ch7": null,
+   "hoch": 163.62,
+   "id": 463834,
+   "low": 50,
+   "name": "Infinity Zone Booster Box",
+   "trend": 163.62
+  },
+  "name": "HYA-Class Pack MEGA Hyaclass Mega Pack",
+  "quellen": [
+   {
+    "datum": "2026-09-24T13:22:19Z",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWkFRZXI0YnoyNUFkeXk4VVRCMlFpOGMySzkzTEtxajB2UkZYeFhacGNWVWNvUnFjUjJmQ3hEVTJCc3pfcEc4b05HSThZWWhIRlNveE5nLW9JNlJIY3c0eVQ2RWowQ0R0ZTJUUWlhSnVOTEhVNGVZWGtfX1otSXVsenE0WQ?oc=5",
+    "quelle": "インサイド",
+    "status": "erschienen",
+    "titel": "『ポケポケ』新パック「ハイクラスパック MEGA」9月30日実装！これまでの注目ポケモンたちを再録、一部カードは新規イラストも"
+   },
+   {
+    "datum": "2026-09-24T13:55:06Z",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PNGpvbXNRa0FnUnJBR2JRMTJmM3o1NkRBZnV0cUJSSENzUGFtM2YtMEtZUG9pcjRWaTFJZ0pwWlBnUzFIa0pIcXdTYkZkeVNKZUdRa1lwQUJQc2t3RXdYMDNFOA?oc=5",
+    "quelle": "4Gamer.net",
+    "status": "erschienen",
+    "titel": "「ポケポケ」，ポケモンex確定の「ハイクラスパック MEGA」を9月30日から期間限定で追加。過去の“◆◆◆◆カード”を全種収録"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Mega-Pack",
+    "altbekannte Karten",
+    "neue Illustrationen"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "set": "HYA-Class Pack MEGA",
+  "sprache": "jp",
+  "stage": "erschienen",
+  "typ": "display",
+  "variante": "18er"
+ },
  "inferno-x-display-jp": {
   "aktualisiert": "2026-09-29T05:45:02Z",
   "erstmals": "2026-09-29T05:45:02Z",
@@ -467,6 +587,54 @@
   "stage": "vorbestellbar",
   "typ": "display",
   "variante": null,
+  "vorverkauf_ab": "2026-10-01"
+ },
+ "new-edition-build-box-set-display-jp-18er": {
+  "aktualisiert": "2026-09-29T21:46:11Z",
+  "erstmals": "2026-09-29T21:46:11Z",
+  "gemeldet": [],
+  "gruende": [
+   "Neues Set, Draw-Box-Event",
+   "Vorbestellung via Zufallswahl",
+   "Zusatz-Start-Kupon"
+  ],
+  "hype": 7,
+  "key": "new-edition-build-box-set-display-jp-18er",
+  "kurz": "Neue Booster-Box im Zufallswahl-Programm startet, knapp und begehrt.",
+  "markt": {
+   "ch30": null,
+   "ch7": null,
+   "hoch": 163.62,
+   "id": 463834,
+   "low": 50,
+   "name": "Infinity Zone Booster Box",
+   "trend": 163.62
+  },
+  "name": "New Edition & Build Box Set Booster-Box",
+  "quellen": [
+   {
+    "datum": "2026-09-29T21:46:11Z",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMc0kwNlkxR2N2ZkJQbjdaWUJwcTFhaEkzYml3Q0djbDRqUUFVQW1VNkVqR1UyZ2J2NWRoNl9xWlVjbjcyVUdqZ3NMb3M?oc=5",
+    "quelle": "snkrdunk.com",
+    "status": "vorbestellbar",
+    "titel": "ポケカ始めるならスニダン！新弾&ビルドBOXセットが抽選で当たるポケカスタートキャンペーン開始！初回購入クーポンも配布中"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Neues Set, Draw-Box-Event",
+    "Vorbestellung via Zufallswahl",
+    "Zusatz-Start-Kupon"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "set": "New Edition & Build Box Set",
+  "sprache": "jp",
+  "stage": "vorbestellbar",
+  "typ": "display",
+  "variante": "18er",
   "vorverkauf_ab": "2026-10-01"
  },
  "pokemon-trainerbox-etb-de": {

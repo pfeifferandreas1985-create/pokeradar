@@ -1,5 +1,78 @@
 [
  {
+  "datum": "2026-09-16T13:37:06Z",
+  "haendler": "Galaxus",
+  "hype": 7,
+  "id": "c724806bf20bc83a",
+  "kurz": "Top-Trainer-Box Chaos Rising erhältlich, knapp",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/top-trainer-box-wachsendes-chaos-englisch-2840097",
+  "markt": {
+   "ch30": null,
+   "ch7": null,
+   "hoch": 61.05,
+   "id": 877294,
+   "low": 43.99,
+   "name": "Chaos Rising Elite Trainer Box",
+   "trend": 61.05
+  },
+  "preis": 63.9,
+  "preis_eur": 63.9,
+  "produkt": "Chaos Rising Top Trainer Box",
+  "quelle": "mydealz",
+  "rabatt": -4.7,
+  "rating": {
+   "gruende": [
+    "Kein Vorteil: 63,90 € liegt über dem Cardmarket-Trend (61,05 €)"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "Pokemon Top Trainer Box Wachsendes Chaos Englisch",
+  "typ": "etb",
+  "waehrung": "EUR"
+ },
+ {
+  "datum": "2026-09-25T10:18:18Z",
+  "haendler": "Amazon",
+  "hype": 7,
+  "id": "fe19599d635a8799",
+  "kurz": "Pitch Black-ETB unter $80 auf Amazon, günstig und begehrt.",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUlVamcxbGNCbFlpZjdUNjZ0XzJPemZpbS1RTlc0MzltR1p4R2hSM0JTWS1iZ0dPeTAxSmRtQjR3WEZPcFZQeW8xVWhpNkNnR3FoU3pGaWFGMTRaLTdEQ0ZXMmY3NkVEV19YTXhuTjNPMExRRWtaWVJ5RjFGWUltaXBlZWhRc0k?oc=5",
+  "markt": {
+   "ch30": null,
+   "ch7": null,
+   "hoch": 66.51,
+   "id": 885542,
+   "low": 45,
+   "name": "Pitch Black Elite Trainer Box",
+   "trend": 66.51
+  },
+  "preis": 79.99,
+  "preis_eur": 70.44,
+  "produkt": "Pitch Black Elite Trainer Box",
+  "quelle": "Mashable",
+  "rabatt": -5.9,
+  "rating": {
+   "gruende": [
+    "Kein Vorteil: 70,44 € liegt über dem Cardmarket-Trend (66,51 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Best Pokémon TCG deal: Pitch Black ETB for under $80 at Amazon",
+  "typ": "etb",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-09-30T06:37:58Z",
   "haendler": "Amazon",
   "hype": 9,
