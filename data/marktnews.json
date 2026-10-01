@@ -1,5 +1,37 @@
 [
  {
+  "datum": "2026-10-01T08:17:35Z",
+  "id": "0b72e99f0c504a5e",
+  "kurz": "Futuristic Box des 30. Jubiläums wird auf dem Markt begehrt",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdktaYTZaemozY3NMank0R1pRWE9SWGFseGJWbFdQYkItb1BHX0hPN0ljVmpyODVkYVFEYTN5TmVBWVgtTF84SGw4b2dtLTQxOE53bEk0WGluNlgzYWR6RFFnN3VyM0swcFktWmp2X2ZNNkFTQm41T0VHWlcyY0FURW5yeGczb0xXRjNuS1NTNTIweFNhamY0UC1SZzNZdm14Y3ZxMk5KTjlvUXlKcS1xSVhzaFB2cWU5NWZLaGlvcUN6bWNyLVBHZDRFVi1iME40UWM2RUdKdGNEcjY4Snc?oc=5",
+  "markt": {
+   "ch30": null,
+   "ch7": null,
+   "hoch": 2239.24,
+   "id": 271440,
+   "low": 18000,
+   "name": "Phantom Forces Booster Box",
+   "trend": 2239.24
+  },
+  "quelle": "SNKRDUNK",
+  "sprache": "en",
+  "titel": "[Pokémon TCG] 30th CELEBRATION FUTURISTIC BOX: Market Predictions & Post-Launch Hype Analysis",
+  "trend": null,
+  "typ": "display"
+ },
+ {
+  "datum": "2026-10-01T10:54:48Z",
+  "id": "3cf7c2a2a528f406",
+  "kurz": "2-Pack Blister für Evoli im Markt zu 11,99€ mit 10% Rabatt",
+  "link": "https://www.mydealz.de/deals/pokemon-30-jahre-2-pack-blister-evoli-deutsch-2846689",
+  "markt": null,
+  "quelle": "mydealz",
+  "sprache": "de",
+  "titel": "Pokemon 30 Jahre 2-Pack Blister - Evoli (deutsch)",
+  "trend": null,
+  "typ": "display"
+ },
+ {
   "datum": "2026-09-25T11:00:00Z",
   "id": "f7819c6a834b1e80",
   "kurz": "Pitch Black ETB auf Amazon zum Marktpreis gesunken, Preisanstieg verfallen.",

@@ -127,6 +127,38 @@
  },
  "marktnews": [
   {
+   "datum": "2026-10-01T08:17:35Z",
+   "id": "0b72e99f0c504a5e",
+   "kurz": "Futuristic Box des 30. Jubiläums wird auf dem Markt begehrt",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdktaYTZaemozY3NMank0R1pRWE9SWGFseGJWbFdQYkItb1BHX0hPN0ljVmpyODVkYVFEYTN5TmVBWVgtTF84SGw4b2dtLTQxOE53bEk0WGluNlgzYWR6RFFnN3VyM0swcFktWmp2X2ZNNkFTQm41T0VHWlcyY0FURW5yeGczb0xXRjNuS1NTNTIweFNhamY0UC1SZzNZdm14Y3ZxMk5KTjlvUXlKcS1xSVhzaFB2cWU5NWZLaGlvcUN6bWNyLVBHZDRFVi1iME40UWM2RUdKdGNEcjY4Snc?oc=5",
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 2239.24,
+    "id": 271440,
+    "low": 18000,
+    "name": "Phantom Forces Booster Box",
+    "trend": 2239.24
+   },
+   "quelle": "SNKRDUNK",
+   "sprache": "en",
+   "titel": "[Pokémon TCG] 30th CELEBRATION FUTURISTIC BOX: Market Predictions & Post-Launch Hype Analysis",
+   "trend": null,
+   "typ": "display"
+  },
+  {
+   "datum": "2026-10-01T10:54:48Z",
+   "id": "3cf7c2a2a528f406",
+   "kurz": "2-Pack Blister für Evoli im Markt zu 11,99€ mit 10% Rabatt",
+   "link": "https://www.mydealz.de/deals/pokemon-30-jahre-2-pack-blister-evoli-deutsch-2846689",
+   "markt": null,
+   "quelle": "mydealz",
+   "sprache": "de",
+   "titel": "Pokemon 30 Jahre 2-Pack Blister - Evoli (deutsch)",
+   "trend": null,
+   "typ": "display"
+  },
+  {
    "datum": "2026-09-25T11:00:00Z",
    "id": "f7819c6a834b1e80",
    "kurz": "Pitch Black ETB auf Amazon zum Marktpreis gesunken, Preisanstieg verfallen.",
@@ -193,6 +225,79 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-10-01T14:00:16Z",
+   "erscheint_am": "2026-10-01",
+   "erstmals": "2026-09-30T00:45:21Z",
+   "gruende": [
+    "Jubiläums-Set",
+    "limitiert",
+    "hohe Nachfrage",
+    "Jubiläums-Box"
+   ],
+   "haendler": "nicht genannt",
+   "hype": 9,
+   "key": "30th-celebration-etb-en-pokemon-center",
+   "kurz": "30. Jubiläum-Elite-Trainer-Box wurde angekündigt und ist begehrt",
+   "liefertermin": "2026-11-07",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 327.85,
+    "id": 895552,
+    "low": 175,
+    "name": "30th Celebration Pokémon Center Elite Trainer Box",
+    "trend": 327.85
+   },
+   "name": "30th Celebration Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-10-01T14:00:16Z",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNem1mNHE1c2NRX1dSYTFHUGRIQmV5ZnlpWVV3cW0zWFllNUdLQUQwQmYzX0I5cHV6NFNnY2htb1Y5RXdkblFLMUF4Z2ozQUg4ODZycGw5dzM5MlM2dXBJWkRwNFA1Z05vV2F0X0dnVmUwbExYMEtGNGoyZVZMWFRfSGg1QQ?oc=5",
+     "quelle": "ScreenRant",
+     "status": "angekuendigt",
+     "titel": "Pokémon TCG 30th Celebration Elite Trianer Box Review"
+    },
+    {
+     "datum": "2026-09-15T22:39:03Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1whf9om/massive_30th_restock_tonight_dont_miss_it/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "MASSIVE 30TH RESTOCK TONIGHT , DONT MISS IT"
+    },
+    {
+     "datum": "2026-09-22T20:41:23Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wnlcnz/target_drop_tonight_30th_midnight_pdt_3_am_est/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "Target Drop tonight 30th! Midnight PDT , 3 Am EST"
+    },
+    {
+     "datum": "2026-09-30T00:45:21Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wtr6gl/pokemon_center_drop_likely_tomorrow/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "POKEMON CENTER DROP LIKELY TOMORROW!"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Jubiläums-Set",
+     "limitiert",
+     "hohe Nachfrage"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Celebration",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
+   "vorverkauf_ab": "2026-09-15"
+  },
+  {
    "aktualisiert": "2026-09-30T16:01:29Z",
    "erstmals": "2026-09-30T16:01:29Z",
    "gruende": [
@@ -252,6 +357,61 @@
    "vorverkauf_ab": "2026-10-01"
   },
   {
+   "aktualisiert": "2026-09-30T05:06:01Z",
+   "erscheint_am": "2026-09-30",
+   "erstmals": "2026-09-25T11:55:05Z",
+   "gruende": [
+    "MEGA-Pokémon, exklusiv",
+    "neue Ausgabe, viele Exklusivkeiten",
+    "nachfolgende Box mit hohem Interesse",
+    "Ex-Karten sicher enthalten"
+   ],
+   "hype": 7,
+   "key": "hya-class-pack-mega-display-jp",
+   "kurz": "Hyclass-Mega-Box mit ex-Karten ab 30.09.2026 erschienen",
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 163.62,
+    "id": 463834,
+    "low": 50,
+    "name": "Infinity Zone Booster Box",
+    "trend": 163.62
+   },
+   "name": "HYA-Class Pack MEGA High-Class Pack",
+   "quellen": [
+    {
+     "datum": "2026-09-30T05:06:01Z",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzRGFoRjJteDRpTXNiV2lEUkx6anpfQUFWSnJxY3haT1Q1XzI1MHRtU1VIWjR3VkQ1bjY1Z2NuYll0UFhYM2I1SjZwLUI0Zk9WS0R0YWdCTmdES2l1Z0Y5UUU1X1FCZw?oc=5",
+     "quelle": "GAME Watch",
+     "status": "erschienen",
+     "titel": "「ポケポケ」1パック4枚入りでポケモンexが必ず封入される拡張パック「ハイクラスパックMEGA」が本日9月30日に登場"
+    },
+    {
+     "datum": "2026-09-25T11:55:05Z",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UNFdrQ180RnN4Z0dvZUwzLUF2N0t3dmJUV1R6UVRrN09PVkVza3NZVzVRU2dGSFRVYUxqenBmY0RULUotaXpGV1Itc3U?oc=5",
+     "quelle": "SNKRDUNK",
+     "status": "angekuendigt",
+     "titel": "【ポケポケ】ハイクラスパック MEGAの配信決定！多数収録のポケモンexと関連ポケカを丸ごと紹介！【ポケカ】"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "MEGA-Pokémon, exklusiv",
+     "neue Ausgabe, viele Exklusivkeiten",
+     "nachfolgende Box mit hohem Interesse",
+     "Ex-Karten sicher enthalten"
+    ],
+    "sterne": 3,
+    "urteil": "Interessant"
+   },
+   "set": "HYA-Class Pack MEGA",
+   "sprache": "jp",
+   "stage": "erschienen",
+   "typ": "display",
+   "variante": null
+  },
+  {
    "aktualisiert": "2026-09-30T05:02:42Z",
    "erstmals": "2026-09-30T05:02:42Z",
    "gruende": [
@@ -298,72 +458,6 @@
    "typ": "etb",
    "variante": "pokemon-center",
    "vorverkauf_ab": "2026-10-01"
-  },
-  {
-   "aktualisiert": "2026-09-30T00:45:21Z",
-   "erscheint_am": "2026-10-01",
-   "erstmals": "2026-09-30T00:45:21Z",
-   "gruende": [
-    "Jubiläums-Set",
-    "limitiert",
-    "hohe Nachfrage",
-    "Jubiläums-Box"
-   ],
-   "haendler": "nicht genannt",
-   "hype": 9,
-   "key": "30th-celebration-etb-en-pokemon-center",
-   "kurz": "Großer Vorverkauf für 30. Jubiläum-ETB, knapp und begehrt",
-   "liefertermin": "2026-11-07",
-   "lieferwelle": 1,
-   "markt": {
-    "ch30": null,
-    "ch7": null,
-    "hoch": 327.85,
-    "id": 895552,
-    "low": 175,
-    "name": "30th Celebration Pokémon Center Elite Trainer Box",
-    "trend": 327.85
-   },
-   "name": "30th Celebration Elite Trainer Box",
-   "quellen": [
-    {
-     "datum": "2026-09-15T22:39:03Z",
-     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1whf9om/massive_30th_restock_tonight_dont_miss_it/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "MASSIVE 30TH RESTOCK TONIGHT , DONT MISS IT"
-    },
-    {
-     "datum": "2026-09-22T20:41:23Z",
-     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wnlcnz/target_drop_tonight_30th_midnight_pdt_3_am_est/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "Target Drop tonight 30th! Midnight PDT , 3 Am EST"
-    },
-    {
-     "datum": "2026-09-30T00:45:21Z",
-     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wtr6gl/pokemon_center_drop_likely_tomorrow/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "POKEMON CENTER DROP LIKELY TOMORROW!"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
-     "Jubiläums-Set",
-     "limitiert",
-     "hohe Nachfrage"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "30th Celebration",
-   "sprache": "en",
-   "stage": "vorbestellbar",
-   "typ": "etb",
-   "variante": "pokemon-center",
-   "vorverkauf_ab": "2026-09-15"
   },
   {
    "aktualisiert": "2026-09-29T21:46:11Z",
@@ -545,11 +639,12 @@
    "gruende": [
     "Starkes Jubiläum-Set",
     "limitierte Ausgabe",
-    "begehrt bei Sammlern"
+    "begehrt bei Sammlern",
+    "Zugang über PokéCenter-Online"
    ],
    "hype": 7,
    "key": "inferno-x-display-jp",
-   "kurz": "Inferno X und Storm Emerald: Erweiterungspacks im Vorverkauf, knapp.",
+   "kurz": "Inferno X und Storm Emerald via PokéCenter-Online im Vorverkauf",
    "markt": {
     "ch30": null,
     "ch7": null,
@@ -561,6 +656,13 @@
    },
    "name": "Inferno X Erweiterungspack",
    "quellen": [
+    {
+     "datum": "2026-09-29T05:45:02Z",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sNUxWMm5vUEZ0dVU4a3BpQXJGZGVkSHFKZmNPdzF3QkI3UTRvY29neGJXZ01Zd2VEZ0psZXpwRVVPV0pvUmZUTUpEazdYd0syRTJSbW1UOXdpeE9wcjF5V2wzQTJEdFVYYWVJY081ZEJUdjEyYS00?oc=5",
+     "quelle": "インサイド",
+     "status": "vorbestellbar",
+     "titel": "『ポケカ』拡張パック「インフェルノX」「ストームエメラルダ」がポケセンオンラインで追加抽選！大半を「本人認証済みの方の当選分」として用意 11枚目の写真・画像"
+    },
     {
      "datum": "2026-09-29T05:45:02Z",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVkhyUURVN1Nic1Q3RWo0a2ZYT2tKcGNZNl93X3l1U2tIWTNIeFR0aWUxX096el9UWjlZN2xCOGN1Nlc4VlpxRXE0VEJoLXFlMVJ2S0ZNMms1UkpCRGlSUWMtUmQ0UnZzZTdDdElnOEwwb3dGUnVxNW01NW5tUDA?oc=5",
@@ -754,42 +856,6 @@
    "typ": "etb",
    "variante": "pokemon-center",
    "vorverkauf_ab": "2026-09-24"
-  },
-  {
-   "aktualisiert": "2026-09-25T11:55:05Z",
-   "erstmals": "2026-09-25T11:55:05Z",
-   "gruende": [
-    "MEGA-Pokémon, exklusiv",
-    "neue Ausgabe, viele Exklusivkeiten",
-    "nachfolgende Box mit hohem Interesse"
-   ],
-   "hype": 7,
-   "key": "hya-class-pack-mega-display-jp",
-   "kurz": "Hybrid-Box MEGA angekündigt – begehrt, knapp.",
-   "name": "HYA-Class Pack MEGA High-Class Pack",
-   "quellen": [
-    {
-     "datum": "2026-09-25T11:55:05Z",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UNFdrQ180RnN4Z0dvZUwzLUF2N0t3dmJUV1R6UVRrN09PVkVza3NZVzVRU2dGSFRVYUxqenBmY0RULUotaXpGV1Itc3U?oc=5",
-     "quelle": "SNKRDUNK",
-     "status": "angekuendigt",
-     "titel": "【ポケポケ】ハイクラスパック MEGAの配信決定！多数収録のポケモンexと関連ポケカを丸ごと紹介！【ポケカ】"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "MEGA-Pokémon, exklusiv",
-     "neue Ausgabe, viele Exklusivkeiten",
-     "nachfolgende Box mit hohem Interesse"
-    ],
-    "sterne": 3,
-    "urteil": "Interessant"
-   },
-   "set": "HYA-Class Pack MEGA",
-   "sprache": "jp",
-   "stage": "angekuendigt",
-   "typ": "display",
-   "variante": null
   },
   {
    "aktualisiert": "2026-09-24T13:55:06Z",

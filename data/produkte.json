@@ -190,7 +190,7 @@
   "vorverkauf_ab": "2026-09-24"
  },
  "30th-celebration-etb-en-pokemon-center": {
-  "aktualisiert": "2026-09-30T00:45:21Z",
+  "aktualisiert": "2026-10-01T14:00:16Z",
   "erscheint_am": "2026-10-01",
   "erstmals": "2026-09-30T00:45:21Z",
   "gemeldet": [
@@ -205,7 +205,7 @@
   "haendler": "nicht genannt",
   "hype": 9,
   "key": "30th-celebration-etb-en-pokemon-center",
-  "kurz": "Großer Vorverkauf für 30. Jubiläum-ETB, knapp und begehrt",
+  "kurz": "30. Jubiläum-Elite-Trainer-Box wurde angekündigt und ist begehrt",
   "liefertermin": "2026-11-07",
   "lieferwelle": 1,
   "markt": {
@@ -219,6 +219,13 @@
   },
   "name": "30th Celebration Elite Trainer Box",
   "quellen": [
+   {
+    "datum": "2026-10-01T14:00:16Z",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNem1mNHE1c2NRX1dSYTFHUGRIQmV5ZnlpWVV3cW0zWFllNUdLQUQwQmYzX0I5cHV6NFNnY2htb1Y5RXdkblFLMUF4Z2ozQUg4ODZycGw5dzM5MlM2dXBJWkRwNFA1Z05vV2F0X0dnVmUwbExYMEtGNGoyZVZMWFRfSGg1QQ?oc=5",
+    "quelle": "ScreenRant",
+    "status": "angekuendigt",
+    "titel": "Pokémon TCG 30th Celebration Elite Trianer Box Review"
+   },
    {
     "datum": "2026-09-15T22:39:03Z",
     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1whf9om/massive_30th_restock_tonight_dont_miss_it/",
@@ -466,19 +473,37 @@
   "vorverkauf_ab": "2026-10-01"
  },
  "hya-class-pack-mega-display-jp": {
-  "aktualisiert": "2026-09-25T11:55:05Z",
+  "aktualisiert": "2026-09-30T05:06:01Z",
+  "erscheint_am": "2026-09-30",
   "erstmals": "2026-09-25T11:55:05Z",
   "gemeldet": [],
   "gruende": [
    "MEGA-Pokémon, exklusiv",
    "neue Ausgabe, viele Exklusivkeiten",
-   "nachfolgende Box mit hohem Interesse"
+   "nachfolgende Box mit hohem Interesse",
+   "Ex-Karten sicher enthalten"
   ],
   "hype": 7,
   "key": "hya-class-pack-mega-display-jp",
-  "kurz": "Hybrid-Box MEGA angekündigt – begehrt, knapp.",
+  "kurz": "Hyclass-Mega-Box mit ex-Karten ab 30.09.2026 erschienen",
+  "markt": {
+   "ch30": null,
+   "ch7": null,
+   "hoch": 163.62,
+   "id": 463834,
+   "low": 50,
+   "name": "Infinity Zone Booster Box",
+   "trend": 163.62
+  },
   "name": "HYA-Class Pack MEGA High-Class Pack",
   "quellen": [
+   {
+    "datum": "2026-09-30T05:06:01Z",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzRGFoRjJteDRpTXNiV2lEUkx6anpfQUFWSnJxY3haT1Q1XzI1MHRtU1VIWjR3VkQ1bjY1Z2NuYll0UFhYM2I1SjZwLUI0Zk9WS0R0YWdCTmdES2l1Z0Y5UUU1X1FCZw?oc=5",
+    "quelle": "GAME Watch",
+    "status": "erschienen",
+    "titel": "「ポケポケ」1パック4枚入りでポケモンexが必ず封入される拡張パック「ハイクラスパックMEGA」が本日9月30日に登場"
+   },
    {
     "datum": "2026-09-25T11:55:05Z",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UNFdrQ180RnN4Z0dvZUwzLUF2N0t3dmJUV1R6UVRrN09PVkVza3NZVzVRU2dGSFRVYUxqenBmY0RULUotaXpGV1Itc3U?oc=5",
@@ -491,14 +516,15 @@
    "gruende": [
     "MEGA-Pokémon, exklusiv",
     "neue Ausgabe, viele Exklusivkeiten",
-    "nachfolgende Box mit hohem Interesse"
+    "nachfolgende Box mit hohem Interesse",
+    "Ex-Karten sicher enthalten"
    ],
    "sterne": 3,
    "urteil": "Interessant"
   },
   "set": "HYA-Class Pack MEGA",
   "sprache": "jp",
-  "stage": "angekuendigt",
+  "stage": "erschienen",
   "typ": "display",
   "variante": null
  },
@@ -563,11 +589,12 @@
   "gruende": [
    "Starkes Jubiläum-Set",
    "limitierte Ausgabe",
-   "begehrt bei Sammlern"
+   "begehrt bei Sammlern",
+   "Zugang über PokéCenter-Online"
   ],
   "hype": 7,
   "key": "inferno-x-display-jp",
-  "kurz": "Inferno X und Storm Emerald: Erweiterungspacks im Vorverkauf, knapp.",
+  "kurz": "Inferno X und Storm Emerald via PokéCenter-Online im Vorverkauf",
   "markt": {
    "ch30": null,
    "ch7": null,
@@ -579,6 +606,13 @@
   },
   "name": "Inferno X Erweiterungspack",
   "quellen": [
+   {
+    "datum": "2026-09-29T05:45:02Z",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sNUxWMm5vUEZ0dVU4a3BpQXJGZGVkSHFKZmNPdzF3QkI3UTRvY29neGJXZ01Zd2VEZ0psZXpwRVVPV0pvUmZUTUpEazdYd0syRTJSbW1UOXdpeE9wcjF5V2wzQTJEdFVYYWVJY081ZEJUdjEyYS00?oc=5",
+    "quelle": "インサイド",
+    "status": "vorbestellbar",
+    "titel": "『ポケカ』拡張パック「インフェルノX」「ストームエメラルダ」がポケセンオンラインで追加抽選！大半を「本人認証済みの方の当選分」として用意 11枚目の写真・画像"
+   },
    {
     "datum": "2026-09-29T05:45:02Z",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVkhyUURVN1Nic1Q3RWo0a2ZYT2tKcGNZNl93X3l1U2tIWTNIeFR0aWUxX096el9UWjlZN2xCOGN1Nlc4VlpxRXE0VEJoLXFlMVJ2S0ZNMms1UkpCRGlSUWMtUmQ0UnZzZTdDdElnOEwwb3dGUnVxNW01NW5tUDA?oc=5",
