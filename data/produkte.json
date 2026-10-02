@@ -264,7 +264,7 @@
   "vorverkauf_ab": "2026-10-02"
  },
  "30th-celebration-etb-en-pokemon-center": {
-  "aktualisiert": "2026-10-01T15:21:26Z",
+  "aktualisiert": "2026-10-02T21:01:06Z",
   "erscheint_am": "2026-10-01",
   "erstmals": "2026-09-30T00:45:21Z",
   "gemeldet": [
@@ -279,20 +279,27 @@
   "haendler": "nicht genannt",
   "hype": 9,
   "key": "30th-celebration-etb-en-pokemon-center",
-  "kurz": "30. Jubiläums-ETB wird als begehrtes Set gesehen, Vorbestellungen erwartet",
+  "kurz": "30. Jubiläum-Elite-Box wird online angekündigt und ist vorbestellbar",
   "liefertermin": "2026-11-07",
   "lieferwelle": 1,
   "markt": {
    "ch30": null,
    "ch7": null,
-   "hoch": 327.85,
+   "hoch": 343.61,
    "id": 895552,
    "low": 175,
    "name": "30th Celebration Pokémon Center Elite Trainer Box",
-   "trend": 327.85
+   "trend": 343.61
   },
   "name": "30th Celebration Elite Trainer Box",
   "quellen": [
+   {
+    "datum": "2026-10-02T21:01:06Z",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYU5ZSUVOYi15Ny1HZjRGeFZObXNNZDJSVFZOUzVVVEFVUzNLQkJIQzFmM1NDS0hKb21ZVFhkbE81ODdvQ0xLNGtlUGxNTGdfX2FGVXJPazBJWm9KTEkzV0dNenNOVlNwMmJnOWRZWG8tWmwtMmdub1QzNjlHcDlPWDFQbXZPeWtzRjlJ?oc=5",
+    "quelle": "Yahoo",
+    "status": "angekuendigt",
+    "titel": "Pokémon TCG: Here’s How to Shop the 30th Celebration Elite Trainer Box & Booster Bundle Online"
+   },
    {
     "datum": "2026-10-01T15:21:26Z",
     "link": "https://www.reddit.com/r/PokeInvesting/comments/1wv29pj/30th_celebration/",

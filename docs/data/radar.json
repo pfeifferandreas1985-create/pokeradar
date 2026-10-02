@@ -257,6 +257,93 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-10-02T21:01:06Z",
+   "erscheint_am": "2026-10-01",
+   "erstmals": "2026-09-30T00:45:21Z",
+   "gruende": [
+    "Jubiläums-Set",
+    "limitiert",
+    "hohe Nachfrage",
+    "Jubiläums-Box"
+   ],
+   "haendler": "nicht genannt",
+   "hype": 9,
+   "key": "30th-celebration-etb-en-pokemon-center",
+   "kurz": "30. Jubiläum-Elite-Box wird online angekündigt und ist vorbestellbar",
+   "liefertermin": "2026-11-07",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 343.61,
+    "id": 895552,
+    "low": 175,
+    "name": "30th Celebration Pokémon Center Elite Trainer Box",
+    "trend": 343.61
+   },
+   "name": "30th Celebration Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-10-02T21:01:06Z",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYU5ZSUVOYi15Ny1HZjRGeFZObXNNZDJSVFZOUzVVVEFVUzNLQkJIQzFmM1NDS0hKb21ZVFhkbE81ODdvQ0xLNGtlUGxNTGdfX2FGVXJPazBJWm9KTEkzV0dNenNOVlNwMmJnOWRZWG8tWmwtMmdub1QzNjlHcDlPWDFQbXZPeWtzRjlJ?oc=5",
+     "quelle": "Yahoo",
+     "status": "angekuendigt",
+     "titel": "Pokémon TCG: Here’s How to Shop the 30th Celebration Elite Trainer Box & Booster Bundle Online"
+    },
+    {
+     "datum": "2026-10-01T15:21:26Z",
+     "link": "https://www.reddit.com/r/PokeInvesting/comments/1wv29pj/30th_celebration/",
+     "quelle": "Reddit",
+     "status": "angekuendigt",
+     "titel": "30th celebration"
+    },
+    {
+     "datum": "2026-10-01T14:00:16Z",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNem1mNHE1c2NRX1dSYTFHUGRIQmV5ZnlpWVV3cW0zWFllNUdLQUQwQmYzX0I5cHV6NFNnY2htb1Y5RXdkblFLMUF4Z2ozQUg4ODZycGw5dzM5MlM2dXBJWkRwNFA1Z05vV2F0X0dnVmUwbExYMEtGNGoyZVZMWFRfSGg1QQ?oc=5",
+     "quelle": "ScreenRant",
+     "status": "angekuendigt",
+     "titel": "Pokémon TCG 30th Celebration Elite Trianer Box Review"
+    },
+    {
+     "datum": "2026-09-15T22:39:03Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1whf9om/massive_30th_restock_tonight_dont_miss_it/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "MASSIVE 30TH RESTOCK TONIGHT , DONT MISS IT"
+    },
+    {
+     "datum": "2026-09-22T20:41:23Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wnlcnz/target_drop_tonight_30th_midnight_pdt_3_am_est/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "Target Drop tonight 30th! Midnight PDT , 3 Am EST"
+    },
+    {
+     "datum": "2026-09-30T00:45:21Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wtr6gl/pokemon_center_drop_likely_tomorrow/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "POKEMON CENTER DROP LIKELY TOMORROW!"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Jubiläums-Set",
+     "limitiert",
+     "hohe Nachfrage"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Celebration",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
+   "vorverkauf_ab": "2026-09-15"
+  },
+  {
    "aktualisiert": "2026-10-02T18:00:00Z",
    "erscheint_am": "2026-12-15",
    "erstmals": "2026-10-02T18:00:00Z",
@@ -487,86 +574,6 @@
    "typ": "etb",
    "variante": null,
    "vorverkauf_ab": "2026-10-02"
-  },
-  {
-   "aktualisiert": "2026-10-01T15:21:26Z",
-   "erscheint_am": "2026-10-01",
-   "erstmals": "2026-09-30T00:45:21Z",
-   "gruende": [
-    "Jubiläums-Set",
-    "limitiert",
-    "hohe Nachfrage",
-    "Jubiläums-Box"
-   ],
-   "haendler": "nicht genannt",
-   "hype": 9,
-   "key": "30th-celebration-etb-en-pokemon-center",
-   "kurz": "30. Jubiläums-ETB wird als begehrtes Set gesehen, Vorbestellungen erwartet",
-   "liefertermin": "2026-11-07",
-   "lieferwelle": 1,
-   "markt": {
-    "ch30": null,
-    "ch7": null,
-    "hoch": 327.85,
-    "id": 895552,
-    "low": 175,
-    "name": "30th Celebration Pokémon Center Elite Trainer Box",
-    "trend": 327.85
-   },
-   "name": "30th Celebration Elite Trainer Box",
-   "quellen": [
-    {
-     "datum": "2026-10-01T15:21:26Z",
-     "link": "https://www.reddit.com/r/PokeInvesting/comments/1wv29pj/30th_celebration/",
-     "quelle": "Reddit",
-     "status": "angekuendigt",
-     "titel": "30th celebration"
-    },
-    {
-     "datum": "2026-10-01T14:00:16Z",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNem1mNHE1c2NRX1dSYTFHUGRIQmV5ZnlpWVV3cW0zWFllNUdLQUQwQmYzX0I5cHV6NFNnY2htb1Y5RXdkblFLMUF4Z2ozQUg4ODZycGw5dzM5MlM2dXBJWkRwNFA1Z05vV2F0X0dnVmUwbExYMEtGNGoyZVZMWFRfSGg1QQ?oc=5",
-     "quelle": "ScreenRant",
-     "status": "angekuendigt",
-     "titel": "Pokémon TCG 30th Celebration Elite Trianer Box Review"
-    },
-    {
-     "datum": "2026-09-15T22:39:03Z",
-     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1whf9om/massive_30th_restock_tonight_dont_miss_it/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "MASSIVE 30TH RESTOCK TONIGHT , DONT MISS IT"
-    },
-    {
-     "datum": "2026-09-22T20:41:23Z",
-     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wnlcnz/target_drop_tonight_30th_midnight_pdt_3_am_est/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "Target Drop tonight 30th! Midnight PDT , 3 Am EST"
-    },
-    {
-     "datum": "2026-09-30T00:45:21Z",
-     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wtr6gl/pokemon_center_drop_likely_tomorrow/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "POKEMON CENTER DROP LIKELY TOMORROW!"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
-     "Jubiläums-Set",
-     "limitiert",
-     "hohe Nachfrage"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "30th Celebration",
-   "sprache": "en",
-   "stage": "vorbestellbar",
-   "typ": "etb",
-   "variante": "pokemon-center",
-   "vorverkauf_ab": "2026-09-15"
   },
   {
    "aktualisiert": "2026-09-30T16:01:29Z",
