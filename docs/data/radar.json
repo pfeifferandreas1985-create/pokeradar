@@ -225,7 +225,57 @@
  ],
  "produkte": [
   {
-   "aktualisiert": "2026-10-01T14:00:16Z",
+   "aktualisiert": "2026-10-02T00:20:50Z",
+   "erstmals": "2026-10-02T00:20:50Z",
+   "gruende": [
+    "Jubiläum-Set, limitiert",
+    "Vorverkauf heute",
+    "Target-Verkauf"
+   ],
+   "haendler": "Target",
+   "hype": 9,
+   "key": "30th-celebration-etb-en",
+   "kurz": "30. Jubiläum-ETB vorbestellbar – heute Start, knapp",
+   "liefertermin": "2026-11-15",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 135.27,
+    "id": 895551,
+    "low": 85,
+    "name": "30th Celebration Elite Trainer Box",
+    "trend": 135.27
+   },
+   "name": "30th Celebration Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-10-02T00:20:50Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wvfo9b/target_drop_tonight_midnight_pst_3am_edt/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "Target Drop tonight Midnight PST 3am EDT"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Jubiläum-Set, limitiert",
+     "Vorverkauf heute",
+     "Target-Verkauf"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Celebration",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": null,
+   "vorverkauf_ab": "2026-10-02"
+  },
+  {
+   "aktualisiert": "2026-10-01T15:21:26Z",
    "erscheint_am": "2026-10-01",
    "erstmals": "2026-09-30T00:45:21Z",
    "gruende": [
@@ -237,7 +287,7 @@
    "haendler": "nicht genannt",
    "hype": 9,
    "key": "30th-celebration-etb-en-pokemon-center",
-   "kurz": "30. Jubiläum-Elite-Trainer-Box wurde angekündigt und ist begehrt",
+   "kurz": "30. Jubiläums-ETB wird als begehrtes Set gesehen, Vorbestellungen erwartet",
    "liefertermin": "2026-11-07",
    "lieferwelle": 1,
    "markt": {
@@ -251,6 +301,13 @@
    },
    "name": "30th Celebration Elite Trainer Box",
    "quellen": [
+    {
+     "datum": "2026-10-01T15:21:26Z",
+     "link": "https://www.reddit.com/r/PokeInvesting/comments/1wv29pj/30th_celebration/",
+     "quelle": "Reddit",
+     "status": "angekuendigt",
+     "titel": "30th celebration"
+    },
     {
      "datum": "2026-10-01T14:00:16Z",
      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNem1mNHE1c2NRX1dSYTFHUGRIQmV5ZnlpWVV3cW0zWFllNUdLQUQwQmYzX0I5cHV6NFNnY2htb1Y5RXdkblFLMUF4Z2ozQUg4ODZycGw5dzM5MlM2dXBJWkRwNFA1Z05vV2F0X0dnVmUwbExYMEtGNGoyZVZMWFRfSGg1QQ?oc=5",
