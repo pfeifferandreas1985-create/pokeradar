@@ -65,7 +65,7 @@
   "haendler": "GEON",
   "hype": 9,
   "key": "30th-celebration-display-jp",
-  "kurz": "30. Jubiläum-Box wird über Ziehung vergeben, knapp und exklusiv",
+  "kurz": "30. Jubiläum-Box wird im PokéCenter-Online-System zusätzlich gezogen.",
   "markt": {
    "ch30": null,
    "ch7": null,
@@ -77,6 +77,13 @@
   },
   "name": "30th CELEBRATION Erweiterungspack",
   "quellen": [
+   {
+    "datum": "2026-09-29T06:35:02Z",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TUFUwOFBzc2d2MklQSzI0Y20waDdpc1k4LVUweFA1QXZ2M3k4aXIwbGdPa2x2TC10M04tcWVpaFlHLTVIS1ZFT2l1VnBTZTB3NUM1T1ZkeS1rdmhxUjJOanNQQVdodHJRVGJEOEZ5dnN6dzBTelpz?oc=5",
+    "quelle": "インサイド",
+    "status": "vorbestellbar",
+    "titel": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象 2枚目の写真・画像"
+   },
    {
     "datum": "2026-09-28T10:45:03Z",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjA2YUxZUHJITDE1YXNNS2pfNFhzaEswVlB5MzgybHIzeUN2OXFOS2YyWHd2a3piT19WODhhTEtBQkRNUkMxdWd2czFLd2NTZXd6RTZjRHBoWlF1WXV1bFc4bUtOZW5IZTB2bzR1eEMyLXNScDl6VFNWT2g1aDhvSVpONA?oc=5",
@@ -712,6 +719,54 @@
   "variante": null,
   "vorverkauf_ab": "2026-10-01"
  },
+ "jubilaeum-box-etb-de": {
+  "aktualisiert": "2026-10-02T11:35:00Z",
+  "erstmals": "2026-10-02T11:35:00Z",
+  "gemeldet": [
+   "neu"
+  ],
+  "gruende": [
+   "Jubiläum",
+   "mehr als Booster",
+   "begehrt"
+  ],
+  "hype": 9,
+  "key": "jubilaeum-box-etb-de",
+  "kurz": "Jubiläumsbox enthält mehr als Booster – begehrt und knapp",
+  "markt": {
+   "ch30": null,
+   "ch7": null,
+   "hoch": 993.88,
+   "id": 286942,
+   "low": 1049.98,
+   "name": "BREAKthrough Elite Trainer Box (Mega Mewtwo X)",
+   "trend": 993.88
+  },
+  "name": "Jubilaeum Box Pokémon-Jubiläumsbox",
+  "quellen": [
+   {
+    "datum": "2026-10-02T11:35:00Z",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeWhqdXQ4aGhZb1J6dkVrRWhOdnl0Q2s1YmN2WVNUMmk2ZjBHcVRwN2xZQ2J3UUpMZzNjNTdwSG5jS2s1aF9PU2V4eHRJZXY4Y1F3QWU1YjJhTnBTa3pPOFZ2blZRVVlSSTlLa0toTWhqRTE3WnA5TUJtS3pSaHZ2V25remFzUHRzcktyXzNqQ0pTNmxqUFkzTTJxaVZDQktGTHBJSVNPa0djNFJ6b1hDUTJpbVRtQnJaZG1HZ0hhTWd5NjNJX0hybkRnejgwOHZhYXlFTXNJbUJXLWtNUldxZi0tRDhuNUczR3c?oc=5",
+    "quelle": "CHIP",
+    "status": "angekuendigt",
+    "titel": "Was steckt in der Pokémon-Jubiläumsbox? Sammler bekommen mehr als Booster"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Jubiläum",
+    "mehr als Booster",
+    "begehrt"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "Jubilaeum Box",
+  "sprache": "de",
+  "stage": "angekuendigt",
+  "typ": "etb",
+  "variante": null
+ },
  "new-edition-build-box-set-display-jp-18er": {
   "aktualisiert": "2026-09-29T21:46:11Z",
   "erstmals": "2026-09-29T21:46:11Z",
@@ -824,5 +879,94 @@
   "typ": "etb",
   "variante": null,
   "vorverkauf_ab": "2026-09-19"
+ },
+ "prismatic-evolution-etb-de": {
+  "aktualisiert": "2026-10-02T12:15:50Z",
+  "erstmals": "2026-10-02T12:15:50Z",
+  "gemeldet": [],
+  "gruende": [
+   "Ausverkauft",
+   "kein Vorverkauf",
+   "nur Verkaufsergebnis"
+  ],
+  "haendler": "Netto",
+  "hype": 5,
+  "key": "prismatic-evolution-etb-de",
+  "kurz": "Elite-Trainer-Box 'Prismatische Entwicklung' ausverkauft bei Netto",
+  "markt": {
+   "ch30": null,
+   "ch7": null,
+   "hoch": 993.88,
+   "id": 286942,
+   "low": 1049.98,
+   "name": "BREAKthrough Elite Trainer Box (Mega Mewtwo X)",
+   "trend": 993.88
+  },
+  "name": "Prismatic Evolution Elite-Trainer-Box",
+  "quellen": [
+   {
+    "datum": "2026-10-02T12:15:50Z",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUHctUjRGUm9Qd19aY0F0THFTR1JVRVRwMGlaTGhYLW4tWVFON0lERWNwZktDVzYzTkVrTmdUbzJGVHBFX2VhVmZFWXF5RUVBNHp0NFlxQWdJWmFOSmZuZFJJZ3J4Y2lQQk9QZURiOEZUTHludUh4WG45Qk9HUEZBbU56SEdFLTl4d1ZRdzBBTTVHM1hMN0ZHNUU2QklYUC1lcHo3aHF5N0pVZG1QUFN0LV9WZTJNb2toYUpQbjRES0hDQ3M?oc=5",
+    "quelle": "giga.de",
+    "status": "ausverkauft",
+    "titel": "Pokémon-Karten: Netto verkauft „Prismatische Entwicklung“ Elite-Trainer-Box"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Ausverkauft",
+    "kein Vorverkauf",
+    "nur Verkaufsergebnis"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "set": "Prismatic Evolution",
+  "sprache": "de",
+  "stage": "ausverkauft",
+  "typ": "etb",
+  "variante": null
+ },
+ "scarletex-violetex-special-set-etb-jp-pokemon-center": {
+  "aktualisiert": "2026-10-02T06:59:01Z",
+  "erscheint_am": "2026-12-20",
+  "erstmals": "2026-10-02T06:59:01Z",
+  "gemeldet": [],
+  "gruende": [
+   "Special-Set, exklusiv für Pokémon-Center",
+   "30. Jubiläum, große Nachfrage",
+   "limitierte Auflage"
+  ],
+  "hype": 9,
+  "key": "scarletex-violetex-special-set-etb-jp-pokemon-center",
+  "kurz": "Pokémon-Center-Spezialbox mit Jubiläum-Exklusivität wird ab 1.10.26 vorbestellt.",
+  "liefertermin": "2026-12-20",
+  "lieferwelle": 1,
+  "name": "Scarletex & Violetex Special Set Elite Trainer Box",
+  "quellen": [
+   {
+    "datum": "2026-10-02T06:59:01Z",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Tb01LTGZuNEdySDZpR2FsQUlkWjdtVGlfcnFKRXptMm5LZEtpV2JPcFRtcHlid2dyZmRsZDNFMVhDaFc3OTM5Z1VzZ3c?oc=5",
+    "quelle": "SNKRDUNK",
+    "status": "vorbestellbar",
+    "titel": "【ポケカ】「スカーレットex＆バイオレットex スペシャルセット」の収録アイテムリスト/予約/抽選/定価/販売店舗まとめ【1/20発売】"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Special-Set, exklusiv für Pokémon-Center",
+    "30. Jubiläum, große Nachfrage",
+    "limitierte Auflage"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "Scarletex & Violetex Special Set",
+  "sprache": "jp",
+  "stage": "vorbestellbar",
+  "typ": "etb",
+  "variante": "pokemon-center",
+  "vorverkauf_ab": "2026-10-01"
  }
 }

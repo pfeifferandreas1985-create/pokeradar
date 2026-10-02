@@ -1,5 +1,37 @@
 [
  {
+  "datum": "2026-10-02T03:12:54Z",
+  "id": "6c5481b2c3891e94",
+  "kurz": "Preissteigerung bei Black Flame Dominator-Booster-Box auf dem Markt.",
+  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwMmt0SzZ4UmVXRFg0WHVFUkVobTN4dEw2SEQ5d1hFcTMzeUdUblNpR0M3bnBwTmYzYmJ6aVZWUkZ3bWtLTVk5TlRHRHQ?oc=5",
+  "markt": null,
+  "quelle": "SNKRDUNK",
+  "sprache": "jp",
+  "titel": "【ポケカ】黒炎の支配者の当たりカードランキング/相場推移情報/買取価格/再販/予約抽選まとめ | スニーカーダンク",
+  "trend": "steigt",
+  "typ": "display"
+ },
+ {
+  "datum": "2026-10-02T09:34:35Z",
+  "id": "37f96d594d26f48d",
+  "kurz": "30. Jubiläums-ETB nähert sich Marktwert – begehrt und knapp",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzNnN1hYV0JUa1o1Sk9INzRidURaSzhZdWcyM2xlblR0bTRmQ29QZVlqUy1ZM2E3S2RCVmQ4b0d4RmVFTDZEcS1BcTJmMXcxMV9WR3I5bFNXdUJpOEZma25lNERLdkJoX3BhX1FOUTZDYkg2NzhQYzB2S0dnbU9nb3J4VW5HVEZtSE1R?oc=5",
+  "markt": {
+   "ch30": null,
+   "ch7": null,
+   "hoch": 135.27,
+   "id": 895551,
+   "low": 85,
+   "name": "30th Celebration Elite Trainer Box",
+   "trend": 135.27
+  },
+  "quelle": "Mashable",
+  "sprache": "en",
+  "titel": "Best Pokémon TCG deal: 30th Celebration Elite Trainer Box is close to market value",
+  "trend": "steigt",
+  "typ": "etb"
+ },
+ {
   "datum": "2026-10-01T08:17:35Z",
   "id": "0b72e99f0c504a5e",
   "kurz": "Futuristic Box des 30. Jubiläums wird auf dem Markt begehrt",
