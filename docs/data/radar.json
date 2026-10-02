@@ -257,6 +257,56 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-10-02T18:00:00Z",
+   "erscheint_am": "2026-12-15",
+   "erstmals": "2026-10-02T18:00:00Z",
+   "gruende": [
+    "Endgültiges Set, knapp, große Nachfrage",
+    "Final-Set, exklusiv, Vorbestellwelle",
+    "Vorbestellungen ausverkauft"
+   ],
+   "hype": 9,
+   "key": "final-2026-set-etb-en",
+   "kurz": "Endgültiges 2026-Set: Vorbestellungen chaotisch, hoher Hype",
+   "liefertermin": "2026-12-15",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 993.88,
+    "id": 286942,
+    "low": 1049.98,
+    "name": "BREAKthrough Elite Trainer Box (Mega Mewtwo X)",
+    "trend": 993.88
+   },
+   "name": "Final 2026 Set Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-10-02T18:00:00Z",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ldGM0SDZuYzhTcm8xdVJ3Y2hYZ21WTVhRbjd1aUtwZXcyTjdwWWtIb29WZERHbzRmbWZnTV8yMWx1cjhKS21GS3RmNWl3dDNBT2hTbUxuZ2ZULThPSmlWV25RWG5zRndPNGpxMWVkZnd2SEk?oc=5",
+     "quelle": "ign.com",
+     "status": "vorbestellbar",
+     "titel": "Pokémon TCG’s Final 2026 Set Is Already Causing Even More Preorder Chaos"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Endgültiges Set, knapp, große Nachfrage",
+     "Final-Set, exklusiv, Vorbestellwelle",
+     "Vorbestellungen ausverkauft"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Final 2026 Set",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": null,
+   "vorverkauf_ab": "2026-09-28"
+  },
+  {
    "aktualisiert": "2026-10-02T12:15:50Z",
    "erstmals": "2026-10-02T12:15:50Z",
    "gruende": [
