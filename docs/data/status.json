@@ -1,9 +1,9 @@
 {
  "alarme": 1,
  "ki": true,
- "lauf": "2026-10-02T14:17:03Z",
- "markt_stand": "2026-09-30",
- "markt_tage": 1,
+ "lauf": "2026-10-02T14:56:47Z",
+ "markt_stand": "2026-10-02",
+ "markt_tage": 2,
  "modell": "Qwen lokal · qwen3-4b-instruct",
  "neu": 10,
  "quellen": {
