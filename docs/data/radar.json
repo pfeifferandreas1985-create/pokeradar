@@ -257,6 +257,193 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-10-03T10:45:00Z",
+   "erstmals": "2026-10-03T10:45:00Z",
+   "gruende": [
+    "Jubiläums-Set, exklusiv, limitiert",
+    "mehr als Booster, besonderer Inhalt",
+    "Sammlerbegehrt, hohe Nachfrage"
+   ],
+   "hype": 9,
+   "key": "30th-anniversary-etb-de",
+   "kurz": "Jubiläumsbox enthält mehr als Booster, begehrt von Sammlern.",
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 993.88,
+    "id": 286942,
+    "low": 1049.98,
+    "name": "BREAKthrough Elite Trainer Box (Mega Mewtwo X)",
+    "trend": 993.88
+   },
+   "name": "30th Anniversary Pokémon-Jubiläumsbox",
+   "quellen": [
+    {
+     "datum": "2026-10-03T10:45:00Z",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMkowSU1QYlN6NHdzbFRBeVktOGhPbXI0eWV0YnZnTmZ0WUVabUpTOUE5Yl9scjZrV3FPb1RXVDItUUVoTnRBa1cwaGMzRFgzSlZZeFRtWFd3S0F2NjhzU0VFVjlRUVpqRDJwb0EyV0ZIc0hENXdGNUU2eU8yNzNCOHc0RUlzN1dyTjB4RGxFb2ZTajFhdjlqZXdoZWpvSXdhMFRZVzBWSGRLVFVJcHpCclRiUGpWTnJyTE52cmdPcGhXSG1jZ1N5RFpsZnNVQUNHMTE4Y3dVLXo3NkI4c19XelNfT3VGdw?oc=5",
+     "quelle": "CHIP",
+     "status": "angekuendigt",
+     "titel": "Was steckt in der Pokémon-Jubiläumsbox? Sammler bekommen mehr als Booster"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Jubiläums-Set, exklusiv, limitiert",
+     "mehr als Booster, besonderer Inhalt",
+     "Sammlerbegehrt, hohe Nachfrage"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Anniversary",
+   "sprache": "de",
+   "stage": "angekuendigt",
+   "typ": "etb",
+   "variante": null
+  },
+  {
+   "aktualisiert": "2026-10-03T01:29:16Z",
+   "erstmals": "2026-10-03T01:29:16Z",
+   "gruende": [
+    "PKC-Etb, exklusiv",
+    "hohe Nachfrage, Ripping diskutiert",
+    "begehrt bei Sammlern"
+   ],
+   "hype": 8,
+   "key": "po-pkc-etb-etb-en-pokemon-center",
+   "kurz": "PO PKC Etb vorbestellbar, hohe Nachfrage, Ripping diskutiert.",
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 215.58,
+    "id": 567355,
+    "low": 319,
+    "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
+    "trend": 215.58
+   },
+   "name": "PO PKC Etb Elite Trainer Box",
+   "preis_eur": 138.08,
+   "quellen": [
+    {
+     "datum": "2026-10-03T01:29:16Z",
+     "link": "https://www.reddit.com/r/PokeInvesting/comments/1wwat2w/worth_the_rip/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "Worth the rip?"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "PKC-Etb, exklusiv",
+     "hohe Nachfrage, Ripping diskutiert",
+     "begehrt bei Sammlern"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "PO PKC Etb",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
+   "vorverkauf_ab": "2026-10-03"
+  },
+  {
+   "aktualisiert": "2026-10-03T00:41:37Z",
+   "erscheint_am": "2026-10-01",
+   "erstmals": "2026-09-30T00:45:21Z",
+   "gruende": [
+    "Jubiläums-Set",
+    "limitiert",
+    "hohe Nachfrage",
+    "Jubiläums-Box"
+   ],
+   "haendler": "nicht genannt",
+   "hype": 10,
+   "key": "30th-celebration-etb-en-pokemon-center",
+   "kurz": "30. Jubiläum-ETB vorbestellbar – begehrt und knapp",
+   "liefertermin": "2026-11-07",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 215.58,
+    "id": 567355,
+    "low": 319,
+    "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
+    "trend": 215.58
+   },
+   "name": "30th Celebration Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-10-03T00:41:37Z",
+     "link": "https://www.reddit.com/r/PokeInvesting/comments/1ww9wap/30th_anniversary_pokemon_centre_etbs/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "30th anniversary Pokemon centre ETBs"
+    },
+    {
+     "datum": "2026-10-02T21:01:06Z",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYU5ZSUVOYi15Ny1HZjRGeFZObXNNZDJSVFZOUzVVVEFVUzNLQkJIQzFmM1NDS0hKb21ZVFhkbE81ODdvQ0xLNGtlUGxNTGdfX2FGVXJPazBJWm9KTEkzV0dNenNOVlNwMmJnOWRZWG8tWmwtMmdub1QzNjlHcDlPWDFQbXZPeWtzRjlJ?oc=5",
+     "quelle": "Yahoo",
+     "status": "angekuendigt",
+     "titel": "Pokémon TCG: Here’s How to Shop the 30th Celebration Elite Trainer Box & Booster Bundle Online"
+    },
+    {
+     "datum": "2026-10-01T15:21:26Z",
+     "link": "https://www.reddit.com/r/PokeInvesting/comments/1wv29pj/30th_celebration/",
+     "quelle": "Reddit",
+     "status": "angekuendigt",
+     "titel": "30th celebration"
+    },
+    {
+     "datum": "2026-10-01T14:00:16Z",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNem1mNHE1c2NRX1dSYTFHUGRIQmV5ZnlpWVV3cW0zWFllNUdLQUQwQmYzX0I5cHV6NFNnY2htb1Y5RXdkblFLMUF4Z2ozQUg4ODZycGw5dzM5MlM2dXBJWkRwNFA1Z05vV2F0X0dnVmUwbExYMEtGNGoyZVZMWFRfSGg1QQ?oc=5",
+     "quelle": "ScreenRant",
+     "status": "angekuendigt",
+     "titel": "Pokémon TCG 30th Celebration Elite Trianer Box Review"
+    },
+    {
+     "datum": "2026-09-15T22:39:03Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1whf9om/massive_30th_restock_tonight_dont_miss_it/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "MASSIVE 30TH RESTOCK TONIGHT , DONT MISS IT"
+    },
+    {
+     "datum": "2026-09-22T20:41:23Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wnlcnz/target_drop_tonight_30th_midnight_pdt_3_am_est/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "Target Drop tonight 30th! Midnight PDT , 3 Am EST"
+    },
+    {
+     "datum": "2026-09-30T00:45:21Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wtr6gl/pokemon_center_drop_likely_tomorrow/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "POKEMON CENTER DROP LIKELY TOMORROW!"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Jubiläums-Set",
+     "limitiert",
+     "hohe Nachfrage"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Celebration",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
+   "vorverkauf_ab": "2026-10-03"
+  },
+  {
    "aktualisiert": "2026-10-02T21:01:32Z",
    "erscheint_am": "2026-11-01",
    "erstmals": "2026-09-28T07:00:00Z",
@@ -321,93 +508,6 @@
    "typ": "etb",
    "variante": "pokemon-center",
    "vorverkauf_ab": "2026-10-03"
-  },
-  {
-   "aktualisiert": "2026-10-02T21:01:06Z",
-   "erscheint_am": "2026-10-01",
-   "erstmals": "2026-09-30T00:45:21Z",
-   "gruende": [
-    "Jubiläums-Set",
-    "limitiert",
-    "hohe Nachfrage",
-    "Jubiläums-Box"
-   ],
-   "haendler": "nicht genannt",
-   "hype": 9,
-   "key": "30th-celebration-etb-en-pokemon-center",
-   "kurz": "30. Jubiläum-Elite-Box wird online angekündigt und ist vorbestellbar",
-   "liefertermin": "2026-11-07",
-   "lieferwelle": 1,
-   "markt": {
-    "ch30": null,
-    "ch7": null,
-    "hoch": 343.61,
-    "id": 895552,
-    "low": 175,
-    "name": "30th Celebration Pokémon Center Elite Trainer Box",
-    "trend": 343.61
-   },
-   "name": "30th Celebration Elite Trainer Box",
-   "quellen": [
-    {
-     "datum": "2026-10-02T21:01:06Z",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYU5ZSUVOYi15Ny1HZjRGeFZObXNNZDJSVFZOUzVVVEFVUzNLQkJIQzFmM1NDS0hKb21ZVFhkbE81ODdvQ0xLNGtlUGxNTGdfX2FGVXJPazBJWm9KTEkzV0dNenNOVlNwMmJnOWRZWG8tWmwtMmdub1QzNjlHcDlPWDFQbXZPeWtzRjlJ?oc=5",
-     "quelle": "Yahoo",
-     "status": "angekuendigt",
-     "titel": "Pokémon TCG: Here’s How to Shop the 30th Celebration Elite Trainer Box & Booster Bundle Online"
-    },
-    {
-     "datum": "2026-10-01T15:21:26Z",
-     "link": "https://www.reddit.com/r/PokeInvesting/comments/1wv29pj/30th_celebration/",
-     "quelle": "Reddit",
-     "status": "angekuendigt",
-     "titel": "30th celebration"
-    },
-    {
-     "datum": "2026-10-01T14:00:16Z",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNem1mNHE1c2NRX1dSYTFHUGRIQmV5ZnlpWVV3cW0zWFllNUdLQUQwQmYzX0I5cHV6NFNnY2htb1Y5RXdkblFLMUF4Z2ozQUg4ODZycGw5dzM5MlM2dXBJWkRwNFA1Z05vV2F0X0dnVmUwbExYMEtGNGoyZVZMWFRfSGg1QQ?oc=5",
-     "quelle": "ScreenRant",
-     "status": "angekuendigt",
-     "titel": "Pokémon TCG 30th Celebration Elite Trianer Box Review"
-    },
-    {
-     "datum": "2026-09-15T22:39:03Z",
-     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1whf9om/massive_30th_restock_tonight_dont_miss_it/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "MASSIVE 30TH RESTOCK TONIGHT , DONT MISS IT"
-    },
-    {
-     "datum": "2026-09-22T20:41:23Z",
-     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wnlcnz/target_drop_tonight_30th_midnight_pdt_3_am_est/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "Target Drop tonight 30th! Midnight PDT , 3 Am EST"
-    },
-    {
-     "datum": "2026-09-30T00:45:21Z",
-     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wtr6gl/pokemon_center_drop_likely_tomorrow/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "POKEMON CENTER DROP LIKELY TOMORROW!"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
-     "Jubiläums-Set",
-     "limitiert",
-     "hohe Nachfrage"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "30th Celebration",
-   "sprache": "en",
-   "stage": "vorbestellbar",
-   "typ": "etb",
-   "variante": "pokemon-center",
-   "vorverkauf_ab": "2026-09-15"
   },
   {
    "aktualisiert": "2026-10-02T18:00:00Z",
@@ -1163,6 +1263,53 @@
    "typ": "etb",
    "variante": null,
    "vorverkauf_ab": "2026-09-19"
+  },
+  {
+   "aktualisiert": "2026-09-28T10:45:03Z",
+   "erstmals": "2026-09-28T10:45:03Z",
+   "gruende": [
+    "30. Jubiläum",
+    "1BOX-Only",
+    "Ziehungsverkauf"
+   ],
+   "hype": 9,
+   "key": "30th-celebration-display-jp-18er",
+   "kurz": "Jubiläums-Display-Box im Japan-Verkauf – knapp und begehrt",
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 139.04,
+    "id": 891464,
+    "low": 109.9,
+    "name": "30th Celebration JP Booster Box",
+    "trend": 133.57
+   },
+   "name": "30th CELEBRATION Booster-Box",
+   "quellen": [
+    {
+     "datum": "2026-09-28T10:45:03Z",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zSC12dXN0ZURrNDdoT3VKc0RqUUYyN2VEaUhfVFg3dmFualRuYXVlTEZBZUNkOTNuLVl5ZWo1cWt2OGRMbHpqTUFEbzJGZDI0Q3poR2I5T1FCVXNvUEJYTlJVenZIUWZNOXg0MWpSM19xcEZQSlU3ZGZn?oc=5",
+     "quelle": "インサイド",
+     "status": "vorbestellbar",
+     "titel": "ゲオで『ポケカ』30周年記念拡張パック「30th CELEBRATION」が抽選販売中！1BOX限定でパック単位は受付不可 1枚目の写真・画像"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "30. Jubiläum",
+     "1BOX-Only",
+     "Ziehungsverkauf"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th CELEBRATION",
+   "sprache": "jp",
+   "stage": "vorbestellbar",
+   "typ": "display",
+   "variante": "18er",
+   "vorverkauf_ab": "2026-09-28"
   },
   {
    "aktualisiert": "2026-09-24T13:55:06Z",
