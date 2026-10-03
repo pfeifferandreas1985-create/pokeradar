@@ -257,6 +257,72 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-10-02T21:01:32Z",
+   "erscheint_am": "2026-11-01",
+   "erstmals": "2026-09-28T07:00:00Z",
+   "gruende": [
+    "Jubiläums-Set, 30 Jahre Pokémon",
+    "nur per Einladung verfügbare Vorbestellung",
+    "knapp und exklusiv",
+    "Jubiläum-Box"
+   ],
+   "haendler": "Pokémon TCG Official",
+   "hype": 10,
+   "key": "30th-celebration-etb-de-pokemon-center",
+   "kurz": "30. Jubiläum-Elite-Box vorbestellbar, knapp und begehrt",
+   "liefertermin": "2026-11-07",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 343.61,
+    "id": 895552,
+    "low": 175,
+    "name": "30th Celebration Pokémon Center Elite Trainer Box",
+    "trend": 343.61
+   },
+   "name": "30th Celebration Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-10-02T21:01:32Z",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODBSVGNXZHRTRVBMZFV3M1paQmtzdFZtdUNzeGI4Z2x2Q3Fsbm9BS1ZINGJHOEI3LVpEYU1kQXNWWm82QlV1Z1ItclhtZFZpOVNfOXdZbVlLZVRXQjlGRnFFU1FNN2F3akhKcjJTdmhQSXpBb2tEY3dYZlBFVXgtQ3lDMEVGeXpBam9mZXF5ZlFucWsteUg0SmRHUm9WUnBnOE5FaVRGOHpBcmFSVjN3M0JuTlRUX2YybHFqdF9pTFlDYW1wa3V4bg?oc=5",
+     "quelle": "Billboard",
+     "status": "vorbestellbar",
+     "titel": "Pokémon TCG: Here's How to Shop the 30th Celebration Elite Trainer Box & Booster Bundle Online"
+    },
+    {
+     "datum": "2026-09-24T14:12:20Z",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOHdjUnphX2lyeW5pNThwQTV3OEJCZ3FRTmlJZGMxMmpuV0xZRF9nTG15V2FWUEgwdGd2QkNKR2VTNzZmdU9NTkh5aWNNSFdJT0tMY1luRGpBYlp6MkJfZHZTUGVGNVZyaDctTGYtNFA2STZrWEhFRTBCUmxFV05YNnhJd2pYTGNXMUNFdEkzVFg3ZzVLSHQ4RjRMRUhDUU1xUjdjZVBET21ZZFV4WC1TVHpYRlJwV0d0M3RQQTJmX2xnS2FtcC1oaGlJZ3NSdU5jUXJJ?oc=5",
+     "quelle": "T-Online",
+     "status": "vorbestellbar",
+     "titel": "Pokémon wird 30 – Amazon lässt die Jubiläums-Box nur per Einladung in den Warenkorb"
+    },
+    {
+     "datum": "2026-09-28T07:00:00Z",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMkZwMXM0b01UWUhyeEo3T0doYl9ESzdfbjZ1WmY0c0RKN0NGb05CSVRrWVhUQ1FZWm45ZXIxeGQyT0FFV2VyeUFPcDQ5dnB5WjVVbkZLQWthWkxBSDNYWnFURFNuT3ktaU00SzI4VWxIem1FbEl5YU92QUozUTFjUUNJZ2pFSDRuRUNvczhONlljN3ZBUVdBM2EwYzYtbE5HdThrV0REamM0Ni1CTE1BSGM3ZE5PV20zQldNMURqbk9vNTlhb1p0ZDEtYkRoalJEVHBad0RFTXpDRTlf?oc=5",
+     "quelle": "T-Online",
+     "status": "vorbestellbar",
+     "titel": "Pokémon wird 30 – Amazon lässt die Jubiläums-Boxen nur per Einladung in den Warenkorb"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Jubiläums-Set, 30 Jahre Pokémon",
+     "nur per Einladung verfügbare Vorbestellung",
+     "knapp und exklusiv"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Celebration",
+   "sprache": "de",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
+   "vorverkauf_ab": "2026-10-03"
+  },
+  {
    "aktualisiert": "2026-10-02T21:01:06Z",
    "erscheint_am": "2026-10-01",
    "erstmals": "2026-09-30T00:45:21Z",
@@ -1097,64 +1163,6 @@
    "typ": "etb",
    "variante": null,
    "vorverkauf_ab": "2026-09-19"
-  },
-  {
-   "aktualisiert": "2026-09-28T07:00:00Z",
-   "erstmals": "2026-09-28T07:00:00Z",
-   "gruende": [
-    "Jubiläums-Set, 30 Jahre Pokémon",
-    "nur per Einladung verfügbare Vorbestellung",
-    "knapp und exklusiv",
-    "Jubiläum-Box"
-   ],
-   "haendler": "Amazon",
-   "hype": 10,
-   "key": "30th-celebration-etb-de-pokemon-center",
-   "kurz": "Jubiläums-Box nur per Einladung auf Amazon bestellbar, knapp und begehrt",
-   "liefertermin": "2026-11-07",
-   "lieferwelle": 1,
-   "markt": {
-    "ch30": null,
-    "ch7": null,
-    "hoch": 327.85,
-    "id": 895552,
-    "low": 175,
-    "name": "30th Celebration Pokémon Center Elite Trainer Box",
-    "trend": 327.85
-   },
-   "name": "30th Celebration Elite Trainer Box",
-   "quellen": [
-    {
-     "datum": "2026-09-24T14:12:20Z",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOHdjUnphX2lyeW5pNThwQTV3OEJCZ3FRTmlJZGMxMmpuV0xZRF9nTG15V2FWUEgwdGd2QkNKR2VTNzZmdU9NTkh5aWNNSFdJT0tMY1luRGpBYlp6MkJfZHZTUGVGNVZyaDctTGYtNFA2STZrWEhFRTBCUmxFV05YNnhJd2pYTGNXMUNFdEkzVFg3ZzVLSHQ4RjRMRUhDUU1xUjdjZVBET21ZZFV4WC1TVHpYRlJwV0d0M3RQQTJmX2xnS2FtcC1oaGlJZ3NSdU5jUXJJ?oc=5",
-     "quelle": "T-Online",
-     "status": "vorbestellbar",
-     "titel": "Pokémon wird 30 – Amazon lässt die Jubiläums-Box nur per Einladung in den Warenkorb"
-    },
-    {
-     "datum": "2026-09-28T07:00:00Z",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMkZwMXM0b01UWUhyeEo3T0doYl9ESzdfbjZ1WmY0c0RKN0NGb05CSVRrWVhUQ1FZWm45ZXIxeGQyT0FFV2VyeUFPcDQ5dnB5WjVVbkZLQWthWkxBSDNYWnFURFNuT3ktaU00SzI4VWxIem1FbEl5YU92QUozUTFjUUNJZ2pFSDRuRUNvczhONlljN3ZBUVdBM2EwYzYtbE5HdThrV0REamM0Ni1CTE1BSGM3ZE5PV20zQldNMURqbk9vNTlhb1p0ZDEtYkRoalJEVHBad0RFTXpDRTlf?oc=5",
-     "quelle": "T-Online",
-     "status": "vorbestellbar",
-     "titel": "Pokémon wird 30 – Amazon lässt die Jubiläums-Boxen nur per Einladung in den Warenkorb"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
-     "Jubiläums-Set, 30 Jahre Pokémon",
-     "nur per Einladung verfügbare Vorbestellung",
-     "knapp und exklusiv"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "30th Celebration",
-   "sprache": "de",
-   "stage": "vorbestellbar",
-   "typ": "etb",
-   "variante": "pokemon-center",
-   "vorverkauf_ab": "2026-09-24"
   },
   {
    "aktualisiert": "2026-09-24T13:55:06Z",
