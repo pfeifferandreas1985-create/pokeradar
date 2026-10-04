@@ -671,6 +671,59 @@
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-10-01"
  },
+ "destined-rivals-etb-en-pokemon-center": {
+  "aktualisiert": "2026-10-04T19:31:48Z",
+  "erscheint_am": "2026-11-10",
+  "erstmals": "2026-10-04T19:31:48Z",
+  "gemeldet": [
+   "vorbestellbar"
+  ],
+  "gruende": [
+   "Exklusiv für Pokémon Center",
+   "knapp bei Vorbestellung",
+   "hochwertige Auflage"
+  ],
+  "hype": 9,
+  "key": "destined-rivals-etb-en-pokemon-center",
+  "kurz": "DR-ETB vorbestellbar, knapp und exklusiv für Pokémon Center",
+  "liefertermin": "2026-11-10",
+  "lieferwelle": 1,
+  "markt": {
+   "ch30": null,
+   "ch7": -0.8,
+   "hoch": 617.92,
+   "id": 818586,
+   "low": 500,
+   "name": "Destined Rivals Pokémon Center Elite Trainer Box",
+   "trend": 613.18
+  },
+  "name": "Destined Rivals Elite Trainer Box",
+  "quellen": [
+   {
+    "datum": "2026-10-04T19:31:48Z",
+    "link": "https://www.reddit.com/r/PokeInvesting/comments/1wxocjb/just_started_2_weeks_ago_with_3k_rate_this/",
+    "quelle": "Reddit",
+    "status": "vorbestellbar",
+    "titel": "Just started 2 weeks ago with 3k, rate this investment please"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Exklusiv für Pokémon Center",
+    "knapp bei Vorbestellung",
+    "hochwertige Auflage"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "Destined Rivals",
+  "sprache": "en",
+  "stage": "vorbestellbar",
+  "typ": "etb",
+  "variante": "pokemon-center",
+  "vorverkauf_ab": "2026-09-15"
+ },
  "final-2026-set-etb-en": {
   "aktualisiert": "2026-10-02T18:00:00Z",
   "erscheint_am": "2026-12-15",

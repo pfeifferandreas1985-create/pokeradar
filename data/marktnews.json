@@ -1,5 +1,45 @@
 [
  {
+  "datum": "2026-10-04T13:04:03Z",
+  "id": "b851b653475a48fd",
+  "kurz": "SIR Gengar aus ETB-ASC sinkt im Preis – Nachfrage bleibt moderat",
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1wxf7jt/sell_or_hold_sir_gengar_from_asc/",
+  "markt": {
+   "ch30": null,
+   "ch7": 0.0,
+   "hoch": 993.88,
+   "id": 286942,
+   "low": 1049.98,
+   "name": "BREAKthrough Elite Trainer Box (Mega Mewtwo X)",
+   "trend": 993.88
+  },
+  "quelle": "Reddit",
+  "sprache": "en",
+  "titel": "Sell or hold? SIR Gengar from ASC",
+  "trend": "faellt",
+  "typ": "etb"
+ },
+ {
+  "datum": "2026-10-04T19:08:47Z",
+  "id": "13d33aef9100d35f",
+  "kurz": "DR-ETB auf eBay sinkt, Nachfrage fällt",
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1wxns97/destined_rivals_pc_etb_sell_now_or_hold_on/",
+  "markt": {
+   "ch30": null,
+   "ch7": -0.8,
+   "hoch": 617.92,
+   "id": 818586,
+   "low": 500,
+   "name": "Destined Rivals Pokémon Center Elite Trainer Box",
+   "trend": 613.18
+  },
+  "quelle": "Reddit",
+  "sprache": "en",
+  "titel": "Destined Rivals PC ETB. Sell now or hold on?",
+  "trend": "faellt",
+  "typ": "etb"
+ },
+ {
   "datum": "2026-10-02T09:10:19Z",
   "id": "fb375069b65aa1f3",
   "kurz": "30. Jubiläum-ETB nähert sich Marktpreis, knapp und begehrt.",

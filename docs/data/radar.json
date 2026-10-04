@@ -127,6 +127,46 @@
  },
  "marktnews": [
   {
+   "datum": "2026-10-04T13:04:03Z",
+   "id": "b851b653475a48fd",
+   "kurz": "SIR Gengar aus ETB-ASC sinkt im Preis – Nachfrage bleibt moderat",
+   "link": "https://www.reddit.com/r/PokeInvesting/comments/1wxf7jt/sell_or_hold_sir_gengar_from_asc/",
+   "markt": {
+    "ch30": null,
+    "ch7": 0.0,
+    "hoch": 993.88,
+    "id": 286942,
+    "low": 1049.98,
+    "name": "BREAKthrough Elite Trainer Box (Mega Mewtwo X)",
+    "trend": 993.88
+   },
+   "quelle": "Reddit",
+   "sprache": "en",
+   "titel": "Sell or hold? SIR Gengar from ASC",
+   "trend": "faellt",
+   "typ": "etb"
+  },
+  {
+   "datum": "2026-10-04T19:08:47Z",
+   "id": "13d33aef9100d35f",
+   "kurz": "DR-ETB auf eBay sinkt, Nachfrage fällt",
+   "link": "https://www.reddit.com/r/PokeInvesting/comments/1wxns97/destined_rivals_pc_etb_sell_now_or_hold_on/",
+   "markt": {
+    "ch30": null,
+    "ch7": -0.8,
+    "hoch": 617.92,
+    "id": 818586,
+    "low": 500,
+    "name": "Destined Rivals Pokémon Center Elite Trainer Box",
+    "trend": 613.18
+   },
+   "quelle": "Reddit",
+   "sprache": "en",
+   "titel": "Destined Rivals PC ETB. Sell now or hold on?",
+   "trend": "faellt",
+   "typ": "etb"
+  },
+  {
    "datum": "2026-10-02T09:10:19Z",
    "id": "fb375069b65aa1f3",
    "kurz": "30. Jubiläum-ETB nähert sich Marktpreis, knapp und begehrt.",
@@ -276,6 +316,56 @@
   }
  ],
  "produkte": [
+  {
+   "aktualisiert": "2026-10-04T19:31:48Z",
+   "erscheint_am": "2026-11-10",
+   "erstmals": "2026-10-04T19:31:48Z",
+   "gruende": [
+    "Exklusiv für Pokémon Center",
+    "knapp bei Vorbestellung",
+    "hochwertige Auflage"
+   ],
+   "hype": 9,
+   "key": "destined-rivals-etb-en-pokemon-center",
+   "kurz": "DR-ETB vorbestellbar, knapp und exklusiv für Pokémon Center",
+   "liefertermin": "2026-11-10",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": null,
+    "ch7": -0.8,
+    "hoch": 617.92,
+    "id": 818586,
+    "low": 500,
+    "name": "Destined Rivals Pokémon Center Elite Trainer Box",
+    "trend": 613.18
+   },
+   "name": "Destined Rivals Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-10-04T19:31:48Z",
+     "link": "https://www.reddit.com/r/PokeInvesting/comments/1wxocjb/just_started_2_weeks_ago_with_3k_rate_this/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "Just started 2 weeks ago with 3k, rate this investment please"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Exklusiv für Pokémon Center",
+     "knapp bei Vorbestellung",
+     "hochwertige Auflage"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Destined Rivals",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
+   "vorverkauf_ab": "2026-09-15"
+  },
   {
    "aktualisiert": "2026-10-03T10:45:00Z",
    "erstmals": "2026-10-03T10:45:00Z",
