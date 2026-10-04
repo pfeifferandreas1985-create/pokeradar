@@ -127,6 +127,26 @@
  },
  "marktnews": [
   {
+   "datum": "2026-10-02T09:10:19Z",
+   "id": "fb375069b65aa1f3",
+   "kurz": "30. Jubiläum-ETB nähert sich Marktpreis, knapp und begehrt.",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0xsVGFIODBSLW1Db3g2dG9JTjF3ODFqY1d0dGg2S2V4RUwxdjFFZVVrLUk3NmRaWE93eHpmZVRVYW1CbXNuelJNNEhaTlc2elhlNTh3X3JLTFd4NkF4emZOM1lwSjdwa0ozMTYya18xSm1oQ3VOS1BLM3lVTjd6MUlLdkdMTlUtdHJhUU53?oc=5",
+   "markt": {
+    "ch30": null,
+    "ch7": null,
+    "hoch": 348.48,
+    "id": 895552,
+    "low": 175,
+    "name": "30th Celebration Pokémon Center Elite Trainer Box",
+    "trend": 348.48
+   },
+   "quelle": "Yahoo",
+   "sprache": "en",
+   "titel": "The Pokémon TCG 30th Celebration ETB is close to market price on Amazon — while stocks last",
+   "trend": "steigt",
+   "typ": "etb"
+  },
+  {
    "datum": "2026-10-02T03:12:54Z",
    "id": "6c5481b2c3891e94",
    "kurz": "Preissteigerung bei Black Flame Dominator-Booster-Box auf dem Markt.",
