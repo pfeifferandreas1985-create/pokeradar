@@ -113,18 +113,25 @@
   "haendler": "GEON",
   "hype": 9,
   "key": "30th-celebration-display-jp",
-  "kurz": "30. Jubiläum-Box wird im PokéCenter-Online-System zusätzlich gezogen.",
+  "kurz": "30. Jubiläum: Erweiterungspakete mit Ziehverfahren verfügbar",
   "markt": {
    "ch30": null,
-   "ch7": null,
+   "ch7": -0.9,
    "hoch": 139.04,
    "id": 891464,
    "low": 109.9,
    "name": "30th Celebration JP Booster Box",
-   "trend": 139.04
+   "trend": 137.79
   },
   "name": "30th CELEBRATION Erweiterungspack",
   "quellen": [
+   {
+    "datum": "2026-09-29T06:35:02Z",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHpzSGZjSTZ5UDJvd1FrY2NvZ3pyN1Bib2F0a2xNc2ZpOXhCOE9zaU5TRHFqUjBiU0ZMa1NpUHVWUU5DVjhDdElIaHV1M1B5RE5haGU1ZUJQa2h2RFZxQ0ZZQkNubGgyamI0cFVOTHJiTGZ2cGxxc1g3Y2tOalNrZTQxWFc?oc=5",
+    "quelle": "インサイド",
+    "status": "vorbestellbar",
+    "titel": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象"
+   },
    {
     "datum": "2026-09-29T06:35:02Z",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TUFUwOFBzc2d2MklQSzI0Y20waDdpc1k4LVUweFA1QXZ2M3k4aXIwbGdPa2x2TC10M04tcWVpaFlHLTVIS1ZFT2l1VnBTZTB3NUM1T1ZkeS1rdmhxUjJOanNQQVdodHJRVGJEOEZ5dnN6dzBTelpz?oc=5",
@@ -173,13 +180,6 @@
     "quelle": "インサイド",
     "status": "vorbestellbar",
     "titel": "ゲオで『ポケカ』30周年記念拡張パック「30th CELEBRATION」が抽選販売中！1BOX限定でパック単位は受付不可"
-   },
-   {
-    "datum": "2026-09-29T06:35:02Z",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0dJZU5URlRzS1dpVHA3MDVPYmJsSml0a0MwMGs0cVlkSHpBaHF2SENSRklqT0p2a2pORzVSV1dlUGRTQ1BiN1Q5VXVYdEtUcnBDTTlQV2toOGlUb3VlSkNTSEREeFp0eHZSdllUN29DbHBUMVNWdXFaZUVEelVoX3lLbHp4cmtOdGtXR21B?oc=5",
-    "quelle": "Yahoo!ニュース",
-    "status": "vorbestellbar",
-    "titel": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象 (インサイド)"
    }
   ],
   "rating": {
@@ -943,6 +943,54 @@
   "variante": null,
   "vorverkauf_ab": "2026-10-01"
  },
+ "inferno-x-display-jp-18er": {
+  "aktualisiert": "2026-10-04T02:40:02Z",
+  "erstmals": "2026-10-04T02:40:02Z",
+  "gemeldet": [],
+  "gruende": [
+   "Japanspezifische Vorbestellung",
+   "limitierte Ausgabe",
+   "nachhaltige Nachfrage"
+  ],
+  "hype": 7,
+  "key": "inferno-x-display-jp-18er",
+  "kurz": "Inferno X und Storm Emerald in Japan im Vorverkauf, knapp und begehrt.",
+  "markt": {
+   "ch30": null,
+   "ch7": 2.3,
+   "hoch": 74.34,
+   "id": 845910,
+   "low": 52,
+   "name": "Inferno X Booster Box",
+   "trend": 73.04
+  },
+  "name": "Inferno X 拡張パック",
+  "quellen": [
+   {
+    "datum": "2026-10-04T02:40:02Z",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SQ3hSbndOQVoxTlAzZ0JCYWMzdkRDeEgwNWZpXzlYT0lIR2tOQVFZc0tZRjZ3NEU0SFBhcGF2R19PWGJUX0pJVVJFREM3MG5DWVd5T3FUZFpzQmlqOTlCN1IxNDlGQ3VCZHhzNElHWTBSNFZWeGRmRmxn?oc=5",
+    "quelle": "インサイド",
+    "status": "vorbestellbar",
+    "titel": "『ポケカ』拡張パック「インフェルノX」「ストームエメラルダ」がポケセンオンラインで追加抽選中！締切迫る 1枚目の写真・画像"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Japanspezifische Vorbestellung",
+    "limitierte Ausgabe",
+    "nachhaltige Nachfrage"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "set": "Inferno X",
+  "sprache": "jp",
+  "stage": "vorbestellbar",
+  "typ": "display",
+  "variante": "18er",
+  "vorverkauf_ab": "2026-10-05"
+ },
  "jubilaeum-box-etb-de": {
   "aktualisiert": "2026-10-02T11:35:00Z",
   "erstmals": "2026-10-02T11:35:00Z",
@@ -1090,6 +1138,54 @@
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-10-03"
  },
+ "pokemon-center-chaos-rising-etb-en-pokemon-center": {
+  "aktualisiert": "2026-10-05T00:19:01Z",
+  "erstmals": "2026-10-05T00:19:01Z",
+  "gemeldet": [
+   "neu"
+  ],
+  "gruende": [
+   "Chaos Rising ETB exklusiv",
+   "hochbegehrt",
+   "knapp und limitiert"
+  ],
+  "hype": 9,
+  "key": "pokemon-center-chaos-rising-etb-en-pokemon-center",
+  "kurz": "Pokémon Center Chaos Rising ETB wird als besonders begehrt angesehen",
+  "markt": {
+   "ch30": null,
+   "ch7": 0.0,
+   "hoch": 215.58,
+   "id": 567355,
+   "low": 319,
+   "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
+   "trend": 215.58
+  },
+  "name": "Pokémon Center Chaos Rising Elite Trainer Box",
+  "quellen": [
+   {
+    "datum": "2026-10-05T00:19:01Z",
+    "link": "https://www.reddit.com/r/PokeInvesting/comments/1wxuqie/thoughts_on_pokemon_center_chaos_rising_etb/",
+    "quelle": "Reddit",
+    "status": "angekuendigt",
+    "titel": "Thoughts on pokemon center chaos rising etb?"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Chaos Rising ETB exklusiv",
+    "hochbegehrt",
+    "knapp und limitiert"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "Pokémon Center Chaos Rising",
+  "sprache": "en",
+  "stage": "angekuendigt",
+  "typ": "etb",
+  "variante": "pokemon-center"
+ },
  "pokemon-trainerbox-etb-de": {
   "aktualisiert": "2026-09-28T15:00:00Z",
   "erstmals": "2026-09-28T15:00:00Z",
@@ -1201,6 +1297,54 @@
   "stage": "ausverkauft",
   "typ": "etb",
   "variante": null
+ },
+ "prismatic-evolution-etb-en-pokemon-center": {
+  "aktualisiert": "2026-10-05T01:39:46Z",
+  "erstmals": "2026-10-05T01:39:46Z",
+  "gemeldet": [
+   "neu"
+  ],
+  "gruende": [
+   "Prismatische ETB begehrt",
+   "Vorverkauf erwartet",
+   "Reprint-Welle im Hintergrund"
+  ],
+  "hype": 8,
+  "key": "prismatic-evolution-etb-en-pokemon-center",
+  "kurz": "Prismatische ETB wird als langfristig begehrt angesehen",
+  "markt": {
+   "ch30": null,
+   "ch7": 0.0,
+   "hoch": 215.58,
+   "id": 567355,
+   "low": 319,
+   "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
+   "trend": 215.58
+  },
+  "name": "Prismatic Evolution Elite Trainer Box",
+  "quellen": [
+   {
+    "datum": "2026-10-05T01:39:46Z",
+    "link": "https://www.reddit.com/r/PokeInvesting/comments/1wxwbn9/prismatic_etb_vs_pc_etb_vs_spc/",
+    "quelle": "Reddit",
+    "status": "angekuendigt",
+    "titel": "Prismatic ETB vs. PC ETB vs. SPC"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Prismatische ETB begehrt",
+    "Vorverkauf erwartet",
+    "Reprint-Welle im Hintergrund"
+   ],
+   "sterne": 4,
+   "urteil": "Lohnt sich"
+  },
+  "set": "Prismatic Evolution",
+  "sprache": "en",
+  "stage": "angekuendigt",
+  "typ": "etb",
+  "variante": "pokemon-center"
  },
  "scarletex-violetex-special-set-etb-jp-pokemon-center": {
   "aktualisiert": "2026-10-02T06:59:01Z",

@@ -1,5 +1,25 @@
 [
  {
+  "datum": "2026-10-05T15:12:59Z",
+  "id": "58ba279559591284",
+  "kurz": "30. Jubiläum-ETB nahe Marktwert, hohe Nachfrage",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkpkRmlVWXFsWHMzNVVjbjJrdVRyd3p5aFNFX2VQSnRzYXJKNUZsUTdnT0lfQkxYMThWMUgzdVFVMHNhdGJqRW9ocTVGZE1iMjdmM3lZbUgycm5IVjFZYVhNY2lNMnVRRVlTQmx4ZUFHanM2SHBYQ3VuZ0p0bkpfNlQtT2stQXZaT3dRRkdmNHBacDNFb1pEcW8ydUo5Nnlz?oc=5",
+  "markt": {
+   "ch30": null,
+   "ch7": 7.8,
+   "hoch": 353.26,
+   "id": 895552,
+   "low": 175,
+   "name": "30th Celebration Pokémon Center Elite Trainer Box",
+   "trend": 353.26
+  },
+  "quelle": "mashable.com",
+  "sprache": "en",
+  "titel": "Best Pokémon TCG deal: 30th Celebration Elite Trainer Box is close to market value on Amazon",
+  "trend": "steigt",
+  "typ": "etb"
+ },
+ {
   "datum": "2026-10-04T13:04:03Z",
   "id": "b851b653475a48fd",
   "kurz": "SIR Gengar aus ETB-ASC sinkt im Preis – Nachfrage bleibt moderat",
