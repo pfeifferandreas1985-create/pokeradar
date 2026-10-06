@@ -611,6 +611,58 @@
   "variante": "18er",
   "vorverkauf_ab": "2026-10-01"
  },
+ "delta-reign-etb-en": {
+  "aktualisiert": "2026-10-06T18:30:56Z",
+  "erstmals": "2026-10-06T18:30:56Z",
+  "gemeldet": [
+   "vorbestellbar"
+  ],
+  "gruende": [
+   "Letztes Set 2026",
+   "Hype um Delta Reign",
+   "Vorverkauf live"
+  ],
+  "hype": 9,
+  "key": "delta-reign-etb-en",
+  "kurz": "Letztes 2026-Set: Delta Reign Vorverkauf startet heute",
+  "liefertermin": "2026-12-15",
+  "lieferwelle": 1,
+  "markt": {
+   "ch30": null,
+   "ch7": 0.7,
+   "hoch": 100.23,
+   "id": 903955,
+   "low": 89.9,
+   "name": "Delta Reign Elite Trainer Box",
+   "trend": 100.23
+  },
+  "name": "Delta Reign Elite Trainer Box",
+  "quellen": [
+   {
+    "datum": "2026-10-06T18:30:56Z",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2VfX25PRDZiU1lhUnRRQy1ndmZ5OVprZXd1TjNHd083eU9nWEE1Yk83WXBOODVlLUduaU95N2R1bWo4WHZLMTZ4WHpKZmZaTVRYbXVncTJ0dXV6UHNXR0MyNzZsWDBHT1FvcGJ5bl9EeHM4VjRpZGxHaDN5SXdteVBB?oc=5",
+    "quelle": "The Movie Blog",
+    "status": "vorbestellbar",
+    "titel": "Pokémon TCG Delta Reign Preorders Cause Chaos, Last 2026 Set"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Letztes Set 2026",
+    "Hype um Delta Reign",
+    "Vorverkauf live"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "Delta Reign",
+  "sprache": "en",
+  "stage": "vorbestellbar",
+  "typ": "etb",
+  "variante": null,
+  "vorverkauf_ab": "2026-10-06"
+ },
  "delta-reign-etb-en-pokemon-center": {
   "aktualisiert": "2026-09-30T16:01:29Z",
   "erstmals": "2026-09-30T16:01:29Z",
