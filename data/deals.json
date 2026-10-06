@@ -1,5 +1,41 @@
 [
  {
+  "datum": "2026-10-06T11:29:21Z",
+  "haendler": "Amazon",
+  "hype": 7,
+  "id": "2c8fc4187eb53f19",
+  "kurz": "18er-Booster-Display mit Promokarte, günstig im Deal.",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/wachsendes-chaos-sammeldeal-pokemon-sammelkartenspiel-top-trainer-box-und-andere-artikel-einladung-2849794",
+  "markt": {
+   "ch30": null,
+   "ch7": 0.0,
+   "hoch": 124.05,
+   "id": 401659,
+   "low": 179,
+   "name": "Sun & Moon Booster Box (18 Boosters)",
+   "trend": 124.05
+  },
+  "preis": 52.99,
+  "preis_eur": 52.99,
+  "produkt": "Wachsendes Chaos Booster-Display",
+  "quelle": "mydealz",
+  "rabatt": 57.3,
+  "rating": {
+   "gruende": [
+    "57 % unter Cardmarket-Trend (52,99 € statt 124,05 €)"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "Wachsendes Chaos Sammeldeal: Pokémon Sammelkartenspiel - Top-Trainer-Box und andere Artikel – (Einladung)",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-10-05T08:57:51Z",
   "haendler": "Amazon",
   "hype": 7,
