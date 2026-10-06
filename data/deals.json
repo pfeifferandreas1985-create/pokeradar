@@ -1,5 +1,42 @@
 [
  {
+  "datum": "2026-10-05T08:57:51Z",
+  "haendler": "Amazon",
+  "hype": 7,
+  "id": "e6572ddc7afeb22b",
+  "kurz": "ETB Prismatic Evolutions unter 175 USD, knapp und begehrt",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjdKZTNsTGp3SFRRV0FPSnJtYmZoTDdvME9VV1RReVJyd1BfTkNtb1RkQmdLWndiRldNSjlqSnFRUTQtODNxdHp1UUUzZHBnNlpWWURVSmRSY2hCUUlCaURiYmRRU0R5LXlERmptYkxVVmVCQ0NRb01mZWh3YTh0V0k5a2paVTNjM0ZXZUt3Y2plRzA?oc=5",
+  "markt": {
+   "ch30": null,
+   "ch7": -0.4,
+   "hoch": 150.11,
+   "id": 798930,
+   "low": 88.8,
+   "name": "Prismatic Evolutions Elite Trainer Box",
+   "trend": 149.5
+  },
+  "preis": 174.99,
+  "preis_eur": 156.19,
+  "produkt": "Prismatic Evolutions Elite Trainer Box",
+  "quelle": "Yahoo",
+  "rabatt": -4.5,
+  "rating": {
+   "gruende": [
+    "Kein Vorteil: 156,19 € liegt über dem Cardmarket-Trend (149,50 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "The Pokémon TCG Prismatic Evolutions Elite Trainer Box is under $175 — save over $20 at Amazon",
+  "typ": "etb",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-09-16T13:37:06Z",
   "haendler": "Galaxus",
   "hype": 7,
