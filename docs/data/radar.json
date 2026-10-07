@@ -422,6 +422,102 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-10-07T14:58:15Z",
+   "erstmals": "2026-10-07T14:58:15Z",
+   "gruende": [
+    "Restock von Seltenen Sets",
+    "Preisverfall auf Amazon",
+    "Masseware"
+   ],
+   "haendler": "Amazon",
+   "hype": 4,
+   "key": "rare-tcg-sets-display-en",
+   "kurz": "Rarere Booster-Boxen wieder verfügbar, aber geringe Nachfrage.",
+   "markt": {
+    "ch30": null,
+    "ch7": 0.0,
+    "hoch": 2239.24,
+    "id": 271440,
+    "low": 100000,
+    "name": "Phantom Forces Booster Box",
+    "trend": 2239.24
+   },
+   "name": "Rare TCG Sets Booster-Box",
+   "quellen": [
+    {
+     "datum": "2026-10-07T14:58:15Z",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV1dITFgyVXdIN1dvRWVqdm1veUpCQzJWTzFaWmZUbEpnbzU0OERadzVzZ2RaUVBCbHRYVmViMGREMzZpQTNCQVdyVnRaY3dpLUV2VGpFZ3JrSWVQaC11Y3BmUjhzOE5ZWmsySEZqd3F6VDI4dmdHdWhzMFJUN09vS2Nha2dsQQ?oc=5",
+     "quelle": "IGN",
+     "status": "nachschub",
+     "titel": "Amazon Restocks Rare Pokémon TCG Sets for Prime Day"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Nachschub – kurze Gelegenheit zum Originalpreis",
+     "Restock von Seltenen Sets",
+     "Preisverfall auf Amazon",
+     "Masseware"
+    ],
+    "sterne": 2,
+    "urteil": "Abwarten"
+   },
+   "set": "Rare TCG Sets",
+   "sprache": "en",
+   "stage": "nachschub",
+   "typ": "display",
+   "variante": null
+  },
+  {
+   "aktualisiert": "2026-10-07T14:54:00Z",
+   "erstmals": "2026-10-07T14:54:00Z",
+   "gruende": [
+    "Einladungssystem",
+    "Jubiläums-Set",
+    "Starke Nachfrage"
+   ],
+   "hype": 9,
+   "key": "ascended-heroes-etb-de-pokemon-center",
+   "kurz": "Pokemon Center-ETB Ascended Heroes mit Vorbestellung ab 8.10.26, knapp und begehrt.",
+   "liefertermin": "2026-12-15",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": null,
+    "ch7": -5.4,
+    "hoch": 178.09,
+    "id": 860575,
+    "low": 140,
+    "name": "Ascended Heroes Pokémon Center Elite Trainer Box",
+    "trend": 168.49
+   },
+   "name": "Ascended Heroes Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-10-07T14:54:00Z",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWRBdmRlc3ZlR0cwRnVGUjNfTUl2bWhnZXY0Z1hETjlaOWMtUTRQUDdDd3d1UnJ1cEFQLUZsaGFBUWdnUTRTQUt1ZnVEY3ktY2pxN2hDWjhUMjRIbVRSSXRoZWtkMHZOWVplelNWbGMycUpEVVJJODFSTVE2emMtc1F2T09VLVVCNkFxbjFDZGZLRWlEcHN0ZVlNSVphZVhyelpKamZkSU1yam1IWk5aVGlXQ0tLNXpiZTZwMU13YUxERUJG?oc=5",
+     "quelle": "Notebookcheck",
+     "status": "vorbestellbar",
+     "titel": "Pokémon Center rolls out invite-only access for Ascended Heroes Elite Trainer Box"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Einladungssystem",
+     "Jubiläums-Set",
+     "Starke Nachfrage"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Ascended Heroes",
+   "sprache": "de",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
+   "vorverkauf_ab": "2026-10-08"
+  },
+  {
    "aktualisiert": "2026-10-07T12:30:00Z",
    "erstmals": "2026-10-07T12:30:00Z",
    "gruende": [
