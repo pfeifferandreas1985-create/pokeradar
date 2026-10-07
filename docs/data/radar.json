@@ -422,6 +422,55 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-10-07T12:30:00Z",
+   "erstmals": "2026-10-07T12:30:00Z",
+   "gruende": [
+    "Invite-Only, exklusiv",
+    "Ascended Heroes, Fan-Liebling",
+    "Schnell ausverkauft, hohe Nachfrage"
+   ],
+   "hype": 10,
+   "key": "ascended-heroes-etb-en-pokemon-center",
+   "kurz": "Neuer Pokémon-Center-ETB-Pre-Order mit Invitations-System, extrem begehrt.",
+   "liefertermin": "2026-11-15",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": null,
+    "ch7": -8.0,
+    "hoch": 178.09,
+    "id": 860575,
+    "low": 140,
+    "name": "Ascended Heroes Pokémon Center Elite Trainer Box",
+    "trend": 163.9
+   },
+   "name": "Ascended Heroes Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-10-07T12:30:00Z",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONTFfZjRtRUIwMDdodXFBMHExT0ROVk1FeE8zOEZFVS1qYzJmdTNMVXRISnQzUlY1cTNtRkNHWWs2SVlnRDh3YllYdjR3YVY5cEZsbzd1YTByTHlVSVYwNGd1QUlZaVR3QmtGVndGQldfVHFTNVRPOHpYTUpJTTlJeTRmYTB1eUg4S3Nv?oc=5",
+     "quelle": "IGN",
+     "status": "vorbestellbar",
+     "titel": "Pokémon Center Rolls Out Invite-Only Access for Ascended Heroes Elite Trainer Boxes"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Invite-Only, exklusiv",
+     "Ascended Heroes, Fan-Liebling",
+     "Schnell ausverkauft, hohe Nachfrage"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Ascended Heroes",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
+   "vorverkauf_ab": "2026-10-07"
+  },
+  {
    "aktualisiert": "2026-10-06T18:30:56Z",
    "erstmals": "2026-10-06T18:30:56Z",
    "gruende": [
