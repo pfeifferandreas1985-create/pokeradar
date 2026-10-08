@@ -101,7 +101,7 @@
   "vorverkauf_ab": "2026-10-01"
  },
  "30th-celebration-display-jp": {
-  "aktualisiert": "2026-09-29T06:35:02Z",
+  "aktualisiert": "2026-10-05T19:19:36Z",
   "erstmals": "2026-09-29T06:35:02Z",
   "gemeldet": [],
   "gruende": [
@@ -110,21 +110,28 @@
    "Vorverkauf mit Ziehungen",
    "30. Jubiläum"
   ],
-  "haendler": "GEON",
+  "haendler": "小倉店",
   "hype": 9,
   "key": "30th-celebration-display-jp",
-  "kurz": "30. Jubiläum: Erweiterungspakete mit Ziehverfahren verfügbar",
+  "kurz": "30. Jubiläums-Box wird wieder im kleinen Shop angeboten.",
   "markt": {
    "ch30": null,
-   "ch7": -0.9,
-   "hoch": 139.04,
+   "ch7": 5.5,
+   "hoch": 146.71,
    "id": 891464,
-   "low": 109.9,
+   "low": 109,
    "name": "30th Celebration JP Booster Box",
-   "trend": 137.79
+   "trend": 146.71
   },
   "name": "30th CELEBRATION Erweiterungspack",
   "quellen": [
+   {
+    "datum": "2026-10-05T19:19:36Z",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wZVNnNndBaHItdk1qSjRzUEpWSGlYU2RqU3ZBWFFMY0duRHFDWFZwbTVtR3RlQnVyOVlaUDRJTmlYbWFTdUZCclF3?oc=5",
+    "quelle": "カードラボ",
+    "status": "nachschub",
+    "titel": "【ポケモンカードゲーム】『30thセレブレーション』再販抽選販売のお知らせ / 小倉店の店舗ブログ"
+   },
    {
     "datum": "2026-09-29T06:35:02Z",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHpzSGZjSTZ5UDJvd1FrY2NvZ3pyN1Bib2F0a2xNc2ZpOXhCOE9zaU5TRHFqUjBiU0ZMa1NpUHVWUU5DVjhDdElIaHV1M1B5RE5haGU1ZUJQa2h2RFZxQ0ZZQkNubGgyamI0cFVOTHJiTGZ2cGxxc1g3Y2tOalNrZTQxWFc?oc=5",
@@ -173,18 +180,11 @@
     "quelle": "インサイド",
     "status": "vorbestellbar",
     "titel": "ゲオで『ポケカ』30周年記念拡張パック「30th CELEBRATION」が抽選販売中！1BOX限定でパック単位は受付不可 2枚目の写真・画像"
-   },
-   {
-    "datum": "2026-09-28T10:45:03Z",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHBWMW1VZnBZekxDSldwYUtDUDdjQzlrZ0FTN1FxU3d4TkxhT1ROaHB6eTlRTnFCUVBSdDk2cm9oeFVtNXZNWjg2bnVzdVg4TU1hSlpWUDFrZEFnazV6cGR3elR5YnFEdXVLUnlkYUw0UTVxSXdsVkZjeW9RanZMVnVMQWE?oc=5",
-    "quelle": "インサイド",
-    "status": "vorbestellbar",
-    "titel": "ゲオで『ポケカ』30周年記念拡張パック「30th CELEBRATION」が抽選販売中！1BOX限定でパック単位は受付不可"
    }
   ],
   "rating": {
    "gruende": [
-    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Nachschub – kurze Gelegenheit zum Originalpreis",
     "30. Jubiläum, limitiert",
     "Erweiterungspacks, begehrt",
     "Vorverkauf mit Ziehungen"
@@ -194,7 +194,7 @@
   },
   "set": "30th CELEBRATION",
   "sprache": "jp",
-  "stage": "vorbestellbar",
+  "stage": "nachschub",
   "typ": "display",
   "variante": null,
   "vorverkauf_ab": "2026-10-01"
