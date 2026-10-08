@@ -667,6 +667,57 @@
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-10-07"
  },
+ "delta-reign-display-en": {
+  "aktualisiert": "2026-10-08T03:39:31Z",
+  "erstmals": "2026-10-08T03:39:31Z",
+  "gemeldet": [
+   "vorbestellbar"
+  ],
+  "gruende": [
+   "30. Jubiläum, limitiert",
+   "Greninja ex, begehrt",
+   "Preisverfall bei Vorbestellung"
+  ],
+  "haendler": "Amazon",
+  "hype": 7,
+  "key": "delta-reign-display-en",
+  "kurz": "Vorverkauf für Delta Reign-Box startet heute auf Amazon.",
+  "markt": {
+   "ch30": null,
+   "ch7": -0.1,
+   "hoch": 229.4,
+   "id": 903956,
+   "low": 178.98,
+   "name": "Delta Reign Booster Box",
+   "trend": 228.5
+  },
+  "name": "Delta Reign Booster Box",
+  "quellen": [
+   {
+    "datum": "2026-10-08T03:39:31Z",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi14cERVZFFCclhRRE1oWVpoalJ6VlU0b05lcFEyclBBdXQwYjBsb2x4dnhNeDdKUDduWWZBeXltbmlyRnNrbkItekI5Y0JMS2g1STVLeHdwamVjLTdWeDJYLXdoYl9PcEstNW5zWmZZTE54QzdnVW9WcW4yT0dRNDF6OHFNdkM4SGtiVVNqalNlUTQ?oc=5",
+    "quelle": "Joseph Writer Anderson",
+    "status": "vorbestellbar",
+    "titel": "Pokémon TCG: Delta Reign Pre-Orders Drop on Amazon"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "30. Jubiläum, limitiert",
+    "Greninja ex, begehrt",
+    "Preisverfall bei Vorbestellung"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "set": "Delta Reign",
+  "sprache": "en",
+  "stage": "vorbestellbar",
+  "typ": "display",
+  "variante": null,
+  "vorverkauf_ab": "2026-10-08"
+ },
  "delta-reign-display-en-18er": {
   "aktualisiert": "2026-09-28T17:20:11Z",
   "erstmals": "2026-09-28T17:20:11Z",
