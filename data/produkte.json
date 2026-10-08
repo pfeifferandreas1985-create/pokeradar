@@ -1,4 +1,42 @@
 {
+ "30-jahre-top-trainer-box-etb-de": {
+  "aktualisiert": "2026-10-08T12:17:32Z",
+  "erstmals": "2026-10-08T12:17:32Z",
+  "gemeldet": [],
+  "gruende": [
+   "Verkauft zur UVP",
+   "Kaufland-Verkauf",
+   "kein Vorverkauf"
+  ],
+  "haendler": "Kaufland",
+  "hype": 7,
+  "key": "30-jahre-top-trainer-box-etb-de",
+  "kurz": "30-Jahre-ETB bei Kaufland zur UVP ausverkauft.",
+  "name": "30-Jahre-Top-Trainer-Box Elite Trainer Box",
+  "quellen": [
+   {
+    "datum": "2026-10-08T12:17:32Z",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDI3S1RaNndXM3NoUVIwNzRpOTkxb1M3SEpFdHFLNWVLWXVDOVEwZ21Nb3ZINVZsWEtvMWxGSkl2Vk1KQi1LSzZEbjZOSW4tWWlZNEhMQ0d2eENHSDJSc09wUmYxX0I2V1Q4S0owanJnSFBjdjI5SjgwV0JvU1VQUlI4QlVhV3NHVF95dHJoNGIxOTJtNG5IRjFzUFhTQVNBQW80dXFTQ3BfLURJY1lOZ2pObUFTakllYk1xNlRQdV84REE?oc=5",
+    "quelle": "Giga",
+    "status": "ausverkauft",
+    "titel": "Pokémon-Karten: Kaufland verkauft Montag 30-Jahre-Top-Trainer-Box zur UVP"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Verkauft zur UVP",
+    "Kaufland-Verkauf",
+    "kein Vorverkauf"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "set": "30-Jahre-Top-Trainer-Box",
+  "sprache": "de",
+  "stage": "ausverkauft",
+  "typ": "etb",
+  "variante": null
+ },
  "30th-anniversary-etb-de": {
   "aktualisiert": "2026-10-03T10:45:00Z",
   "erstmals": "2026-10-03T10:45:00Z",
@@ -668,7 +706,7 @@
   "vorverkauf_ab": "2026-10-07"
  },
  "delta-reign-display-en": {
-  "aktualisiert": "2026-10-08T03:39:31Z",
+  "aktualisiert": "2026-10-08T13:32:56Z",
   "erstmals": "2026-10-08T03:39:31Z",
   "gemeldet": [
    "vorbestellbar"
@@ -676,12 +714,13 @@
   "gruende": [
    "30. Jubiläum, limitiert",
    "Greninja ex, begehrt",
-   "Preisverfall bei Vorbestellung"
+   "Preisverfall bei Vorbestellung",
+   "Preis unter Markt"
   ],
   "haendler": "Amazon",
   "hype": 7,
   "key": "delta-reign-display-en",
-  "kurz": "Vorverkauf für Delta Reign-Box startet heute auf Amazon.",
+  "kurz": "Delta Reign-Booster-Preorder live auf Amazon unter Marktpreis.",
   "markt": {
    "ch30": null,
    "ch7": -0.1,
@@ -692,7 +731,22 @@
    "trend": 228.5
   },
   "name": "Delta Reign Booster Box",
+  "preis_eur": 240.67,
   "quellen": [
+   {
+    "datum": "2026-10-08T11:20:56Z",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFNyVEpRSWxvcnh4TDFxTEViS3pCZWJSbXBZU01TNUwyN2ctY0NnWml4WnN6czcxVXNKVGdrMUhrMGI4Y1VpT0VfSkZmNFAybE1NbldvdGFiY3dCNWlkb25IOTlkdE4zZGtScjNQWFI2VnFxWngzbnJBYVgtelZ3VmI2emtuLU84R1JkaFRfUC1WelE?oc=5",
+    "quelle": "Mashable",
+    "status": "vorbestellbar",
+    "titel": "Pokémon TCG Delta Reign Booster Bundle preorders are live on Amazon — and they're under market price"
+   },
+   {
+    "datum": "2026-10-08T13:32:56Z",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1BIRzRVczF5MEVpVWJ0MWdJZFprUHFYalB0TFdvQzVtU3RReDdQVUI4Z1F3Nm5DUXR0TWQ1bkFnemFYUjJxaXZibG1WU3ZDU2FwTGk0U2JIVmpUZGJMWTRSUlBiZzhGM0ZVdEpyZDF6d1pSVzROQlRIZ0NzWTg0S3Rwc1pjQkpFcFNiN295bGxZN3QzNEc4cGtR?oc=5",
+    "quelle": "Mashable",
+    "status": "vorbestellbar",
+    "titel": "Best Pokémon TCG deal: Preorder 36 packs of Delta Reign for under $270 at Amazon"
+   },
    {
     "datum": "2026-10-08T03:39:31Z",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi14cERVZFFCclhRRE1oWVpoalJ6VlU0b05lcFEyclBBdXQwYjBsb2x4dnhNeDdKUDduWWZBeXltbmlyRnNrbkItekI5Y0JMS2g1STVLeHdwamVjLTdWeDJYLXdoYl9PcEstNW5zWmZZTE54QzdnVW9WcW4yT0dRNDF6OHFNdkM4SGtiVVNqalNlUTQ?oc=5",
