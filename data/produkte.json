@@ -720,8 +720,58 @@
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-10-07"
  },
+ "delta-reign-display-de": {
+  "aktualisiert": "2026-10-09T15:46:38Z",
+  "erstmals": "2026-10-09T15:46:38Z",
+  "gemeldet": [
+   "vorbestellbar"
+  ],
+  "gruende": [
+   "neue Erweiterung vorbestellbar",
+   "knapp bei Vorbestellung",
+   "beliebtes Set"
+  ],
+  "hype": 7,
+  "key": "delta-reign-display-de",
+  "kurz": "Delta Reign-Box vorbestellbar – knapp und begehrt",
+  "markt": {
+   "ch30": null,
+   "ch7": 1.8,
+   "hoch": 234.3,
+   "id": 903956,
+   "low": 178.98,
+   "name": "Delta Reign Booster Box",
+   "trend": 233.13
+  },
+  "name": "Delta Reign Erweiterung",
+  "quellen": [
+   {
+    "datum": "2026-10-09T15:46:38Z",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWlWM3IwYlNiYzVId3dha2c5VGZRcTFGbkhHd25jamhmWE5sLUNQOWdxUlc0aUh5d2x2QzljMVYtdGNWWWEtOWxtUlBIMWJXUGZmb3YteW9veWpKc3dNTDg2VWlZQ0lsV0F4QVJTV3Jkd0oxNGVwM3o5dVU0MXFKT0dPOC0wRkZrYXhaMEYzYw?oc=5",
+    "quelle": "games.gg",
+    "status": "vorbestellbar",
+    "titel": "Pokémon TCG Delta Reign Erweiterung jetzt vorbestellbar"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "neue Erweiterung vorbestellbar",
+    "knapp bei Vorbestellung",
+    "beliebtes Set"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "set": "Delta Reign",
+  "sprache": "de",
+  "stage": "vorbestellbar",
+  "typ": "display",
+  "variante": null,
+  "vorverkauf_ab": "2026-10-09"
+ },
  "delta-reign-display-en": {
-  "aktualisiert": "2026-10-09T11:16:40Z",
+  "aktualisiert": "2026-10-09T15:40:39Z",
   "erscheint_am": "2026-11-15",
   "erstmals": "2026-10-08T03:39:31Z",
   "gemeldet": [
@@ -733,24 +783,34 @@
    "Preisverfall bei Vorbestellung",
    "Preis unter Markt"
   ],
-  "haendler": "Amazon",
+  "haendler": [
+   "Amazon",
+   "Target"
+  ],
   "hype": 7,
   "key": "delta-reign-display-en",
-  "kurz": "Delta Reign Display-Box vorbestellbar, Preis unter 270 USD",
+  "kurz": "Delta Reign-Box vorbestellbar – knapp und begehrt",
   "liefertermin": "2026-12-10",
   "lieferwelle": 1,
   "markt": {
    "ch30": null,
-   "ch7": 2.5,
+   "ch7": 1.8,
    "hoch": 234.3,
    "id": 903956,
    "low": 178.98,
    "name": "Delta Reign Booster Box",
-   "trend": 234.3
+   "trend": 233.13
   },
   "name": "Delta Reign Booster Box",
   "preis_eur": 241.36,
   "quellen": [
+   {
+    "datum": "2026-10-09T15:40:39Z",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PZ1JybkRnbWhjUGxqNWRIcFVOc0hyWjRvbDhqODZvZWw2WkFUTVJMOFFZNmFJNUdfMVdISHpUbUNDQjBHV0JhWlk5THZDazh6blFaa1ROT0tKSGhiMTJ1ZkExUE8zUDBWaTJWYWppOA?oc=5",
+    "quelle": "games.gg",
+    "status": "vorbestellbar",
+    "titel": "Pokémon TCG Delta Reign Expansion Preorder at Amazon & Target"
+   },
    {
     "datum": "2026-10-08T13:12:35Z",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0p1dXMtU0E4WGxlWFg1ZlVlU0d5SzIzMkZ5QTFjWFdieE1GLW15NVA0SXNpaWJLM1FhU0RwZmVDcXZLd0FsU1V4aDhHMlo0NFhRTTlZc3NHdkVkQWNuY0c1ejFmOGc0aloxUUY1ZUJyRHVIOWw4Zzd3NmlscGZkS0I1TjZFSDA?oc=5",
