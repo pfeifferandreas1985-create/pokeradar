@@ -1,6 +1,81 @@
 {
  "deals": [
   {
+   "datum": "2026-10-10T06:33:23Z",
+   "haendler": "eBay",
+   "hype": 9,
+   "id": "da94f03e0c752a1b",
+   "kurz": "30. Jubiläum ETB bei eBay, limitiert, hoher Hype",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.reddit.com/r/PokeInvesting/comments/1x286cs/30th_anniversary_elite_trainer_box_154_promotion/",
+   "markt": {
+    "ch30": null,
+    "ch7": 0.0,
+    "hoch": 215.58,
+    "id": 567355,
+    "low": 319,
+    "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
+    "trend": 215.58
+   },
+   "preis": 154.0,
+   "preis_eur": 137.43,
+   "produkt": "30th Anniversary Elite Trainer Box",
+   "quelle": "Reddit",
+   "rabatt": 36.3,
+   "rating": {
+    "gruende": [
+     "36 % unter Cardmarket-Trend (137,43 € statt 215,58 €)",
+     "Begehrtes Produkt (Hype 9/10)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 4,
+    "urteil": "Lohnt sich"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "30th Anniversary Elite Trainer Box $154 Promotion by eBay!",
+   "typ": "etb",
+   "waehrung": "USD"
+  },
+  {
+   "datum": "2026-10-10T06:35:38Z",
+   "haendler": "eBay",
+   "hype": 6,
+   "id": "e98c1d9254de1238",
+   "kurz": "Delta Reign Booster Box mit Promotion bei eBay, Hype steigt",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.reddit.com/r/PokeInvesting/comments/1x287nd/delta_reign_booster_boxes_preorder_229_promotion/",
+   "markt": {
+    "ch30": null,
+    "ch7": 1.2,
+    "hoch": 234.3,
+    "id": 903956,
+    "low": 178.98,
+    "name": "Delta Reign Booster Box",
+    "trend": 231.98
+   },
+   "preis": 229.0,
+   "preis_eur": 204.35,
+   "produkt": "Delta Reign Booster Box",
+   "quelle": "Reddit",
+   "rabatt": 11.9,
+   "rating": {
+    "gruende": [
+     "12 % unter Cardmarket-Trend (204,35 € statt 231,98 €)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 1,
+    "urteil": "Eher nicht"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "Delta Reign Booster Boxes Preorder $229 Promotion by eBay!",
+   "typ": "display",
+   "waehrung": "USD"
+  },
+  {
    "datum": "2026-10-08T16:57:37Z",
    "haendler": null,
    "hype": 5,
@@ -236,6 +311,18 @@
   ]
  },
  "marktnews": [
+  {
+   "datum": "2026-10-09T10:24:41Z",
+   "id": "5399aa68b860bb0a",
+   "kurz": "Best Pokémon TCG deal: Mega Greninja ex Premium Collection has gotten a new 20% price drop at Amazon",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVdGYzNWS1NSYzI5bjU4S2dGRWpJM002ZjJacXB0ZmdlTUlNQzZSZTlaM0hocU5oN0F4Y1ZhLUdmTkhHRnhfQlB6VW9GdGJneWVJZHh6TXBDY3RuQndQd3k1R1U1SFA0QURJX2NzRF9ySHJMSG1tNE82VU5Ea2xLQUVhejRLOXc2ZkMzVw?oc=5",
+   "markt": null,
+   "quelle": "Mashable",
+   "sprache": "en",
+   "titel": "Best Pokémon TCG deal: Mega Greninja ex Premium Collection has gotten a new 20% price drop at Amazon",
+   "trend": "faellt",
+   "typ": "andere"
+  },
   {
    "datum": "2026-10-09T05:38:49Z",
    "id": "304ce6bf5220676d",
