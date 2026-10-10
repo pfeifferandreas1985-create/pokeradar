@@ -1,5 +1,25 @@
 [
  {
+  "datum": "2026-10-09T07:00:00Z",
+  "id": "5f622a7c5ac83498",
+  "kurz": "Pikachu ex FUR im 30. Jubiläum-Box-Set wird begehrt und teuer.",
+  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzaVowU2NGMEgtWmFiQnI5dnFfQTlXN2lnTV9CTjhkek9pM2lUQXpveHBmeDc3ZWpqbmc0UnBnU3FmY2dzcmN5NGtMTW4?oc=5",
+  "markt": {
+   "ch30": null,
+   "ch7": 0.2,
+   "hoch": 163.97,
+   "id": 463834,
+   "low": 74.95,
+   "name": "Infinity Zone Booster Box",
+   "trend": 163.97
+  },
+  "quelle": "SNKRDUNK",
+  "sprache": "jp",
+  "titel": "【ポケカ】ピカチュウex FUR仕様 [131/M-P]の買取・相場価格と値段推移｜30th CELEBRATION FUTURISTIC BOX",
+  "trend": "steigt",
+  "typ": "display"
+ },
+ {
   "datum": "2026-10-09T10:24:41Z",
   "id": "5399aa68b860bb0a",
   "kurz": "Best Pokémon TCG deal: Mega Greninja ex Premium Collection has gotten a new 20% price drop at Amazon",
