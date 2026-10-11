@@ -1,11 +1,11 @@
 {
  "alarme": 0,
  "ki": true,
- "lauf": "2026-10-10T23:29:35Z",
+ "lauf": "2026-10-11T02:12:01Z",
  "markt_stand": "2026-10-10",
  "markt_tage": 9,
  "modell": "Qwen lokal · qwen3-4b-instruct",
- "neu": 2,
+ "neu": 0,
  "quellen": {
   "Google News (de)": "ok",
   "Google News (en)": "ok",
