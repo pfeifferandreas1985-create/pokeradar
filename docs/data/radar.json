@@ -312,6 +312,26 @@
  },
  "marktnews": [
   {
+   "datum": "2026-10-11T13:37:40Z",
+   "id": "9d05df257b5b47bb",
+   "kurz": "30. Jubiläum-Elite-Box nahe Marktwert auf Amazon.",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVJsVExqaE5VN0RDRklQdlBjNVdhUHREVW8zVGtZdGpYczR5dFkyZldGZUxwWWt2a0I5eU5TU3pna0s3cTN2VDZFRnpmVFdRd1NJTzF2aWJTc2IwaDEtVWZmakFfTEpCYU1ZSGZ6OE1kUnQ0WXd4ZUNuallkMW1tVmsxWHhkVlRwTVJjbmRvZ0ZjVkktUkdDV2hvSFBKUQ?oc=5",
+   "markt": {
+    "ch30": null,
+    "ch7": 5.6,
+    "hoch": 372.97,
+    "id": 895552,
+    "low": 399.95,
+    "name": "30th Celebration Pokémon Center Elite Trainer Box",
+    "trend": 372.9
+   },
+   "quelle": "Mashable",
+   "sprache": "en",
+   "titel": "Best Pokémon TCG deal: 30th Celebration Elite Trainer Box is close to market value on Amazon",
+   "trend": "steigt",
+   "typ": "etb"
+  },
+  {
    "datum": "2026-10-09T07:00:00Z",
    "id": "5f622a7c5ac83498",
    "kurz": "Pikachu ex FUR im 30. Jubiläum-Box-Set wird begehrt und teuer.",
