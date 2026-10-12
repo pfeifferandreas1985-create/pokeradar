@@ -1,6 +1,42 @@
 {
  "deals": [
   {
+   "datum": "2026-10-12T03:41:00Z",
+   "haendler": null,
+   "hype": 5,
+   "id": "5e1a8651fe8a4f30",
+   "kurz": "Pokémon-Karten: Kaufland verkauft ab heute 30-Jahre-Top-Trainer-Box für 55 Euro",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONHpsMFJpU3IzV3F3TVVYYmpvWkg5SlRQRWdPd3BKWTNFNlo1NG84b2dMOVBJNHZPZW5vclFGVFNfOWNORDRGRGVHbFZGc0N6UVloYnZOMC1TY1dFeHJCemxvcU1ZcmhFbmJKRUxOTlpzMDFiQU1ib2RIZDNPLWNEUnhXeklPNEdKYU9PVkMxc0d1c2FfbElmY3FrNlBRTllBWmFVLTdEdVN4V3ctRmRDREdBRmZFaW9OVG56OENpMGJFZDliYnRLbnppY3E?oc=5",
+   "markt": {
+    "ch30": null,
+    "ch7": -1.2,
+    "hoch": 135.27,
+    "id": 895551,
+    "low": 80,
+    "name": "30th Celebration Elite Trainer Box",
+    "trend": 131.16
+   },
+   "preis": 55.0,
+   "preis_eur": 55.0,
+   "produkt": "Pokémon-Karten: Kaufland verkauft ab heute 30-Jahre-Top-Trainer-Box für 55 Euro",
+   "quelle": "Giga",
+   "rabatt": 58.1,
+   "rating": {
+    "gruende": [
+     "58 % unter Cardmarket-Trend (55,00 € statt 131,16 €)"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "Pokémon-Karten: Kaufland verkauft ab heute 30-Jahre-Top-Trainer-Box für 55 Euro",
+   "typ": "etb",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-10-10T06:33:23Z",
    "haendler": "eBay",
    "hype": 9,
