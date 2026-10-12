@@ -1,5 +1,43 @@
 [
  {
+  "datum": "2026-10-12T04:34:55Z",
+  "haendler": "eBay",
+  "hype": 9,
+  "id": "7f0d9e993c580227",
+  "kurz": "30. Jubiläums-Elite-Trainer-Box für 154 USD auf eBay",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x3skw7/30th_celebration_elite_trainer_box_154_promotion/",
+  "markt": {
+   "ch30": null,
+   "ch7": 5.6,
+   "hoch": 372.97,
+   "id": 895552,
+   "low": 399.95,
+   "name": "30th Celebration Pokémon Center Elite Trainer Box",
+   "trend": 372.9
+  },
+  "preis": 154.0,
+  "preis_eur": 137.43,
+  "produkt": "30th Celebration Elite Trainer Box",
+  "quelle": "Reddit",
+  "rabatt": 63.1,
+  "rating": {
+   "gruende": [
+    "63 % unter Cardmarket-Trend (137,43 € statt 372,90 €)",
+    "Begehrtes Produkt (Hype 9/10)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 4,
+   "urteil": "Lohnt sich"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "30th Celebration Elite Trainer Box $154 Promotion by eBay!",
+  "typ": "etb",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-10-12T03:41:00Z",
   "haendler": null,
   "hype": 5,
@@ -74,14 +112,14 @@
   "waehrung": "USD"
  },
  {
-  "datum": "2026-10-10T06:35:38Z",
+  "datum": "2026-10-12T04:36:58Z",
   "haendler": "eBay",
   "hype": 6,
   "id": "e98c1d9254de1238",
   "kurz": "Delta Reign Booster Box mit Promotion bei eBay, Hype steigt",
   "liefertermin": null,
   "lieferwelle": null,
-  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x287nd/delta_reign_booster_boxes_preorder_229_promotion/",
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x3sm90/delta_reign_sealed_booster_boxes_229_promotion_by/",
   "markt": {
    "ch30": null,
    "ch7": 1.2,
@@ -106,7 +144,7 @@
   },
   "sprache": "en",
   "status": "angebot",
-  "titel": "Delta Reign Booster Boxes Preorder $229 Promotion by eBay!",
+  "titel": "Delta Reign Sealed Booster Boxes $229 Promotion by eBay!",
   "typ": "display",
   "waehrung": "USD"
  },
