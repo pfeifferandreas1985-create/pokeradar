@@ -1,5 +1,107 @@
 [
  {
+  "datum": "2026-10-13T11:55:57Z",
+  "haendler": "EDEKA",
+  "hype": 4,
+  "id": "6e5a8637af7e0cff",
+  "kurz": "18er Display Fatale Flammen bei EDEKA zu 4,99€ ohne Folie",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/lokal-edeka-pokemon-fatale-flammen-2853375",
+  "markt": null,
+  "preis": 4.99,
+  "preis_eur": 4.99,
+  "produkt": "Fatale Flammen 18er Display",
+  "quelle": "mydealz",
+  "rabatt": null,
+  "rating": {
+   "gruende": [
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "[Lokal Edeka] Pokemon Fatale Flammen",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
+  "datum": "2026-10-13T13:37:23Z",
+  "haendler": "Walmart",
+  "hype": 7,
+  "id": "213e04100e756100",
+  "kurz": "Elite Trainer Box bei Walmart günstig, 20€ gespart",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DeVpzVGVXZVg3NEMxRFdIMnVfaEl0Z1VVdTBHYXdFVXR1N1g5eld3Z0F5MjNlbll4dGUzS21TZFk0TDFvclhEQk9BVWF0TmdnTG55dFRDQUphVHN3NzR2ZEFodmpUNUxVNlpUd05FYjh1bkRGZDNEVEtsSDNFQQ?oc=5",
+  "markt": {
+   "ch30": null,
+   "ch7": 23.3,
+   "hoch": 265.71,
+   "id": 567355,
+   "low": 319,
+   "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
+   "trend": 265.71
+  },
+  "preis": 120.0,
+  "preis_eur": 107.32,
+  "produkt": "Elite Trainer Box",
+  "quelle": "IGN",
+  "rabatt": 59.6,
+  "rating": {
+   "gruende": [
+    "60 % unter Cardmarket-Trend (107,32 € statt 265,71 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 4,
+   "urteil": "Lohnt sich"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Pokémon TCG: Elite Trainer Box is now down to $120 at Walmart — save $20 compared to Amazon",
+  "typ": "etb",
+  "waehrung": "USD"
+ },
+ {
+  "datum": "2026-10-13T16:03:59Z",
+  "haendler": "Pokemon Center",
+  "hype": 8,
+  "id": "a67df3fcbcf2165e",
+  "kurz": "Delta Herrschaft Display vorbestellbar mit Limit 2, günstig im Angebot",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-center-deutschland-pokemon-tcg-delta-herrschaft-top-trainer-box-ttb-6199-euro-6-euro-versand-display-und-bundle-verfugbar-2853478",
+  "markt": {
+   "ch30": null,
+   "ch7": 0.0,
+   "hoch": 150,
+   "id": 903944,
+   "low": 150,
+   "name": "Delta Reign Booster Box (18 Boosters)",
+   "trend": 150
+  },
+  "preis": 165.99,
+  "preis_eur": 165.99,
+  "produkt": "Delta Reign Display",
+  "quelle": "mydealz",
+  "rabatt": -10.7,
+  "rating": {
+   "gruende": [
+    "Kein Vorteil: 165,99 € liegt über dem Cardmarket-Trend (150,00 €)",
+    "Begehrtes Produkt (Hype 8/10)"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "de",
+  "status": "vorbestellbar",
+  "titel": "Preorder:Pokemon Center Deutschland: Pokemon TCG: Delta Herrschaft Display 165,99 Euro + 6 Euro Versand, Bundle auch verfügbar",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-10-12T04:34:55Z",
   "haendler": "eBay",
   "hype": 9,
