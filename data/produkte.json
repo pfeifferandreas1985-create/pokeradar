@@ -462,7 +462,7 @@
   "vorverkauf_ab": "2026-10-02"
  },
  "30th-celebration-etb-en-pokemon-center": {
-  "aktualisiert": "2026-10-08T19:52:34Z",
+  "aktualisiert": "2026-10-13T19:01:49Z",
   "erscheint_am": "2026-10-01",
   "erstmals": "2026-09-30T00:45:21Z",
   "gemeldet": [
@@ -477,20 +477,27 @@
   "haendler": "nicht genannt",
   "hype": 10,
   "key": "30th-celebration-etb-en-pokemon-center",
-  "kurz": "30. Jubiläums-Elite-Box vorbestellbar, knapp und begehrt",
+  "kurz": "30. Jubiläums-ETB mit Mega-Formen und Ex-Formen wird vorbestellt.",
   "liefertermin": "2026-11-07",
   "lieferwelle": 1,
   "markt": {
    "ch30": null,
-   "ch7": 9.2,
-   "hoch": 358.05,
+   "ch7": 5.6,
+   "hoch": 372.97,
    "id": 895552,
-   "low": 400,
+   "low": 399.95,
    "name": "30th Celebration Pokémon Center Elite Trainer Box",
-   "trend": 358.05
+   "trend": 372.9
   },
   "name": "30th Celebration Elite Trainer Box",
   "quellen": [
+   {
+    "datum": "2026-10-13T19:01:49Z",
+    "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1x55irf/target_drop_expected_tonight_midnight_pst_3am_est/",
+    "quelle": "Reddit",
+    "status": "vorbestellbar",
+    "titel": "Target drop Expected tonight Midnight PST 3am EST"
+   },
    {
     "datum": "2026-10-08T19:52:34Z",
     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1x10w9o/target_drop_expected_tonight_midnight_pst_3am_est/",
@@ -539,13 +546,6 @@
     "quelle": "Reddit",
     "status": "vorbestellbar",
     "titel": "Target Drop tonight 30th! Midnight PDT , 3 Am EST"
-   },
-   {
-    "datum": "2026-09-30T00:45:21Z",
-    "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wtr6gl/pokemon_center_drop_likely_tomorrow/",
-    "quelle": "Reddit",
-    "status": "vorbestellbar",
-    "titel": "POKEMON CENTER DROP LIKELY TOMORROW!"
    }
   ],
   "rating": {
