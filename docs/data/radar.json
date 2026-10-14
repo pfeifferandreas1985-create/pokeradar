@@ -488,6 +488,18 @@
  },
  "marktnews": [
   {
+   "datum": "2026-10-14T01:45:43Z",
+   "id": "0fb4afb2753e238c",
+   "kurz": "Preis für Flareon stieg von 400 auf 1000 USD",
+   "link": "https://www.reddit.com/r/PokeInvesting/comments/1x5ewji/vintage_pokemon/",
+   "markt": null,
+   "quelle": "Reddit",
+   "sprache": "en",
+   "titel": "Vintage Pokemon",
+   "trend": "steigt",
+   "typ": "andere"
+  },
+  {
    "datum": "2026-10-11T13:37:40Z",
    "id": "9d05df257b5b47bb",
    "kurz": "30. Jubiläum-Elite-Box nahe Marktwert auf Amazon.",
@@ -773,6 +785,109 @@
   }
  ],
  "produkte": [
+  {
+   "aktualisiert": "2026-10-14T03:49:22Z",
+   "erscheint_am": "2026-11-01",
+   "erstmals": "2026-10-05T00:19:01Z",
+   "gruende": [
+    "Chaos Rising ETB exklusiv",
+    "hochbegehrt",
+    "knapp und limitiert",
+    "Pokémon-Center-Box exklusiv"
+   ],
+   "hype": 9,
+   "key": "pokemon-center-chaos-rising-etb-en-pokemon-center",
+   "kurz": "Vorverkauf für Pokémon-Center-ETB startet, knapp und begehrt",
+   "liefertermin": "2026-11-07",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": null,
+    "ch7": 23.3,
+    "hoch": 265.71,
+    "id": 567355,
+    "low": 319,
+    "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
+    "trend": 265.71
+   },
+   "name": "Pokémon Center Chaos Rising Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-10-14T03:49:22Z",
+     "link": "https://www.reddit.com/r/PokeInvesting/comments/1x5haqa/fair_trade_curious/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "Fair trade? Curious"
+    },
+    {
+     "datum": "2026-10-05T00:19:01Z",
+     "link": "https://www.reddit.com/r/PokeInvesting/comments/1wxuqie/thoughts_on_pokemon_center_chaos_rising_etb/",
+     "quelle": "Reddit",
+     "status": "angekuendigt",
+     "titel": "Thoughts on pokemon center chaos rising etb?"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Chaos Rising ETB exklusiv",
+     "hochbegehrt",
+     "knapp und limitiert"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Pokémon Center Chaos Rising",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
+   "vorverkauf_ab": "2026-10-15"
+  },
+  {
+   "aktualisiert": "2026-10-14T00:41:32Z",
+   "erstmals": "2026-10-14T00:41:32Z",
+   "gruende": [
+    "Limitiertes Set, hoher Fan-Bezug",
+    "Preisstabilität trotz großen Angebots",
+    "Hype um Evolutions-Entwicklungen"
+   ],
+   "hype": 8,
+   "key": "30th-upc-upc-en",
+   "kurz": "30. UPC angekündigt, Preise steigen, Hype hoch",
+   "markt": {
+    "ch30": null,
+    "ch7": 0.0,
+    "hoch": 784.27,
+    "id": 412289,
+    "low": 1999.99,
+    "name": "Hidden Fates: Ultra-Premium Collection",
+    "trend": 784.27
+   },
+   "name": "30th UPC Ultra Premium Collection",
+   "quellen": [
+    {
+     "datum": "2026-10-14T00:41:32Z",
+     "link": "https://www.reddit.com/r/PokeInvesting/comments/1x5dm10/what_do_you_guys_think_about_30th_upc/",
+     "quelle": "Reddit",
+     "status": "angekuendigt",
+     "titel": "What do you guys think about 30th UPC?"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Limitiertes Set, hoher Fan-Bezug",
+     "Preisstabilität trotz großen Angebots",
+     "Hype um Evolutions-Entwicklungen"
+    ],
+    "sterne": 4,
+    "urteil": "Lohnt sich"
+   },
+   "set": "30th UPC",
+   "sprache": "en",
+   "stage": "angekuendigt",
+   "typ": "upc",
+   "variante": null
+  },
   {
    "aktualisiert": "2026-10-13T19:01:49Z",
    "erscheint_am": "2026-10-01",
@@ -1610,51 +1725,6 @@
     "urteil": "Lohnt sich"
    },
    "set": "Prismatic Evolution",
-   "sprache": "en",
-   "stage": "angekuendigt",
-   "typ": "etb",
-   "variante": "pokemon-center"
-  },
-  {
-   "aktualisiert": "2026-10-05T00:19:01Z",
-   "erstmals": "2026-10-05T00:19:01Z",
-   "gruende": [
-    "Chaos Rising ETB exklusiv",
-    "hochbegehrt",
-    "knapp und limitiert"
-   ],
-   "hype": 9,
-   "key": "pokemon-center-chaos-rising-etb-en-pokemon-center",
-   "kurz": "Pokémon Center Chaos Rising ETB wird als besonders begehrt angesehen",
-   "markt": {
-    "ch30": null,
-    "ch7": 0.0,
-    "hoch": 215.58,
-    "id": 567355,
-    "low": 319,
-    "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
-    "trend": 215.58
-   },
-   "name": "Pokémon Center Chaos Rising Elite Trainer Box",
-   "quellen": [
-    {
-     "datum": "2026-10-05T00:19:01Z",
-     "link": "https://www.reddit.com/r/PokeInvesting/comments/1wxuqie/thoughts_on_pokemon_center_chaos_rising_etb/",
-     "quelle": "Reddit",
-     "status": "angekuendigt",
-     "titel": "Thoughts on pokemon center chaos rising etb?"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Chaos Rising ETB exklusiv",
-     "hochbegehrt",
-     "knapp und limitiert"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "Pokémon Center Chaos Rising",
    "sprache": "en",
    "stage": "angekuendigt",
    "typ": "etb",
