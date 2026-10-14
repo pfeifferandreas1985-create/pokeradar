@@ -488,6 +488,26 @@
  },
  "marktnews": [
   {
+   "datum": "2026-10-14T08:55:57Z",
+   "id": "fafe67c8a56bb3d8",
+   "kurz": "ETB 30. Jubiläum nahe Marktpreis – hohe Nachfrage.",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQblpmS2UzZml2aEdmaWdQZGZEdzIzSjFlVTFUNzJ1dmlUT0xrc1d3YkxuX2RKRmJ4UVVPUzJKU09GdFZDSktiWXF0VmRDaERPUjBiRkpDSVl0TGNPYk9lOTZ3QmF0OXFBSk5jNVdzX0ZUbkZDVlpwb181aWxsdDJ0Vkx3MmdDWW9zazlObA?oc=5",
+   "markt": {
+    "ch30": null,
+    "ch7": 5.6,
+    "hoch": 372.97,
+    "id": 895552,
+    "low": 399.95,
+    "name": "30th Celebration Pokémon Center Elite Trainer Box",
+    "trend": 372.9
+   },
+   "quelle": "Mashable",
+   "sprache": "en",
+   "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is close to market price — save over $90",
+   "trend": "steigt",
+   "typ": "etb"
+  },
+  {
    "datum": "2026-10-14T01:45:43Z",
    "id": "0fb4afb2753e238c",
    "kurz": "Preis für Flareon stieg von 400 auf 1000 USD",
@@ -786,6 +806,62 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-10-14T10:49:58Z",
+   "erstmals": "2026-10-14T00:41:32Z",
+   "gruende": [
+    "Limitiertes Set, hoher Fan-Bezug",
+    "Preisstabilität trotz großen Angebots",
+    "Hype um Evolutions-Entwicklungen",
+    "30. Jubiläum, exklusiv, limitiert"
+   ],
+   "haendler": "Amazon",
+   "hype": 9,
+   "key": "30th-upc-upc-en",
+   "kurz": "30. Jubiläum-UPC vorbestellbar – knapp und begehrt.",
+   "markt": {
+    "ch30": null,
+    "ch7": 0.0,
+    "hoch": 784.27,
+    "id": 412289,
+    "low": 1999.99,
+    "name": "Hidden Fates: Ultra-Premium Collection",
+    "trend": 784.27
+   },
+   "name": "30th UPC Ultra Premium Collection",
+   "quellen": [
+    {
+     "datum": "2026-10-14T10:49:58Z",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUVNsOUlCY0hwVmR0T2hteF85SGdTdEdXYlo3SkZ1R0hNV1p2Nmp0TnBvUXJ1cXozZHY4VFVhNTE1RkdRNW5uNnlUZVBuVm5KVkNIbDloNVk1ZDczR0JMMWhkNDBMU3lzclh0Q3AzQjBQaUNrWnVGMlEtbnBMQmE5QVUwdlZlRW9FSkJtVGp1dTVqWjQ?oc=5",
+     "quelle": "Mashable",
+     "status": "vorbestellbar",
+     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder now"
+    },
+    {
+     "datum": "2026-10-14T00:41:32Z",
+     "link": "https://www.reddit.com/r/PokeInvesting/comments/1x5dm10/what_do_you_guys_think_about_30th_upc/",
+     "quelle": "Reddit",
+     "status": "angekuendigt",
+     "titel": "What do you guys think about 30th UPC?"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Limitiertes Set, hoher Fan-Bezug",
+     "Preisstabilität trotz großen Angebots",
+     "Hype um Evolutions-Entwicklungen"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th UPC",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "upc",
+   "variante": null,
+   "vorverkauf_ab": "2026-10-14"
+  },
+  {
    "aktualisiert": "2026-10-14T03:49:22Z",
    "erscheint_am": "2026-11-01",
    "erstmals": "2026-10-05T00:19:01Z",
@@ -842,51 +918,6 @@
    "typ": "etb",
    "variante": "pokemon-center",
    "vorverkauf_ab": "2026-10-15"
-  },
-  {
-   "aktualisiert": "2026-10-14T00:41:32Z",
-   "erstmals": "2026-10-14T00:41:32Z",
-   "gruende": [
-    "Limitiertes Set, hoher Fan-Bezug",
-    "Preisstabilität trotz großen Angebots",
-    "Hype um Evolutions-Entwicklungen"
-   ],
-   "hype": 8,
-   "key": "30th-upc-upc-en",
-   "kurz": "30. UPC angekündigt, Preise steigen, Hype hoch",
-   "markt": {
-    "ch30": null,
-    "ch7": 0.0,
-    "hoch": 784.27,
-    "id": 412289,
-    "low": 1999.99,
-    "name": "Hidden Fates: Ultra-Premium Collection",
-    "trend": 784.27
-   },
-   "name": "30th UPC Ultra Premium Collection",
-   "quellen": [
-    {
-     "datum": "2026-10-14T00:41:32Z",
-     "link": "https://www.reddit.com/r/PokeInvesting/comments/1x5dm10/what_do_you_guys_think_about_30th_upc/",
-     "quelle": "Reddit",
-     "status": "angekuendigt",
-     "titel": "What do you guys think about 30th UPC?"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Limitiertes Set, hoher Fan-Bezug",
-     "Preisstabilität trotz großen Angebots",
-     "Hype um Evolutions-Entwicklungen"
-    ],
-    "sterne": 4,
-    "urteil": "Lohnt sich"
-   },
-   "set": "30th UPC",
-   "sprache": "en",
-   "stage": "angekuendigt",
-   "typ": "upc",
-   "variante": null
   },
   {
    "aktualisiert": "2026-10-13T19:01:49Z",

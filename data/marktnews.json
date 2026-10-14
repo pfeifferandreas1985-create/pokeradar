@@ -1,5 +1,25 @@
 [
  {
+  "datum": "2026-10-14T08:55:57Z",
+  "id": "fafe67c8a56bb3d8",
+  "kurz": "ETB 30. Jubiläum nahe Marktpreis – hohe Nachfrage.",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQblpmS2UzZml2aEdmaWdQZGZEdzIzSjFlVTFUNzJ1dmlUT0xrc1d3YkxuX2RKRmJ4UVVPUzJKU09GdFZDSktiWXF0VmRDaERPUjBiRkpDSVl0TGNPYk9lOTZ3QmF0OXFBSk5jNVdzX0ZUbkZDVlpwb181aWxsdDJ0Vkx3MmdDWW9zazlObA?oc=5",
+  "markt": {
+   "ch30": null,
+   "ch7": 5.6,
+   "hoch": 372.97,
+   "id": 895552,
+   "low": 399.95,
+   "name": "30th Celebration Pokémon Center Elite Trainer Box",
+   "trend": 372.9
+  },
+  "quelle": "Mashable",
+  "sprache": "en",
+  "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is close to market price — save over $90",
+  "trend": "steigt",
+  "typ": "etb"
+ },
+ {
   "datum": "2026-10-14T01:45:43Z",
   "id": "0fb4afb2753e238c",
   "kurz": "Preis für Flareon stieg von 400 auf 1000 USD",
