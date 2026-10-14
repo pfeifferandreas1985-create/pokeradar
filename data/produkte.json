@@ -1570,6 +1570,47 @@
   "typ": "etb",
   "variante": null
  },
+ "mega-dream-ex-etb-jp-pokemon-center": {
+  "aktualisiert": "2026-10-14T15:48:54Z",
+  "erstmals": "2026-10-14T15:48:54Z",
+  "gemeldet": [],
+  "gruende": [
+   "MEGA DREAM ex exklusiv",
+   "Pokemon Center-Box",
+   "Hochpreis-Verkauf"
+  ],
+  "hype": 9,
+  "key": "mega-dream-ex-etb-jp-pokemon-center",
+  "kurz": "MEGA DREAM ex Vorbestellung startet 27.11.2026",
+  "liefertermin": "2026-12-15",
+  "lieferwelle": 1,
+  "name": "MEGA DREAM ex Elite Trainer Box",
+  "quellen": [
+   {
+    "datum": "2026-10-14T15:48:54Z",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00MFpSR0EtbFNCY1RKRzY1RjFoYnItbGZRcE5IX2VFY05GT2VuclNiaW5YMGxycFZrZnM1MHM3Q2NTbURzVjNXWlhEaEs?oc=5",
+    "quelle": "SNKRDUNK",
+    "status": "vorbestellbar",
+    "titel": "【ポケカ】MEGAドリームexの予約・抽選情報まとめ【11/27更新】 | スニーカーダンク"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "MEGA DREAM ex exklusiv",
+    "Pokemon Center-Box",
+    "Hochpreis-Verkauf"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "MEGA DREAM ex",
+  "sprache": "jp",
+  "stage": "vorbestellbar",
+  "typ": "etb",
+  "variante": "pokemon-center",
+  "vorverkauf_ab": "2026-11-27"
+ },
  "new-edition-build-box-set-display-jp-18er": {
   "aktualisiert": "2026-09-29T21:46:11Z",
   "erstmals": "2026-09-29T21:46:11Z",
