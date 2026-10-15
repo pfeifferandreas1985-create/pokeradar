@@ -1,5 +1,43 @@
 [
  {
+  "datum": "2026-10-15T04:42:41Z",
+  "haendler": "eBay",
+  "hype": 9,
+  "id": "a408ad16d6399e5b",
+  "kurz": "30. Jubiläum-Elite-Box mit Promo-Preis auf eBay, sehr begehrt",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x6cjh7/30th_anniversary_elite_trainer_box_149_promotion/",
+  "markt": {
+   "ch30": null,
+   "ch7": 23.3,
+   "hoch": 265.71,
+   "id": 567355,
+   "low": 319,
+   "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
+   "trend": 265.71
+  },
+  "preis": 149.0,
+  "preis_eur": 133.1,
+  "produkt": "30th Anniversary Elite Trainer Box",
+  "quelle": "Reddit",
+  "rabatt": 49.9,
+  "rating": {
+   "gruende": [
+    "50 % unter Cardmarket-Trend (133,10 € statt 265,71 €)",
+    "Begehrtes Produkt (Hype 9/10)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 4,
+   "urteil": "Lohnt sich"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "30th Anniversary Elite Trainer Box $149 Promotion by eBay!",
+  "typ": "etb",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-10-13T11:55:57Z",
   "haendler": "EDEKA",
   "hype": 4,
