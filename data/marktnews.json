@@ -1,5 +1,25 @@
 [
  {
+  "datum": "2026-10-15T14:42:48Z",
+  "id": "927a13307e756616",
+  "kurz": "30. Jubiläum-ETB nahe Marktwert auf Amazon, hohe Nachfrage",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlZDLVZBNTNhX2xrMUZhcm1qTS1WNy01TU5vekNBdGFaTTRvU0dqTFhJdnk5S3JUOXQwOWx5UGFMZV9EMk5rM19rTGgxbU56RnJDQU03V0tPcnFtYjFrcGE5ZGhJYUJJZTBnWDI4RFBJVVB4LWpIQ0l3VWJRS3ZWdTY5OHA4dWI1OHB4bA?oc=5",
+  "markt": {
+   "ch30": null,
+   "ch7": 5.1,
+   "hoch": 376.23,
+   "id": 895552,
+   "low": 320,
+   "name": "30th Celebration Pokémon Center Elite Trainer Box",
+   "trend": 376.23
+  },
+  "quelle": "Mashable",
+  "sprache": "en",
+  "titel": "Best Pokémon TCG deal: 30th Celebration Elite Trainer Box is close to market value on Amazon",
+  "trend": "steigt",
+  "typ": "etb"
+ },
+ {
   "datum": "2026-10-14T08:35:12Z",
   "id": "8d9e05dbdd784f04",
   "kurz": "30. Jubiläum-ETB, Preisanstieg, hohe Nachfrage.",
