@@ -1,6 +1,43 @@
 {
  "deals": [
   {
+   "datum": "2026-10-15T13:23:24Z",
+   "haendler": null,
+   "hype": 7,
+   "id": "1806b8a0b14f36d1",
+   "kurz": "The Pokémon TCG 30th Celebration ETB is close to market price at Amazon — shop for $159.99",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONE9nSDJaTnBCQV9rdFVLLW9xNmVUMEtIYm13cUZxT2VneDFuOWRvS05rRVNRMzJrRDUwdTY3RWFRYU52RFZoUUpKeGFQMmRLVjFzbV9hb1hnckcxQWRHemh6Rk1WaXZlSU9GOEZoYlIyR0dLSFpJcWtpeUFFUVBLN1M5MzZXOGJNaEF1STNR?oc=5",
+   "markt": {
+    "ch30": null,
+    "ch7": -0.0,
+    "hoch": 135.27,
+    "id": 895551,
+    "low": 88,
+    "name": "30th Celebration Elite Trainer Box",
+    "trend": 131.45
+   },
+   "preis": 159.99,
+   "preis_eur": 142.75,
+   "produkt": "The Pokémon TCG 30th Celebration ETB is close to market price at Amazon — shop for $159.99",
+   "quelle": "Yahoo",
+   "rabatt": -8.6,
+   "rating": {
+    "gruende": [
+     "Kein Vorteil: 142,75 € liegt über dem Cardmarket-Trend (131,45 €)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 1,
+    "urteil": "Eher nicht"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "The Pokémon TCG 30th Celebration ETB is close to market price at Amazon — shop for $159.99",
+   "typ": "etb",
+   "waehrung": "USD"
+  },
+  {
    "datum": "2026-10-16T00:34:54Z",
    "haendler": "Amazon",
    "hype": 9,
