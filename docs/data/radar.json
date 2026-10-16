@@ -978,7 +978,7 @@
  ],
  "produkte": [
   {
-   "aktualisiert": "2026-10-14T22:53:03Z",
+   "aktualisiert": "2026-10-16T10:48:54Z",
    "erscheint_am": "2026-11-15",
    "erstmals": "2026-10-08T03:39:31Z",
    "gruende": [
@@ -987,24 +987,31 @@
     "Preisverfall bei Vorbestellung",
     "Preis unter Markt"
    ],
-   "haendler": "German Pokemon Centre",
+   "haendler": "Amazon",
    "hype": 7,
    "key": "delta-reign-display-en",
-   "kurz": "Delta Reign 38er Display vorbestellbar, trotz früherer Ausverkäufe.",
+   "kurz": "Vorbestellung mit Preisnachlass für Delta Reign-Box auf Amazon",
    "liefertermin": "2026-12-10",
    "lieferwelle": 1,
    "markt": {
     "ch30": null,
-    "ch7": -0.3,
+    "ch7": -3.3,
     "hoch": 234.3,
     "id": 903956,
     "low": 175,
     "name": "Delta Reign Booster Box",
-    "trend": 227.82
+    "trend": 226.57
    },
    "name": "Delta Reign Booster Box",
    "preis_eur": 17.89,
    "quellen": [
+    {
+     "datum": "2026-10-16T10:48:54Z",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDRPMG5nT3RUaWE1OFJEV1M2VFVBYUpwUzRIV3Q5bktSc05kY256LVhGV3RIZEJDTlZhZFBkX0EzaThqTi1EVE5LY2JHOTJ1bE9ZSlFHOFhxTUdTWWFlU3daSnpmb2hoZ05UcGVBc0dVUThxQUVzQWVIT2dIUDZwRFBETWY5eHc2RWJCQUtteHpXN3NfRzV3YzlsMA?oc=5",
+     "quelle": "Mashable",
+     "status": "vorbestellbar",
+     "titel": "Best Pokémon TCG deal: Preorder Delta Reign Booster Display Box gets an over 10% price drop at Amazon"
+    },
     {
      "datum": "2026-10-14T22:53:03Z",
      "link": "https://www.reddit.com/r/PokeInvesting/comments/1x65m6n/delta_reign_market_psychology/",
@@ -1053,13 +1060,6 @@
      "quelle": "Mashable",
      "status": "vorbestellbar",
      "titel": "Best Pokémon TCG deal: Preorder 36 packs of Delta Reign for under $270 at Amazon"
-    },
-    {
-     "datum": "2026-10-08T03:39:31Z",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi14cERVZFFCclhRRE1oWVpoalJ6VlU0b05lcFEyclBBdXQwYjBsb2x4dnhNeDdKUDduWWZBeXltbmlyRnNrbkItekI5Y0JMS2g1STVLeHdwamVjLTdWeDJYLXdoYl9PcEstNW5zWmZZTE54QzdnVW9WcW4yT0dRNDF6OHFNdkM4SGtiVVNqalNlUTQ?oc=5",
-     "quelle": "Joseph Writer Anderson",
-     "status": "vorbestellbar",
-     "titel": "Pokémon TCG: Delta Reign Pre-Orders Drop on Amazon"
     }
    ],
    "rating": {
@@ -1078,6 +1078,43 @@
    "typ": "display",
    "variante": null,
    "vorverkauf_ab": "2026-10-14"
+  },
+  {
+   "aktualisiert": "2026-10-16T08:53:35Z",
+   "erstmals": "2026-10-16T08:53:35Z",
+   "gruende": [
+    "MEGA-Charaktere sind begehrt",
+    "Pokemon Center-Exklusiv",
+    "Starke Nachfrage"
+   ],
+   "hype": 9,
+   "key": "mega-mega-oodamiru-mega-kaiju-mega-gengar-etb-jp-pokemon-center",
+   "kurz": "MEGA-Deck-Set im Pokémon-Center-Pre-Order ist verfügbar",
+   "name": "MEGA Mega Oodamiru, Mega Kaiju, Mega Gengar Special Deck Set",
+   "quellen": [
+    {
+     "datum": "2026-10-16T08:53:35Z",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tRzhDSzk2T2hzd2VzUExGVG1CbGUxWUlkcjVCZHd3WjJNM21SQ2xqWnRudlYtRHR0V01mSlNpSk03ZVBVUzk0R3Z0eHc?oc=5",
+     "quelle": "SNKRDUNK",
+     "status": "vorbestellbar",
+     "titel": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/16更新】"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "MEGA-Charaktere sind begehrt",
+     "Pokemon Center-Exklusiv",
+     "Starke Nachfrage"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "MEGA Mega Oodamiru, Mega Kaiju, Mega Gengar",
+   "sprache": "jp",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center"
   },
   {
    "aktualisiert": "2026-10-14T15:48:54Z",
