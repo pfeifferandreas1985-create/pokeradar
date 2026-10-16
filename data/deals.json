@@ -1,5 +1,43 @@
 [
  {
+  "datum": "2026-10-16T00:34:54Z",
+  "haendler": "Amazon",
+  "hype": 9,
+  "id": "d04c7c9ce441cc13",
+  "kurz": "30. Jubiläum-Elite-Box für 159,99 USD auf Amazon verfügbar",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2x0SWVUeHpNdEFtdU1wT0tfQVBMYVZlei01LW9mYTRTUlJBMVU4RnpKVDVyRjRvMXRjZllnN19HdEdUX1AtR2xFS1E3WWtGUS10MzMwWlN3N2RQcTlOZEp2ZWNETnlma2R1emlXakhpMGk5U09YQXM3MjBzQTBseWVXTVpzYXJkNlVxZ014U3JWdkRDODZRNGE0QXJJMk5ISC1TZ2xTTQ?oc=5",
+  "markt": {
+   "ch30": null,
+   "ch7": 5.1,
+   "hoch": 376.23,
+   "id": 895552,
+   "low": 320,
+   "name": "30th Celebration Pokémon Center Elite Trainer Box",
+   "trend": 376.23
+  },
+  "preis": 159.99,
+  "preis_eur": 142.75,
+  "produkt": "30th Celebration Elite Trainer Box",
+  "quelle": "SSBCrack",
+  "rabatt": 62.1,
+  "rating": {
+   "gruende": [
+    "62 % unter Cardmarket-Trend (142,75 € statt 376,23 €)",
+    "Begehrtes Produkt (Hype 9/10)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 4,
+   "urteil": "Lohnt sich"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Pokémon TCG 30th Celebration Elite Trainer Box Available for $159.99 on Amazon",
+  "typ": "etb",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-10-15T04:42:41Z",
   "haendler": "eBay",
   "hype": 9,
