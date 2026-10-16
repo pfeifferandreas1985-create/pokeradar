@@ -437,42 +437,6 @@
   "waehrung": "USD"
  },
  {
-  "datum": "2026-09-16T13:37:06Z",
-  "haendler": "Galaxus",
-  "hype": 7,
-  "id": "c724806bf20bc83a",
-  "kurz": "Top-Trainer-Box Chaos Rising erhältlich, knapp",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.mydealz.de/deals/top-trainer-box-wachsendes-chaos-englisch-2840097",
-  "markt": {
-   "ch30": null,
-   "ch7": null,
-   "hoch": 61.05,
-   "id": 877294,
-   "low": 43.99,
-   "name": "Chaos Rising Elite Trainer Box",
-   "trend": 61.05
-  },
-  "preis": 63.9,
-  "preis_eur": 63.9,
-  "produkt": "Chaos Rising Top Trainer Box",
-  "quelle": "mydealz",
-  "rabatt": -4.7,
-  "rating": {
-   "gruende": [
-    "Kein Vorteil: 63,90 € liegt über dem Cardmarket-Trend (61,05 €)"
-   ],
-   "sterne": 1,
-   "urteil": "Eher nicht"
-  },
-  "sprache": "de",
-  "status": "angebot",
-  "titel": "Pokemon Top Trainer Box Wachsendes Chaos Englisch",
-  "typ": "etb",
-  "waehrung": "EUR"
- },
- {
   "datum": "2026-09-25T10:18:18Z",
   "haendler": "Amazon",
   "hype": 7,
