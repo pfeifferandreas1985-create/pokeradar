@@ -462,8 +462,8 @@
   "vorverkauf_ab": "2026-10-02"
  },
  "30th-celebration-etb-en-pokemon-center": {
-  "aktualisiert": "2026-10-13T19:01:49Z",
-  "erscheint_am": "2026-10-01",
+  "aktualisiert": "2026-10-17T17:05:01Z",
+  "erscheint_am": "2026-11-01",
   "erstmals": "2026-09-30T00:45:21Z",
   "gemeldet": [
    "vorbestellbar"
@@ -477,20 +477,28 @@
   "haendler": "nicht genannt",
   "hype": 10,
   "key": "30th-celebration-etb-en-pokemon-center",
-  "kurz": "30. Jubiläums-ETB mit Mega-Formen und Ex-Formen wird vorbestellt.",
-  "liefertermin": "2026-11-07",
+  "kurz": "30. Jubiläums-Elite-Box für Pokémon-Center ist angekündigt und preislich verfügbar",
+  "liefertermin": "2026-12-15",
   "lieferwelle": 1,
   "markt": {
    "ch30": null,
-   "ch7": 5.6,
-   "hoch": 372.97,
-   "id": 895552,
-   "low": 399.95,
-   "name": "30th Celebration Pokémon Center Elite Trainer Box",
-   "trend": 372.9
+   "ch7": 23.3,
+   "hoch": 265.71,
+   "id": 567355,
+   "low": 399.9,
+   "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
+   "trend": 265.71
   },
   "name": "30th Celebration Elite Trainer Box",
+  "preis_eur": 113.75,
   "quellen": [
+   {
+    "datum": "2026-10-17T17:05:01Z",
+    "link": "https://www.reddit.com/r/PokeInvesting/comments/1x8ffje/30th_anniversary_celebration_elite_trainer_boxes/",
+    "quelle": "Reddit",
+    "status": "angekuendigt",
+    "titel": "30th Anniversary Celebration Elite Trainer Boxes $128"
+   },
    {
     "datum": "2026-10-13T19:01:49Z",
     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1x55irf/target_drop_expected_tonight_midnight_pst_3am_est/",
@@ -539,13 +547,6 @@
     "quelle": "Reddit",
     "status": "vorbestellbar",
     "titel": "MASSIVE 30TH RESTOCK TONIGHT , DONT MISS IT"
-   },
-   {
-    "datum": "2026-09-22T20:41:23Z",
-    "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wnlcnz/target_drop_tonight_30th_midnight_pdt_3_am_est/",
-    "quelle": "Reddit",
-    "status": "vorbestellbar",
-    "titel": "Target Drop tonight 30th! Midnight PDT , 3 Am EST"
    }
   ],
   "rating": {
@@ -563,7 +564,7 @@
   "stage": "vorbestellbar",
   "typ": "etb",
   "variante": "pokemon-center",
-  "vorverkauf_ab": "2026-10-30"
+  "vorverkauf_ab": "2026-10-17"
  },
  "30th-celebration-etb-jp-pokemon-center": {
   "aktualisiert": "2026-09-30T05:02:42Z",

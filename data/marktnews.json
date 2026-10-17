@@ -1,5 +1,49 @@
 [
  {
+  "datum": "2026-10-17T15:28:30Z",
+  "id": "7547436134de915a",
+  "kurz": "Here is an analysis I did of diff vintage sets (and segments within set) price movement over the past 90 days",
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x8d18h/here_is_an_analysis_i_did_of_diff_vintage_sets/",
+  "markt": null,
+  "quelle": "Reddit",
+  "sprache": "en",
+  "titel": "Here is an analysis I did of diff vintage sets (and segments within set) price movement over the past 90 days",
+  "trend": null,
+  "typ": "andere"
+ },
+ {
+  "datum": "2026-10-17T16:00:50Z",
+  "id": "1d2bb84526d42086",
+  "kurz": "Mew ex verliert Marktvalue, viele Sets fallen",
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x8dtku/pokemon_tcg_market_report_oct_16_most_sets_down/",
+  "markt": null,
+  "quelle": "Reddit",
+  "sprache": "en",
+  "titel": "Pokemon TCG Market Report, Oct 16: most sets down, Mew ex -18%",
+  "trend": "faellt",
+  "typ": "andere"
+ },
+ {
+  "datum": "2026-10-17T16:35:40Z",
+  "id": "ce6f3542da93a37c",
+  "kurz": "Lost Origin BB verliert Wert, Fusion Strike bleibt teurer",
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x8ep5n/lost_origin_fusion_strike_bb_or_one_evolving/",
+  "markt": {
+   "ch30": null,
+   "ch7": 0.0,
+   "hoch": 171.58,
+   "id": 666147,
+   "low": 199,
+   "name": "Lost Origin Booster Box (18 Boosters)",
+   "trend": 171.58
+  },
+  "quelle": "Reddit",
+  "sprache": "en",
+  "titel": "Lost Origin + Fusion Strike BB or one Evolving Skies BB for long-term hold?",
+  "trend": "faellt",
+  "typ": "display"
+ },
+ {
   "datum": "2026-10-15T14:42:48Z",
   "id": "927a13307e756616",
   "kurz": "30. Jubiläum-ETB nahe Marktwert auf Amazon, hohe Nachfrage",
