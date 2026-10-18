@@ -1,42 +1,5 @@
 [
  {
-  "datum": "2026-10-18T07:40:46Z",
-  "haendler": "eBay",
-  "hype": 7,
-  "id": "4ea6e924dd665364",
-  "kurz": "Delta Reign Booster Box mit Angebot von eBay für 217 USD.",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x8x94z/delta_reign_booster_boxes_preorder_217_promotion/",
-  "markt": {
-   "ch30": null,
-   "ch7": -3.6,
-   "hoch": 234.3,
-   "id": 903956,
-   "low": 175,
-   "name": "Delta Reign Booster Box",
-   "trend": 223.57
-  },
-  "preis": 217.0,
-  "preis_eur": 192.84,
-  "produkt": "Delta Reign Booster Box",
-  "quelle": "Reddit",
-  "rabatt": 13.7,
-  "rating": {
-   "gruende": [
-    "14 % unter Cardmarket-Trend (192,84 € statt 223,57 €)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 1,
-   "urteil": "Eher nicht"
-  },
-  "sprache": "en",
-  "status": "angebot",
-  "titel": "Delta Reign Booster Boxes Preorder $217 Promotion by eBay!",
-  "typ": "display",
-  "waehrung": "USD"
- },
- {
   "datum": "2026-10-15T13:23:24Z",
   "haendler": null,
   "hype": 7,
@@ -47,21 +10,21 @@
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONE9nSDJaTnBCQV9rdFVLLW9xNmVUMEtIYm13cUZxT2VneDFuOWRvS05rRVNRMzJrRDUwdTY3RWFRYU52RFZoUUpKeGFQMmRLVjFzbV9hb1hnckcxQWRHemh6Rk1WaXZlSU9GOEZoYlIyR0dLSFpJcWtpeUFFUVBLN1M5MzZXOGJNaEF1STNR?oc=5",
   "markt": {
    "ch30": null,
-   "ch7": -0.0,
+   "ch7": 0.6,
    "hoch": 135.27,
    "id": 895551,
    "low": 88,
    "name": "30th Celebration Elite Trainer Box",
-   "trend": 131.45
+   "trend": 132
   },
   "preis": 159.99,
   "preis_eur": 142.75,
-  "produkt": "The Pokémon TCG 30th Celebration ETB is close to market price at Amazon — shop for $159.99",
+  "produkt": "30th Celebration Elite Trainer Box",
   "quelle": "Yahoo",
-  "rabatt": -8.6,
+  "rabatt": -8.1,
   "rating": {
    "gruende": [
-    "Kein Vorteil: 142,75 € liegt über dem Cardmarket-Trend (131,45 €)",
+    "Kein Vorteil: 142,75 € liegt über dem Cardmarket-Trend (132,00 €)",
     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
    ],
    "sterne": 1,
@@ -84,68 +47,30 @@
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2x0SWVUeHpNdEFtdU1wT0tfQVBMYVZlei01LW9mYTRTUlJBMVU4RnpKVDVyRjRvMXRjZllnN19HdEdUX1AtR2xFS1E3WWtGUS10MzMwWlN3N2RQcTlOZEp2ZWNETnlma2R1emlXakhpMGk5U09YQXM3MjBzQTBseWVXTVpzYXJkNlVxZ014U3JWdkRDODZRNGE0QXJJMk5ISC1TZ2xTTQ?oc=5",
   "markt": {
    "ch30": null,
-   "ch7": 5.1,
-   "hoch": 376.23,
-   "id": 895552,
-   "low": 320,
-   "name": "30th Celebration Pokémon Center Elite Trainer Box",
-   "trend": 376.23
+   "ch7": 0.6,
+   "hoch": 135.27,
+   "id": 895551,
+   "low": 88,
+   "name": "30th Celebration Elite Trainer Box",
+   "trend": 132
   },
   "preis": 159.99,
   "preis_eur": 142.75,
   "produkt": "30th Celebration Elite Trainer Box",
   "quelle": "SSBCrack",
-  "rabatt": 62.1,
+  "rabatt": -8.1,
   "rating": {
    "gruende": [
-    "62 % unter Cardmarket-Trend (142,75 € statt 376,23 €)",
+    "Kein Vorteil: 142,75 € liegt über dem Cardmarket-Trend (132,00 €)",
     "Begehrtes Produkt (Hype 9/10)",
     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
    ],
-   "sterne": 4,
-   "urteil": "Lohnt sich"
+   "sterne": 1,
+   "urteil": "Eher nicht"
   },
   "sprache": "en",
   "status": "angebot",
   "titel": "Pokémon TCG 30th Celebration Elite Trainer Box Available for $159.99 on Amazon",
-  "typ": "etb",
-  "waehrung": "USD"
- },
- {
-  "datum": "2026-10-15T04:42:41Z",
-  "haendler": "eBay",
-  "hype": 9,
-  "id": "a408ad16d6399e5b",
-  "kurz": "30. Jubiläum-Elite-Box mit Promo-Preis auf eBay, sehr begehrt",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x6cjh7/30th_anniversary_elite_trainer_box_149_promotion/",
-  "markt": {
-   "ch30": null,
-   "ch7": 23.3,
-   "hoch": 265.71,
-   "id": 567355,
-   "low": 319,
-   "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
-   "trend": 265.71
-  },
-  "preis": 149.0,
-  "preis_eur": 133.1,
-  "produkt": "30th Anniversary Elite Trainer Box",
-  "quelle": "Reddit",
-  "rabatt": 49.9,
-  "rating": {
-   "gruende": [
-    "50 % unter Cardmarket-Trend (133,10 € statt 265,71 €)",
-    "Begehrtes Produkt (Hype 9/10)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 4,
-   "urteil": "Lohnt sich"
-  },
-  "sprache": "en",
-  "status": "angebot",
-  "titel": "30th Anniversary Elite Trainer Box $149 Promotion by eBay!",
   "typ": "etb",
   "waehrung": "USD"
  },
@@ -186,27 +111,19 @@
   "liefertermin": null,
   "lieferwelle": null,
   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DeVpzVGVXZVg3NEMxRFdIMnVfaEl0Z1VVdTBHYXdFVXR1N1g5eld3Z0F5MjNlbll4dGUzS21TZFk0TDFvclhEQk9BVWF0TmdnTG55dFRDQUphVHN3NzR2ZEFodmpUNUxVNlpUd05FYjh1bkRGZDNEVEtsSDNFQQ?oc=5",
-  "markt": {
-   "ch30": null,
-   "ch7": 23.3,
-   "hoch": 265.71,
-   "id": 567355,
-   "low": 319,
-   "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
-   "trend": 265.71
-  },
+  "markt": null,
   "preis": 120.0,
   "preis_eur": 107.32,
   "produkt": "Elite Trainer Box",
   "quelle": "IGN",
-  "rabatt": 59.6,
+  "rabatt": null,
   "rating": {
    "gruende": [
-    "60 % unter Cardmarket-Trend (107,32 € statt 265,71 €)",
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
    ],
-   "sterne": 4,
-   "urteil": "Lohnt sich"
+   "sterne": 1,
+   "urteil": "Eher nicht"
   },
   "sprache": "en",
   "status": "angebot",
@@ -225,69 +142,31 @@
   "link": "https://www.mydealz.de/deals/pokemon-center-deutschland-pokemon-tcg-delta-herrschaft-top-trainer-box-ttb-6199-euro-6-euro-versand-display-und-bundle-verfugbar-2853478",
   "markt": {
    "ch30": null,
-   "ch7": 0.0,
-   "hoch": 150,
-   "id": 903944,
-   "low": 150,
-   "name": "Delta Reign Booster Box (18 Boosters)",
-   "trend": 150
+   "ch7": -3.6,
+   "hoch": 234.3,
+   "id": 903956,
+   "low": 175,
+   "name": "Delta Reign Booster Box",
+   "trend": 223.57
   },
   "preis": 165.99,
   "preis_eur": 165.99,
-  "produkt": "Delta Reign Display",
+  "produkt": "Delta Reign Booster Box",
   "quelle": "mydealz",
-  "rabatt": -10.7,
+  "rabatt": 25.8,
   "rating": {
    "gruende": [
-    "Kein Vorteil: 165,99 € liegt über dem Cardmarket-Trend (150,00 €)",
+    "26 % unter Cardmarket-Trend (165,99 € statt 223,57 €)",
     "Begehrtes Produkt (Hype 8/10)"
    ],
-   "sterne": 1,
-   "urteil": "Eher nicht"
+   "sterne": 4,
+   "urteil": "Lohnt sich"
   },
   "sprache": "de",
   "status": "vorbestellbar",
   "titel": "Preorder:Pokemon Center Deutschland: Pokemon TCG: Delta Herrschaft Display 165,99 Euro + 6 Euro Versand, Bundle auch verfügbar",
   "typ": "display",
   "waehrung": "EUR"
- },
- {
-  "datum": "2026-10-12T04:34:55Z",
-  "haendler": "eBay",
-  "hype": 9,
-  "id": "7f0d9e993c580227",
-  "kurz": "30. Jubiläums-Elite-Trainer-Box für 154 USD auf eBay",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x3skw7/30th_celebration_elite_trainer_box_154_promotion/",
-  "markt": {
-   "ch30": null,
-   "ch7": 5.6,
-   "hoch": 372.97,
-   "id": 895552,
-   "low": 399.95,
-   "name": "30th Celebration Pokémon Center Elite Trainer Box",
-   "trend": 372.9
-  },
-  "preis": 154.0,
-  "preis_eur": 137.43,
-  "produkt": "30th Celebration Elite Trainer Box",
-  "quelle": "Reddit",
-  "rabatt": 63.1,
-  "rating": {
-   "gruende": [
-    "63 % unter Cardmarket-Trend (137,43 € statt 372,90 €)",
-    "Begehrtes Produkt (Hype 9/10)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 4,
-   "urteil": "Lohnt sich"
-  },
-  "sprache": "en",
-  "status": "angebot",
-  "titel": "30th Celebration Elite Trainer Box $154 Promotion by eBay!",
-  "typ": "etb",
-  "waehrung": "USD"
  },
  {
   "datum": "2026-10-12T03:41:00Z",
@@ -298,107 +177,24 @@
   "liefertermin": null,
   "lieferwelle": null,
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONHpsMFJpU3IzV3F3TVVYYmpvWkg5SlRQRWdPd3BKWTNFNlo1NG84b2dMOVBJNHZPZW5vclFGVFNfOWNORDRGRGVHbFZGc0N6UVloYnZOMC1TY1dFeHJCemxvcU1ZcmhFbmJKRUxOTlpzMDFiQU1ib2RIZDNPLWNEUnhXeklPNEdKYU9PVkMxc0d1c2FfbElmY3FrNlBRTllBWmFVLTdEdVN4V3ctRmRDREdBRmZFaW9OVG56OENpMGJFZDliYnRLbnppY3E?oc=5",
-  "markt": {
-   "ch30": null,
-   "ch7": -1.2,
-   "hoch": 135.27,
-   "id": 895551,
-   "low": 80,
-   "name": "30th Celebration Elite Trainer Box",
-   "trend": 131.16
-  },
+  "markt": null,
   "preis": 55.0,
   "preis_eur": 55.0,
   "produkt": "Pokémon-Karten: Kaufland verkauft ab heute 30-Jahre-Top-Trainer-Box für 55 Euro",
   "quelle": "Giga",
-  "rabatt": 58.1,
+  "rabatt": null,
   "rating": {
    "gruende": [
-    "58 % unter Cardmarket-Trend (55,00 € statt 131,16 €)"
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
    ],
-   "sterne": 5,
-   "urteil": "Top-Chance"
+   "sterne": 2,
+   "urteil": "Abwarten"
   },
   "sprache": "de",
   "status": "angebot",
   "titel": "Pokémon-Karten: Kaufland verkauft ab heute 30-Jahre-Top-Trainer-Box für 55 Euro",
   "typ": "etb",
   "waehrung": "EUR"
- },
- {
-  "datum": "2026-10-10T06:33:23Z",
-  "haendler": "eBay",
-  "hype": 9,
-  "id": "da94f03e0c752a1b",
-  "kurz": "30. Jubiläum ETB bei eBay, limitiert, hoher Hype",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x286cs/30th_anniversary_elite_trainer_box_154_promotion/",
-  "markt": {
-   "ch30": null,
-   "ch7": 0.0,
-   "hoch": 215.58,
-   "id": 567355,
-   "low": 319,
-   "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
-   "trend": 215.58
-  },
-  "preis": 154.0,
-  "preis_eur": 137.43,
-  "produkt": "30th Anniversary Elite Trainer Box",
-  "quelle": "Reddit",
-  "rabatt": 36.3,
-  "rating": {
-   "gruende": [
-    "36 % unter Cardmarket-Trend (137,43 € statt 215,58 €)",
-    "Begehrtes Produkt (Hype 9/10)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 4,
-   "urteil": "Lohnt sich"
-  },
-  "sprache": "en",
-  "status": "angebot",
-  "titel": "30th Anniversary Elite Trainer Box $154 Promotion by eBay!",
-  "typ": "etb",
-  "waehrung": "USD"
- },
- {
-  "datum": "2026-10-12T04:36:58Z",
-  "haendler": "eBay",
-  "hype": 6,
-  "id": "e98c1d9254de1238",
-  "kurz": "Delta Reign Booster Box mit Promotion bei eBay, Hype steigt",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x3sm90/delta_reign_sealed_booster_boxes_229_promotion_by/",
-  "markt": {
-   "ch30": null,
-   "ch7": 1.2,
-   "hoch": 234.3,
-   "id": 903956,
-   "low": 178.98,
-   "name": "Delta Reign Booster Box",
-   "trend": 231.98
-  },
-  "preis": 229.0,
-  "preis_eur": 204.35,
-  "produkt": "Delta Reign Booster Box",
-  "quelle": "Reddit",
-  "rabatt": 11.9,
-  "rating": {
-   "gruende": [
-    "12 % unter Cardmarket-Trend (204,35 € statt 231,98 €)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 1,
-   "urteil": "Eher nicht"
-  },
-  "sprache": "en",
-  "status": "angebot",
-  "titel": "Delta Reign Sealed Booster Boxes $229 Promotion by eBay!",
-  "typ": "display",
-  "waehrung": "USD"
  },
  {
   "datum": "2026-10-08T16:57:37Z",
@@ -411,21 +207,21 @@
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNEJkYV9JdUcxSXZwZHI5T05BWHZscXFWblRhWE8ycmZDS2c5UTc5Vk1BaDlQcFJVdXh3TTFuWEEwSTYzWXVQNTNpQzd5YXVXT09SV21KdGlSamk1S0oweGFTZGpwWmxRTTJWdkFOQUNpU0JNUGwxODYzQmVqYXplOEhWS29RSVZCcGVaUFROTEF1LVRlUGJ3?oc=5",
   "markt": {
    "ch30": null,
-   "ch7": 1.1,
-   "hoch": 100.62,
+   "ch7": -2.1,
+   "hoch": 102.27,
    "id": 903955,
-   "low": 89.9,
+   "low": 83.5,
    "name": "Delta Reign Elite Trainer Box",
-   "trend": 100.62
+   "trend": 98.77
   },
   "preis": 140.0,
   "preis_eur": 125.26,
-  "produkt": "The Pokémon TCG Delta Reign Elite Trainer Box is close to market price at Amazon — buy for",
+  "produkt": "Delta Reign Elite Trainer Box",
   "quelle": "Mashable",
-  "rabatt": -24.5,
+  "rabatt": -26.8,
   "rating": {
    "gruende": [
-    "Kein Vorteil: 125,26 € liegt über dem Cardmarket-Trend (100,62 €)",
+    "Kein Vorteil: 125,26 € liegt über dem Cardmarket-Trend (98,77 €)",
     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
    ],
    "sterne": 1,
@@ -446,26 +242,18 @@
   "liefertermin": null,
   "lieferwelle": null,
   "link": "https://www.mydealz.de/deals/wachsendes-chaos-sammeldeal-pokemon-sammelkartenspiel-top-trainer-box-und-andere-artikel-einladung-2849794",
-  "markt": {
-   "ch30": null,
-   "ch7": 0.0,
-   "hoch": 124.05,
-   "id": 401659,
-   "low": 179,
-   "name": "Sun & Moon Booster Box (18 Boosters)",
-   "trend": 124.05
-  },
+  "markt": null,
   "preis": 52.99,
   "preis_eur": 52.99,
   "produkt": "Wachsendes Chaos Booster-Display",
   "quelle": "mydealz",
-  "rabatt": 57.3,
+  "rabatt": null,
   "rating": {
    "gruende": [
-    "57 % unter Cardmarket-Trend (52,99 € statt 124,05 €)"
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
    ],
-   "sterne": 5,
-   "urteil": "Top-Chance"
+   "sterne": 2,
+   "urteil": "Abwarten"
   },
   "sprache": "de",
   "status": "angebot",
@@ -484,21 +272,21 @@
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjdKZTNsTGp3SFRRV0FPSnJtYmZoTDdvME9VV1RReVJyd1BfTkNtb1RkQmdLWndiRldNSjlqSnFRUTQtODNxdHp1UUUzZHBnNlpWWURVSmRSY2hCUUlCaURiYmRRU0R5LXlERmptYkxVVmVCQ0NRb01mZWh3YTh0V0k5a2paVTNjM0ZXZUt3Y2plRzA?oc=5",
   "markt": {
    "ch30": null,
-   "ch7": -0.4,
-   "hoch": 150.11,
+   "ch7": 0.4,
+   "hoch": 152.44,
    "id": 798930,
-   "low": 88.8,
+   "low": 85,
    "name": "Prismatic Evolutions Elite Trainer Box",
-   "trend": 149.5
+   "trend": 150.65
   },
   "preis": 174.99,
   "preis_eur": 156.19,
   "produkt": "Prismatic Evolutions Elite Trainer Box",
   "quelle": "Yahoo",
-  "rabatt": -4.5,
+  "rabatt": -3.7,
   "rating": {
    "gruende": [
-    "Kein Vorteil: 156,19 € liegt über dem Cardmarket-Trend (149,50 €)",
+    "Kein Vorteil: 156,19 € liegt über dem Cardmarket-Trend (150,65 €)",
     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
    ],
    "sterne": 1,
@@ -521,21 +309,21 @@
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUlVamcxbGNCbFlpZjdUNjZ0XzJPemZpbS1RTlc0MzltR1p4R2hSM0JTWS1iZ0dPeTAxSmRtQjR3WEZPcFZQeW8xVWhpNkNnR3FoU3pGaWFGMTRaLTdEQ0ZXMmY3NkVEV19YTXhuTjNPMExRRWtaWVJ5RjFGWUltaXBlZWhRc0k?oc=5",
   "markt": {
    "ch30": null,
-   "ch7": null,
-   "hoch": 66.51,
+   "ch7": -2.2,
+   "hoch": 72.63,
    "id": 885542,
-   "low": 45,
+   "low": 48.5,
    "name": "Pitch Black Elite Trainer Box",
-   "trend": 66.51
+   "trend": 71.05
   },
   "preis": 79.99,
   "preis_eur": 70.44,
   "produkt": "Pitch Black Elite Trainer Box",
   "quelle": "Mashable",
-  "rabatt": -5.9,
+  "rabatt": 0.9,
   "rating": {
    "gruende": [
-    "Kein Vorteil: 70,44 € liegt über dem Cardmarket-Trend (66,51 €)",
+    "1 % unter Cardmarket-Trend (70,44 € statt 71,05 €)",
     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
    ],
    "sterne": 1,
@@ -558,21 +346,21 @@
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkF5YUJHektVRk5CbVY2al9DVENMclVaZ3h4ZGhEbTdwdW0xeENab1VIMlBGZDNrT0xpeUpPUEZ3aDJ0UEFuMDdzZk41OHhCc1lveHlPWXJTMUExM0c0bUJTZDBkd1hMVU9xMDhZelZzV2JwR252dnVDRnd0Y3hTMS04QUNsV3JUbmdHbW13?oc=5",
   "markt": {
    "ch30": null,
-   "ch7": null,
-   "hoch": 215.58,
-   "id": 567355,
-   "low": 319,
-   "name": "Chilling Reign: Pokémon Center Ice Rider Calyrex Elite Trainer Box",
-   "trend": 215.58
+   "ch7": 0.6,
+   "hoch": 135.27,
+   "id": 895551,
+   "low": 88,
+   "name": "30th Celebration Elite Trainer Box",
+   "trend": 132
   },
   "preis": 89.99,
   "preis_eur": 79.25,
-  "produkt": "Pokémon 30th Celebration Elite Trainer Box",
+  "produkt": "30th Celebration Elite Trainer Box",
   "quelle": "Mashable",
-  "rabatt": 63.2,
+  "rabatt": 40.0,
   "rating": {
    "gruende": [
-    "63 % unter Cardmarket-Trend (79,25 € statt 215,58 €)",
+    "40 % unter Cardmarket-Trend (79,25 € statt 132,00 €)",
     "Begehrtes Produkt (Hype 9/10)",
     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
    ],
