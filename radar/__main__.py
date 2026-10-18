@@ -60,7 +60,7 @@ def ki_test(cfg: Config) -> int:
     for m in meldungen:
         a = ergebnis.get(m.id)
         if a:
-            print(f"{a['_quelle']:6} {a['typ']:7} {a['status']:13} {a['sprache']} hype {a['hype']:>2}  "
+            print(f"{a['_quelle']:6} {a['typ']:7} {a['status']:13} {a['aussage']:8} {a['sprache']} hype {a['hype']:>2}  "
                   f"{m.titel[:70]}\n       → {a['kurz'][:110]}")
     print(f"Modell: {ki.modell} · {ki.aufrufe} Aufrufe")
     return 0 if ki.modell else 1

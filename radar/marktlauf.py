@@ -5,12 +5,15 @@ from datetime import timedelta
 
 from . import market
 from .common import DATA, SITE_DATA, Config, iso, log, now, read_json, write_json
-from .news import DEALS, QUEUE
+from .news import DEALS, QUEUE, offene_hinweise
 from .notify import SPRACH_LABEL, Ntfy
 from .rating import baelle, bewerten
 
 ALARME = DATA / "preisalarme.json"
 MARKT_JSON = SITE_DATA / "market.json"
+HINWEIS_TEXT = {"vorbestellbar": "Vorbestellung offen?", "nachschub": "Nachschub?", "angekuendigt": "angekündigt?",
+                "ausverkauft": "ausverkauft?", "erschienen": "erschienen?", "angebot": "Angebot?",
+                "markt": "Preisbewegung?"}
 
 
 def _eur(x: float) -> str:
@@ -86,6 +89,8 @@ def abend(cfg: Config, ntfy: Ntfy) -> None:
              and d["typ"] in cfg.produkte and d["sprache"] in cfg.sprachen]
     markt = [e for e in read_json(MARKT_JSON, {}).get("produkte", []) if e.get("ch7") is not None
              and _gewuenscht(e, cfg)]
+    hinweise = [h for h in offene_hinweise(timedelta(hours=24))
+                if h["typ"] in cfg.produkte and h["sprache"] in cfg.sprachen]
     teile = []
     neu = [q for q in queue if q["art"] == "neu"]
     if neu:
@@ -98,6 +103,9 @@ def abend(cfg: Config, ntfy: Ntfy) -> None:
             + (f" – {d['preis_eur']:.2f} €".replace(".", ",") if d.get("preis_eur") else "")
             + (f" (−{d['rabatt']:.0f} %)" if d.get("rabatt") and d["rabatt"] > 0 else "")
             for d in deals[:5]))
+    if hinweise:
+        teile.append("👂 Aus den Foren – unbestätigt\n" + "\n".join(
+            f"• {h['produkt']}: {HINWEIS_TEXT.get(h['status'], 'unklar')} ({h['quelle']})" for h in hinweise[:5]))
     if markt:
         top = sorted(markt, key=lambda e: e["ch7"], reverse=True)[:3]
         flop = sorted(markt, key=lambda e: e["ch7"])[:2]

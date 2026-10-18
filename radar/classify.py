@@ -8,10 +8,11 @@ import time
 from datetime import datetime
 
 from .common import Config, http, log
-from .sources import Meldung
+from .sources import Meldung, werbung
 
 STATUS = ("angekuendigt", "vorbestellbar", "ausverkauft", "erschienen",
           "nachschub", "angebot", "markt", "sonstiges")
+AUSSAGE = ("fakt", "geruecht", "meinung", "frage", "werbung")
 
 SYSTEM_PROMPT = """Du bist Analyst für versiegelte Pokémon-TCG-Produkte und hilfst einem Sammler aus Deutschland,
 limitierte, begehrte Boxen rechtzeitig zu kaufen. Du bekommst nummerierte Meldungen (News, Deals, Community-Posts).
@@ -35,6 +36,16 @@ Status:
 - markt: Bericht über Preisanstieg oder -verfall am Sammlermarkt
 - sonstiges: alles andere
 
+Aussage – was belegt die Meldung wirklich?
+- fakt: berichtet ein konkretes, überprüfbares Ereignis (offizielle Ankündigung, "Pre-Orders sind live bei Amazon",
+  Händler mit Preis, Warteschlange ist offen)
+- geruecht: Vermutung, Leak, Insider-Tipp, "soll angeblich", "expected tonight", unbestätigte Termine
+- meinung: Einschätzung, Diskussion, Investment-/Portfolio-Talk, Erfahrungsbericht, Sammlung oder Pulls zeigen
+- frage: Frage an die Community ("Worth the rip?", "Fair trade?", "Lohnt sich …?")
+- werbung: Anzeige, Affiliate-Post, Privatverkauf oder Marktplatz-Angebot (eBay o. Ä.)
+Forenbeiträge sind meist meinung oder frage. Der Status beschreibt nur, was die Meldung als Tatsache berichtet:
+eine Diskussion über ein vorbestellbares Produkt ist NICHT "vorbestellbar", eine Frage zu einer Box NICHT "angekuendigt".
+
 Hype 1–10 (wie begehrt und knapp wird es voraussichtlich?):
 - 9–10: Special-/Jubiläums-Set, Pokémon-Center-exklusiv, Fan-Lieblinge (Glurak/Charizard, Evoli-Entwicklungen,
   Pikachu, Mew/Mewtu, Nachtara/Umbreon, Gengar), Vorgänger schnell ausverkauft, deutlich limitierte Auflage
@@ -43,7 +54,7 @@ Hype 1–10 (wie begehrt und knapp wird es voraussichtlich?):
 - 1–3: Reprint, Massenware, Restposten
 
 Antworte ausschließlich mit JSON der Form {"items":[...]} – ein Objekt pro Meldung, gleiche Reihenfolge:
-{"i": <Nummer>, "relevant": bool, "typ": "etb"|"display"|"upc"|"andere",
+{"i": <Nummer>, "relevant": bool, "aussage": <Aussage>, "typ": "etb"|"display"|"upc"|"andere",
  "sprache": "de"|"en"|"jp" (Sprachversion des PRODUKTS, nicht des Artikels),
  "status": <Status>, "set": "<Setname wie in der Meldung>", "set_en": "<englischer Setname oder null>",
  "produkt": "<kurzer Produktname>", "variante": "pokemon-center"|"18er"|null,
@@ -95,6 +106,31 @@ def _preis(text: str) -> tuple[float | None, str | None]:
     except ValueError:
         return None, None
     return zahl, {"€": "EUR", "eur": "EUR", "$": "USD", "usd": "USD", "円": "JPY"}.get(sym)
+
+
+_FRAGE = re.compile(r"\?\s*$")
+_FRAGE_FORUM = re.compile(r"\?|^(what|which|who|why|how|is|are|should|would|could|can|do|does|did|anyone|thoughts|"
+                          r"worth|rate|wer|was|wie|warum|lohnt|soll ich|hat jemand)\b", re.I)
+_GERUECHT = re.compile(r"rumou?r|leak|insider|reportedly|allegedly|unconfirmed|speculat|expected|\bmight\b|"
+                       r"\bcould be\b|possibly|gerücht|angeblich|unbestätigt|vermutlich|spekul", re.I)
+_MEINUNG = re.compile(r"\b(i think|imo|imho|my (take|opinion|collection|pulls?|first)|underrated|overrated|portfolio|"
+                      r"investment|psychology|unpopular opinion|hot take|meine meinung)\b", re.I)
+
+
+def _aussage(m: Meldung) -> str:
+    """Regel-Einschätzung, ob eine Meldung eine Tatsache berichtet.
+
+    Forenbeiträge werden strenger gelesen – Presseartikel formulieren Ankündigungen oft vorsichtig.
+    """
+    if werbung(m):
+        return "werbung"
+    if (_FRAGE_FORUM if m.forum else _FRAGE).search(m.titel):
+        return "frage"
+    if m.forum and _GERUECHT.search(m.titel):
+        return "geruecht"
+    if m.forum and _MEINUNG.search(m.titel):
+        return "meinung"
+    return "fakt"
 
 
 _WELLE = re.compile(r"(?:welle|wave)\s*(\d)|(\d)\s*\.?\s*(?:welle|wave)|(first|second|third|erste|zweite|dritte)\s*(?:welle|wave)", re.I)
@@ -155,7 +191,7 @@ def regeln(m: Meldung) -> dict:
         gruende.append("Bereits Ausverkauf gemeldet")
     return {
         "lieferwelle": _welle(blob), "liefertermin": _liefertermin(blob),
-        "relevant": typ != "andere" or status == "markt",
+        "relevant": typ != "andere" or status == "markt", "aussage": _aussage(m),
         "typ": typ, "sprache": sprache, "status": status,
         "set": None, "set_en": None, "produkt": m.titel[:90], "variante":
             "pokemon-center" if re.search(r"pok[eé]mon center", blob, re.I) else
@@ -281,12 +317,16 @@ def _bereinigen(d: dict, m: Meldung) -> dict:
     except (TypeError, ValueError):
         hype = 5
     gruende = [str(g)[:120] for g in (d.get("gruende") or []) if g][:3]
+    regel = _aussage(m)
+    aussage = d.get("aussage") if d.get("aussage") in AUSSAGE else regel
+    if aussage == "fakt" and regel != "fakt" and (m.forum or regel in ("frage", "werbung")):
+        aussage = regel  # Fragen und Forengerüchte erkennt die Regel verlässlicher als ein kleines Modell
     welle = d.get("lieferwelle")
     welle = int(welle) if isinstance(welle, (int, float, str)) and str(welle).isdigit() and 0 < int(welle) < 10 else None
     return {
         "lieferwelle": welle or _welle(f"{m.titel} {m.text}"),
         "liefertermin": str(d["liefertermin"])[:40] if d.get("liefertermin") else _liefertermin(f"{m.titel} {m.text}"),
-        "relevant": bool(d.get("relevant")) and (typ != "andere" or status == "markt"),
+        "relevant": bool(d.get("relevant")) and (typ != "andere" or status == "markt"), "aussage": aussage,
         "typ": typ, "sprache": sprache, "status": status,
         "set": (d.get("set") or None), "set_en": (d.get("set_en") or None),
         "produkt": str(d.get("produkt") or m.titel)[:100],
@@ -316,7 +356,7 @@ def einordnen(meldungen: list[Meldung], cfg: Config, ki: KI) -> dict[str, dict]:
             break
         teil = stapel[start:start + groesse]
         user = "\n\n".join(
-            f"[{i}] Quelle: {m.quelle} ({m.art}, {m.sprache}) · {m.datum[:10]}\n"
+            f"[{i}] Quelle: {m.quelle} ({m.art}, {m.sprache}{', Forum' if m.forum else ''}) · {m.datum[:10]}\n"
             f"Titel: {m.titel}\n"
             + (f"Preis laut Quelle: {m.preis_hinweis}" + (f" bei {m.haendler_hinweis}" if m.haendler_hinweis else "") + "\n"
                if m.preis_hinweis else "")

@@ -17,10 +17,20 @@ DEALS = DATA / "deals.json"
 MARKTNEWS = DATA / "marktnews.json"
 QUEUE = DATA / "abend.json"
 FX = DATA / "fx.json"
+HINWEISE = DATA / "hinweise.json"
 
 PRODUKT_STATUS = ("angekuendigt", "vorbestellbar", "ausverkauft", "erschienen", "nachschub")
 STUFE = {"angekuendigt": 1, "vorbestellbar": 2, "ausverkauft": 3, "erschienen": 4, "nachschub": 5}
 FRISCH = timedelta(hours=36)  # ältere Meldungen lösen keine Sofort-Alarme mehr aus
+# Unbelegte Forenberichte gelten erst als Meldung, wenn so viele verschiedene Autoren
+# innerhalb von ZEUGEN_FENSTER dasselbe über dieselbe Box berichten
+BESTAETIGT_AB = 2
+ZEUGEN_FENSTER = timedelta(hours=48)
+# Wörter, die fast jede Box-Meldung enthält – für den Namensvergleich ohne Aussagekraft
+_ALLGEMEIN = set("""pokemon pokémon tcg elite trainer top box boxes etb etbs booster display bundle ultra premium
+    collection kollektion upc center pc preorder preorders pre order orders vorbestellbar vorbestellung vorbestellen
+    restock restocked nachschub live now up is are at on the and for in of new jetzt ist sind bei der die das und mit
+    available stock sold out again wieder""".split())
 
 
 # ── Hilfen ───────────────────────────────────────────────────────────────────
@@ -121,6 +131,59 @@ def _deal(m: Meldung, a: dict, ref: dict | None, preis_eur: float | None, deals:
     return d
 
 
+def _belegt(m: Meldung, a: dict) -> bool:
+    """Tatsachenbericht aus der Presse – oder aus einem Forum mit direktem Link zum Händler."""
+    return a["aussage"] == "fakt" and (not m.forum or bool(m.belege))
+
+
+def _hinweis(m: Meldung, a: dict, key: str) -> dict:
+    return {"id": m.id, "key": key, "titel": m.titel, "link": m.link, "quelle": m.quelle, "autor": m.autor,
+            "forum": m.forum, "datum": m.datum, "aussage": a["aussage"], "status": a["status"],
+            "typ": a["typ"], "sprache": a["sprache"], "produkt": _name(a) or m.titel[:100], "kurz": a["kurz"]}
+
+
+def _gleiche_box(x: dict, h: dict) -> bool:
+    """Gleicher Produktschlüssel – oder (ohne KI-Setnamen) sehr ähnlicher Produktname."""
+    if x["key"] == h["key"]:
+        return True
+    if (x["typ"], x["sprache"]) != (h["typ"], h["sprache"]):
+        return False
+    t, u = tokens(x["produkt"]) - _ALLGEMEIN, tokens(h["produkt"]) - _ALLGEMEIN
+    return bool(t & u) and len(t & u) / len(t | u) >= 0.5
+
+
+def _zeugen(hinweise: list[dict], h: dict) -> list[dict]:
+    """Unabhängige Forenberichte (je Autor einer), die dasselbe über dieselbe Box als Tatsache melden."""
+    if h["aussage"] != "fakt" or not h["forum"]:
+        return []
+    grenze = iso(parse_iso(h["datum"]) - ZEUGEN_FENSTER)
+    autoren: dict[str, dict] = {}
+    for x in hinweise:
+        if x["status"] == h["status"] and x["aussage"] == "fakt" and x["forum"] and x["datum"] >= grenze \
+                and _gleiche_box(x, h):
+            autoren.setdefault(x.get("autor") or x["id"], x)
+    return list(autoren.values())
+
+
+def offene_hinweise(seit: timedelta) -> list[dict]:
+    """Unbestätigte Hinweise, die einen Blick wert sind (keine Fragen, Meinungen, Werbung) – je Box und Stufe einmal."""
+    grenze = iso(now() - seit)
+    out: list[dict] = []
+    for h in sorted(read_json(HINWEISE, []), key=lambda x: x["datum"], reverse=True):
+        if h["datum"] >= grenze and not h.get("bestaetigt") and h["aussage"] in ("fakt", "geruecht") \
+                and not any(x["status"] == h["status"] and _gleiche_box(x, h) for x in out):
+            out.append(h)
+    return out
+
+
+def _alarm(titel: str, text: str, prio: int, tags: list[str], link: str | None,
+           vorbehalt: str = "") -> tuple[str, str, int, list[str], str | None]:
+    """Unbestätigte Meldungen bekommen einen Warnhinweis und höchstens normale Priorität."""
+    if vorbehalt:
+        return titel, vorbehalt + text, min(prio, 3), tags, link
+    return titel, text, prio, tags, link
+
+
 def _produkt_finden(produkte: dict, a: dict, m: Meldung) -> str:
     basis = a.get("set_en") or a.get("set")
     if basis:
@@ -152,6 +215,7 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
     deals: list[dict] = read_json(DEALS, [])
     marktnews: list[dict] = read_json(MARKTNEWS, [])
     queue: list[dict] = read_json(QUEUE, [])
+    hinweise: list[dict] = read_json(HINWEISE, [])
     kat = market.katalog()
     kurse = wechselkurse()
 
@@ -184,6 +248,24 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
         cm = market.zuordnen(a, kat, set_map.get(m.id))
         ref = _markt_ref(cm, markt_idx)
         preis_eur = in_eur(a["preis"], a["waehrung"], kurse)
+        key = _produkt_finden(produkte, a, m)
+
+        # Nur belegte Meldungen legen Boxen an und lösen Alarme aus. Fragen, Meinungen, Gerüchte und
+        # Forenbeiträge ohne Händler-Link werden als Hinweis gemerkt (Dashboard, Abendübersicht).
+        vorbehalt = ""
+        h = _hinweis(m, a, key)
+        if _belegt(m, a):
+            for x in hinweise:
+                if not x.get("bestaetigt") and _gleiche_box(x, h):
+                    x["bestaetigt"] = m.quelle
+        else:
+            hinweise.insert(0, h)
+            zeugen = _zeugen(hinweise, h)
+            if len(zeugen) < BESTAETIGT_AB:
+                continue
+            for x in zeugen:
+                x["bestaetigt"] = "foren"
+            vorbehalt = (f"⚠️ Unbestätigt: {len(zeugen)} Forenberichte, noch keine Händler- oder Presse-Quelle\n\n")
 
         # Preisberichte → Markt-News
         if a["status"] == "markt":
@@ -196,12 +278,14 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
         ist_deal = a["status"] == "angebot" or (m.art == "deal" and a["preis"] and a["status"] in ("vorbestellbar", "nachschub"))
         if ist_deal and a["typ"] in ("etb", "display", "upc"):
             d = _deal(m, a, ref, preis_eur, deals)
+            if d and vorbehalt:
+                d["unbestaetigt"] = True
             if d and gewuenscht(d) and frisch and d["rating"]["sterne"] >= cfg.schnaeppchen_ab_rating:
                 preis_txt = f"{d['preis_eur']:.2f} €".replace(".", ",")
                 haendler = f" · {d['haendler']}" if d["haendler"] else ""
-                alarme.append((f"💸 Schnäppchen: {d['produkt']}"[:120],
-                               f"{kopf(d)}{haendler} · {preis_txt}\n\n{rating_zeilen(d['rating'])}",
-                               4, ["moneybag"], m.link))
+                alarme.append(_alarm(f"💸 Schnäppchen: {d['produkt']}"[:120],
+                                     f"{kopf(d)}{haendler} · {preis_txt}\n\n{rating_zeilen(d['rating'])}",
+                                     4, ["moneybag"], m.link, vorbehalt))
             elif d and gewuenscht(d) and d["rating"]["sterne"] >= 3:
                 queue.append({"art": "angebot", "titel": d["produkt"], "sterne": d["rating"]["sterne"],
                               "info": d["rating"]["gruende"][0] if d["rating"]["gruende"] else "", "link": m.link})
@@ -212,7 +296,6 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
             continue
 
         # Produkte bündeln
-        key = _produkt_finden(produkte, a, m)
         p = produkte.get(key)
         alt_stufe = p["stage"] if p else None
         if p is None:
@@ -221,6 +304,10 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
                 "sprache": a["sprache"], "variante": a.get("variante"), "stage": a["status"],
                 "hype": a["hype"], "erstmals": m.datum, "quellen": [], "gemeldet": [],
             }
+            if vorbehalt:
+                p["unbestaetigt"] = True
+        if not vorbehalt:
+            p.pop("unbestaetigt", None)
         # Stufe nur vorwärts – außer Nachschub, der immer zählt
         if a["status"] == "nachschub" or STUFE[a["status"]] > STUFE.get(p["stage"], 0):
             p["stage"] = a["status"]
@@ -251,13 +338,14 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
                 and p["stage"] not in p["gemeldet"] and cfg.vorverkauf_sofort:
             p["gemeldet"].append(p["stage"])
             icon = "🟢 Jetzt vorbestellbar" if p["stage"] == "vorbestellbar" else "🔁 Nachschub"
-            alarme.append((f"{icon}: {p['name']}{titel_zusatz}"[:120],
-                           f"{text_kopf}\n\n{rating_zeilen(p['rating'])}",
-                           5 if p["hype"] >= 8 else 4, ["rotating_light"], m.link))
+            alarme.append(_alarm(f"{icon}: {p['name']}{titel_zusatz}"[:120],
+                                 f"{text_kopf}\n\n{rating_zeilen(p['rating'])}",
+                                 5 if p["hype"] >= 8 else 4, ["rotating_light"], m.link, vorbehalt))
         elif alt_stufe is None and p["hype"] >= cfg.sofort_ab_hype:
             p["gemeldet"].append("neu")
-            alarme.append((f"✨ Neu angekündigt: {p['name']}"[:120],
-                           f"{text_kopf}\n{p['kurz']}\n\n{rating_zeilen(p['rating'])}", 4, ["sparkles"], m.link))
+            alarme.append(_alarm(f"✨ Neu angekündigt: {p['name']}"[:120],
+                                 f"{text_kopf}\n{p['kurz']}\n\n{rating_zeilen(p['rating'])}", 4, ["sparkles"], m.link,
+                                 vorbehalt))
         elif alt_stufe is None:
             queue.append({"art": "neu", "titel": p["name"], "sterne": p["rating"]["sterne"],
                           "info": p["kurz"], "link": m.link})
@@ -283,11 +371,14 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
     grenze_deals = iso(t_jetzt - timedelta(days=30))
     deals = [d for d in deals if d["datum"] >= grenze_deals][:200]
     marktnews = [d for d in marktnews if d["datum"] >= grenze_deals][:100]
+    grenze_hinweise = iso(t_jetzt - timedelta(days=14))
+    hinweise = [h for h in hinweise if h["datum"] >= grenze_hinweise][:300]
     write_json(SEEN, seen, compact=True)
     write_json(PRODUKTE, produkte)
     write_json(DEALS, deals)
     write_json(MARKTNEWS, marktnews)
     write_json(QUEUE, queue[-60:])
+    write_json(HINWEISE, hinweise)
     return {"quellen": quellen_status, "ki": ki.aktiv or ki.aufrufe > 0,
             "modell": ki.modell,
             "neu": len(neu), "alarme": len(alarme)}

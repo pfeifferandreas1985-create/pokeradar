@@ -6,7 +6,7 @@
   const $$ = (s, el = document) => [...el.querySelectorAll(s)];
 
   const S = {
-    radar: { produkte: [], deals: [], marktnews: [], konfig: {} },
+    radar: { produkte: [], deals: [], marktnews: [], hinweise: [], konfig: {} },
     market: { produkte: [], tage: 0, stand: null },
     status: {},
     f: { sprache: new Set(["de", "en"]), typ: new Set(["etb", "display", "upc"]) },
@@ -150,7 +150,7 @@
         <div class="row"><span class="title">${esc(p.name)}</span></div>
         <div class="row">${balls(p.rating)}<span class="hype">Hype ${p.hype}/10</span></div>
         ${gross ? why(p.rating?.gruende?.slice(0, 3)) : `<div class="kurz">${esc(p.kurz || "")}</div>`}
-        <div class="meta">${stagePill(p.stage)}${termine}${wellePill(p)}
+        <div class="meta">${stagePill(p.stage)}${p.unbestaetigt ? `<span class="pill">Unbestätigt</span>` : ""}${termine}${wellePill(p)}
           ${p.preis_eur ? `<span class="pill">${eur(p.preis_eur, true)}</span>` : ""}
           <span class="pill">${rel(p.aktualisiert || p.erstmals)}</span></div>
       </div>
@@ -183,6 +183,11 @@
     $("#view-radar > .head").hidden = !rest.length && hot.length > 0;
     $("#radar-grid").innerHTML = rest.length ? rest.map((p) => produktKarte(p)).join("")
       : hot.length ? "" : leer("Noch ruhig auf dem Radar", "<br>Sobald eine passende Box auftaucht, erscheint sie hier – und auf deinem Handy.");
+
+    const foren = (S.radar.hinweise || []).filter(passt);
+    $("#radar-foren").innerHTML = foren.length ? `<div class="head"><h2>Aus den Foren</h2><span class="muted">Unbestätigt – Alarm erst, wenn ein Händler oder die Presse es bestätigt</span></div>
+      <div class="srcs">${foren.slice(0, 8).map((h) => `<a href="${url(h.link)}" target="_blank" rel="noopener">
+        <b style="font-weight:500">${esc(h.titel)}</b><span>${esc(h.quelle)} · ${rel(h.datum)}</span></a>`).join("")}</div>` : "";
   }
 
   // ── Schnäppchen ────────────────────────────────────────────
@@ -462,7 +467,7 @@
   async function laden() {
     const get = (f) => fetch(`data/${f}?t=${Date.now()}`, { cache: "no-store" }).then((r) => (r.ok ? r.json() : null)).catch(() => null);
     const [radar, market, status] = await Promise.all([get("radar.json"), get("market.json"), get("status.json")]);
-    if (radar) S.radar = { produkte: [], deals: [], marktnews: [], ...radar };
+    if (radar) S.radar = { produkte: [], deals: [], marktnews: [], hinweise: [], ...radar };
     if (market) S.market = { produkte: [], tage: 0, ...market };
     if (status) S.status = status;
     const gespeichert = JSON.parse(localStorage.getItem("pokeradar.filter") || "null");
