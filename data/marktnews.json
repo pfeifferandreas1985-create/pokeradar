@@ -1,5 +1,25 @@
 [
  {
+  "datum": "2026-10-18T01:20:38Z",
+  "id": "6b84a26fa5e028e9",
+  "kurz": "Phantasmal Flames ETB zeigt Preisanstieg und Wertverfall am Markt.",
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x8qkwc/are_pokémon_center_etbs_good_longterm_holds_even/",
+  "markt": {
+   "ch30": null,
+   "ch7": 2.4,
+   "hoch": 110.19,
+   "id": 846743,
+   "low": 80,
+   "name": "Phantasmal Flames Pokémon Center Elite Trainer Box",
+   "trend": 102.26
+  },
+  "quelle": "Reddit",
+  "sprache": "en",
+  "titel": "Are Pokémon Center ETBs good long-term holds, even for less popular sets?",
+  "trend": "faellt",
+  "typ": "etb"
+ },
+ {
   "datum": "2026-10-17T15:28:30Z",
   "id": "7547436134de915a",
   "kurz": "Here is an analysis I did of diff vintage sets (and segments within set) price movement over the past 90 days",

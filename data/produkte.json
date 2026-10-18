@@ -2073,5 +2073,46 @@
   "typ": "etb",
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-10-01"
+ },
+ "the-pokemon-tcg-30th-anniversary-ultra-premium-collection-is-live-at-a": {
+  "aktualisiert": "2026-10-17T10:24:51Z",
+  "erstmals": "2026-10-17T10:24:51Z",
+  "gemeldet": [
+   "vorbestellbar"
+  ],
+  "hype": 9,
+  "key": "the-pokemon-tcg-30th-anniversary-ultra-premium-collection-is-live-at-a",
+  "kurz": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live at Amazon: Preorder now",
+  "markt": {
+   "ch30": null,
+   "ch7": 0.0,
+   "hoch": 784.27,
+   "id": 412289,
+   "low": 1999.99,
+   "name": "Hidden Fates: Ultra-Premium Collection",
+   "trend": 784.27
+  },
+  "name": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live at Amazon: Preorder now",
+  "quellen": [
+   {
+    "datum": "2026-10-17T10:24:51Z",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWm9aOUNpTXZHSndtNV9NQXNFR3J4aC1qZC1aSktQVnhtVW5JdFVPYkNPUEJzeXV5dmx6UDlfNDAtbVNRTV9wdDloT3BaODR5YkJmUHpKNHBoS0o0Z2VvcENjTlNSU01LUTVoY2ZienBzQnNVQWh5SVFKbmIwOGFPZ01DWmtIazNRdVJEaDNuMEE?oc=5",
+    "quelle": "Yahoo",
+    "status": "vorbestellbar",
+    "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live at Amazon: Preorder now"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": null,
+  "sprache": "en",
+  "stage": "vorbestellbar",
+  "typ": "upc",
+  "variante": null
  }
 }

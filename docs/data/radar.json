@@ -1,6 +1,43 @@
 {
  "deals": [
   {
+   "datum": "2026-10-18T07:40:46Z",
+   "haendler": "eBay",
+   "hype": 7,
+   "id": "4ea6e924dd665364",
+   "kurz": "Delta Reign Booster Box mit Angebot von eBay für 217 USD.",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.reddit.com/r/PokeInvesting/comments/1x8x94z/delta_reign_booster_boxes_preorder_217_promotion/",
+   "markt": {
+    "ch30": null,
+    "ch7": -3.6,
+    "hoch": 234.3,
+    "id": 903956,
+    "low": 175,
+    "name": "Delta Reign Booster Box",
+    "trend": 223.57
+   },
+   "preis": 217.0,
+   "preis_eur": 192.84,
+   "produkt": "Delta Reign Booster Box",
+   "quelle": "Reddit",
+   "rabatt": 13.7,
+   "rating": {
+    "gruende": [
+     "14 % unter Cardmarket-Trend (192,84 € statt 223,57 €)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 1,
+    "urteil": "Eher nicht"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "Delta Reign Booster Boxes Preorder $217 Promotion by eBay!",
+   "typ": "display",
+   "waehrung": "USD"
+  },
+  {
    "datum": "2026-10-15T13:23:24Z",
    "haendler": null,
    "hype": 7,
@@ -564,6 +601,26 @@
   ]
  },
  "marktnews": [
+  {
+   "datum": "2026-10-18T01:20:38Z",
+   "id": "6b84a26fa5e028e9",
+   "kurz": "Phantasmal Flames ETB zeigt Preisanstieg und Wertverfall am Markt.",
+   "link": "https://www.reddit.com/r/PokeInvesting/comments/1x8qkwc/are_pokémon_center_etbs_good_longterm_holds_even/",
+   "markt": {
+    "ch30": null,
+    "ch7": 2.4,
+    "hoch": 110.19,
+    "id": 846743,
+    "low": 80,
+    "name": "Phantasmal Flames Pokémon Center Elite Trainer Box",
+    "trend": 102.26
+   },
+   "quelle": "Reddit",
+   "sprache": "en",
+   "titel": "Are Pokémon Center ETBs good long-term holds, even for less popular sets?",
+   "trend": "faellt",
+   "typ": "etb"
+  },
   {
    "datum": "2026-10-17T15:28:30Z",
    "id": "7547436134de915a",
@@ -1186,6 +1243,44 @@
    "typ": "upc",
    "variante": null,
    "vorverkauf_ab": "2026-10-17"
+  },
+  {
+   "aktualisiert": "2026-10-17T10:24:51Z",
+   "erstmals": "2026-10-17T10:24:51Z",
+   "hype": 9,
+   "key": "the-pokemon-tcg-30th-anniversary-ultra-premium-collection-is-live-at-a",
+   "kurz": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live at Amazon: Preorder now",
+   "markt": {
+    "ch30": null,
+    "ch7": 0.0,
+    "hoch": 784.27,
+    "id": 412289,
+    "low": 1999.99,
+    "name": "Hidden Fates: Ultra-Premium Collection",
+    "trend": 784.27
+   },
+   "name": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live at Amazon: Preorder now",
+   "quellen": [
+    {
+     "datum": "2026-10-17T10:24:51Z",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWm9aOUNpTXZHSndtNV9NQXNFR3J4aC1qZC1aSktQVnhtVW5JdFVPYkNPUEJzeXV5dmx6UDlfNDAtbVNRTV9wdDloT3BaODR5YkJmUHpKNHBoS0o0Z2VvcENjTlNSU01LUTVoY2ZienBzQnNVQWh5SVFKbmIwOGFPZ01DWmtIazNRdVJEaDNuMEE?oc=5",
+     "quelle": "Yahoo",
+     "status": "vorbestellbar",
+     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live at Amazon: Preorder now"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": null,
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "upc",
+   "variante": null
   },
   {
    "aktualisiert": "2026-10-16T10:48:54Z",

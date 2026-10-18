@@ -1,5 +1,42 @@
 [
  {
+  "datum": "2026-10-18T07:40:46Z",
+  "haendler": "eBay",
+  "hype": 7,
+  "id": "4ea6e924dd665364",
+  "kurz": "Delta Reign Booster Box mit Angebot von eBay für 217 USD.",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1x8x94z/delta_reign_booster_boxes_preorder_217_promotion/",
+  "markt": {
+   "ch30": null,
+   "ch7": -3.6,
+   "hoch": 234.3,
+   "id": 903956,
+   "low": 175,
+   "name": "Delta Reign Booster Box",
+   "trend": 223.57
+  },
+  "preis": 217.0,
+  "preis_eur": 192.84,
+  "produkt": "Delta Reign Booster Box",
+  "quelle": "Reddit",
+  "rabatt": 13.7,
+  "rating": {
+   "gruende": [
+    "14 % unter Cardmarket-Trend (192,84 € statt 223,57 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Delta Reign Booster Boxes Preorder $217 Promotion by eBay!",
+  "typ": "display",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-10-15T13:23:24Z",
   "haendler": null,
   "hype": 7,
