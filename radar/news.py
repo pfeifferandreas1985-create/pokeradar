@@ -30,7 +30,8 @@ ZEUGEN_FENSTER = timedelta(hours=48)
 _ALLGEMEIN = set("""pokemon pokémon tcg elite trainer top box boxes etb etbs booster display bundle ultra premium
     collection kollektion upc center pc preorder preorders pre order orders vorbestellbar vorbestellung vorbestellen
     restock restocked nachschub live now up is are at on the and for in of new jetzt ist sind bei der die das und mit
-    available stock sold out again wieder""".split())
+    available stock sold out again wieder anniversary celebration jubiläum jubilaeum jubiläums
+    amazon walmart target gamestop bestbuy kaufland netto rewe edeka rossmann müller smyths otto mediamarkt saturn""".split())
 
 
 # ── Hilfen ───────────────────────────────────────────────────────────────────
@@ -115,7 +116,7 @@ def _deal(m: Meldung, a: dict, ref: dict | None, preis_eur: float | None, deals:
     if not preis_eur:
         return None
     d = {"id": m.id, "titel": m.titel, "link": m.link, "quelle": m.quelle, "datum": m.datum,
-         "produkt": _name(a), "typ": a["typ"], "sprache": a["sprache"], "preis": a["preis"],
+         "produkt": ref["name"] if ref else _name(a), "typ": a["typ"], "sprache": a["sprache"], "preis": a["preis"],
          "waehrung": a["waehrung"], "preis_eur": preis_eur, "haendler": a["haendler"],
          "lieferwelle": a.get("lieferwelle"), "liefertermin": a.get("liefertermin"),
          "hype": a["hype"], "kurz": a["kurz"], "markt": ref, "rabatt": rabatt, "status": a["status"]}
@@ -142,14 +143,22 @@ def _hinweis(m: Meldung, a: dict, key: str) -> dict:
             "typ": a["typ"], "sprache": a["sprache"], "produkt": _name(a) or m.titel[:100], "kurz": a["kurz"]}
 
 
+def _aehnlichkeit(a: str, b: str, enthalten: bool = False) -> float:
+    """Namensvergleich nur über die unterscheidenden Wörter ('151', 'Delta Reign'), nicht 'Elite Trainer Box'.
+    enthalten: b gilt als Treffer, wenn alle seine unterscheidenden Wörter in a vorkommen (Box-Name in Schlagzeile)."""
+    t, u = tokens(a) - _ALLGEMEIN, tokens(b) - _ALLGEMEIN
+    if enthalten and u and u <= t:
+        return 1.0
+    return len(t & u) / len(t | u) if t & u else 0.0
+
+
 def _gleiche_box(x: dict, h: dict) -> bool:
     """Gleicher Produktschlüssel – oder (ohne KI-Setnamen) sehr ähnlicher Produktname."""
     if x["key"] == h["key"]:
         return True
     if (x["typ"], x["sprache"]) != (h["typ"], h["sprache"]):
         return False
-    t, u = tokens(x["produkt"]) - _ALLGEMEIN, tokens(h["produkt"]) - _ALLGEMEIN
-    return bool(t & u) and len(t & u) / len(t | u) >= 0.5
+    return _aehnlichkeit(x["produkt"], h["produkt"]) >= 0.5
 
 
 def _zeugen(hinweise: list[dict], h: dict) -> list[dict]:
@@ -184,26 +193,30 @@ def _alarm(titel: str, text: str, prio: int, tags: list[str], link: str | None,
     return titel, text, prio, tags, link
 
 
-def _produkt_finden(produkte: dict, a: dict, m: Meldung) -> str:
-    basis = a.get("set_en") or a.get("set")
-    if basis:
+def _produkt_finden(produkte: dict, a: dict, m: Meldung, cm: dict | None) -> str:
+    """Schlüssel der Box: gleiches Cardmarket-Produkt = gleiche Box, sonst Setname, sonst Namensähnlichkeit."""
+    gleich = [k for k, p in produkte.items() if p["typ"] == a["typ"] and p["sprache"] == a["sprache"]
+              and p.get("variante") == a.get("variante")]
+    if cm:
+        for k in gleich:
+            if (produkte[k].get("markt") or {}).get("id") == cm["id"]:
+                return k
+    basen = ([cm["set"]] if cm else []) + [b for b in (a.get("set_en"), a.get("set")) if b]
+    for basis in basen:
         key = slug(f"{basis}-{a['typ']}-{a['sprache']}-{a.get('variante') or ''}")
         if key in produkte:
             return key
-    # Ähnlichkeitsabgleich mit bestehenden Produkten gleicher Art und Sprache
-    t = tokens(f"{a.get('produkt') or ''} {basis or ''}")
+    name = f"{a.get('produkt') or ''} {a.get('set_en') or a.get('set') or ''}"
     bester, score = None, 0.0
-    for key, p in produkte.items():
-        if p["typ"] != a["typ"] or p["sprache"] != a["sprache"] or p.get("variante") != a.get("variante"):
-            continue
-        u = tokens(f"{p['name']} {p.get('set') or ''}")
-        j = len(t & u) / max(1, len(t | u))
+    for k in gleich:
+        j = _aehnlichkeit(name, f"{produkte[k]['name']} {produkte[k].get('set') or ''}", enthalten=True)
         if j > score:
-            bester, score = key, j
+            bester, score = k, j
     if bester and score >= 0.5:
         return bester
-    return slug(f"{basis}-{a['typ']}-{a['sprache']}-{a.get('variante') or ''}") if basis else \
-        slug(f"{a.get('produkt') or m.titel}")[:70]
+    if basen:
+        return slug(f"{basen[0]}-{a['typ']}-{a['sprache']}-{a.get('variante') or ''}")
+    return slug(f"{a.get('produkt') or m.titel}")[:70]
 
 
 # ── Hauptlauf ────────────────────────────────────────────────────────────────
@@ -248,7 +261,7 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
         cm = market.zuordnen(a, kat, set_map.get(m.id))
         ref = _markt_ref(cm, markt_idx)
         preis_eur = in_eur(a["preis"], a["waehrung"], kurse)
-        key = _produkt_finden(produkte, a, m)
+        key = _produkt_finden(produkte, a, m, cm)
 
         # Nur belegte Meldungen legen Boxen an und lösen Alarme aus. Fragen, Meinungen, Gerüchte und
         # Forenbeiträge ohne Händler-Link werden als Hinweis gemerkt (Dashboard, Abendübersicht).
@@ -300,7 +313,8 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
         alt_stufe = p["stage"] if p else None
         if p is None:
             p = produkte[key] = {
-                "key": key, "name": _name(a), "set": a.get("set_en") or a.get("set"), "typ": a["typ"],
+                "key": key, "name": cm["name"] if cm else _name(a),
+                "set": cm["set"] if cm else a.get("set_en") or a.get("set"), "typ": a["typ"],
                 "sprache": a["sprache"], "variante": a.get("variante"), "stage": a["status"],
                 "hype": a["hype"], "erstmals": m.datum, "quellen": [], "gemeldet": [],
             }

@@ -86,6 +86,19 @@ _STATUS = [
     ("angekuendigt", re.compile(r"reveal|announc|angekündigt|enthüllt|vorgestellt|first look|発表|公開|新弾", re.I)),
     ("erschienen", re.compile(r"out now|release[sd]? today|jetzt erhältlich|erschienen|発売中|本日発売", re.I)),
 ]
+_PC = re.compile(r"pok[eé]mon.?center", re.I)
+
+
+def _variante(variante: str | None, haendler: str | None, sprache: str) -> str | None:
+    """Pokémon-Center-Editionen verkauft nur das Pokémon Center – bei Amazon & Co. ist es die normale Box.
+    18er gibt es nur bei DE/EN-Displays; JP-Boxen haben eine feste Größe."""
+    if variante == "pokemon-center" and haendler and not _PC.search(haendler):
+        return None
+    if variante == "18er" and sprache == "jp":
+        return None
+    return variante
+
+
 _HYPE_PLUS = re.compile(r"glurak|charizard|evoli|eevee|umbreon|nachtara|pikachu|mew|gengar|151|"
                         r"pok[eé]mon center|limit|exclusive|exklusiv|special|jubil|anniversary|30th|"
                         r"sold.?out|ausverkauft|prismatic|prismatisch", re.I)
@@ -193,9 +206,9 @@ def regeln(m: Meldung) -> dict:
         "lieferwelle": _welle(blob), "liefertermin": _liefertermin(blob),
         "relevant": typ != "andere" or status == "markt", "aussage": _aussage(m),
         "typ": typ, "sprache": sprache, "status": status,
-        "set": None, "set_en": None, "produkt": m.titel[:90], "variante":
+        "set": None, "set_en": None, "produkt": m.titel[:90], "variante": _variante(
             "pokemon-center" if re.search(r"pok[eé]mon center", blob, re.I) else
-            ("18er" if re.search(r"18er|18 booster", blob, re.I) else None),
+            ("18er" if re.search(r"18er|18 booster", blob, re.I) else None), m.haendler_hinweis, sprache),
         "vorverkauf_ab": None, "erscheint_am": None,
         "preis": preis, "waehrung": waehrung, "haendler": m.haendler_hinweis,
         "hype": hype, "trend": "steigt" if re.search(r"skyrocket|steig|rise|高騰", blob, re.I) else
@@ -330,7 +343,8 @@ def _bereinigen(d: dict, m: Meldung) -> dict:
         "typ": typ, "sprache": sprache, "status": status,
         "set": (d.get("set") or None), "set_en": (d.get("set_en") or None),
         "produkt": str(d.get("produkt") or m.titel)[:100],
-        "variante": d.get("variante") if d.get("variante") in ("pokemon-center", "18er") else None,
+        "variante": _variante(d.get("variante") if d.get("variante") in ("pokemon-center", "18er") else None,
+                              str(d.get("haendler") or m.haendler_hinweis or "") or None, sprache),
         "vorverkauf_ab": datum(d.get("vorverkauf_ab")), "erscheint_am": datum(d.get("erscheint_am")),
         "preis": preis, "waehrung": d.get("waehrung") if d.get("waehrung") in ("EUR", "USD", "JPY") else None,
         "haendler": (d.get("haendler") or m.haendler_hinweis or None),
