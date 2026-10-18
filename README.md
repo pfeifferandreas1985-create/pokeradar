@@ -77,6 +77,12 @@ python -m http.server 8765 --directory docs
   täglich einen Schnappschuss (`data/prices/`); 7-Tage-Bewegungen gibt es daher nach etwa einer Woche,
   30-Tage-Trends nach einem Monat.
 - **DE/EN im Markt:** Cardmarket führt deutsche und englische Boxen als ein Produkt – der Preis gilt für beide.
+- **Foren-Filter:** Beiträge aus Reddit und mydealz lösen nur dann einen Sofort-Alarm aus, wenn sie eine Tatsache
+  berichten *und* direkt auf einen Händler verlinken (z. B. „Pokemon Center Queue is up!“ mit Link auf pokemoncenter.com).
+  Fragen, Meinungen, Gerüchte und Werbung („… Promotion by eBay!“) lösen nie einen Alarm aus. Unbelegte Berichte
+  erscheinen im Dashboard unter „Aus den Foren“ und in der Abendübersicht. Berichten zwei verschiedene Nutzer innerhalb
+  von 48 Stunden dasselbe, kommt ein Push mit dem Vermerk „⚠️ Unbestätigt“; bestätigt später Presse oder Händler,
+  gibt es den normalen Alarm.
 - **US-Angebote** (Reddit, US-News) werden in Euro umgerechnet, bekommen aber einen Pokéball Abzug,
   weil Versand und Zoll fehlen.
 - **Kein Auto-Kauf.** Das Radar meldet, du entscheidest und bestellst selbst.

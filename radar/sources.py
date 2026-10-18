@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
 from datetime import timedelta
 from email.utils import parsedate_to_datetime
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlsplit
 
 from .common import http, iso, log, now, parse_iso, sha
 
@@ -27,6 +27,9 @@ class Meldung:
     text: str = ""
     preis_hinweis: str | None = None
     haendler_hinweis: str | None = None
+    autor: str | None = None
+    forum: bool = False   # Nutzerbeitrag, nicht redaktionell geprüft
+    belege: list[str] = field(default_factory=list)  # Händler, auf die der Beitrag direkt verweist
     extra: dict = field(default_factory=dict)
 
 
@@ -59,11 +62,21 @@ QUELLEN: list[tuple[str, str, str, str]] = [
     ("Google News", _gnews("ポケカ 拡張パック 抽選", "jp"), "jp", "news"),
 ]
 
+# Foren: Beiträge von Nutzern. Sie lösen nur mit Händler-Beleg einen Sofort-Alarm aus.
+FOREN = {"Reddit", "mydealz"}
+
 NS = {"atom": "http://www.w3.org/2005/Atom",
       "media": "http://search.yahoo.com/mrss/",
       "pepper": "http://www.pepper.com/rss"}
 
 _TAG = re.compile(r"<[^>]+>")
+_HREF = re.compile(r'href="([^"]+)"')
+# Links, die keinen Händler belegen: Diskussion, Bilder, Chats, Marktplätze von Privatleuten
+_KEIN_SHOP = re.compile(r"(^|\.)(reddit\.com|redd\.it|imgur\.com|discord\.gg|discord\.com|youtube\.com|youtu\.be|"
+                        r"twitter\.com|x\.com|instagram\.com|tiktok\.com|facebook\.com|ebay\.[a-z.]+)$", re.I)
+# Anzeigen und Bot-Beiträge (z. B. "… $149 Promotion by eBay!" vom AutoModerator)
+_WERBUNG = re.compile(r"promotion by ebay|\bsponsored\b|\[(ad|anzeige|werbung)\]", re.I)
+_BOTS = {"/u/AutoModerator"}
 _WS = re.compile(r"\s+")
 
 # Grober Vorfilter, damit die KI nur Kandidaten sieht
@@ -80,6 +93,20 @@ def _text(el: ET.Element | None) -> str:
     if el is None:
         return ""
     return _WS.sub(" ", html.unescape(_TAG.sub(" ", "".join(el.itertext())))).strip()
+
+
+def _shops(roh: str) -> list[str]:
+    """Händler-Domains aus den Links eines Forenbeitrags."""
+    out = []
+    for link in _HREF.findall(html.unescape(roh)):
+        host = (urlsplit(link).hostname or "").removeprefix("www.")
+        if host and not _KEIN_SHOP.search(host) and host not in out:
+            out.append(host)
+    return out
+
+
+def werbung(m: Meldung) -> bool:
+    return m.autor in _BOTS or bool(_WERBUNG.search(m.titel))
 
 
 def _datum(s: str) -> str | None:
@@ -118,6 +145,9 @@ def _parse(xml: bytes, name: str, sprache: str, art: str) -> list[Meldung]:
                 text=_text(it.find("description"))[:700],
                 preis_hinweis=merchant.get("price") if merchant is not None else None,
                 haendler_hinweis=merchant.get("name") if merchant is not None else None,
+                forum=name in FOREN,
+                # mydealz-Deals verlinken immer den Händler; der steht im merchant-Feld
+                belege=[merchant.get("name") or "mydealz"] if merchant is not None else [],
             ))
         return out
     for en in root.findall("atom:entry", NS):  # Atom (Reddit)
@@ -127,10 +157,14 @@ def _parse(xml: bytes, name: str, sprache: str, art: str) -> list[Meldung]:
         eid = en.findtext("atom:id", default=link, namespaces=NS)
         datum = en.findtext("atom:published", default="", namespaces=NS) or \
             en.findtext("atom:updated", default="", namespaces=NS)
+        inhalt = en.find("atom:content", NS)
         out.append(Meldung(
             id=sha(eid or titel), titel=titel, link=link, quelle=name, sprache=sprache,
             art=art, datum=_datum(datum) or iso(now()),
-            text=_text(en.find("atom:content", NS))[:700],
+            text=_text(inhalt)[:700],
+            autor=(en.findtext("atom:author/atom:name", default="", namespaces=NS) or "").strip() or None,
+            forum=name in FOREN,
+            belege=_shops("".join(inhalt.itertext())) if inhalt is not None else [],
         ))
     return out
 
@@ -165,7 +199,7 @@ def sammeln() -> tuple[list[Meldung], dict[str, str]]:
             continue
         status[key] = "ok"
         for m in meldungen:
-            if parse_iso(m.datum) < grenze or not relevant(m):
+            if parse_iso(m.datum) < grenze or werbung(m) or not relevant(m):
                 continue
             norm = re.sub(r"\W+", "", m.titel.lower())
             if norm in gesehen_titel:
