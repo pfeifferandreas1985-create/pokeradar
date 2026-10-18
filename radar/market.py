@@ -182,34 +182,24 @@ def zuordnen(analyse: dict, kat: list[dict], set_en: str | None = None) -> dict 
     kandidaten = [p for p in kat if p["typ"] == typ and p["sprache"] == sprache]
     if not kandidaten:
         return None
-    ziel_set = (set_en or analyse.get("set_en") or "").strip().lower()
-    if ziel_set:
-        exakt = [p for p in kandidaten if p["set"].lower() == ziel_set]
-        if exakt:
-            kandidaten = exakt
-    variante = analyse.get("variante")
+    # Variante muss stimmen: Pokémon-Center-Edition und 18er-Display haben eigene Preise
+    variante = None if sprache == "jp" and analyse.get("variante") == "18er" else analyse.get("variante")
+    kandidaten = [p for p in kandidaten
+                  if _ist_pc(p["name"]) == (variante == "pokemon-center")
+                  and (typ != "display" or ("18 boosters" in p["name"].lower()) == (variante == "18er"))]
 
-    def passt(p: dict) -> float:
-        name = p["name"].lower()
-        pc = "pokémon center" in name or "pokemon center" in name
-        s = 0.0
-        if variante == "pokemon-center":
-            s += 1 if pc else -1
-        elif pc:
-            s -= 0.5
-        if typ == "display":
-            achtzehn = "18 boosters" in name
-            s += (1 if achtzehn else -1) if variante == "18er" else (-0.5 if achtzehn else 0)
-        if not ziel_set:
-            a = tokens(f"{analyse.get('set') or ''} {analyse.get('produkt') or ''}")
-            b = tokens(p["set"])
-            s += 3 * (len(a & b) / len(b)) if b else 0
-        return s
+    ziel = tokens(set_en or analyse.get("set_en") or "")
+    if ziel:
+        treffer = [p for p in kandidaten if tokens(p["set"]) == ziel]
+        # "Pokémon 30th Celebration" → "30th Celebration": Katalog-Set steckt vollständig im Namen
+        treffer = treffer or [p for p in kandidaten if tokens(p["set"]) and tokens(p["set"]) <= ziel]
+        return max(treffer, key=lambda p: len(tokens(p["set"]))) if treffer else None
+    # Ohne Setnamen nur, wenn der Setname wörtlich in Set oder Produktname der Meldung steht –
+    # lieber kein Marktvergleich als ein falscher (der erzeugt Schein-Rabatte)
+    text = f" {_norm(analyse.get('set') or '')} {_norm(analyse.get('produkt') or '')} "
+    treffer = [p for p in kandidaten if _norm(p["set"]) and f" {_norm(p['set'])} " in text]
+    return max(treffer, key=lambda p: len(p["set"])) if treffer else None
 
-    bester = max(kandidaten, key=passt)
-    if not ziel_set:
-        a = tokens(f"{analyse.get('set') or ''} {analyse.get('produkt') or ''}")
-        b = tokens(bester["set"])
-        if not b or len(a & b) / len(b) < 0.99:  # ohne Setnamen nur bei vollem Treffer
-            return None
-    return bester
+
+def _ist_pc(name: str) -> bool:
+    return bool(re.search(r"pok[eé]mon center", name, re.I))
