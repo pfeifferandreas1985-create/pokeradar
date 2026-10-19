@@ -1,5 +1,38 @@
 [
  {
+  "datum": "2026-10-19T13:25:17Z",
+  "haendler": "mydealz",
+  "hype": 7,
+  "id": "27c004bcc03dbea6",
+  "kurz": "Mega-Entwicklung-Box mit 36 Boostern für 165,99€ im Angebot",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-boosterpack-display-box-mega-entwicklung-delta-herrschaft-36-boosterpacks-2856167",
+  "markt": {
+   "id": 271908,
+   "low": null,
+   "name": "EX Delta Species Booster Box",
+   "trend": 274.04
+  },
+  "preis": 165.99,
+  "preis_eur": 165.99,
+  "produkt": "EX Delta Species Booster Box",
+  "quelle": "mydealz",
+  "rabatt": 39.4,
+  "rating": {
+   "gruende": [
+    "39 % unter Cardmarket-Trend (165,99 € statt 274,04 €)"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "Pokémon-Sammelkartenspiel: Boosterpack-Display-Box Mega-Entwicklung – Delta-Herrschaft (36 Boosterpacks)",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-10-15T13:23:24Z",
   "haendler": null,
   "hype": 7,

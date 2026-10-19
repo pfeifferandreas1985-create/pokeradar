@@ -1,6 +1,39 @@
 {
  "deals": [
   {
+   "datum": "2026-10-19T13:25:17Z",
+   "haendler": "mydealz",
+   "hype": 7,
+   "id": "27c004bcc03dbea6",
+   "kurz": "Mega-Entwicklung-Box mit 36 Boostern für 165,99€ im Angebot",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-boosterpack-display-box-mega-entwicklung-delta-herrschaft-36-boosterpacks-2856167",
+   "markt": {
+    "id": 271908,
+    "low": null,
+    "name": "EX Delta Species Booster Box",
+    "trend": 274.04
+   },
+   "preis": 165.99,
+   "preis_eur": 165.99,
+   "produkt": "EX Delta Species Booster Box",
+   "quelle": "mydealz",
+   "rabatt": 39.4,
+   "rating": {
+    "gruende": [
+     "39 % unter Cardmarket-Trend (165,99 € statt 274,04 €)"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "Pokémon-Sammelkartenspiel: Boosterpack-Display-Box Mega-Entwicklung – Delta-Herrschaft (36 Boosterpacks)",
+   "typ": "display",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-10-15T13:23:24Z",
    "haendler": null,
    "hype": 7,
@@ -868,6 +901,43 @@
   }
  ],
  "produkte": [
+  {
+   "aktualisiert": "2026-10-19T11:30:00Z",
+   "erstmals": "2026-10-19T11:30:00Z",
+   "gruende": [
+    "30. Jubiläum",
+    "limitierte Box",
+    "großer Fan-Hype"
+   ],
+   "haendler": "Netto",
+   "hype": 9,
+   "key": "30th-celebration-display-de",
+   "kurz": "30. Jubiläum-Display mit 20 Boostern wird bei Netto im Bestpreis angeboten",
+   "name": "30th Celebration Sammelkarten-Display",
+   "quellen": [
+    {
+     "datum": "2026-10-19T11:30:00Z",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0ZUZ2xsaFg0dlB6Y1VVSTNwOVVuVkQxYjl5QVhxdHBtRG41bmxoMER3TXVqRVc0c09FcFhHQVNkQ3FPOUU2WllvZHFvREU2VzBjRFExb2sySTlmLVR6QzBaTFdqUi1JbGhGXzltNExUMHVZNGphdXhhNWtWNEF5TDNoMV9sY0dVakQ2NlRhMjF4cTF0S0VmcVlnc2F4anJFNWEtY1Q3M2FqTWxIblVUd3JNa2Fwd19PMDlqSlA2dC1JS0FCRUNTVS04bEE3cFot?oc=5",
+     "quelle": "PC Games.de",
+     "status": "angekuendigt",
+     "titel": "Pokémon zum 30. Jubiläum: Sammelkarten-Display mit 20 Boostern bei Netto zum Bestpreis (Update)"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "30. Jubiläum",
+     "limitierte Box",
+     "großer Fan-Hype"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Celebration",
+   "sprache": "de",
+   "stage": "angekuendigt",
+   "typ": "display",
+   "variante": null
+  },
   {
    "aktualisiert": "2026-10-17T17:05:01Z",
    "erscheint_am": "2026-11-01",

@@ -1,4 +1,44 @@
 {
+ "30th-celebration-display-de": {
+  "aktualisiert": "2026-10-19T11:30:00Z",
+  "erstmals": "2026-10-19T11:30:00Z",
+  "gemeldet": [
+   "neu"
+  ],
+  "gruende": [
+   "30. Jubiläum",
+   "limitierte Box",
+   "großer Fan-Hype"
+  ],
+  "haendler": "Netto",
+  "hype": 9,
+  "key": "30th-celebration-display-de",
+  "kurz": "30. Jubiläum-Display mit 20 Boostern wird bei Netto im Bestpreis angeboten",
+  "name": "30th Celebration Sammelkarten-Display",
+  "quellen": [
+   {
+    "datum": "2026-10-19T11:30:00Z",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0ZUZ2xsaFg0dlB6Y1VVSTNwOVVuVkQxYjl5QVhxdHBtRG41bmxoMER3TXVqRVc0c09FcFhHQVNkQ3FPOUU2WllvZHFvREU2VzBjRFExb2sySTlmLVR6QzBaTFdqUi1JbGhGXzltNExUMHVZNGphdXhhNWtWNEF5TDNoMV9sY0dVakQ2NlRhMjF4cTF0S0VmcVlnc2F4anJFNWEtY1Q3M2FqTWxIblVUd3JNa2Fwd19PMDlqSlA2dC1JS0FCRUNTVS04bEE3cFot?oc=5",
+    "quelle": "PC Games.de",
+    "status": "angekuendigt",
+    "titel": "Pokémon zum 30. Jubiläum: Sammelkarten-Display mit 20 Boostern bei Netto zum Bestpreis (Update)"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "30. Jubiläum",
+    "limitierte Box",
+    "großer Fan-Hype"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "30th Celebration",
+  "sprache": "de",
+  "stage": "angekuendigt",
+  "typ": "display",
+  "variante": null
+ },
  "30th-celebration-display-en-18er": {
   "aktualisiert": "2026-09-29T20:07:49Z",
   "erscheint_am": "2026-10-01",

@@ -1,1 +1,34 @@
-[]
+[
+ {
+  "aussage": "meinung",
+  "autor": null,
+  "datum": "2026-10-15T14:38:43Z",
+  "forum": false,
+  "id": "8c2c3789c29a6427",
+  "key": "30th-celebration-display-jp-18er",
+  "kurz": "Jubiläums-Display im Japan-Release wird mit Einzelinformationen erläutert",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FVE90azFwcGhBT1VFV0ZMWnRhak51WGtmdl94SGRkWG5OQld3YkdOM0c2MHRWZV9TcXZoM1NiUXBIWlAyc0xmOGkwUE9UMU9UM0U0QUtGUVIxRGpMaHZUSXRuYXJZNnllYXV3QUh2bUtuUmdHM0Z3NldPQ18?oc=5",
+  "produkt": "30th Celebration Sammelkarten-Display",
+  "quelle": "ポケカポケット開封日記",
+  "sprache": "jp",
+  "status": "angekuendigt",
+  "titel": "【ポケカ】30th CELEBRATION BOX封入率解説【30周年】",
+  "typ": "display"
+ },
+ {
+  "aussage": "frage",
+  "autor": null,
+  "datum": "2026-10-16T07:00:00Z",
+  "forum": false,
+  "id": "660bdfe99f680803",
+  "key": "twilight-masquerade-etb-en-pokemon-center",
+  "kurz": "Frage zur Verfügbarkeit der Elite Trainer Box für Twilight Masquerade",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjdkUEVnTng5MDFSV0V1R191M0dFMTBGU1RRa29qYWdFaUVLb2FadWFUTS1rdTVqckRGdnh3V2w2WFRvNTFfTlZnSE16Rkpqd3JsU3hjbXBfWkFHdGhqOEJIdWdub21qanRDd3doRjJ2bFZoV09mUWU4dFBCbnBPTTZ4TTBodVRRbkV0VnY5Zlc1dFR5TlFHUnRPVWs3em54a19zWUxR?oc=5",
+  "produkt": "Twilight Masquerade Elite Trainer Box",
+  "quelle": "Dexerto",
+  "sprache": "en",
+  "status": "angekuendigt",
+  "titel": "Where to buy Pokemon TCG Twilight Masquerade Elite Trainer Box",
+  "typ": "etb"
+ }
+]
