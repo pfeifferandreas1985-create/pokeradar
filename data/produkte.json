@@ -444,7 +444,7 @@
   "vorverkauf_ab": "2026-09-18"
  },
  "30th-upc-upc-en": {
-  "aktualisiert": "2026-10-17T11:58:58Z",
+  "aktualisiert": "2026-10-19T12:27:04Z",
   "erscheint_am": null,
   "erstmals": "2026-10-14T00:41:32Z",
   "gemeldet": [
@@ -460,12 +460,19 @@
   "haendler": "Amazon",
   "hype": 9,
   "key": "30th-upc-upc-en",
-  "kurz": "30. Jubiläum-UPC vorbestellbar, knapp und begehrt.",
+  "kurz": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder yours now",
   "liefertermin": null,
   "lieferwelle": null,
   "name": "30th UPC Ultra Premium Collection",
   "preis_eur": null,
   "quellen": [
+   {
+    "datum": "2026-10-19T12:27:04Z",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzR3cDcxWFEzdXdrc3JMRHZPZVpGZE5pTHZYUFNQOWVySUt0bjdYOUhfUVlWdlV0amJsWVQ1WmJiSUtfcC1XVHFvVktHajA4SEdzdVNubzBibTBSZnBJQ2pSYWVQTlNvVFg5TmtQaHdaMi1GbmgtYWdla21RYWdRLWlVZk5OT0NkdEJfeFJlZlFiZw?oc=5",
+    "quelle": "Mashable",
+    "status": "vorbestellbar",
+    "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder yours now"
+   },
    {
     "datum": "2026-10-17T11:58:58Z",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0NZLVRlTWRiQjJZX1BFMjBvLTRycGRKMENTSVlVNVRBbVJRWVdZZXlCZERQSXhua01qMll6WFBUNTZxUFZMMFpYV0oxYUttUWMycTltTDVqSmU2VVJ2Q1FycTdsYkh0elg1eWx1dkIyR1pSQVpLYi13X1h3ZkxmWG8wakgtazZ3Wjl3TVFySUdVemo5U2VCZGl3?oc=5",
