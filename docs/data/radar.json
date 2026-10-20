@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "datum": "2026-10-20T07:22:50Z",
+   "haendler": "Netto",
+   "hype": 7,
+   "id": "1d874d45bb28e098",
+   "kurz": "Netto verkauft 30-Jahre-Display zum fairen Preis – knapp und begehrt",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFB5R1dZbjdPbEp5eVc2T0lqUEtMSWdmczJuQ2g0TUtoV2ZadHU2OEwtOF9ZVklCbndaRmhFTi1KakJZa0hPbXJ1VXYzS0Q0TUN1eVRONC1OQmxkcXJWcE1DcGU2SGJlY2VObWZJQzZrTmdJb3NWXzBWOUpET0ZnbzZPVE5hekpPQ000al9OMDRKeVQxQnd0Mjl6a25fQjMyeGhfTXE1YWVXalVLM0Q3LTZWUlJvcnpxd2V2N0xBT2k0M2xU?oc=5",
+   "markt": null,
+   "preis": 1100.0,
+   "preis_eur": 1100.0,
+   "produkt": "30th Anniversary Display",
+   "quelle": "Giga",
+   "rabatt": null,
+   "rating": {
+    "gruende": [
+     "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
+    ],
+    "sterne": 2,
+    "urteil": "Abwarten"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "Pokémon-Karten: Netto verkauft 30-Jahre-Display aus China zum fairen Preis",
+   "typ": "display",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-10-19T13:25:17Z",
    "haendler": "mydealz",
    "hype": 7,
@@ -408,7 +436,19 @@
    "waehrung": "USD"
   }
  ],
- "hinweise": [],
+ "hinweise": [
+  {
+   "datum": "2026-10-19T23:49:51Z",
+   "id": "2a4bd4c15d4a80c7",
+   "link": "https://www.reddit.com/r/PokeInvesting/comments/1xacz05/prismatic_case/",
+   "produkt": "Prismatic etb Case",
+   "quelle": "Reddit",
+   "sprache": "en",
+   "status": "sonstiges",
+   "titel": "Prismatic Case",
+   "typ": "etb"
+  }
+ ],
  "konfig": {
   "alarm_prozent": 15.0,
   "mindestpreis": 40.0,
@@ -914,12 +954,19 @@
    "haendler": "Amazon",
    "hype": 9,
    "key": "30th-upc-upc-en",
-   "kurz": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder yours now",
+   "kurz": "30. Jubiläums-UPC vorbestellbar auf Amazon",
    "liefertermin": null,
    "lieferwelle": null,
    "name": "30th UPC Ultra Premium Collection",
    "preis_eur": null,
    "quellen": [
+    {
+     "datum": "2026-10-19T12:27:04Z",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEpqVVJSV055X1duX1JWWTNIMWNmRlMxVDBDQ1VBTUMyMXZrdE9kVEIxTWtValpaa0tMdW9mUldFWHBtY1BHdl8tYmwyM2tjaElRY09JdXdvNDVwSkR4OTYwZHMxWFU5eVJCamgwYnRpSTdfampRSFkyTkNVbXUwOFhhNHN0TTJmUVFMUkRtMTR3VEly?oc=5",
+     "quelle": "Yahoo",
+     "status": "vorbestellbar",
+     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder yours now"
+    },
     {
      "datum": "2026-10-19T12:27:04Z",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzR3cDcxWFEzdXdrc3JMRHZPZVpGZE5pTHZYUFNQOWVySUt0bjdYOUhfUVlWdlV0amJsWVQ1WmJiSUtfcC1XVHFvVktHajA4SEdzdVNubzBibTBSZnBJQ2pSYWVQTlNvVFg5TmtQaHdaMi1GbmgtYWdla21RYWdRLWlVZk5OT0NkdEJfeFJlZlFiZw?oc=5",
@@ -971,7 +1018,7 @@
    "stage": "vorbestellbar",
    "typ": "upc",
    "variante": null,
-   "vorverkauf_ab": "2026-10-17"
+   "vorverkauf_ab": "2026-10-19"
   },
   {
    "aktualisiert": "2026-10-19T11:30:00Z",

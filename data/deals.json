@@ -1,5 +1,33 @@
 [
  {
+  "datum": "2026-10-20T07:22:50Z",
+  "haendler": "Netto",
+  "hype": 7,
+  "id": "1d874d45bb28e098",
+  "kurz": "Netto verkauft 30-Jahre-Display zum fairen Preis – knapp und begehrt",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFB5R1dZbjdPbEp5eVc2T0lqUEtMSWdmczJuQ2g0TUtoV2ZadHU2OEwtOF9ZVklCbndaRmhFTi1KakJZa0hPbXJ1VXYzS0Q0TUN1eVRONC1OQmxkcXJWcE1DcGU2SGJlY2VObWZJQzZrTmdJb3NWXzBWOUpET0ZnbzZPVE5hekpPQ000al9OMDRKeVQxQnd0Mjl6a25fQjMyeGhfTXE1YWVXalVLM0Q3LTZWUlJvcnpxd2V2N0xBT2k0M2xU?oc=5",
+  "markt": null,
+  "preis": 1100.0,
+  "preis_eur": 1100.0,
+  "produkt": "30th Anniversary Display",
+  "quelle": "Giga",
+  "rabatt": null,
+  "rating": {
+   "gruende": [
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "Pokémon-Karten: Netto verkauft 30-Jahre-Display aus China zum fairen Preis",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-10-19T13:25:17Z",
   "haendler": "mydealz",
   "hype": 7,

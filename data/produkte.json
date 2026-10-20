@@ -460,12 +460,19 @@
   "haendler": "Amazon",
   "hype": 9,
   "key": "30th-upc-upc-en",
-  "kurz": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder yours now",
+  "kurz": "30. Jubiläums-UPC vorbestellbar auf Amazon",
   "liefertermin": null,
   "lieferwelle": null,
   "name": "30th UPC Ultra Premium Collection",
   "preis_eur": null,
   "quellen": [
+   {
+    "datum": "2026-10-19T12:27:04Z",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEpqVVJSV055X1duX1JWWTNIMWNmRlMxVDBDQ1VBTUMyMXZrdE9kVEIxTWtValpaa0tMdW9mUldFWHBtY1BHdl8tYmwyM2tjaElRY09JdXdvNDVwSkR4OTYwZHMxWFU5eVJCamgwYnRpSTdfampRSFkyTkNVbXUwOFhhNHN0TTJmUVFMUkRtMTR3VEly?oc=5",
+    "quelle": "Yahoo",
+    "status": "vorbestellbar",
+    "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder yours now"
+   },
    {
     "datum": "2026-10-19T12:27:04Z",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzR3cDcxWFEzdXdrc3JMRHZPZVpGZE5pTHZYUFNQOWVySUt0bjdYOUhfUVlWdlV0amJsWVQ1WmJiSUtfcC1XVHFvVktHajA4SEdzdVNubzBibTBSZnBJQ2pSYWVQTlNvVFg5TmtQaHdaMi1GbmgtYWdla21RYWdRLWlVZk5OT0NkdEJfeFJlZlFiZw?oc=5",
@@ -517,7 +524,7 @@
   "stage": "vorbestellbar",
   "typ": "upc",
   "variante": null,
-  "vorverkauf_ab": "2026-10-17"
+  "vorverkauf_ab": "2026-10-19"
  },
  "ascended-heroes-etb-de-pokemon-center": {
   "aktualisiert": "2026-10-07T14:54:00Z",
