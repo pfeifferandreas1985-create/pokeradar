@@ -1410,6 +1410,54 @@
   "typ": "etb",
   "variante": null
  },
+ "prismatic-evolutions-etb-en": {
+  "aktualisiert": "2026-10-21T17:55:05Z",
+  "erstmals": "2026-10-21T17:55:05Z",
+  "gemeldet": [
+   "neu"
+  ],
+  "gruende": [
+   "Rarität",
+   "Prismatic Evolutions",
+   "MSRP-Verkauf"
+  ],
+  "hype": 9,
+  "key": "prismatic-evolutions-etb-en",
+  "kurz": "Prismatische Evolutions-ETB angekündigt, MSRP-Verkauf möglich",
+  "markt": {
+   "ch30": null,
+   "ch7": -1.6,
+   "hoch": 152.44,
+   "id": 798930,
+   "low": 85,
+   "name": "Prismatic Evolutions Elite Trainer Box",
+   "trend": 147.46
+  },
+  "name": "Prismatic Evolutions Elite Trainer Box",
+  "quellen": [
+   {
+    "datum": "2026-10-21T17:55:05Z",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTlJTi1sZzNpbkdHMU1XWFNTZzhqdFZmMWNaREExTnkzX19rSzVQQ2FJeHN6cE1adTAweWl2ekduOWpqMEZ4T0VWdGJvT09CTGZJZ1BwY05jU0Y1V29nU1VGRW9vWDNPOWZiMXFjNGtwTTBzTzcwUDk2QXRFUlUxRl9EbmpOa1pBQ3VlWW5zYlBoLTEzMER3LUhiektHSXVDOVdGOTJn?oc=5",
+    "quelle": "ComicBook.com",
+    "status": "angekuendigt",
+    "titel": "How to Score the Rare Pokémon Prismatic Evolutions ETB at MSRP"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Rarität",
+    "Prismatic Evolutions",
+    "MSRP-Verkauf"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "Prismatic Evolutions",
+  "sprache": "en",
+  "stage": "angekuendigt",
+  "typ": "etb",
+  "variante": null
+ },
  "rare-tcg-sets-display-en": {
   "aktualisiert": "2026-10-07T14:58:15Z",
   "erstmals": "2026-10-07T14:58:15Z",

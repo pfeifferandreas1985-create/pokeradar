@@ -493,6 +493,18 @@
  },
  "marktnews": [
   {
+   "datum": "2026-10-21T16:38:45Z",
+   "id": "368ba3d27de59589",
+   "kurz": "ETB auf Markt 130 USD, Best Buy für 49,99 USD",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk5acnR0VDVYTWJxUFNvM1E4UXVkeGFzeVR6NlJrQkxSLU16R0tzZXJyNUMxUi1SamhyWE5kUnhSTXcwbkVmS3JoWTdKa25zeTNKYnFrV1N1MUxzd2FHX1BnVEJrcy01YjlMb213VmFLb2VtR0o2Ym1FNXZ6NlFnZWRibEc2VGcw?oc=5",
+   "markt": null,
+   "quelle": "IGN",
+   "sprache": "en",
+   "titel": "This Rare Pokémon TCG ETB Costs $130 on the Market, but Best Buy Has It for $49.99",
+   "trend": "faellt",
+   "typ": "etb"
+  },
+  {
    "datum": "2026-10-18T01:20:38Z",
    "id": "6b84a26fa5e028e9",
    "kurz": "Phantasmal Flames ETB zeigt Preisanstieg und Wertverfall am Markt.",
@@ -970,6 +982,51 @@
   }
  ],
  "produkte": [
+  {
+   "aktualisiert": "2026-10-21T17:55:05Z",
+   "erstmals": "2026-10-21T17:55:05Z",
+   "gruende": [
+    "Rarität",
+    "Prismatic Evolutions",
+    "MSRP-Verkauf"
+   ],
+   "hype": 9,
+   "key": "prismatic-evolutions-etb-en",
+   "kurz": "Prismatische Evolutions-ETB angekündigt, MSRP-Verkauf möglich",
+   "markt": {
+    "ch30": null,
+    "ch7": -1.6,
+    "hoch": 152.44,
+    "id": 798930,
+    "low": 85,
+    "name": "Prismatic Evolutions Elite Trainer Box",
+    "trend": 147.46
+   },
+   "name": "Prismatic Evolutions Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-10-21T17:55:05Z",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTlJTi1sZzNpbkdHMU1XWFNTZzhqdFZmMWNaREExTnkzX19rSzVQQ2FJeHN6cE1adTAweWl2ekduOWpqMEZ4T0VWdGJvT09CTGZJZ1BwY05jU0Y1V29nU1VGRW9vWDNPOWZiMXFjNGtwTTBzTzcwUDk2QXRFUlUxRl9EbmpOa1pBQ3VlWW5zYlBoLTEzMER3LUhiektHSXVDOVdGOTJn?oc=5",
+     "quelle": "ComicBook.com",
+     "status": "angekuendigt",
+     "titel": "How to Score the Rare Pokémon Prismatic Evolutions ETB at MSRP"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Rarität",
+     "Prismatic Evolutions",
+     "MSRP-Verkauf"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Prismatic Evolutions",
+   "sprache": "en",
+   "stage": "angekuendigt",
+   "typ": "etb",
+   "variante": null
+  },
   {
    "aktualisiert": "2026-10-21T15:16:19Z",
    "erstmals": "2026-10-21T15:16:19Z",
