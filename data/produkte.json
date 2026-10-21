@@ -340,7 +340,7 @@
   "vorverkauf_ab": "2026-10-01"
  },
  "30th-etb-en-pokemon-center": {
-  "aktualisiert": "2026-10-17T17:05:01Z",
+  "aktualisiert": "2026-10-21T05:01:28Z",
   "erscheint_am": "2026-11-01",
   "erstmals": "2026-09-18T00:29:28Z",
   "gemeldet": [
@@ -349,26 +349,34 @@
   "gruende": [
    "30. Jubiläum",
    "über 50.000 Stück",
-   "Warteschlange"
+   "Warteschlange",
+   "Jubiläums-Set"
   ],
-  "haendler": "nicht genannt",
+  "haendler": "Amazon",
   "hype": 10,
   "key": "30th-etb-en-pokemon-center",
-  "kurz": "30. Jubiläum-ETB mit Nachschub, stark begehrt",
-  "liefertermin": "2026-10-01",
+  "kurz": "Vorbestellungen für Pokémon-Center-ETB 30. Jubiläum sind live auf Amazon",
+  "liefertermin": "2026-12-15",
   "lieferwelle": 1,
   "markt": {
    "ch30": null,
-   "ch7": 0.6,
+   "ch7": 1.5,
    "hoch": 135.27,
    "id": 895551,
-   "low": 88,
+   "low": 94.89,
    "name": "30th Celebration Elite Trainer Box",
-   "trend": 132
+   "trend": 132.43
   },
   "name": "30th Celebration Elite Trainer Box",
   "preis_eur": 113.75,
   "quellen": [
+   {
+    "datum": "2026-10-21T05:01:28Z",
+    "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1xbe6es/30th_celebration_elite_trainer_box_lottery_amazon/",
+    "quelle": "Reddit",
+    "status": "vorbestellbar",
+    "titel": "30th Celebration Elite Trainer Box Lottery amazon!"
+   },
    {
     "datum": "2026-10-17T17:05:01Z",
     "link": "https://www.reddit.com/r/PokeInvesting/comments/1x8ffje/30th_anniversary_celebration_elite_trainer_boxes/",
@@ -417,13 +425,6 @@
     "quelle": "Reddit",
     "status": "vorbestellbar",
     "titel": "Target Drop tonight Midnight PST 3am EDT"
-   },
-   {
-    "datum": "2026-10-01T15:21:26Z",
-    "link": "https://www.reddit.com/r/PokeInvesting/comments/1wv29pj/30th_celebration/",
-    "quelle": "Reddit",
-    "status": "angekuendigt",
-    "titel": "30th celebration"
    }
   ],
   "rating": {
@@ -441,7 +442,7 @@
   "stage": "nachschub",
   "typ": "etb",
   "variante": null,
-  "vorverkauf_ab": "2026-09-18"
+  "vorverkauf_ab": "2026-10-21"
  },
  "30th-upc-upc-en": {
   "aktualisiert": "2026-10-19T12:27:04Z",
