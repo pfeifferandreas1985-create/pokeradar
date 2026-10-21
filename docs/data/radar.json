@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "datum": "2026-10-21T15:16:19Z",
+   "haendler": null,
+   "hype": 9,
+   "id": "8bcaa715469eb842",
+   "kurz": "Warteschlange für Pokémon Center TTB aktiv – knapp und begehrt",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.mydealz.de/deals/pokemon-center-dunkelnacht-top-trainer-box-2857171",
+   "markt": null,
+   "preis": 68.46,
+   "preis_eur": 68.46,
+   "produkt": "Dunkelnacht Top Trainer Box",
+   "quelle": "mydealz",
+   "rabatt": null,
+   "rating": {
+    "gruende": [
+     "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
+     "Begehrtes Produkt (Hype 9/10)"
+    ],
+    "sterne": 3,
+    "urteil": "Interessant"
+   },
+   "sprache": "de",
+   "status": "vorbestellbar",
+   "titel": "Pokemon Center Dunkelnacht Top Trainer Box",
+   "typ": "etb",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-10-20T07:22:50Z",
    "haendler": "Netto",
    "hype": 7,
@@ -941,6 +970,44 @@
   }
  ],
  "produkte": [
+  {
+   "aktualisiert": "2026-10-21T15:16:19Z",
+   "erstmals": "2026-10-21T15:16:19Z",
+   "gruende": [
+    "Pokemon Center Exklusiv",
+    "Warteschlange aktiv",
+    "Knappheit"
+   ],
+   "hype": 9,
+   "key": "dunkelnacht-etb-de-pokemon-center",
+   "kurz": "Warteschlange für Pokémon Center TTB aktiv – knapp und begehrt",
+   "name": "Dunkelnacht Top Trainer Box",
+   "preis_eur": 68.46,
+   "quellen": [
+    {
+     "datum": "2026-10-21T15:16:19Z",
+     "link": "https://www.mydealz.de/deals/pokemon-center-dunkelnacht-top-trainer-box-2857171",
+     "quelle": "mydealz",
+     "status": "vorbestellbar",
+     "titel": "Pokemon Center Dunkelnacht Top Trainer Box"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Pokemon Center Exklusiv",
+     "Warteschlange aktiv",
+     "Knappheit"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Dunkelnacht",
+   "sprache": "de",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center"
+  },
   {
    "aktualisiert": "2026-10-21T05:01:28Z",
    "erscheint_am": "2026-11-01",
