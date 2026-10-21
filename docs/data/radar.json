@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "datum": "2026-10-13T15:30:55Z",
+   "haendler": "Amazon",
+   "hype": 5,
+   "id": "c75815acf85ce2a5",
+   "kurz": "Pokémon Sammelkartenspiel: Sammeldeal mit allen verfügbaren Produkten mit Amazon Einladung",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-sammeldeal-mit-allen-verfugbaren-produkten-mit-amazon-einladung-2853462",
+   "markt": null,
+   "preis": 29.94,
+   "preis_eur": 29.94,
+   "produkt": "Pokémon Sammelkartenspiel: Sammeldeal mit allen verfügbaren Produkten mit Amazon Einladung",
+   "quelle": "mydealz",
+   "rabatt": null,
+   "rating": {
+    "gruende": [
+     "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
+    ],
+    "sterne": 2,
+    "urteil": "Abwarten"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "Pokémon Sammelkartenspiel: Sammeldeal mit allen verfügbaren Produkten mit Amazon Einladung",
+   "typ": "display",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-10-21T15:16:19Z",
    "haendler": null,
    "hype": 9,
