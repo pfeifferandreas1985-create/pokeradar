@@ -1540,5 +1540,37 @@
   "typ": "etb",
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-10-01"
+ },
+ "walmart-queue-is-live": {
+  "aktualisiert": "2026-10-22T01:04:19Z",
+  "erstmals": "2026-10-22T01:04:19Z",
+  "gemeldet": [
+   "vorbestellbar"
+  ],
+  "hype": 7,
+  "key": "walmart-queue-is-live",
+  "kurz": "WALMART QUEUE IS LIVE",
+  "name": "WALMART QUEUE IS LIVE",
+  "quellen": [
+   {
+    "datum": "2026-10-22T01:04:19Z",
+    "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1xc4vix/walmart_queue_is_live/",
+    "quelle": "Reddit",
+    "status": "vorbestellbar",
+    "titel": "WALMART QUEUE IS LIVE"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "set": null,
+  "sprache": "en",
+  "stage": "vorbestellbar",
+  "typ": "etb",
+  "variante": null
  }
 }
