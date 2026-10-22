@@ -1,6 +1,74 @@
 {
  "deals": [
   {
+   "datum": "2026-10-22T16:15:24Z",
+   "haendler": null,
+   "hype": 9,
+   "id": "22d04eb1c749f3e6",
+   "kurz": "Seltenes ETB für 49,99 USD mit Bedingung",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEUm12SWNRLVFEeEFUUFB3Y1dJdU1rWUQ2c2RYWHppcExtVmwwbGJhUGRyLTRwbFhxMUtzWWpPN25ZQTZrQ0JJTkVSVm1RRUNTN0RRcTd5RjZ1RzNyZVpSenZGaGNZbTdaSzVpMVZB?oc=5",
+   "markt": null,
+   "preis": 49.99,
+   "preis_eur": 44.5,
+   "produkt": "Rare Elite Trainer Box Elite Trainer Box",
+   "quelle": "Comic Book Resources",
+   "rabatt": null,
+   "rating": {
+    "gruende": [
+     "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
+     "Begehrtes Produkt (Hype 9/10)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 2,
+    "urteil": "Abwarten"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "This Rare Pokémon Elite Trainer Box Is Available for $49.99, but There's a Catch",
+   "typ": "etb",
+   "waehrung": "USD"
+  },
+  {
+   "datum": "2026-10-22T17:02:47Z",
+   "haendler": null,
+   "hype": 8,
+   "id": "f2680757a50eee5f",
+   "kurz": "Prismatic Evolutions-ETB für unter 155 USD im Angebot",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWlaQ3p6SThkMHlqVU0zRVpyMDY3Tm9hWUtzU1VNeHBBUkt0RmxBS3NXYkZweGVuTUh0ajFrejR0bGNqMUVoV1NqU0lHUEFIVVJSZ1k4dTZoWElnc1ByNW9LTS1UNUl0anB4Yk5hNjdnWlB4bWt6T0d3OHZXTUxUVXBHOVo1MWJra1E?oc=5",
+   "markt": {
+    "ch30": null,
+    "ch7": -2.2,
+    "hoch": 152.44,
+    "id": 798930,
+    "low": 85,
+    "name": "Prismatic Evolutions Elite Trainer Box",
+    "trend": 146.01
+   },
+   "preis": 155.01,
+   "preis_eur": 137.98,
+   "produkt": "Prismatic Evolutions Elite Trainer Box",
+   "quelle": "Mashable",
+   "rabatt": 5.5,
+   "rating": {
+    "gruende": [
+     "6 % unter Cardmarket-Trend (137,98 € statt 146,01 €)",
+     "Begehrtes Produkt (Hype 8/10)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 1,
+    "urteil": "Eher nicht"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "Best Pokémon TCG Deal: Prismatic Evolutions Elite Trainer Box is now just over $155",
+   "typ": "etb",
+   "waehrung": "USD"
+  },
+  {
    "datum": "2026-10-22T08:48:43Z",
    "haendler": "Amazon",
    "hype": 10,
@@ -1307,6 +1375,44 @@
    "typ": "etb",
    "variante": null,
    "vorverkauf_ab": "2026-10-21"
+  },
+  {
+   "aktualisiert": "2026-10-20T10:34:00Z",
+   "erstmals": "2026-10-20T10:34:00Z",
+   "gruende": [
+    "30. Jubiläum",
+    "Exklusiv",
+    "Vorverkauf via Draw"
+   ],
+   "haendler": "Amazon",
+   "hype": 10,
+   "key": "30th-celebration-etb-jp",
+   "kurz": "30. Jubiläums-ETB via Amazon-Draw, exklusiv",
+   "name": "30th CELEBRATION Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-10-20T10:34:00Z",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mUUVSekJ2eVFhMlVsTDBwaGFWbUVfMG4tX25GTW1rVDNXLUtwSy1JSG94OTUzdmZESTJuZ1VObjlGNzdydHRwZmVjVXhkQXBEX2xmMTlDeFRHakR6MFpsdERSVUxaNlJOdXc?oc=5",
+     "quelle": "ファミ通",
+     "status": "vorbestellbar",
+     "titel": "【ポケカ】Amazon抽選販売まとめ。30周年カードセット“30th CELEBRATION”やストームエメラルダ、MEGAドリームexなど"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "30. Jubiläum",
+     "Exklusiv",
+     "Vorverkauf via Draw"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th CELEBRATION",
+   "sprache": "jp",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": null
   },
   {
    "aktualisiert": "2026-10-19T12:27:04Z",
