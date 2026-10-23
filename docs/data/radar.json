@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "datum": "2026-10-23T14:17:46Z",
+   "haendler": "Walmart",
+   "hype": 4,
+   "id": "5f9f563df0844499",
+   "kurz": "30. Jubiläum-Box für 59,99 USD im Handel",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVdQWVd0U3h2VVhaYl92Y005bDZ4WnFoSVpRdTFMQUgyUGhFTWhfbl9sMW5Sb0JDMzYwWm1XcHNYeGsxeHpBM3BpcnIzT0xoNWFKYkVCZXI0djhyMWxmcXhxZUhNc201Tk5TSVBwYWVfWDVfUTRPTzRxd0JyZzE4aWxqTDU1RGtp?oc=5",
+   "markt": null,
+   "preis": 59.99,
+   "preis_eur": 53.54,
+   "produkt": "30th Celebration Sylveon ex Box",
+   "quelle": "Mashable",
+   "rabatt": null,
+   "rating": {
+    "gruende": [
+     "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 1,
+    "urteil": "Eher nicht"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "Best Pokémon TCG deal: 30th Celebration Sylveon ex Box is now under $60 at Walmart",
+   "typ": "display",
+   "waehrung": "USD"
+  },
+  {
    "datum": "2026-10-23T11:01:51Z",
    "haendler": "Amazon",
    "hype": 7,
