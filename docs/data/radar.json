@@ -1165,6 +1165,84 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-10-23T16:37:28Z",
+   "erscheint_am": "2026-11-15",
+   "erstmals": "2026-09-30T16:01:29Z",
+   "gruende": [
+    "Neues Hauptset, Pokémon-Center-Exklusiv",
+    "Hype um Delta Reign, große Nachfrage",
+    "Vorbestellungen live, Warteschlange",
+    "Neues Set, Pokémon-Center-Exklusiv"
+   ],
+   "haendler": "Amazon",
+   "hype": 10,
+   "key": "delta-reign-etb-en-pokemon-center",
+   "kurz": "Delta Reign-ETB vorbestellbar, knapp und begehrt",
+   "liefertermin": "2026-12-10",
+   "lieferwelle": 1,
+   "markt": {
+    "id": 903954,
+    "low": null,
+    "name": "Delta Reign Pokémon Center Elite Trainer Box",
+    "trend": null
+   },
+   "name": "Delta Reign Elite Trainer Box",
+   "preis_eur": 125.15,
+   "quellen": [
+    {
+     "datum": "2026-10-23T16:37:28Z",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbDQ2Z0Rva04zMldOYk5nVDJpeUFfUWFNczFTTlkza1NxTXBZTjFsZEd5SUZQQllWTWNubWZIZm1vaXdoVHM0LU5zV1A0VzNMRDRBQmpfM3pWTjd5S3RRbkdZVFdJV0o1TjRrQkktWnBpcnJPa3RVUEViOEdhTVBaMDNrbw?oc=5",
+     "quelle": "ComicBook.com",
+     "status": "vorbestellbar",
+     "titel": "Pokémon TCG Delta Reign Pre-Orders: Where to Find Stock and Best Prices"
+    },
+    {
+     "datum": "2026-10-08T10:48:01Z",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOclBxM3pFU3VUNHBkeWdNYkNvamlxTVBWbG1Ic3A2Q1BrZTcyaXNQYlBKbU52UF90NUJRdjJ4bjRiNzRMbkJVRUFwUmRoVTRqMktfbnJ0OWZ2RDFlNzRXMmZ2Q3dmNkQ0NzVuc1ZKdFNMT3d2LXMtSTlwVkdTcTdZWlBUZEhhWTA?oc=5",
+     "quelle": "Yahoo",
+     "status": "vorbestellbar",
+     "titel": "The Pokémon TCG Delta Reign Elite Trainer Box is close to market price at Amazon — buy for under $140"
+    },
+    {
+     "datum": "2026-09-30T15:47:34Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wu8fgt/pokemon_center_queue_is_up/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "Pokemon Center Queue is up"
+    },
+    {
+     "datum": "2026-09-30T15:54:07Z",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVk5vVWlSSW90aFV2M0MyYjQwbnltdkNFanFHN3ZKWmczdlZxLUUxM2Q5MFdxTmw0cEFRN2hUamRZRGZvUU1OTVotb1lTdHZ3Y3NVbGg2VXJBMlJIcEc1WUszNHNQVDltZzQtOHIyNUU0NnQwcWJLTWlheFNsYUNKUFZkU1dLQi14Vk1RUXpTTEc2QlFObWxKWjBmSXM?oc=5",
+     "quelle": "Joseph Writer Anderson",
+     "status": "vorbestellbar",
+     "titel": "Delta Reign Pokémon Center Preorders Are Live"
+    },
+    {
+     "datum": "2026-09-30T16:01:29Z",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON0pVU3ZJaWhma0thRkVkV1BwdXE0NDhUbGtNVmNONjREOEFVRE9lcHVhb2QycnVUcnBYZHZPTW9LbktRSzJJZjc4ZUVoLUlPVFloN185QnpBZFlzWGQxNHBYTmFlTFlSRS1QMy1fVEZ3N2J2cmNPOXRZMm1Bakh4RjRTb0RjcF9xSUYwRw?oc=5",
+     "quelle": "Polygon.com",
+     "status": "vorbestellbar",
+     "titel": "The Pokémon Center Opens Pre-Orders For Delta Reign, The Next Big TCG Set"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Neues Hauptset, Pokémon-Center-Exklusiv",
+     "Hype um Delta Reign, große Nachfrage",
+     "Vorbestellungen live, Warteschlange"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Delta Reign",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
+   "vorverkauf_ab": "2026-10-23"
+  },
+  {
    "aktualisiert": "2026-10-22T08:33:58Z",
    "erstmals": "2026-10-22T08:33:58Z",
    "gruende": [
@@ -1959,77 +2037,6 @@
    "stage": "vorbestellbar",
    "typ": "display",
    "variante": null,
-   "vorverkauf_ab": "2026-10-09"
-  },
-  {
-   "aktualisiert": "2026-10-08T10:48:01Z",
-   "erscheint_am": "2026-11-15",
-   "erstmals": "2026-09-30T16:01:29Z",
-   "gruende": [
-    "Neues Hauptset, Pokémon-Center-Exklusiv",
-    "Hype um Delta Reign, große Nachfrage",
-    "Vorbestellungen live, Warteschlange",
-    "Neues Set, Pokémon-Center-Exklusiv"
-   ],
-   "haendler": "Amazon",
-   "hype": 10,
-   "key": "delta-reign-etb-en-pokemon-center",
-   "kurz": "Delta Reign ETB vorbestellbar, Preis unter 140 USD",
-   "liefertermin": "2026-12-10",
-   "lieferwelle": 1,
-   "markt": {
-    "id": 903954,
-    "low": null,
-    "name": "Delta Reign Pokémon Center Elite Trainer Box",
-    "trend": null
-   },
-   "name": "Delta Reign Elite Trainer Box",
-   "preis_eur": 125.15,
-   "quellen": [
-    {
-     "datum": "2026-10-08T10:48:01Z",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOclBxM3pFU3VUNHBkeWdNYkNvamlxTVBWbG1Ic3A2Q1BrZTcyaXNQYlBKbU52UF90NUJRdjJ4bjRiNzRMbkJVRUFwUmRoVTRqMktfbnJ0OWZ2RDFlNzRXMmZ2Q3dmNkQ0NzVuc1ZKdFNMT3d2LXMtSTlwVkdTcTdZWlBUZEhhWTA?oc=5",
-     "quelle": "Yahoo",
-     "status": "vorbestellbar",
-     "titel": "The Pokémon TCG Delta Reign Elite Trainer Box is close to market price at Amazon — buy for under $140"
-    },
-    {
-     "datum": "2026-09-30T15:47:34Z",
-     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wu8fgt/pokemon_center_queue_is_up/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "Pokemon Center Queue is up"
-    },
-    {
-     "datum": "2026-09-30T15:54:07Z",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVk5vVWlSSW90aFV2M0MyYjQwbnltdkNFanFHN3ZKWmczdlZxLUUxM2Q5MFdxTmw0cEFRN2hUamRZRGZvUU1OTVotb1lTdHZ3Y3NVbGg2VXJBMlJIcEc1WUszNHNQVDltZzQtOHIyNUU0NnQwcWJLTWlheFNsYUNKUFZkU1dLQi14Vk1RUXpTTEc2QlFObWxKWjBmSXM?oc=5",
-     "quelle": "Joseph Writer Anderson",
-     "status": "vorbestellbar",
-     "titel": "Delta Reign Pokémon Center Preorders Are Live"
-    },
-    {
-     "datum": "2026-09-30T16:01:29Z",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON0pVU3ZJaWhma0thRkVkV1BwdXE0NDhUbGtNVmNONjREOEFVRE9lcHVhb2QycnVUcnBYZHZPTW9LbktRSzJJZjc4ZUVoLUlPVFloN185QnpBZFlzWGQxNHBYTmFlTFlSRS1QMy1fVEZ3N2J2cmNPOXRZMm1Bakh4RjRTb0RjcF9xSUYwRw?oc=5",
-     "quelle": "Polygon.com",
-     "status": "vorbestellbar",
-     "titel": "The Pokémon Center Opens Pre-Orders For Delta Reign, The Next Big TCG Set"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
-     "Neues Hauptset, Pokémon-Center-Exklusiv",
-     "Hype um Delta Reign, große Nachfrage",
-     "Vorbestellungen live, Warteschlange"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "Delta Reign",
-   "sprache": "en",
-   "stage": "vorbestellbar",
-   "typ": "etb",
-   "variante": "pokemon-center",
    "vorverkauf_ab": "2026-10-09"
   },
   {
