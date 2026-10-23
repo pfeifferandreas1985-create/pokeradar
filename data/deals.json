@@ -1,5 +1,33 @@
 [
  {
+  "datum": "2026-10-23T11:01:51Z",
+  "haendler": "Amazon",
+  "hype": 7,
+  "id": "a939174f61de7927",
+  "kurz": "Kampfdeck mit Psiana-ex für 24,99€ bei Amazon erhältlich",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-kampfdeck-30-jahre-psiana-ex-einladung-2858022",
+  "markt": null,
+  "preis": 24.99,
+  "preis_eur": 24.99,
+  "produkt": "30 Years Kampfdeck",
+  "quelle": "mydealz",
+  "rabatt": null,
+  "rating": {
+   "gruende": [
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "Pokémon-Sammelkartenspiel: Kampfdeck 30 Jahre: Psiana-ex (Einladung)",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-10-22T16:15:24Z",
   "haendler": null,
   "hype": 9,
