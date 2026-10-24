@@ -1474,6 +1474,55 @@
   "variante": null,
   "vorverkauf_ab": "2026-10-01"
  },
+ "phantasmal-flames-etb-en": {
+  "aktualisiert": "2026-10-11T14:06:51Z",
+  "erstmals": "2026-10-11T14:06:51Z",
+  "gemeldet": [],
+  "gruende": [
+   "Full-Art-Promo",
+   "Invite-Only",
+   "begehrt"
+  ],
+  "haendler": "Amazon",
+  "hype": 8,
+  "key": "phantasmal-flames-etb-en",
+  "kurz": "ETB Phantasmal Flames vorbestellbar mit Promo-Karte und begehrt",
+  "markt": {
+   "ch30": null,
+   "ch7": -0.2,
+   "hoch": 93.12,
+   "id": 846744,
+   "low": 59.99,
+   "name": "Phantasmal Flames Elite Trainer Box",
+   "trend": 90.02
+  },
+  "name": "Phantasmal Flames Elite Trainer Box",
+  "preis_eur": 48.37,
+  "quellen": [
+   {
+    "datum": "2026-10-11T14:06:51Z",
+    "link": "https://www.hotukdeals.com/deals/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box-1-full-art-promo-card-9-booster-packs-premium-accessories-5002634",
+    "quelle": "hotukdeals",
+    "status": "vorbestellbar",
+    "titel": "Pokémon TCG: Mega Evolution—Phantasmal Flames Elite Trainer Box (1 Full-Art Promo Card, 9 Booster Packs & Premium Accessories) - Invite Only"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Full-Art-Promo",
+    "Invite-Only",
+    "begehrt"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "Phantasmal Flames",
+  "sprache": "en",
+  "stage": "vorbestellbar",
+  "typ": "etb",
+  "variante": null
+ },
  "prismatic-evolution-etb-de": {
   "aktualisiert": "2026-10-02T12:15:50Z",
   "erstmals": "2026-10-02T12:15:50Z",
@@ -1521,22 +1570,32 @@
   "gruende": [
    "Rarität",
    "Prismatic Evolutions",
-   "MSRP-Verkauf"
+   "MSRP-Verkauf",
+   "Eevee-Evolutionen"
   ],
+  "haendler": "Amazon",
   "hype": 9,
   "key": "prismatic-evolutions-etb-en",
-  "kurz": "Prismatische Evolutions-ETB angekündigt, MSRP-Verkauf möglich",
+  "kurz": "ETB für Scarlet & Violet – Prismatic Evolutions ist vorbestellbar und begehrt",
   "markt": {
    "ch30": null,
-   "ch7": -1.6,
+   "ch7": -2.4,
    "hoch": 152.44,
    "id": 798930,
    "low": 85,
    "name": "Prismatic Evolutions Elite Trainer Box",
-   "trend": 147.46
+   "trend": 146.99
   },
   "name": "Prismatic Evolutions Elite Trainer Box",
+  "preis_eur": 49.64,
   "quellen": [
+   {
+    "datum": "2026-10-12T07:11:39Z",
+    "link": "https://www.hotukdeals.com/deals/pokemon-tcg-scarlet-violet-prismatic-evolutions-elite-trainer-box-5003123",
+    "quelle": "hotukdeals",
+    "status": "vorbestellbar",
+    "titel": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Elite Trainer Box - Available By Invite"
+   },
    {
     "datum": "2026-10-21T17:55:05Z",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTlJTi1sZzNpbkdHMU1XWFNTZzhqdFZmMWNaREExTnkzX19rSzVQQ2FJeHN6cE1adTAweWl2ekduOWpqMEZ4T0VWdGJvT09CTGZJZ1BwY05jU0Y1V29nU1VGRW9vWDNPOWZiMXFjNGtwTTBzTzcwUDk2QXRFUlUxRl9EbmpOa1pBQ3VlWW5zYlBoLTEzMER3LUhiektHSXVDOVdGOTJn?oc=5",
@@ -1547,6 +1606,7 @@
   ],
   "rating": {
    "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
     "Rarität",
     "Prismatic Evolutions",
     "MSRP-Verkauf"
@@ -1556,7 +1616,7 @@
   },
   "set": "Prismatic Evolutions",
   "sprache": "en",
-  "stage": "angekuendigt",
+  "stage": "vorbestellbar",
   "typ": "etb",
   "variante": null
  },

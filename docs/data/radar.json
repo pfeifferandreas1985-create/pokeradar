@@ -1,6 +1,163 @@
 {
  "deals": [
   {
+   "datum": "2026-10-11T14:06:51Z",
+   "fake_risiko": false,
+   "haendler": "Amazon",
+   "hype": 8,
+   "id": "6bec6eb942944509",
+   "kurz": "ETB Phantasmal Flames vorbestellbar mit Promo-Karte und begehrt",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.hotukdeals.com/deals/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box-1-full-art-promo-card-9-booster-packs-premium-accessories-5002634",
+   "markt": {
+    "ch30": null,
+    "ch7": -0.2,
+    "hoch": 93.12,
+    "id": 846744,
+    "low": 59.99,
+    "name": "Phantasmal Flames Elite Trainer Box",
+    "trend": 90.02
+   },
+   "preis": 40.5,
+   "preis_eur": 48.37,
+   "produkt": "Phantasmal Flames Elite Trainer Box",
+   "pruefen": null,
+   "quelle": "hotukdeals",
+   "rabatt": 46.3,
+   "rating": {
+    "gruende": [
+     "46 % unter Cardmarket-Trend (48,37 € statt 90,02 €)",
+     "Begehrtes Produkt (Hype 8/10)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 4,
+    "urteil": "Lohnt sich"
+   },
+   "sprache": "en",
+   "status": "vorbestellbar",
+   "titel": "Pokémon TCG: Mega Evolution—Phantasmal Flames Elite Trainer Box (1 Full-Art Promo Card, 9 Booster Packs & Premium Accessories) - Invite Only",
+   "typ": "etb",
+   "waehrung": "GBP"
+  },
+  {
+   "datum": "2026-10-12T07:11:39Z",
+   "fake_risiko": false,
+   "haendler": "Amazon",
+   "hype": 9,
+   "id": "e30301271a926dcd",
+   "kurz": "ETB für Scarlet & Violet – Prismatic Evolutions ist vorbestellbar und begehrt",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.hotukdeals.com/deals/pokemon-tcg-scarlet-violet-prismatic-evolutions-elite-trainer-box-5003123",
+   "markt": {
+    "ch30": null,
+    "ch7": -2.4,
+    "hoch": 152.44,
+    "id": 798930,
+    "low": 85,
+    "name": "Prismatic Evolutions Elite Trainer Box",
+    "trend": 146.99
+   },
+   "preis": 41.56,
+   "preis_eur": 49.64,
+   "produkt": "Prismatic Evolutions Elite Trainer Box",
+   "pruefen": null,
+   "quelle": "hotukdeals",
+   "rabatt": 66.2,
+   "rating": {
+    "gruende": [
+     "66 % unter Cardmarket-Trend (49,64 € statt 146,99 €)",
+     "Begehrtes Produkt (Hype 9/10)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 4,
+    "urteil": "Lohnt sich"
+   },
+   "sprache": "en",
+   "status": "vorbestellbar",
+   "titel": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Elite Trainer Box - Available By Invite",
+   "typ": "etb",
+   "waehrung": "GBP"
+  },
+  {
+   "datum": "2026-10-17T06:02:24Z",
+   "fake_risiko": false,
+   "haendler": "Amazon",
+   "hype": 7,
+   "id": "fe952ae813cf4d59",
+   "kurz": "Exklusives Booster-Bundle mit Einladung, knapp und begehrt",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.preisjaeger.at/deals/amazon-pokemon-sammelkartenspiel-mega-entwicklung-erhabene-helden-booster-bundle-einladung-erforderlich-370820",
+   "markt": {
+    "ch30": null,
+    "ch7": 2.1,
+    "hoch": 248.67,
+    "id": 834832,
+    "low": 140,
+    "name": "Mega Evolution Booster Box",
+    "trend": 224.69
+   },
+   "preis": 28.1,
+   "preis_eur": 28.1,
+   "produkt": "Mega Evolution Booster Box",
+   "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
+   "quelle": "Preisjäger",
+   "rabatt": 87.5,
+   "rating": {
+    "gruende": [
+     "88 % unter Cardmarket-Trend (28,10 € statt 224,69 €)"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "[Amazon] Pokémon-Sammelkartenspiel - Mega-Entwicklung Erhabene Helden Booster Bundle - Einladung erforderlich",
+   "typ": "display",
+   "waehrung": "EUR"
+  },
+  {
+   "datum": "2026-10-17T20:42:06Z",
+   "fake_risiko": false,
+   "haendler": "Amazon",
+   "hype": 7,
+   "id": "e474010374aaa6ab",
+   "kurz": "Exklusives Booster-Bundle mit Einladung, knapp und begehrt",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.hotukdeals.com/deals/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-6-booster-packs-invite-only-5007725",
+   "markt": {
+    "ch30": null,
+    "ch7": 2.1,
+    "hoch": 248.67,
+    "id": 834832,
+    "low": 140,
+    "name": "Mega Evolution Booster Box",
+    "trend": 224.69
+   },
+   "preis": 20.37,
+   "preis_eur": 24.33,
+   "produkt": "Mega Evolution Booster Box",
+   "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
+   "quelle": "hotukdeals",
+   "rabatt": 89.2,
+   "rating": {
+    "gruende": [
+     "89 % unter Cardmarket-Trend (24,33 € statt 224,69 €)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 4,
+    "urteil": "Lohnt sich"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "Pokémon TCG: Mega Evolution—Ascended Heroes Booster Bundle (6 Booster Packs) - Invite Only",
+   "typ": "display",
+   "waehrung": "GBP"
+  },
+  {
    "datum": "2026-10-23T14:17:46Z",
    "haendler": "Walmart",
    "hype": 4,
@@ -657,6 +814,28 @@
   }
  ],
  "hinweise": [
+  {
+   "datum": "2026-10-24T12:31:16Z",
+   "id": "622bf5928dc49f85",
+   "link": "https://www.reddit.com/r/PokeInvesting/comments/1xe7fzo/mega_evolution_delta_reign_pokemon_center_etb/",
+   "produkt": "Pokémon Center Elite Trainer Box",
+   "quelle": "Reddit",
+   "sprache": "en",
+   "status": "ausverkauft",
+   "titel": "Mega Evolution Delta Reign Pokemon Center ETB",
+   "typ": "etb"
+  },
+  {
+   "datum": "2026-10-24T11:56:49Z",
+   "id": "8e1719986ae8f6ad",
+   "link": "https://www.reddit.com/r/PokeInvesting/comments/1xe6qxw/value_check_on_this_phantasmal_flames_sealed/",
+   "produkt": "Phantasmal Flames Booster-Box",
+   "quelle": "Reddit",
+   "sprache": "en",
+   "status": "sonstiges",
+   "titel": "Value check on this Phantasmal Flames sealed 24-pack sleeved booster display",
+   "typ": "display"
+  },
   {
    "datum": "2026-10-19T23:49:51Z",
    "id": "2a4bd4c15d4a80c7",
@@ -1352,22 +1531,32 @@
    "gruende": [
     "Rarität",
     "Prismatic Evolutions",
-    "MSRP-Verkauf"
+    "MSRP-Verkauf",
+    "Eevee-Evolutionen"
    ],
+   "haendler": "Amazon",
    "hype": 9,
    "key": "prismatic-evolutions-etb-en",
-   "kurz": "Prismatische Evolutions-ETB angekündigt, MSRP-Verkauf möglich",
+   "kurz": "ETB für Scarlet & Violet – Prismatic Evolutions ist vorbestellbar und begehrt",
    "markt": {
     "ch30": null,
-    "ch7": -1.6,
+    "ch7": -2.4,
     "hoch": 152.44,
     "id": 798930,
     "low": 85,
     "name": "Prismatic Evolutions Elite Trainer Box",
-    "trend": 147.46
+    "trend": 146.99
    },
    "name": "Prismatic Evolutions Elite Trainer Box",
+   "preis_eur": 49.64,
    "quellen": [
+    {
+     "datum": "2026-10-12T07:11:39Z",
+     "link": "https://www.hotukdeals.com/deals/pokemon-tcg-scarlet-violet-prismatic-evolutions-elite-trainer-box-5003123",
+     "quelle": "hotukdeals",
+     "status": "vorbestellbar",
+     "titel": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Elite Trainer Box - Available By Invite"
+    },
     {
      "datum": "2026-10-21T17:55:05Z",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTlJTi1sZzNpbkdHMU1XWFNTZzhqdFZmMWNaREExTnkzX19rSzVQQ2FJeHN6cE1adTAweWl2ekduOWpqMEZ4T0VWdGJvT09CTGZJZ1BwY05jU0Y1V29nU1VGRW9vWDNPOWZiMXFjNGtwTTBzTzcwUDk2QXRFUlUxRl9EbmpOa1pBQ3VlWW5zYlBoLTEzMER3LUhiektHSXVDOVdGOTJn?oc=5",
@@ -1378,6 +1567,7 @@
    ],
    "rating": {
     "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
      "Rarität",
      "Prismatic Evolutions",
      "MSRP-Verkauf"
@@ -1387,7 +1577,7 @@
    },
    "set": "Prismatic Evolutions",
    "sprache": "en",
-   "stage": "angekuendigt",
+   "stage": "vorbestellbar",
    "typ": "etb",
    "variante": null
   },
@@ -2020,6 +2210,54 @@
    "typ": "etb",
    "variante": null,
    "vorverkauf_ab": "2026-10-03"
+  },
+  {
+   "aktualisiert": "2026-10-11T14:06:51Z",
+   "erstmals": "2026-10-11T14:06:51Z",
+   "gruende": [
+    "Full-Art-Promo",
+    "Invite-Only",
+    "begehrt"
+   ],
+   "haendler": "Amazon",
+   "hype": 8,
+   "key": "phantasmal-flames-etb-en",
+   "kurz": "ETB Phantasmal Flames vorbestellbar mit Promo-Karte und begehrt",
+   "markt": {
+    "ch30": null,
+    "ch7": -0.2,
+    "hoch": 93.12,
+    "id": 846744,
+    "low": 59.99,
+    "name": "Phantasmal Flames Elite Trainer Box",
+    "trend": 90.02
+   },
+   "name": "Phantasmal Flames Elite Trainer Box",
+   "preis_eur": 48.37,
+   "quellen": [
+    {
+     "datum": "2026-10-11T14:06:51Z",
+     "link": "https://www.hotukdeals.com/deals/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box-1-full-art-promo-card-9-booster-packs-premium-accessories-5002634",
+     "quelle": "hotukdeals",
+     "status": "vorbestellbar",
+     "titel": "Pokémon TCG: Mega Evolution—Phantasmal Flames Elite Trainer Box (1 Full-Art Promo Card, 9 Booster Packs & Premium Accessories) - Invite Only"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Full-Art-Promo",
+     "Invite-Only",
+     "begehrt"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Phantasmal Flames",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": null
   },
   {
    "aktualisiert": "2026-10-09T15:46:38Z",

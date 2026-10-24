@@ -1,16 +1,18 @@
 {
  "alarme": 0,
  "ki": true,
- "lauf": "2026-10-24T14:43:18Z",
+ "lauf": "2026-10-24T18:11:10Z",
  "markt_stand": "2026-10-24",
  "markt_tage": 21,
  "modell": "Qwen lokal · qwen3-4b-instruct",
- "neu": 0,
+ "neu": 16,
  "quellen": {
   "Google News (de)": "ok",
   "Google News (en)": "ok",
   "Google News (jp)": "ok",
+  "Preisjäger (de)": "ok",
   "Reddit (en)": "ok",
+  "hotukdeals (en)": "ok",
   "mydealz (de)": "ok"
  }
 }
