@@ -4,7 +4,7 @@ from __future__ import annotations
 import re
 from datetime import timedelta
 
-from . import market
+from . import market, setnamen
 from .classify import KI, einordnen
 from .common import DATA, Config, http, iso, log, now, parse_iso, read_json, slug, tokens, write_json
 from .notify import Ntfy, kopf, rating_zeilen
@@ -21,6 +21,14 @@ HINWEISE = DATA / "hinweise.json"
 
 PRODUKT_STATUS = ("angekuendigt", "vorbestellbar", "ausverkauft", "erschienen", "nachschub")
 STUFE = {"angekuendigt": 1, "vorbestellbar": 2, "ausverkauft": 3, "erschienen": 4, "nachschub": 5}
+# Ab so viel Prozent unter Cardmarket ist ein Angebot "zu gut, um wahr zu sein": Preis gegenprüfen und warnen.
+# Bei alten Boxen (Trend oft mehrere hundert Euro) ist genau das der Zufallsfund, den man nicht verpassen will.
+STUTZIG_AB = 70
+# Händler, bei denen ein Traumpreis eher Restposten als Fake-Shop ist
+BEKANNTE_HAENDLER = re.compile(
+    r"amazon|kaufland|otto|media ?markt|saturn|müller|mueller|rossmann|smyths|galeria|thalia|netto|lidl|aldi|"
+    r"edeka|rewe|penny|globus|marktkauf|real\b|toys ?r ?us|bol\.com|walmart|target|best ?buy|gamestop|costco|"
+    r"argos|tesco|asda|sainsbury|john lewis|pok[eé]mon ?center", re.I)
 FRISCH = timedelta(hours=36)  # ältere Meldungen lösen keine Sofort-Alarme mehr aus
 # Unbelegte Forenberichte gelten erst als Meldung, wenn so viele verschiedene Autoren
 # innerhalb von ZEUGEN_FENSTER dasselbe über dieselbe Box berichten
@@ -50,7 +58,7 @@ def wechselkurse() -> dict[str, float]:
             return kurse
     except Exception as e:  # noqa: BLE001
         log.warning("Wechselkurse nicht abrufbar: %s", e)
-    return fx.get("kurse") or {"USD": 1.1, "JPY": 160.0}
+    return fx.get("kurse") or {"USD": 1.1, "GBP": 0.85, "JPY": 160.0}
 
 
 def in_eur(preis: float | None, waehrung: str | None, kurse: dict) -> float | None:
@@ -108,18 +116,34 @@ def _name(a: dict) -> str:
     return name[:100]
 
 
+def _preis_im_text(m: Meldung, preis: float | None) -> bool:
+    """Steht der Preis wirklich so in der Meldung? Bei Traumpreisen verlesen sich KI-Modelle gern."""
+    if preis is None:
+        return False
+    for z in re.findall(r"\d{1,5}(?:[.,]\d{1,2})?", f"{m.titel} {m.text} {m.preis_hinweis or ''}"):
+        if abs(float(z.replace(",", ".")) - preis) < 0.01:
+            return True
+    return False
+
+
 def _deal(m: Meldung, a: dict, ref: dict | None, preis_eur: float | None, deals: list[dict]) -> dict | None:
     """Legt ein Angebot an. None, wenn kein Preis bekannt ist oder es das Angebot schon gibt."""
-    rabatt = round((1 - preis_eur / ref["trend"]) * 100, 1) if preis_eur and ref and ref.get("trend") else None
-    if rabatt is not None and rabatt > 70:  # unplausibel → Preis vermutlich falsch gelesen
-        return None
     if not preis_eur:
         return None
+    rabatt = round((1 - preis_eur / ref["trend"]) * 100, 1) if ref and ref.get("trend") else None
+    pruefen, fake_risiko = None, False
+    if rabatt is not None and rabatt > STUTZIG_AB:
+        if not _preis_im_text(m, a["preis"]):
+            return None  # Traumpreis, der so nicht in der Meldung steht → falsch gelesen
+        fake_risiko = not BEKANNTE_HAENDLER.search(" ".join([a["haendler"] or ""] + m.belege))
+        pruefen = ("Unbekannter Shop – Fake-Shop-Risiko: Impressum, Bewertungen und Zahlart prüfen" if fake_risiko
+                   else "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)")
     d = {"id": m.id, "titel": m.titel, "link": m.link, "quelle": m.quelle, "datum": m.datum,
          "produkt": ref["name"] if ref else _name(a), "typ": a["typ"], "sprache": a["sprache"], "preis": a["preis"],
          "waehrung": a["waehrung"], "preis_eur": preis_eur, "haendler": a["haendler"],
          "lieferwelle": a.get("lieferwelle"), "liefertermin": a.get("liefertermin"),
-         "hype": a["hype"], "kurz": a["kurz"], "markt": ref, "rabatt": rabatt, "status": a["status"]}
+         "hype": a["hype"], "kurz": a["kurz"], "markt": ref, "rabatt": rabatt, "status": a["status"],
+         "pruefen": pruefen, "fake_risiko": fake_risiko}
     d["rating"] = bewerten("angebot", d, ref)
     # Gleiches Angebot aus mehreren Artikeln nur einmal führen
     for x in deals:
@@ -231,6 +255,15 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
     hinweise: list[dict] = read_json(HINWEISE, [])
     kat = market.katalog()
     kurse = wechselkurse()
+    namen = setnamen.laden()
+
+    def zuordnen(m: Meldung, a: dict, ki_set: str | None = None) -> dict | None:
+        """Cardmarket-Produkt: Setname der Analyse, sonst deutsche Setnamen-Tabelle, sonst KI-Zuordnung."""
+        cm = market.zuordnen(a, kat)
+        if not cm and "de" in (m.sprache, a["sprache"]):
+            en = setnamen.englisch([a.get("set"), a.get("produkt"), m.titel], namen)
+            cm = market.zuordnen(a, kat, en) if en else None
+        return cm or (market.zuordnen(a, kat, ki_set) if ki_set else None)
 
     meldungen, quellen_status = sammeln()
     neu = [m for m in meldungen if m.id not in seen]
@@ -241,7 +274,7 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
     # Setnamen für Marktvergleich klären (nur wo nötig)
     offen = [(m, a) for m in neu if (a := analysen.get(m.id)) and a["relevant"]
              and a["typ"] in cfg.produkte and a["status"] in ("angebot", "vorbestellbar", "nachschub", "angekuendigt")
-             and not market.zuordnen(a, kat)]
+             and not zuordnen(m, a)]
     set_map = _ki_sets(offen[:24], kat, ki)
 
     t_jetzt = now()
@@ -258,7 +291,7 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
         if not a["relevant"]:
             continue
         frisch = t_jetzt - parse_iso(m.datum) <= FRISCH and not erster_lauf
-        cm = market.zuordnen(a, kat, set_map.get(m.id))
+        cm = zuordnen(m, a, set_map.get(m.id))
         ref = _markt_ref(cm, markt_idx)
         preis_eur = in_eur(a["preis"], a["waehrung"], kurse)
         key = _produkt_finden(produkte, a, m, cm)
@@ -296,9 +329,13 @@ def lauf(cfg: Config, ntfy: Ntfy, markt_idx: dict) -> dict:
             if d and gewuenscht(d) and frisch and d["rating"]["sterne"] >= cfg.schnaeppchen_ab_rating:
                 preis_txt = f"{d['preis_eur']:.2f} €".replace(".", ",")
                 haendler = f" · {d['haendler']}" if d["haendler"] else ""
+                warnung = f"⚠️ Ungewöhnlich günstig ({d['rabatt']:.0f} % unter Cardmarket): {d['pruefen']}\n\n" \
+                    if d["pruefen"] else ""
+                # Echter Zufallsfund bei einem bekannten Händler → höchste Priorität
+                prio = 5 if (d["rabatt"] or 0) >= 50 and not d["fake_risiko"] else 4
                 alarme.append(_alarm(f"💸 Schnäppchen: {d['produkt']}"[:120],
-                                     f"{kopf(d)}{haendler} · {preis_txt}\n\n{rating_zeilen(d['rating'])}",
-                                     4, ["moneybag"], m.link, vorbehalt))
+                                     f"{warnung}{kopf(d)}{haendler} · {preis_txt}\n\n{rating_zeilen(d['rating'])}",
+                                     prio, ["moneybag"], m.link, vorbehalt))
             elif d and gewuenscht(d) and d["rating"]["sterne"] >= 3:
                 queue.append({"art": "angebot", "titel": d["produkt"], "sterne": d["rating"]["sterne"],
                               "info": d["rating"]["gruende"][0] if d["rating"]["gruende"] else "", "link": m.link})

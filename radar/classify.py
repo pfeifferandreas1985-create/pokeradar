@@ -59,7 +59,7 @@ Antworte ausschließlich mit JSON der Form {"items":[...]} – ein Objekt pro Me
  "status": <Status>, "set": "<Setname wie in der Meldung>", "set_en": "<englischer Setname oder null>",
  "produkt": "<kurzer Produktname>", "variante": "pokemon-center"|"18er"|null,
  "vorverkauf_ab": "YYYY-MM-DD"|null, "erscheint_am": "YYYY-MM-DD"|null,
- "preis": Zahl|null, "waehrung": "EUR"|"USD"|"JPY"|null, "haendler": "<Händler>"|null,
+ "preis": Zahl|null, "waehrung": "EUR"|"USD"|"GBP"|"JPY"|null, "haendler": "<Händler>"|null,
  "lieferwelle": 1|2|3|null (Liefer-/Zuteilungswelle bei Vorbestellungen, z. B. "Welle 1", "2. Welle", "second wave"),
  "liefertermin": "<voraussichtliche Lieferung, z. B. 2026-11-07, KW 45, Dezember 2026>"|null,
  "hype": 1-10, "trend": "steigt"|"faellt"|null,
@@ -102,7 +102,7 @@ def _variante(variante: str | None, haendler: str | None, sprache: str) -> str |
 _HYPE_PLUS = re.compile(r"glurak|charizard|evoli|eevee|umbreon|nachtara|pikachu|mew|gengar|151|"
                         r"pok[eé]mon center|limit|exclusive|exklusiv|special|jubil|anniversary|30th|"
                         r"sold.?out|ausverkauft|prismatic|prismatisch", re.I)
-_PREIS = re.compile(r"(\d{1,4}(?:[.,]\d{2})?)\s?(€|eur|\$|usd|円)|(\$|€)\s?(\d{1,4}(?:[.,]\d{2})?)", re.I)
+_PREIS = re.compile(r"(\d{1,4}(?:[.,]\d{2})?)\s?(€|eur|\$|usd|£|gbp|円)|(\$|€|£)\s?(\d{1,4}(?:[.,]\d{2})?)", re.I)
 
 
 def _preis(text: str) -> tuple[float | None, str | None]:
@@ -118,7 +118,14 @@ def _preis(text: str) -> tuple[float | None, str | None]:
         zahl = float(wert.replace(".", "").replace(",", ".") if "," in wert else wert)
     except ValueError:
         return None, None
-    return zahl, {"€": "EUR", "eur": "EUR", "$": "USD", "usd": "USD", "円": "JPY"}.get(sym)
+    return zahl, {"€": "EUR", "eur": "EUR", "$": "USD", "usd": "USD", "£": "GBP", "gbp": "GBP", "円": "JPY"}.get(sym)
+
+
+def _standard_waehrung(m: Meldung) -> str:
+    """Währung, wenn die Meldung keine nennt: aus dem Preisfeld der Quelle, sonst nach Quelle und Sprache."""
+    if m.preis_hinweis and (w := _preis(m.preis_hinweis)[1]):
+        return w
+    return {"hotukdeals": "GBP"}.get(m.quelle) or {"de": "EUR", "en": "USD"}.get(m.sprache, "JPY")
 
 
 _FRAGE = re.compile(r"\?\s*$")
@@ -184,7 +191,7 @@ def regeln(m: Meldung) -> dict:
     if preis is None and (m.art == "deal" or _DEAL.search(m.titel)):
         preis, waehrung = _preis(m.titel)
     if waehrung is None and preis is not None:
-        waehrung = "EUR" if m.sprache == "de" else ("USD" if m.sprache == "en" else "JPY")
+        waehrung = _standard_waehrung(m)
     if preis and (m.art == "deal" or _DEAL.search(m.titel)) and status not in ("vorbestellbar", "nachschub"):
         status = "angebot"
     if re.search(r"englisch|english version", blob, re.I):
@@ -346,7 +353,8 @@ def _bereinigen(d: dict, m: Meldung) -> dict:
         "variante": _variante(d.get("variante") if d.get("variante") in ("pokemon-center", "18er") else None,
                               str(d.get("haendler") or m.haendler_hinweis or "") or None, sprache),
         "vorverkauf_ab": datum(d.get("vorverkauf_ab")), "erscheint_am": datum(d.get("erscheint_am")),
-        "preis": preis, "waehrung": d.get("waehrung") if d.get("waehrung") in ("EUR", "USD", "JPY") else None,
+        "preis": preis, "waehrung": d.get("waehrung") if d.get("waehrung") in ("EUR", "USD", "GBP", "JPY")
+        else (_standard_waehrung(m) if preis is not None else None),
         "haendler": (d.get("haendler") or m.haendler_hinweis or None),
         "hype": hype, "trend": d.get("trend") if d.get("trend") in ("steigt", "faellt") else None,
         "gruende": gruende, "kurz": str(d.get("kurz") or m.titel)[:220], "_quelle": "ki",

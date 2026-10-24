@@ -47,13 +47,17 @@ QUELLEN: list[tuple[str, str, str, str]] = [
     ("Google News", _gnews("Pokémon Display vorbestellen", "de"), "de", "news"),
     ("Google News", _gnews("Pokémon Ultra-Premium-Kollektion", "de"), "de", "news"),
     ("Google News", _gnews("Pokémon Sammelkartenspiel Erweiterung", "de"), "de", "news"),
+    ("Google News", _gnews("Pokémon Top-Trainer-Box günstig", "de"), "de", "news"),
     ("mydealz", "https://www.mydealz.de/rss/gruppe/pokemon", "de", "deal"),
+    ("Preisjäger", "https://www.preisjaeger.at/rss/gruppe/pokemon", "de", "deal"),  # Österreich, EU-Versand
     # Englisch
     ("Google News", _gnews("Pokemon TCG Elite Trainer Box", "en"), "en", "news"),
     ("Google News", _gnews("Pokemon TCG booster box preorder", "en"), "en", "news"),
     ("Google News", _gnews("Pokemon Ultra Premium Collection", "en"), "en", "news"),
     ("Google News", _gnews("Pokemon Center exclusive TCG", "en"), "en", "news"),
     ("Google News", _gnews("Pokemon TCG sealed prices", "en"), "en", "news"),
+    ("Google News", _gnews("Pokemon elite trainer box deal", "en"), "en", "news"),
+    ("hotukdeals", "https://www.hotukdeals.com/rss/tag/pokemon", "en", "deal"),  # UK, gleiche Plattform wie mydealz
     ("Reddit", "https://www.reddit.com/r/PKMNTCGDeals/new/.rss", "en", "deal"),
     ("Reddit", "https://www.reddit.com/r/PokeInvesting/new/.rss", "en", "community"),
     # Japanisch
@@ -63,7 +67,7 @@ QUELLEN: list[tuple[str, str, str, str]] = [
 ]
 
 # Foren: Beiträge von Nutzern. Sie lösen nur mit Händler-Beleg einen Sofort-Alarm aus.
-FOREN = {"Reddit", "mydealz"}
+FOREN = {"Reddit", "mydealz", "Preisjäger", "hotukdeals"}
 
 NS = {"atom": "http://www.w3.org/2005/Atom",
       "media": "http://search.yahoo.com/mrss/",
@@ -146,7 +150,7 @@ def _parse(xml: bytes, name: str, sprache: str, art: str) -> list[Meldung]:
                 preis_hinweis=merchant.get("price") if merchant is not None else None,
                 haendler_hinweis=merchant.get("name") if merchant is not None else None,
                 forum=name in FOREN,
-                # mydealz-Deals verlinken immer den Händler; der steht im merchant-Feld
+                # Deals auf mydealz & Co. verlinken immer den Händler; der steht im merchant-Feld
                 belege=[merchant.get("name") or "mydealz"] if merchant is not None else [],
             ))
         return out

@@ -19,6 +19,8 @@ KATALOG_DATEI = DATA / "katalog.json"
 
 _FREMD = re.compile(r"chinese|korean|thai|indonesian|\bkr\b|\bcn\b|\bth\b|\bid\b|^(cs|csv|cbb|csm)\d", re.I)
 _CASE = re.compile(r"\bcase\b", re.I)
+_LEER = re.compile(r"\bempty\b", re.I)  # leere Sammlerboxen ohne Inhalt
+_MOTIV = re.compile(r"\s*[\[(][^\])]*[\])]")  # "Evolving Skies [LUJF]", "Battle Styles (Single Strike)"
 _JP = re.compile(r"\bjp\b|japanese|japan", re.I)
 _UPC = re.compile(r"ultra.?premium", re.I)
 _TYP_WORTE = re.compile(
@@ -28,7 +30,7 @@ _TYP_WORTE = re.compile(
 
 def typ_von(p: dict, cases: bool) -> str | None:
     name, kat = p["name"], p.get("categoryName", "")
-    if _FREMD.search(name) or (not cases and _CASE.search(name)):
+    if _FREMD.search(name) or _LEER.search(name) or (not cases and _CASE.search(name)):
         return None
     if kat == "Pokémon Elite Trainer Boxes" and "elite trainer box" in name.lower():
         return "etb"
@@ -188,17 +190,31 @@ def zuordnen(analyse: dict, kat: list[dict], set_en: str | None = None) -> dict 
                   if _ist_pc(p["name"]) == (variante == "pokemon-center")
                   and (typ != "display" or ("18 boosters" in p["name"].lower()) == (variante == "18er"))]
 
+    kandidaten = [p for p in kandidaten if not _LEER.search(p["name"])]
+
     ziel = tokens(set_en or analyse.get("set_en") or "")
     if ziel:
         treffer = [p for p in kandidaten if tokens(p["set"]) == ziel]
         # "Pokémon 30th Celebration" → "30th Celebration": Katalog-Set steckt vollständig im Namen
         treffer = treffer or [p for p in kandidaten if tokens(p["set"]) and tokens(p["set"]) <= ziel]
-        return max(treffer, key=lambda p: len(tokens(p["set"]))) if treffer else None
+        if treffer:
+            return max(treffer, key=lambda p: len(tokens(p["set"])))
+        # Alte Boxen gibt es in mehreren Motiven ("Evolving Skies [LUJF]") → das günstigste,
+        # damit der Rabatt eher zu niedrig als zu hoch ausfällt
+        return _guenstigste([p for p in kandidaten if tokens(_MOTIV.sub("", p["set"])) == ziel])
     # Ohne Setnamen nur, wenn der Setname wörtlich in Set oder Produktname der Meldung steht –
     # lieber kein Marktvergleich als ein falscher (der erzeugt Schein-Rabatte)
     text = f" {_norm(analyse.get('set') or '')} {_norm(analyse.get('produkt') or '')} "
     treffer = [p for p in kandidaten if _norm(p["set"]) and f" {_norm(p['set'])} " in text]
-    return max(treffer, key=lambda p: len(p["set"])) if treffer else None
+    if treffer:
+        return max(treffer, key=lambda p: len(p["set"]))
+    return _guenstigste([p for p in kandidaten
+                         if _norm(_MOTIV.sub("", p["set"])) and f" {_norm(_MOTIV.sub('', p['set']))} " in text])
+
+
+def _guenstigste(kandidaten: list[dict]) -> dict | None:
+    mit_preis = [p for p in kandidaten if p.get("trend")]
+    return min(mit_preis, key=lambda p: p["trend"]) if mit_preis else None
 
 
 def _ist_pc(name: str) -> bool:
