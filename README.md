@@ -7,7 +7,8 @@ und im Dashboard.
 
 ```
 Google News (DE/EN/JP) ─┐
-mydealz · Reddit ───────┼─► KI-Einordnung (GLM-Flash, gratis) ─► Rating ─► ntfy-Push
+mydealz · hotukdeals ───┤
+Preisjäger · Reddit ────┼─► KI-Einordnung (GLM-Flash, gratis) ─► Rating ─► ntfy-Push
 Cardmarket-Preise ──────┘        oder eingebaute Regeln           │
                                                                   └─► Dashboard (GitHub Pages)
 ```
@@ -83,7 +84,13 @@ python -m http.server 8765 --directory docs
   erscheinen im Dashboard unter „Aus den Foren“ und in der Abendübersicht. Berichten zwei verschiedene Nutzer innerhalb
   von 48 Stunden dasselbe, kommt ein Push mit dem Vermerk „⚠️ Unbestätigt“; bestätigt später Presse oder Händler,
   gibt es den normalen Alarm.
-- **US-Angebote** (Reddit, US-News) werden in Euro umgerechnet, bekommen aber einen Pokéball Abzug,
+- **Zufallsfunde alter Boxen:** Angebote mehr als 70 % unter dem Cardmarket-Trend werden nicht verworfen, sondern
+  gegengeprüft (steht der Preis wirklich so in der Meldung?) und mit „⚠️ Ungewöhnlich günstig“ gemeldet – bei
+  bekannten Händlern mit höchster Priorität, bei unbekannten Shops mit Fake-Shop-Warnung. Gibt es eine Box in mehreren
+  Motiven (z. B. Evolving Skies), rechnet das Radar gegen das günstigste.
+- **Deutsche Setnamen** („Dunkelnacht“, „Drachenwandel“) werden über die Setliste von TCGdex ins Englische übersetzt,
+  damit auch deutsche Angebote einen Cardmarket-Vergleich bekommen.
+- **US-/UK-Angebote** (Reddit, hotukdeals, US-News) werden in Euro umgerechnet, bekommen aber einen Pokéball Abzug,
   weil Versand und Zoll fehlen.
 - **Kein Auto-Kauf.** Das Radar meldet, du entscheidest und bestellst selbst.
 - **Radar-Rating** ist eine Einschätzung aus Hype, Preisabstand, Preisverlauf und Lieferwelle – keine Anlageberatung.

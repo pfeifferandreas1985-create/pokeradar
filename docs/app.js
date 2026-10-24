@@ -35,7 +35,7 @@
   const nf0 = new Intl.NumberFormat("de-DE", { style: "currency", currency: "EUR", maximumFractionDigits: 0 });
   const nf2 = new Intl.NumberFormat("de-DE", { style: "currency", currency: "EUR" });
   const eur = (x, genau) => (x == null ? "–" : (genau || x < 100 ? nf2 : nf0).format(x));
-  const orig = (p, w) => (w === "USD" ? `$${p.toFixed(2)}` : w === "JPY" ? `¥${Math.round(p).toLocaleString("de-DE")}` : null);
+  const orig = (p, w) => (w === "USD" ? `$${p.toFixed(2)}` : w === "GBP" ? `£${p.toFixed(2)}` : w === "JPY" ? `¥${Math.round(p).toLocaleString("de-DE")}` : null);
   const pct = (x) => (x == null ? "–" : `${x > 0 ? "+" : x < 0 ? "−" : "±"}${Math.abs(x).toLocaleString("de-DE", { maximumFractionDigits: Math.abs(x) < 10 ? 1 : 0 })} %`);
   const dir = (x) => (x == null || Math.abs(x) < 1 ? "flat" : x > 0 ? "up" : "down");
   const d = (s) => (s ? new Date(s.length <= 10 ? s + "T12:00:00" : s) : null);
@@ -202,7 +202,7 @@
           ${o ? `<span class="src">${o}</span>` : ""}</div>
         ${balls(x.rating, true)}
         ${why(x.rating?.gruende?.slice(0, 3))}
-        <div class="meta">${x.haendler ? `<span class="pill">${esc(x.haendler)}</span>` : ""}${wellePill(x)}
+        <div class="meta">${x.pruefen ? `<span class="pill" title="${esc(x.pruefen)}">⚠️ Prüfen</span>` : ""}${x.haendler ? `<span class="pill">${esc(x.haendler)}</span>` : ""}${wellePill(x)}
           <span class="pill">${esc(LANG[x.sprache])}</span><span class="pill">${esc(x.quelle)} · ${rel(x.datum)}</span></div>
       </div>
     </button>`;
