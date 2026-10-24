@@ -1,5 +1,86 @@
 [
  {
+  "datum": "2026-10-24T18:24:04Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 9,
+  "id": "14256f695d1a9da1",
+  "kurz": "ETB mit Eevee-Theme – vorbestellbar, knapp, begehrt",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.hotukdeals.com/deals/pokemon-tcg-scarlet-violet-prismatic-evolutions-elite-trainer-box-1-full-art-promo-card-9-boosters-premium-accessories-invite-only-5013021",
+  "markt": {
+   "ch30": null,
+   "ch7": -2.4,
+   "hoch": 152.44,
+   "id": 798930,
+   "low": 85,
+   "name": "Prismatic Evolutions Elite Trainer Box",
+   "trend": 146.99
+  },
+  "preis": 44.99,
+  "preis_eur": 53.73,
+  "produkt": "Prismatic Evolutions Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "hotukdeals",
+  "rabatt": 63.4,
+  "rating": {
+   "gruende": [
+    "63 % unter Cardmarket-Trend (53,73 € statt 146,99 €)",
+    "Begehrtes Produkt (Hype 9/10)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 4,
+   "urteil": "Lohnt sich"
+  },
+  "sprache": "en",
+  "status": "vorbestellbar",
+  "titel": "Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Elite Trainer Box (1 Full Art Promo Card, 9 Boosters & Premium Accessories) - invite only",
+  "typ": "etb",
+  "waehrung": "GBP"
+ },
+ {
+  "datum": "2026-10-24T18:37:19Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 9,
+  "id": "50024cfc13f379c3",
+  "kurz": "ETB mit Team Rocket-Card – vorbestellbar, knapp, begehrt",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.hotukdeals.com/deals/pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box-1-full-art-promo-card-9-boosters-premium-accessories-invite-only-5013030",
+  "markt": {
+   "ch30": null,
+   "ch7": -10.1,
+   "hoch": 127.98,
+   "id": 818585,
+   "low": 90,
+   "name": "Destined Rivals Elite Trainer Box",
+   "trend": 114.12
+  },
+  "preis": 44.99,
+  "preis_eur": 53.73,
+  "produkt": "Destined Rivals Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "hotukdeals",
+  "rabatt": 52.9,
+  "rating": {
+   "gruende": [
+    "53 % unter Cardmarket-Trend (53,73 € statt 114,12 €)",
+    "Marktpreis fällt gerade (−10 % in 7 Tagen)",
+    "Begehrtes Produkt (Hype 9/10)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "sprache": "en",
+  "status": "vorbestellbar",
+  "titel": "Pokémon TCG: Scarlet & Violet — Destined Rivals Elite Trainer Box (1 Full-Art Promo Card, 9 Boosters & Premium Accessories) Invite Only",
+  "typ": "etb",
+  "waehrung": "GBP"
+ },
+ {
   "datum": "2026-10-11T14:06:51Z",
   "fake_risiko": false,
   "haendler": "Amazon",

@@ -1111,6 +1111,57 @@
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-10-23"
  },
+ "destined-rivals-etb-en": {
+  "aktualisiert": "2026-10-24T18:37:19Z",
+  "erstmals": "2026-10-24T18:37:19Z",
+  "gemeldet": [
+   "vorbestellbar"
+  ],
+  "gruende": [
+   "Team Rocket-Theme",
+   "Foil-Promo-Karte",
+   "Invite Only"
+  ],
+  "haendler": "Amazon",
+  "hype": 9,
+  "key": "destined-rivals-etb-en",
+  "kurz": "ETB mit Team Rocket-Card – vorbestellbar, knapp, begehrt",
+  "markt": {
+   "ch30": null,
+   "ch7": -10.1,
+   "hoch": 127.98,
+   "id": 818585,
+   "low": 90,
+   "name": "Destined Rivals Elite Trainer Box",
+   "trend": 114.12
+  },
+  "name": "Destined Rivals Elite Trainer Box",
+  "preis_eur": 53.73,
+  "quellen": [
+   {
+    "datum": "2026-10-24T18:37:19Z",
+    "link": "https://www.hotukdeals.com/deals/pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box-1-full-art-promo-card-9-boosters-premium-accessories-invite-only-5013030",
+    "quelle": "hotukdeals",
+    "status": "vorbestellbar",
+    "titel": "Pokémon TCG: Scarlet & Violet — Destined Rivals Elite Trainer Box (1 Full-Art Promo Card, 9 Boosters & Premium Accessories) Invite Only"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Team Rocket-Theme",
+    "Foil-Promo-Karte",
+    "Invite Only"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "Destined Rivals",
+  "sprache": "en",
+  "stage": "vorbestellbar",
+  "typ": "etb",
+  "variante": null
+ },
  "dunkelnacht-etb-de-pokemon-center": {
   "aktualisiert": "2026-10-21T15:16:19Z",
   "erstmals": "2026-10-21T15:16:19Z",
@@ -1562,7 +1613,7 @@
   "variante": null
  },
  "prismatic-evolutions-etb-en": {
-  "aktualisiert": "2026-10-21T17:55:05Z",
+  "aktualisiert": "2026-10-24T18:24:04Z",
   "erstmals": "2026-10-21T17:55:05Z",
   "gemeldet": [
    "neu"
@@ -1576,7 +1627,7 @@
   "haendler": "Amazon",
   "hype": 9,
   "key": "prismatic-evolutions-etb-en",
-  "kurz": "ETB für Scarlet & Violet – Prismatic Evolutions ist vorbestellbar und begehrt",
+  "kurz": "ETB mit Eevee-Theme – vorbestellbar, knapp, begehrt",
   "markt": {
    "ch30": null,
    "ch7": -2.4,
@@ -1587,8 +1638,15 @@
    "trend": 146.99
   },
   "name": "Prismatic Evolutions Elite Trainer Box",
-  "preis_eur": 49.64,
+  "preis_eur": 53.73,
   "quellen": [
+   {
+    "datum": "2026-10-24T18:24:04Z",
+    "link": "https://www.hotukdeals.com/deals/pokemon-tcg-scarlet-violet-prismatic-evolutions-elite-trainer-box-1-full-art-promo-card-9-boosters-premium-accessories-invite-only-5013021",
+    "quelle": "hotukdeals",
+    "status": "vorbestellbar",
+    "titel": "Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Elite Trainer Box (1 Full Art Promo Card, 9 Boosters & Premium Accessories) - invite only"
+   },
    {
     "datum": "2026-10-12T07:11:39Z",
     "link": "https://www.hotukdeals.com/deals/pokemon-tcg-scarlet-violet-prismatic-evolutions-elite-trainer-box-5003123",
