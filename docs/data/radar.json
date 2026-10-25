@@ -819,43 +819,6 @@
    "waehrung": "USD"
   },
   {
-   "datum": "2026-09-25T10:18:18Z",
-   "haendler": "Amazon",
-   "hype": 7,
-   "id": "fe19599d635a8799",
-   "kurz": "Pitch Black-ETB unter $80 auf Amazon, günstig und begehrt.",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUlVamcxbGNCbFlpZjdUNjZ0XzJPemZpbS1RTlc0MzltR1p4R2hSM0JTWS1iZ0dPeTAxSmRtQjR3WEZPcFZQeW8xVWhpNkNnR3FoU3pGaWFGMTRaLTdEQ0ZXMmY3NkVEV19YTXhuTjNPMExRRWtaWVJ5RjFGWUltaXBlZWhRc0k?oc=5",
-   "markt": {
-    "ch30": null,
-    "ch7": -2.2,
-    "hoch": 72.63,
-    "id": 885542,
-    "low": 48.5,
-    "name": "Pitch Black Elite Trainer Box",
-    "trend": 71.05
-   },
-   "preis": 79.99,
-   "preis_eur": 70.44,
-   "produkt": "Pitch Black Elite Trainer Box",
-   "quelle": "Mashable",
-   "rabatt": 0.9,
-   "rating": {
-    "gruende": [
-     "1 % unter Cardmarket-Trend (70,44 € statt 71,05 €)",
-     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-    ],
-    "sterne": 1,
-    "urteil": "Eher nicht"
-   },
-   "sprache": "en",
-   "status": "angebot",
-   "titel": "Best Pokémon TCG deal: Pitch Black ETB for under $80 at Amazon",
-   "typ": "etb",
-   "waehrung": "USD"
-  },
-  {
    "datum": "2026-09-30T06:37:58Z",
    "haendler": "Amazon",
    "hype": 9,
@@ -1388,18 +1351,6 @@
    "typ": "display"
   },
   {
-   "datum": "2026-09-25T11:00:00Z",
-   "id": "f7819c6a834b1e80",
-   "kurz": "Pitch Black ETB auf Amazon zum Marktpreis gesunken, Preisanstieg verfallen.",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUMwRERrSWVNOUJyX2l4U21PR3BQcjJZQU9MYVQzcDNHM1J5Mmp2NnhpREJiWTUxM3hKbzZqSWdGRGlpb29RY0k2Ti1GUnlFN3hiN3RuNV9rSEZUeS16TzI4UlhMeHNyTWJpZnVQRDM5LVVTeVY0LUlVUTQ2RVVvMGt5ZGhucEN2YTNXblJHenNyLUx5V1JzZGNwLXQxV09nWmtDVUlYc1ZLTURo?oc=5",
-   "markt": null,
-   "quelle": "NPR",
-   "sprache": "en",
-   "titel": "Why this Pokémon set is dropping in value",
-   "trend": "faellt",
-   "typ": "andere"
-  },
-  {
    "datum": "2026-09-28T15:01:43Z",
    "id": "4258e47370dd1bb5",
    "kurz": "18er Mega Entwicklung Display im Markt für 89,82€, knapp und preiswirksam.",
@@ -1686,6 +1637,43 @@
    "sprache": "en",
    "stage": "vorbestellbar",
    "typ": "etb",
+   "variante": "pokemon-center"
+  },
+  {
+   "aktualisiert": "2026-10-22T05:34:00Z",
+   "erstmals": "2026-10-22T05:34:00Z",
+   "gruende": [
+    "Pikachu-Box restock",
+    "Pokémon Center",
+    "nachschub"
+   ],
+   "hype": 4,
+   "key": "deck-buddies-display-en-pokemon-center",
+   "kurz": "Pikachu-Box im Pokémon Center wieder verfügbar",
+   "name": "Deck Buddies Pikachu Deck Box",
+   "quellen": [
+    {
+     "datum": "2026-10-22T05:34:00Z",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObDdBbk0zZ0dFQVp6T0JXcFFiNVdDR1dIYVRGRkVwT0tRQ1dfRGJpWTZNMG9USFl5WGF5SjFfT01WN1Q3MGV0aE80bGFKTzd0eXAxNzBHQURSMlRRTkdJbXZrdHZ3ekI3eHVSNkR3RmdiQjZlbTdsc2xxQ1pIbG9RUGIzS1ZRaUowQ2NFa1dGTkl0NHZPbS1LQlB3?oc=5",
+     "quelle": "Head Topics",
+     "status": "nachschub",
+     "titel": "Pokémon TCG Deck Buddies: Pikachu Deck Box Restocked at Pokémon Center"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Nachschub – kurze Gelegenheit zum Originalpreis",
+     "Pikachu-Box restock",
+     "Pokémon Center",
+     "nachschub"
+    ],
+    "sterne": 2,
+    "urteil": "Abwarten"
+   },
+   "set": "Deck Buddies",
+   "sprache": "en",
+   "stage": "nachschub",
+   "typ": "display",
    "variante": "pokemon-center"
   },
   {

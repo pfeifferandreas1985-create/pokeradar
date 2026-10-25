@@ -726,6 +726,44 @@
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-10-07"
  },
+ "deck-buddies-display-en-pokemon-center": {
+  "aktualisiert": "2026-10-22T05:34:00Z",
+  "erstmals": "2026-10-22T05:34:00Z",
+  "gemeldet": [],
+  "gruende": [
+   "Pikachu-Box restock",
+   "Pokémon Center",
+   "nachschub"
+  ],
+  "hype": 4,
+  "key": "deck-buddies-display-en-pokemon-center",
+  "kurz": "Pikachu-Box im Pokémon Center wieder verfügbar",
+  "name": "Deck Buddies Pikachu Deck Box",
+  "quellen": [
+   {
+    "datum": "2026-10-22T05:34:00Z",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObDdBbk0zZ0dFQVp6T0JXcFFiNVdDR1dIYVRGRkVwT0tRQ1dfRGJpWTZNMG9USFl5WGF5SjFfT01WN1Q3MGV0aE80bGFKTzd0eXAxNzBHQURSMlRRTkdJbXZrdHZ3ekI3eHVSNkR3RmdiQjZlbTdsc2xxQ1pIbG9RUGIzS1ZRaUowQ2NFa1dGTkl0NHZPbS1LQlB3?oc=5",
+    "quelle": "Head Topics",
+    "status": "nachschub",
+    "titel": "Pokémon TCG Deck Buddies: Pikachu Deck Box Restocked at Pokémon Center"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Nachschub – kurze Gelegenheit zum Originalpreis",
+    "Pikachu-Box restock",
+    "Pokémon Center",
+    "nachschub"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "set": "Deck Buddies",
+  "sprache": "en",
+  "stage": "nachschub",
+  "typ": "display",
+  "variante": "pokemon-center"
+ },
  "delta-reign-display-de": {
   "aktualisiert": "2026-10-09T15:46:38Z",
   "erstmals": "2026-10-09T15:46:38Z",
