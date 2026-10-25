@@ -1,5 +1,44 @@
 [
  {
+  "datum": "2026-10-25T11:58:49Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 5,
+  "id": "1afcdaf523accb32",
+  "kurz": "Pokémon TCG: Mega Evolution—Perfect Order Elite Trainer Box (1 Full-Art Promo Card, 9 Booster Packs & Premium Accessories) Invite Only.",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.hotukdeals.com/deals/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box-1-full-art-promo-card-9-booster-packs-premium-accessories-5013390",
+  "markt": {
+   "ch30": 1.7,
+   "ch7": -1.9,
+   "hoch": 61.37,
+   "id": 865406,
+   "low": 39.9,
+   "name": "Perfect Order Elite Trainer Box",
+   "trend": 59.06
+  },
+  "preis": 44.99,
+  "preis_eur": 53.73,
+  "produkt": "Perfect Order Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "hotukdeals",
+  "rabatt": 9.0,
+  "rating": {
+   "gruende": [
+    "9 % unter Cardmarket-Trend (53,73 € statt 59,06 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Pokémon TCG: Mega Evolution—Perfect Order Elite Trainer Box (1 Full-Art Promo Card, 9 Booster Packs & Premium Accessories) Invite Only.",
+  "typ": "etb",
+  "waehrung": "GBP"
+ },
+ {
   "datum": "2026-10-24T18:24:04Z",
   "fake_risiko": false,
   "haendler": "Amazon",
