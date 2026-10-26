@@ -1455,6 +1455,44 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-10-26T04:00:03Z",
+   "erstmals": "2026-10-26T04:00:03Z",
+   "gruende": [
+    "Pikachu, Pichu, Rayquaza in Set",
+    "Nachtara-Exklusiv",
+    "Online-Ziehverkauf"
+   ],
+   "hype": 9,
+   "key": "shining-box-2027-etb-jp-pokemon-center",
+   "kurz": "Pikachu-Box 2027 im Pokémon-Center-Online-Draw, knapp und begehrt",
+   "name": "Shining Box 2027 Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-10-26T04:00:03Z",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GblowMGlEcjFIeEZxU3BxT3llaVF1Ym1FX0JKZVR0R3FTVzhpLTJRblFiSkZ5YjJKdEFMNklKSEFLR3BXY0xQbEtIVXlFdTJSNURYaXRTaFNDY3FPM0xJ?oc=5",
+     "quelle": "Infoseek",
+     "status": "vorbestellbar",
+     "titel": "「ピカピカボックス2027」がポケモンセンターオンラインで抽選販売！ピチュー・ピカチュウ・ライチュウのぬいぐるみのうち1点をセット｜Infoseekニュース"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Pikachu, Pichu, Rayquaza in Set",
+     "Nachtara-Exklusiv",
+     "Online-Ziehverkauf"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Shining Box 2027",
+   "sprache": "jp",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
+   "vorverkauf_ab": "2026-10-26"
+  },
+  {
    "aktualisiert": "2026-10-24T18:37:19Z",
    "erstmals": "2026-10-24T18:37:19Z",
    "gruende": [
@@ -1642,6 +1680,83 @@
    "typ": "etb",
    "variante": "pokemon-center",
    "vorverkauf_ab": "2026-10-23"
+  },
+  {
+   "aktualisiert": "2026-10-23T07:13:04Z",
+   "erstmals": "2026-10-23T07:13:04Z",
+   "gruende": [
+    "Lokaler Vorverkauf via Lotterie",
+    "Pikachu- und Raichu-Verbindung",
+    "Limitierte Auflage"
+   ],
+   "haendler": "Pokémon Center Online",
+   "hype": 7,
+   "key": "pika-pika-box-2027-display-en",
+   "kurz": "Pika Pika Box 2027 via Lotterie ab 27.10.2026 verfügbar",
+   "name": "Pika Pika Box 2027 Lucky Bag",
+   "quellen": [
+    {
+     "datum": "2026-10-23T07:13:04Z",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtWERXeHdsNHlJR3VjSVRkcjROS2o0WmozclVTbmxJeGR2Y0FnMUt1cE5yZ3RBWHp1U012TXc4UUJkdHFzQzFBUEhqd1U4dUZjVVh4ZVVKN0M4NW1yYVNrRm53OC1VU0lNTmYtTHVERGg3bXJkaGowMdIBekFVX3lxTE5GUjdGZlRnY0g4Y0RyRnQ0Y010SkxJc3laWU1hNVVRU2NVRkQ1SC12allyR2hvbHhFWThDcEtRYllMQ29FeF9YQkt2Zk5jVHhWTngtZVlYVkpYVFhJTzZzX2JLbWRTSFBYTGhTREwyYm5IX2otLWN6X2RB?oc=5",
+     "quelle": "Saiga NAK",
+     "status": "vorbestellbar",
+     "titel": "The Pokémon Lucky Bag “Pika Pika Box 2027” is now available at the Pokémon Center Online! It will be sold via a lottery for a limited time starting October 27."
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Lokaler Vorverkauf via Lotterie",
+     "Pikachu- und Raichu-Verbindung",
+     "Limitierte Auflage"
+    ],
+    "sterne": 3,
+    "urteil": "Interessant"
+   },
+   "set": "Pika Pika Box 2027",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "display",
+   "variante": null,
+   "vorverkauf_ab": "2026-10-27"
+  },
+  {
+   "aktualisiert": "2026-10-23T05:11:15Z",
+   "erstmals": "2026-10-23T05:11:15Z",
+   "gruende": [
+    "Pikachu, Pichu, Raichu-Statik",
+    "Näherung an Pokémon-Center-Produkt",
+    "Geschenkbox mit Nüchtern"
+   ],
+   "hype": 7,
+   "key": "pika-pika-box-2027-display-jp",
+   "kurz": "Pika Pika Box 2027 mit Pichu, Pikachu, Raichu, inkl. Nüchtern verfügbar",
+   "name": "Pika Pika Box 2027 福袋",
+   "quellen": [
+    {
+     "datum": "2026-10-23T05:11:15Z",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTd24tdkVPdUc3elRYbzgxT0lBeFl6THhYOE9iWFZMdGxuREJMQTJYS2c5aElCTVJyQ0lIVE1ndmYzWnpoaDB1MGsxZkVTNW9ubVItUUdfclByYlhXR05qQTQ3YkgwUQ?oc=5",
+     "quelle": "GAME Watch",
+     "status": "vorbestellbar",
+     "titel": "ポケモン福袋「ピカピカボックス2027」発表！今年はピチュー・ピカチュウ・ライチュウのぬいぐるみ必ず1つ付き"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Pikachu, Pichu, Raichu-Statik",
+     "Näherung an Pokémon-Center-Produkt",
+     "Geschenkbox mit Nüchtern"
+    ],
+    "sterne": 3,
+    "urteil": "Interessant"
+   },
+   "set": "Pika Pika Box 2027",
+   "sprache": "jp",
+   "stage": "vorbestellbar",
+   "typ": "display",
+   "variante": null,
+   "vorverkauf_ab": "2026-10-27"
   },
   {
    "aktualisiert": "2026-10-22T08:33:58Z",
