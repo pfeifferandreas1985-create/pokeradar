@@ -427,6 +427,48 @@
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-10-01"
  },
+ "30th-celebration-m6a-display-de": {
+  "aktualisiert": "2026-10-26T09:58:56Z",
+  "erscheint_am": "2026-09-16",
+  "erstmals": "2026-10-26T09:58:56Z",
+  "gemeldet": [
+   "neu"
+  ],
+  "gruende": [
+   "Jubiläums-Set",
+   "limitierte chinesische Ausgabe",
+   "hochbegehrt"
+  ],
+  "haendler": "Netto Marken-Discount",
+  "hype": 8,
+  "key": "30th-celebration-m6a-display-de",
+  "kurz": "30. Jubiläums-Display mit chinesischer Ausgabe wird am 16. Sept. veröffentlicht",
+  "name": "30th Celebration M6a Booster Display",
+  "preis_eur": 98.99,
+  "quellen": [
+   {
+    "datum": "2026-10-26T09:58:56Z",
+    "link": "https://www.mydealz.de/deals/pokemon-tcg-30th-celebration-m6a-booster-display-traditional-chinese-2859364",
+    "quelle": "mydealz",
+    "status": "angekuendigt",
+    "titel": "Pokémon TCG 30th Celebration M6a Booster Display – Traditional Chinese"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Jubiläums-Set",
+    "limitierte chinesische Ausgabe",
+    "hochbegehrt"
+   ],
+   "sterne": 4,
+   "urteil": "Lohnt sich"
+  },
+  "set": "30th Celebration M6a",
+  "sprache": "de",
+  "stage": "angekuendigt",
+  "typ": "display",
+  "variante": null
+ },
  "30th-etb-en-pokemon-center": {
   "aktualisiert": "2026-10-21T05:01:28Z",
   "erscheint_am": "2026-11-01",
@@ -1690,6 +1732,44 @@
   "typ": "display",
   "variante": null,
   "vorverkauf_ab": "2026-10-27"
+ },
+ "pikapika-box-2027-etb-jp-pokemon-center": {
+  "aktualisiert": "2026-10-26T04:00:03Z",
+  "erstmals": "2026-10-26T04:00:03Z",
+  "gemeldet": [],
+  "gruende": [
+   "Jubiläums-Produkt",
+   "nachgefragt",
+   "nachhaltige Hype"
+  ],
+  "hype": 10,
+  "key": "pikapika-box-2027-etb-jp-pokemon-center",
+  "kurz": "Pikapikabox 2027 im Pokémon-Center-Draw – begehrt und knapp",
+  "name": "Pikapika Box 2027 Pikapikabox 2027",
+  "quellen": [
+   {
+    "datum": "2026-10-26T04:00:03Z",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNSC1FLUFkUENyMjlWaktmU2xyWnNSRkVPcG5OVGhtVmh0WlIySS1sb3I4YmZRNkczSmo0RnV0SlRpQkd1Z3RjQldkQ0tHWVpDNVFtbjJ5b1lCTmxBS196Rl9qbHpmUmIwaGRvWlpvb3FicFNsODB4N24ySTlDaFU?oc=5",
+    "quelle": "Yahoo!ニュース",
+    "status": "vorbestellbar",
+    "titel": "「ピカピカボックス2027」がポケモンセンターオンラインで抽選販売！ピチュー・ピカチュウ・ライチュウのぬいぐるみのうち1点をセット（インサイド）"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Jubiläums-Produkt",
+    "nachgefragt",
+    "nachhaltige Hype"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "Pikapika Box 2027",
+  "sprache": "jp",
+  "stage": "vorbestellbar",
+  "typ": "etb",
+  "variante": "pokemon-center"
  },
  "prismatic-evolution-etb-de": {
   "aktualisiert": "2026-10-02T12:15:50Z",
