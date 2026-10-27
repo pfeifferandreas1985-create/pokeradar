@@ -1,5 +1,83 @@
 [
  {
+  "datum": "2026-10-27T21:49:49Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 7,
+  "id": "0a72897cb55e94ec",
+  "kurz": "Pitch Black-ETB für 42,72 GBP – begehrt und limitiert",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.hotukdeals.com/deals/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-invite-only-5015577",
+  "markt": {
+   "ch30": 4.4,
+   "ch7": -0.9,
+   "hoch": 72.63,
+   "id": 885542,
+   "low": 48.99,
+   "name": "Pitch Black Elite Trainer Box",
+   "trend": 69.43
+  },
+  "preis": 42.72,
+  "preis_eur": 50.97,
+  "produkt": "Pitch Black Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "hotukdeals",
+  "rabatt": 26.6,
+  "rating": {
+   "gruende": [
+    "27 % unter Cardmarket-Trend (50,97 € statt 69,43 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Pokémon TCG: Mega Evolution—Pitch Black Elite Trainer Box Invite Only",
+  "typ": "etb",
+  "waehrung": "GBP"
+ },
+ {
+  "datum": "2026-10-27T21:50:55Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 7,
+  "id": "0de4cf467c2fcb99",
+  "kurz": "Perfect Order-ETB für 42,69 GBP – limitiert und begehrt",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.hotukdeals.com/deals/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box-invite-only-5015578",
+  "markt": {
+   "ch30": 1.9,
+   "ch7": -1.2,
+   "hoch": 61.37,
+   "id": 865406,
+   "low": 38.99,
+   "name": "Perfect Order Elite Trainer Box",
+   "trend": 59.17
+  },
+  "preis": 42.69,
+  "preis_eur": 50.93,
+  "produkt": "Perfect Order Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "hotukdeals",
+  "rabatt": 13.9,
+  "rating": {
+   "gruende": [
+    "14 % unter Cardmarket-Trend (50,93 € statt 59,17 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Pokémon TCG: Mega Evolution - Perfect Order Elite Trainer Box - Invite Only",
+  "typ": "etb",
+  "waehrung": "GBP"
+ },
+ {
   "datum": "2026-10-27T16:35:09Z",
   "fake_risiko": false,
   "haendler": "Amazon",
@@ -503,14 +581,14 @@
   "waehrung": "USD"
  },
  {
-  "datum": "2026-10-27T17:03:08Z",
+  "datum": "2026-10-27T22:30:44Z",
   "haendler": "Amazon",
   "hype": 10,
   "id": "a13d95c2a26ff0f3",
   "kurz": "30. Jubiläum-ETB für 59,99 USD im Angebot – knapp und begehrt",
   "liefertermin": null,
   "lieferwelle": null,
-  "link": "https://www.hotukdeals.com/deals/pokemon-legends-z-a-nintendo-switch-2-edition-5015338",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQck1fRk5UQzl1VE1iUk1TaXNxU2ZpVk1jcVVNWThIU3pUSlNubV9lbUMyeFYwV1A0UHE2dVItNjktblJPcTZaeV9ra01QcmMtUjlhQ2FhUFVJdUNmNlpuR3F5eEF4YmJLQU1JSGl0UHQzNGREb2VDWE80VUNxVV9MalZsU1d6S2R4ejFZRkhB?oc=5",
   "markt": {
    "ch30": null,
    "ch7": -0.1,
@@ -523,7 +601,7 @@
   "preis": 59.99,
   "preis_eur": 53.4,
   "produkt": "30th Celebration Elite Trainer Box",
-  "quelle": "hotukdeals",
+  "quelle": "geekspin",
   "rabatt": 59.4,
   "rating": {
    "gruende": [
@@ -536,7 +614,7 @@
   },
   "sprache": "en",
   "status": "angebot",
-  "titel": "Pokémon Legends: Z-A - Nintendo Switch 2 Edition",
+  "titel": "Nab Pokémon’s 30th anniversary Elite Trainer Box for $60 at Amazon",
   "typ": "etb",
   "waehrung": "USD"
  },
