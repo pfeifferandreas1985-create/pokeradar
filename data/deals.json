@@ -1,5 +1,44 @@
 [
  {
+  "datum": "2026-10-27T16:35:09Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 6,
+  "id": "9bab138db5912551",
+  "kurz": "36er Booster-Box für Scarlet & Violet kostet 144,92 GBP bei Amazon",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.hotukdeals.com/deals/pokemon-tcg-scarlet-and-violet-booster-display-box-36-booster-packs-invite-only-5015306",
+  "markt": {
+   "ch30": 1.5,
+   "ch7": -2.4,
+   "hoch": 208.57,
+   "id": 692092,
+   "low": 145,
+   "name": "Scarlet & Violet Booster Box",
+   "trend": 203.61
+  },
+  "preis": 144.92,
+  "preis_eur": 172.89,
+  "produkt": "Scarlet & Violet Booster Box",
+  "pruefen": null,
+  "quelle": "hotukdeals",
+  "rabatt": 15.1,
+  "rating": {
+   "gruende": [
+    "15 % unter Cardmarket-Trend (172,89 € statt 203,61 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Pokémon TCG: Scarlet and Violet Booster Display Box (36 Booster Packs) - Invite Only",
+  "typ": "display",
+  "waehrung": "GBP"
+ },
+ {
   "datum": "2026-10-26T10:38:10Z",
   "fake_risiko": false,
   "haendler": "Amazon",
@@ -464,14 +503,14 @@
   "waehrung": "USD"
  },
  {
-  "datum": "2026-10-22T08:48:43Z",
+  "datum": "2026-10-27T17:03:08Z",
   "haendler": "Amazon",
   "hype": 10,
   "id": "a13d95c2a26ff0f3",
   "kurz": "30. Jubiläum-ETB für 59,99 USD im Angebot – knapp und begehrt",
   "liefertermin": null,
   "lieferwelle": null,
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlFQREZ3S1AtTk1FcUVjb1ZpYy14cFZfVHc2NjdGNnA5dm02czhQYkRKR3hHajhlRWNUZkg3WEMtam54b3lzZTBXTWJobzR3ZnJZaDU3Z0pKR0NTX1pIVVRHVERrWXR1TzFZT1BlTlNHT1J0LUdPNzVTQ2s5ZGhBbDlkNS1ka2FVbEJDNA?oc=5",
+  "link": "https://www.hotukdeals.com/deals/pokemon-legends-z-a-nintendo-switch-2-edition-5015338",
   "markt": {
    "ch30": null,
    "ch7": -0.1,
@@ -484,7 +523,7 @@
   "preis": 59.99,
   "preis_eur": 53.4,
   "produkt": "30th Celebration Elite Trainer Box",
-  "quelle": "Mashable",
+  "quelle": "hotukdeals",
   "rabatt": 59.4,
   "rating": {
    "gruende": [
@@ -497,7 +536,7 @@
   },
   "sprache": "en",
   "status": "angebot",
-  "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is way under market price at Amazon — shop for $59.99",
+  "titel": "Pokémon Legends: Z-A - Nintendo Switch 2 Edition",
   "typ": "etb",
   "waehrung": "USD"
  },
