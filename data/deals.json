@@ -1,5 +1,36 @@
 [
  {
+  "datum": "2026-10-26T10:38:10Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 6,
+  "id": "5e607e45a1d533c7",
+  "kurz": "Mega Meganium ex Box wird auf Amazon mit Rabatt angeboten, Wert steigt",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFlWdXJjRmYyWTMzWE1CcE9NanUtUDRkOUtjcS0ycmZtdWw4YTJJekV5c2hNSENQWWVjNUlMTGowSzNINFhwVDE5M1BwZ1pVYmNPQlcwZjlSWWVobTkyQ1FQRWlkU2dHRDBUMmFpSHhvZGRfSjBNNjRMYTNSaG8wTFp4R3RQUVdBRDhVYmZxNA?oc=5",
+  "markt": null,
+  "preis": 20.0,
+  "preis_eur": 17.88,
+  "produkt": "Ascended Heroes Mega Meganium ex Box",
+  "pruefen": null,
+  "quelle": "Mashable",
+  "rabatt": null,
+  "rating": {
+   "gruende": [
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "The Pokémon TCG Ascended Heroes Mega Meganium ex Box is close to best-ever price on Amazon — save $20",
+  "typ": "display",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-10-26T07:00:00Z",
   "fake_risiko": false,
   "haendler": null,
