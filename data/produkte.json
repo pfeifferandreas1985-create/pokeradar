@@ -121,33 +121,41 @@
   "vorverkauf_ab": "2026-10-01"
  },
  "30th-celebration-display-jp-18er": {
-  "aktualisiert": "2026-10-05T19:19:36Z",
+  "aktualisiert": "2026-10-28T04:16:17Z",
   "erscheint_am": null,
   "erstmals": "2026-09-28T10:45:03Z",
   "gemeldet": [],
   "gruende": [
    "30. Jubiläum",
    "1BOX-Only",
-   "Ziehungsverkauf"
+   "Ziehungsverkauf",
+   "limitiert"
   ],
   "haendler": "小倉店",
-  "hype": 9,
+  "hype": 10,
   "key": "30th-celebration-display-jp-18er",
-  "kurz": "Jubiläums-Display-Box im Japan-Verkauf – knapp und begehrt",
+  "kurz": "30. Jubiläums-Box startet mit 22.000 JPY Buyout-Preis",
   "liefertermin": null,
   "lieferwelle": null,
   "markt": {
-   "ch30": null,
-   "ch7": 5.5,
-   "hoch": 163.92,
+   "ch30": 19.2,
+   "ch7": 2.0,
+   "hoch": 165.74,
    "id": 891464,
-   "low": 104,
+   "low": 99.9,
    "name": "30th Celebration JP Booster Box",
-   "trend": 163.92
+   "trend": 165.74
   },
   "name": "30th Celebration JP Booster Box",
-  "preis_eur": null,
+  "preis_eur": 125.02,
   "quellen": [
+   {
+    "datum": "2026-10-28T04:16:17Z",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zOVJSUFIxQU9vdm1QMUw3czM0VFR2akRvSzZrRVM1dHd3MFZsaWdqcUFDVXlyRzkwanB4MmIwSjlDdjBYRmxBQTkyUWxhR2NER1paUjZDbUNMbGs?oc=5",
+    "quelle": "朝日新聞",
+    "status": "vorbestellbar",
+    "titel": "【速報】ポケカ30周年ボックス発売開始！買取価格は発売初日で最高2.2万円！トレゲトが情報を公開"
+   },
    {
     "datum": "2026-10-05T19:19:36Z",
     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wZVNnNndBaHItdk1qSjRzUEpWSGlYU2RqU3ZBWFFMY0duRHFDWFZwbTVtR3RlQnVyOVlaUDRJTmlYbWFTdUZCclF3?oc=5",
@@ -196,13 +204,6 @@
     "quelle": "インサイド",
     "status": "vorbestellbar",
     "titel": "ゲオで『ポケカ』30周年記念拡張パック「30th CELEBRATION」が抽選販売中！1BOX限定でパック単位は受付不可"
-   },
-   {
-    "datum": "2026-09-28T10:45:03Z",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sNDZTaW52TWh6b3ZfUEZXZ0VnUkxmNFhac3M3T0pJb1JpTlJ3b055UzQyN3RIbWU2cmZmaDl1NmdBc2JIT0gyWXpDTkdSdXdfNFhlWjZJZGlfQ0ZiblVTRzZGTHBRX1Ztdi1MN1lfNWdkTWlPVERv?oc=5",
-    "quelle": "インサイド",
-    "status": "vorbestellbar",
-    "titel": "ゲオで『ポケカ』30周年記念拡張パック「30th CELEBRATION」が抽選販売中！1BOX限定でパック単位は受付不可 2枚目の写真・画像"
    }
   ],
   "rating": {
@@ -220,7 +221,7 @@
   "stage": "nachschub",
   "typ": "display",
   "variante": null,
-  "vorverkauf_ab": "2026-09-28"
+  "vorverkauf_ab": "2026-10-28"
  },
  "30th-celebration-etb-de-pokemon-center": {
   "aktualisiert": "2026-10-13T06:41:36Z",

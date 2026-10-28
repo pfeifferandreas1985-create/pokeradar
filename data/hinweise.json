@@ -1,5 +1,37 @@
 [
  {
+  "aussage": "frage",
+  "autor": "/u/Hopeful-Ad6892",
+  "datum": "2026-10-27T22:09:22Z",
+  "forum": true,
+  "id": "9b70e12e0e6a172d",
+  "key": "30th-upc-upc-en",
+  "kurz": "Frage, ob 30. Jubiläums-Cards nach 6 Monaten wertvoller sind",
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1xh6f8s/worth_grading_30th/",
+  "produkt": "30th Anniversary Mewtwo,Gengar,Magikarp SIR",
+  "quelle": "Reddit",
+  "sprache": "en",
+  "status": "sonstiges",
+  "titel": "Worth grading 30th?",
+  "typ": "upc"
+ },
+ {
+  "aussage": "frage",
+  "autor": "/u/Adventurous-Cash9283",
+  "datum": "2026-10-27T22:46:17Z",
+  "forum": true,
+  "id": "dfb5f069c5539dec",
+  "key": "30th-upc-upc-en",
+  "kurz": "Frage, ob 8 Jubiläums-UPCs für 380 EUR je lohnen",
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1xh7bfb/would_you_buy_8_pokémon_30th_anniversary_day/",
+  "produkt": "30th Anniversary UPC",
+  "quelle": "Reddit",
+  "sprache": "en",
+  "status": "sonstiges",
+  "titel": "Would you buy 8 Pokémon 30th Anniversary Day & Night UPCs for €380 each?",
+  "typ": "upc"
+ },
+ {
   "aussage": "meinung",
   "autor": "/u/Less-Contribution-50",
   "datum": "2026-10-26T10:41:19Z",
@@ -130,6 +162,7 @@
  {
   "aussage": "meinung",
   "autor": null,
+  "bestaetigt": "朝日新聞",
   "datum": "2026-10-15T14:38:43Z",
   "forum": false,
   "id": "8c2c3789c29a6427",

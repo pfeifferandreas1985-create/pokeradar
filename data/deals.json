@@ -1,5 +1,44 @@
 [
  {
+  "datum": "2026-10-28T14:36:58Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 7,
+  "id": "c85253ca5e35479c",
+  "kurz": "Elite-Box Delta Reign unter Preis mit Rabatt für Sammler",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFpGa1ZQbURHbFM4VHBOY1NJaG1SYnFjSFAzT0o0eUFSbEw4QzgtUkstbnZSMzBjdXp0SVZXSTBqWWNWTXVNSHV0dnpkWVVwZTdZcjNoazhEMHd5M2hueGR5QnVrM0FaYzBYbVJqcHdwdW40RmVBVXBBOV9UMHM3NFhYWEpkWUpjMnJ2LVBxQ3cxYUUwYnhUbQ?oc=5",
+  "markt": {
+   "ch30": -6.2,
+   "ch7": -3.6,
+   "hoch": 102.27,
+   "id": 903955,
+   "low": 60,
+   "name": "Delta Reign Elite Trainer Box",
+   "trend": 93.35
+  },
+  "preis": 119.0,
+  "preis_eur": 106.73,
+  "produkt": "Delta Reign Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "Mashable",
+  "rabatt": -14.3,
+  "rating": {
+   "gruende": [
+    "Kein Vorteil: 106,73 € liegt über dem Cardmarket-Trend (93,35 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Best Pokémon TCG deal: Delta Reign Elite TB preorders have dropped below $120",
+  "typ": "etb",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-10-27T21:49:49Z",
   "fake_risiko": false,
   "haendler": "Amazon",
