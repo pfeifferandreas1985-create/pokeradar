@@ -1202,6 +1202,18 @@
  },
  "marktnews": [
   {
+   "datum": "2026-10-27T07:00:00Z",
+   "id": "078ce6b569def322",
+   "kurz": "30. Jubiläum-Kollektion mit Santa Cruz wird nacheinander verkauft – hoher Nachfrage",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZTGY0WHpsYkwyMWhMTFBhZDVzMy1McThlaTROdUVoNjZNUmh1MjhUeGZtVktwSG9TZ3d0NjZQVzRHV1hrM1AwT3JnOVFRU0JRQUkzQ1A3VjhMY3V4NEE?oc=5",
+   "markt": null,
+   "quelle": "UP TO DATE",
+   "sprache": "jp",
+   "titel": "Pokémon TCG x Santa Cruz ポケモン30周年記念コラボアイテムが国内順次発売中 【抽選情報更新中】",
+   "trend": "steigt",
+   "typ": "display"
+  },
+  {
    "datum": "2026-10-23T04:18:58Z",
    "id": "a456c2ecdb185954",
    "kurz": "Große Preisunterschiede bei Pitch Black Booster Box zeigen Marktschwankungen",
@@ -1762,6 +1774,44 @@
    "stage": "vorbestellbar",
    "typ": "display",
    "variante": null,
+   "vorverkauf_ab": "2026-10-29"
+  },
+  {
+   "aktualisiert": "2026-10-29T04:42:29Z",
+   "erstmals": "2026-10-29T04:42:29Z",
+   "gruende": [
+    "Limitiertes Set",
+    "Fan-Liebling",
+    "Zufallswarteschlange"
+   ],
+   "hype": 9,
+   "key": "hadouki-kar-etb-jp-pokemon-center",
+   "kurz": "Hado-ki-Kar-Pre-Order im Pokémon-Center-Set startet heute – begehrt und knapp",
+   "name": "Hadouki-Kar Pokémon-Center-Box",
+   "quellen": [
+    {
+     "datum": "2026-10-29T04:42:29Z",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pVkw3cmNkNzdJQ0Q5QnRkSktYa0VTYTJhNU1HcTk3WlFNNTRkTW1tMno5dEZGc3lLc3NtOEVIVEhkbGdkZjBoZkphVHU4aDVPdTJzOFRHcEdiOWRf?oc=5",
+     "quelle": "SNKRDUNK",
+     "status": "vorbestellbar",
+     "titel": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【10/29更新】"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Limitiertes Set",
+     "Fan-Liebling",
+     "Zufallswarteschlange"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Hadouki-Kar",
+   "sprache": "jp",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center",
    "vorverkauf_ab": "2026-10-29"
   },
   {
