@@ -1099,7 +1099,7 @@
   "vorverkauf_ab": "2026-10-01"
  },
  "delta-reign-etb-en": {
-  "aktualisiert": "2026-10-26T14:00:19Z",
+  "aktualisiert": "2026-10-28T11:57:50Z",
   "erstmals": "2026-10-06T18:30:56Z",
   "gemeldet": [
    "vorbestellbar"
@@ -1110,22 +1110,30 @@
    "Vorverkauf live",
    "Delta Reign-Box, exklusiv, begehrt"
   ],
+  "haendler": "Amazon",
   "hype": 9,
   "key": "delta-reign-etb-en",
-  "kurz": "Delta Reign Elite Trainer Box angekündigt, begehrt und limitiert",
+  "kurz": "Vorbestellungen für Delta Reign ETB auf Amazon abgeschaltet, knapp und begehrt.",
   "liefertermin": "2026-12-15",
   "lieferwelle": 1,
   "markt": {
-   "ch30": -5.1,
-   "ch7": -3.2,
+   "ch30": -6.2,
+   "ch7": -3.6,
    "hoch": 102.27,
    "id": 903955,
-   "low": 65,
+   "low": 60,
    "name": "Delta Reign Elite Trainer Box",
-   "trend": 94.48
+   "trend": 93.35
   },
   "name": "Delta Reign Elite Trainer Box",
   "quellen": [
+   {
+    "datum": "2026-10-28T11:57:50Z",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLWlqbjU2Y3hwZ21FR0lLdEpTVFZjb0JOMDRxYXJmVmRPQXJ0Yy1ZN2sxMFNTUXBTMkRNNjRCWE1RZHVhWVhMR2NUZ0RuUkhzekVhcnFqeVVKN1NzMWFseGVyVVlXNUlhTFhRMHJVQ3hoWHFnbmZnNTVpOXp5MlhUZ2Eza3MxQUFkMDZ2dQ?oc=5",
+    "quelle": "Yahoo",
+    "status": "vorbestellbar",
+    "titel": "Preorders for the Pokémon TCG Delta Reign Elite Trainer Box are cut on Amazon — save vs. Walmart"
+   },
    {
     "datum": "2026-10-26T14:00:19Z",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jTEpndXM1SGNOQ2VITW1XX3UyeVNocUpXQTZ1Vk5BdWtjSkM3NnlUX2FiZ0FXNU4teEdUWUdJOTJENHl6OHl1VVc2eVFwN2xRM1pkWE9qeGQzNnQxbUsyekRiOVNMQ29nMDI4bWVrNExOaWpwWEtBdkFXcmQ?oc=5",
@@ -1156,7 +1164,7 @@
   "stage": "vorbestellbar",
   "typ": "etb",
   "variante": null,
-  "vorverkauf_ab": "2026-10-06"
+  "vorverkauf_ab": "2026-10-28"
  },
  "delta-reign-etb-en-pokemon-center": {
   "aktualisiert": "2026-10-23T16:37:28Z",
@@ -2050,12 +2058,13 @@
   "gruende": [
    "30er-Box",
    "Amazon-Draw",
-   "neue Erweiterung"
+   "neue Erweiterung",
+   "Neue Erweiterung"
   ],
   "haendler": "Amazon",
   "hype": 7,
   "key": "ultra-sun-display-jp",
-  "kurz": "Neue 30er-Box für Hadouki Car via Amazon-Draw",
+  "kurz": "Neues Hadowiseeker-Set auf Amazon via Draw, knapp und begehrt.",
   "markt": {
    "ch30": 0.0,
    "ch7": 0.0,
@@ -2067,6 +2076,34 @@
   },
   "name": "Ultra Sun Booster Box",
   "quellen": [
+   {
+    "datum": "2026-10-29T06:15:03Z",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zTFlxYlA2c3dlUkdGVEZQV1ptdmp2TUhwRFNDbU1Rb0RiVTloQ3oxRm1aYlN3OGxObUJTdXVsQlQ0a0pUblBjYk52aTRwektSamhRWWFVNHpvY0pPTlh0RkJRRFBmekdSQU82VHdHbHF1QkIzZXEw?oc=5",
+    "quelle": "インサイド",
+    "status": "vorbestellbar",
+    "titel": "『ポケカ』新拡張パック「ハドウシーカー」がAmazonで抽選販売！1BOX（30パック入り）が対象 2枚目の写真・画像"
+   },
+   {
+    "datum": "2026-10-29T06:15:03Z",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WMXhpZ2ZiTkhkQ1JSLWlvUlpUMC05djFfb0dSNEJPMjQwNVctV281aXFiMXdWa25INDJIYnJfd1N0X0JvalpQRDVPMzlVdzVFNUxlZy1MWlUyeC1YMkJVV1JjNnZBWm5UeGY2Tk5FM01RdDZTZWd3?oc=5",
+    "quelle": "インサイド",
+    "status": "vorbestellbar",
+    "titel": "『ポケカ』新拡張パック「ハドウシーカー」がAmazonで抽選販売！1BOX（30パック入り）が対象 4枚目の写真・画像"
+   },
+   {
+    "datum": "2026-10-29T06:15:03Z",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMTZpXzlabi1KR1NMRUhuXzhkckp1aVJ4b2hnQ05nVnZTQVlWVk1sMlRpMk9KZDlUM1hiNEJHNHdPRm8ycEpuRlk1eEItWlhNUGViRnpnLWVrekxyWDNpcFFnSzFRRnNFck1QRmpCaFR1SjA3MTVzWjh3OF9fcW9Za25IOVpqY2VkMmxCQlZB?oc=5",
+    "quelle": "Yahoo!ニュース",
+    "status": "vorbestellbar",
+    "titel": "『ポケカ』新拡張パック「ハドウシーカー」がAmazonで抽選販売！1BOX（30パック入り）が対象 (インサイド)"
+   },
+   {
+    "datum": "2026-10-29T06:15:03Z",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EQzFGbEpqZVIwMEIzd3RsbHJxRUFhSHlYYl9XWWxzNmZOMTNSRGFhTzJxd2FZdjlSNk1xQUc3elBwbGoxak96T3cwMjBsYUpmNFNCcEt4MnJ6MGVIMk5hRW9QNm02OVdld0E?oc=5",
+    "quelle": "インサイド",
+    "status": "vorbestellbar",
+    "titel": "『ポケカ』新拡張パック「ハドウシーカー」がAmazonで抽選販売！1BOX（30パック入り）が対象"
+   },
    {
     "datum": "2026-10-29T06:15:03Z",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZ2dpRzJoRU5lZ29mOWYxT2hLM01HZHZGZHRyUXpOalJiaTdQNmh1YTVmOW44Z2JyZGVFWlh1Y2pmaDlOR1U2VU1pM3RSaVJRUzFPWEItTmZkbGcyOTU3SnFJanRtemEzRnRoTDJib2xaSk5aaWlkMGNSZkRRWEU?oc=5",
@@ -2089,7 +2126,8 @@
   "sprache": "jp",
   "stage": "vorbestellbar",
   "typ": "display",
-  "variante": null
+  "variante": null,
+  "vorverkauf_ab": "2026-10-29"
  },
  "walmart-queue-is-live": {
   "aktualisiert": "2026-10-22T01:04:19Z",
