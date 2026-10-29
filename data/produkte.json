@@ -2043,6 +2043,54 @@
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-10-26"
  },
+ "ultra-sun-display-jp": {
+  "aktualisiert": "2026-10-29T06:15:03Z",
+  "erstmals": "2026-10-29T06:15:03Z",
+  "gemeldet": [],
+  "gruende": [
+   "30er-Box",
+   "Amazon-Draw",
+   "neue Erweiterung"
+  ],
+  "haendler": "Amazon",
+  "hype": 7,
+  "key": "ultra-sun-display-jp",
+  "kurz": "Neue 30er-Box für Hadouki Car via Amazon-Draw",
+  "markt": {
+   "ch30": 0.0,
+   "ch7": 0.0,
+   "hoch": 407.39,
+   "id": 551796,
+   "low": 550,
+   "name": "Ultra Sun Booster Box",
+   "trend": 407.39
+  },
+  "name": "Ultra Sun Booster Box",
+  "quellen": [
+   {
+    "datum": "2026-10-29T06:15:03Z",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZ2dpRzJoRU5lZ29mOWYxT2hLM01HZHZGZHRyUXpOalJiaTdQNmh1YTVmOW44Z2JyZGVFWlh1Y2pmaDlOR1U2VU1pM3RSaVJRUzFPWEItTmZkbGcyOTU3SnFJanRtemEzRnRoTDJib2xaSk5aaWlkMGNSZkRRWEU?oc=5",
+    "quelle": "Yahoo!ニュース",
+    "status": "vorbestellbar",
+    "titel": "『ポケカ』新拡張パック「ハドウシーカー」がAmazonで抽選販売！1BOX（30パック入り）が対象（インサイド）"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "30er-Box",
+    "Amazon-Draw",
+    "neue Erweiterung"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "set": "Ultra Sun",
+  "sprache": "jp",
+  "stage": "vorbestellbar",
+  "typ": "display",
+  "variante": null
+ },
  "walmart-queue-is-live": {
   "aktualisiert": "2026-10-22T01:04:19Z",
   "erstmals": "2026-10-22T01:04:19Z",

@@ -1,6 +1,44 @@
 {
  "deals": [
   {
+   "datum": "2026-10-29T06:50:54Z",
+   "fake_risiko": false,
+   "haendler": "Amazon",
+   "hype": 5,
+   "id": "20f2f2d14027315e",
+   "kurz": "Amazon verkaufst 6 Boosterpacks für 33,93€",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.mydealz.de/deals/amazon-einladung-pokemon-sammelkartenspiel-boosterbundle-karmesin-purpur-sturmische-funken-6-boosterpacks-2860966",
+   "markt": {
+    "ch30": 1.9,
+    "ch7": -1.5,
+    "hoch": 259.45,
+    "id": 784949,
+    "low": 144.95,
+    "name": "Surging Sparks Booster Box",
+    "trend": 255.65
+   },
+   "preis": 33.93,
+   "preis_eur": 33.93,
+   "produkt": "Surging Sparks Booster Box",
+   "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
+   "quelle": "mydealz",
+   "rabatt": 86.7,
+   "rating": {
+    "gruende": [
+     "87 % unter Cardmarket-Trend (33,93 € statt 255,65 €)"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "Amazon Einladung Pokémon-Sammelkartenspiel: Boosterbundle Karmesin & Purpur – Stürmische Funken (6 Boosterpacks)",
+   "typ": "display",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-10-28T14:36:58Z",
    "fake_risiko": false,
    "haendler": "Amazon",
@@ -1649,6 +1687,53 @@
   }
  ],
  "produkte": [
+  {
+   "aktualisiert": "2026-10-29T06:15:03Z",
+   "erstmals": "2026-10-29T06:15:03Z",
+   "gruende": [
+    "30er-Box",
+    "Amazon-Draw",
+    "neue Erweiterung"
+   ],
+   "haendler": "Amazon",
+   "hype": 7,
+   "key": "ultra-sun-display-jp",
+   "kurz": "Neue 30er-Box für Hadouki Car via Amazon-Draw",
+   "markt": {
+    "ch30": 0.0,
+    "ch7": 0.0,
+    "hoch": 407.39,
+    "id": 551796,
+    "low": 550,
+    "name": "Ultra Sun Booster Box",
+    "trend": 407.39
+   },
+   "name": "Ultra Sun Booster Box",
+   "quellen": [
+    {
+     "datum": "2026-10-29T06:15:03Z",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZ2dpRzJoRU5lZ29mOWYxT2hLM01HZHZGZHRyUXpOalJiaTdQNmh1YTVmOW44Z2JyZGVFWlh1Y2pmaDlOR1U2VU1pM3RSaVJRUzFPWEItTmZkbGcyOTU3SnFJanRtemEzRnRoTDJib2xaSk5aaWlkMGNSZkRRWEU?oc=5",
+     "quelle": "Yahoo!ニュース",
+     "status": "vorbestellbar",
+     "titel": "『ポケカ』新拡張パック「ハドウシーカー」がAmazonで抽選販売！1BOX（30パック入り）が対象（インサイド）"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "30er-Box",
+     "Amazon-Draw",
+     "neue Erweiterung"
+    ],
+    "sterne": 3,
+    "urteil": "Interessant"
+   },
+   "set": "Ultra Sun",
+   "sprache": "jp",
+   "stage": "vorbestellbar",
+   "typ": "display",
+   "variante": null
+  },
   {
    "aktualisiert": "2026-10-28T04:16:17Z",
    "erscheint_am": null,
