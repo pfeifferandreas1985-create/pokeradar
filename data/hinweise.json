@@ -2,6 +2,7 @@
  {
   "aussage": "frage",
   "autor": "/u/Hopeful-Ad6892",
+  "bestaetigt": "Mashable",
   "datum": "2026-10-27T22:09:22Z",
   "forum": true,
   "id": "9b70e12e0e6a172d",
@@ -18,6 +19,7 @@
  {
   "aussage": "frage",
   "autor": "/u/Adventurous-Cash9283",
+  "bestaetigt": "Mashable",
   "datum": "2026-10-27T22:46:17Z",
   "forum": true,
   "id": "dfb5f069c5539dec",
@@ -157,22 +159,6 @@
   "sprache": "en",
   "status": "sonstiges",
   "titel": "Prismatic Case",
-  "typ": "etb"
- },
- {
-  "aussage": "frage",
-  "autor": null,
-  "datum": "2026-10-16T07:00:00Z",
-  "forum": false,
-  "id": "660bdfe99f680803",
-  "key": "twilight-masquerade-etb-en-pokemon-center",
-  "kurz": "Frage zur Verfügbarkeit der Elite Trainer Box für Twilight Masquerade",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjdkUEVnTng5MDFSV0V1R191M0dFMTBGU1RRa29qYWdFaUVLb2FadWFUTS1rdTVqckRGdnh3V2w2WFRvNTFfTlZnSE16Rkpqd3JsU3hjbXBfWkFHdGhqOEJIdWdub21qanRDd3doRjJ2bFZoV09mUWU4dFBCbnBPTTZ4TTBodVRRbkV0VnY5Zlc1dFR5TlFHUnRPVWs3em54a19zWUxR?oc=5",
-  "produkt": "Twilight Masquerade Elite Trainer Box",
-  "quelle": "Dexerto",
-  "sprache": "en",
-  "status": "angekuendigt",
-  "titel": "Where to buy Pokemon TCG Twilight Masquerade Elite Trainer Box",
   "typ": "etb"
  }
 ]

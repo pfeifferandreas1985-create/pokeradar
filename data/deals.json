@@ -1150,43 +1150,5 @@
   "titel": "The Pokémon TCG Prismatic Evolutions Elite Trainer Box is under $175 — save over $20 at Amazon",
   "typ": "etb",
   "waehrung": "USD"
- },
- {
-  "datum": "2026-09-30T06:37:58Z",
-  "haendler": "Amazon",
-  "hype": 9,
-  "id": "e780a584b82b0937",
-  "kurz": "30. Jubiläum-ETB für 89,99 USD im Angebot, knapp und begehrt.",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkF5YUJHektVRk5CbVY2al9DVENMclVaZ3h4ZGhEbTdwdW0xeENab1VIMlBGZDNrT0xpeUpPUEZ3aDJ0UEFuMDdzZk41OHhCc1lveHlPWXJTMUExM0c0bUJTZDBkd1hMVU9xMDhZelZzV2JwR252dnVDRnd0Y3hTMS04QUNsV3JUbmdHbW13?oc=5",
-  "markt": {
-   "ch30": null,
-   "ch7": 0.6,
-   "hoch": 135.27,
-   "id": 895551,
-   "low": 88,
-   "name": "30th Celebration Elite Trainer Box",
-   "trend": 132
-  },
-  "preis": 89.99,
-  "preis_eur": 79.25,
-  "produkt": "30th Celebration Elite Trainer Box",
-  "quelle": "Mashable",
-  "rabatt": 40.0,
-  "rating": {
-   "gruende": [
-    "40 % unter Cardmarket-Trend (79,25 € statt 132,00 €)",
-    "Begehrtes Produkt (Hype 9/10)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 4,
-   "urteil": "Lohnt sich"
-  },
-  "sprache": "en",
-  "status": "angebot",
-  "titel": "The Pokémon 30th Celebration Elite Trainer Box is still under market price — buy for $89.99 on Amazon",
-  "typ": "etb",
-  "waehrung": "USD"
  }
 ]
