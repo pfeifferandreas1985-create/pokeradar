@@ -946,7 +946,7 @@
   "variante": "18er"
  },
  "delta-reign-display-en": {
-  "aktualisiert": "2026-10-16T10:48:54Z",
+  "aktualisiert": "2026-10-29T22:00:00Z",
   "erscheint_am": "2026-11-15",
   "erstmals": "2026-10-08T03:39:31Z",
   "gemeldet": [
@@ -961,21 +961,35 @@
   "haendler": "Amazon",
   "hype": 7,
   "key": "delta-reign-display-en",
-  "kurz": "Vorbestellung mit Preisnachlass für Delta Reign-Box auf Amazon",
+  "kurz": "Delta Reign-Pre-Order-Informationen für Sammler verfügbar",
   "liefertermin": "2026-12-10",
   "lieferwelle": 1,
   "markt": {
-   "ch30": null,
-   "ch7": -3.6,
+   "ch30": -8.0,
+   "ch7": -2.2,
    "hoch": 234.3,
    "id": 903956,
-   "low": 175,
+   "low": 178.98,
    "name": "Delta Reign Booster Box",
-   "trend": 223.57
+   "trend": 210.37
   },
   "name": "Delta Reign Booster Box",
   "preis_eur": 17.89,
   "quellen": [
+   {
+    "datum": "2026-10-23T16:37:28Z",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DQ1hnY0duQzN1R0FjRXFtSEJsdXBobEstVGd4R3RHeWEtajNOYmRtMTFkWjZ1RkFFcUtaNjRTN1hkZmlhRTYxcEtYbVpNSHBvQ1E2cVdoc0JhOXU3b1hUTWV6UkpIYW1ieC1vNlJkdG83ckE?oc=5",
+    "quelle": "ComicBook.com",
+    "status": "vorbestellbar",
+    "titel": "Pokémon TCG Delta Reign Pre-Orders: Where to Find Stock and Best Prices"
+   },
+   {
+    "datum": "2026-10-29T22:00:00Z",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanJ2dXpISDV1ODZiRkNVR0VwYlFiX3hJNC0tcXNlSEpSc2RZd0RSUDFyUlY4ZWdTN3VVU2RpNHYxbUhEdkZWU2NaX196dEg0T1Nwa1M1MmZtWmEwQVBEdjhmWWFwNWxMRWNLbmN6YlFPbVlWcU5ORlB4S3EwdVIxSjg2Mzk2elVCUURXVVVn?oc=5",
+    "quelle": "Mashable",
+    "status": "vorbestellbar",
+    "titel": "Pokémon TCG Delta Reign Booster Bundle preorders are 25% off at Amazon — save nearly $20 ahead of launch"
+   },
    {
     "datum": "2026-10-16T10:48:54Z",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDRPMG5nT3RUaWE1OFJEV1M2VFVBYUpwUzRIV3Q5bktSc05kY256LVhGV3RIZEJDTlZhZFBkX0EzaThqTi1EVE5LY2JHOTJ1bE9ZSlFHOFhxTUdTWWFlU3daSnpmb2hoZ05UcGVBc0dVUThxQUVzQWVIT2dIUDZwRFBETWY5eHc2RWJCQUtteHpXN3NfRzV3YzlsMA?oc=5",
@@ -1017,20 +1031,6 @@
     "quelle": "IGN",
     "status": "vorbestellbar",
     "titel": "Pokémon TCG's Delta Reign Expansion Is Finally Up For Preorder at Amazon and Target"
-   },
-   {
-    "datum": "2026-10-08T11:20:56Z",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFNyVEpRSWxvcnh4TDFxTEViS3pCZWJSbXBZU01TNUwyN2ctY0NnWml4WnN6czcxVXNKVGdrMUhrMGI4Y1VpT0VfSkZmNFAybE1NbldvdGFiY3dCNWlkb25IOTlkdE4zZGtScjNQWFI2VnFxWngzbnJBYVgtelZ3VmI2emtuLU84R1JkaFRfUC1WelE?oc=5",
-    "quelle": "Mashable",
-    "status": "vorbestellbar",
-    "titel": "Pokémon TCG Delta Reign Booster Bundle preorders are live on Amazon — and they're under market price"
-   },
-   {
-    "datum": "2026-10-08T13:32:56Z",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1BIRzRVczF5MEVpVWJ0MWdJZFprUHFYalB0TFdvQzVtU3RReDdQVUI4Z1F3Nm5DUXR0TWQ1bkFnemFYUjJxaXZibG1WU3ZDU2FwTGk0U2JIVmpUZGJMWTRSUlBiZzhGM0ZVdEpyZDF6d1pSVzROQlRIZ0NzWTg0S3Rwc1pjQkpFcFNiN295bGxZN3QzNEc4cGtR?oc=5",
-    "quelle": "Mashable",
-    "status": "vorbestellbar",
-    "titel": "Best Pokémon TCG deal: Preorder 36 packs of Delta Reign for under $270 at Amazon"
    }
   ],
   "rating": {
@@ -2103,7 +2103,7 @@
   "haendler": "Amazon",
   "hype": 7,
   "key": "ultra-sun-display-jp",
-  "kurz": "Neues Hadowiseeker-Set auf Amazon via Draw, knapp und begehrt.",
+  "kurz": "Neues Pokémon-Center-Set mit Zufallswahl-Pre-Order auf Amazon",
   "markt": {
    "ch30": 0.0,
    "ch7": 0.0,
@@ -2115,6 +2115,13 @@
   },
   "name": "Ultra Sun Booster Box",
   "quellen": [
+   {
+    "datum": "2026-10-29T06:15:00Z",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNHh0SVpPYWdLRk9oemZHQVFrMHdRVkNpRm9CMjVQVlQzZUZvNFRGb2FQRmVwTUFCOTQyT0dIcXFhSXFDak1kYUFhTHFxdkxBNjVFZUhOM29KX2Fva0lXeXh5S2lkZk9yaXJXTzI1dkl4MHpMYnpWR0FSajZWdGI5WUJESFM4VHPSAYcBQVVfeXFMTTR4dElaT2FnS0ZPaHpmR0FRazB3UVZDaUZvQjI1UFZUM2VGbzRURm9hUEZlcE1BQjk0Mk9HSHFxYUlxQ2pNZGFBYUxxcXZMQTY1RWVITjNvSl9hb2tJV3l4eUtpZGZPcmlyV08yNXZJeDB6TGJ6VkdBUmo2VnRiOVlCREhTOFRz?oc=5",
+    "quelle": "ｄメニューニュース",
+    "status": "vorbestellbar",
+    "titel": "『ポケカ』新拡張パック「ハドウシーカー」がAmazonで抽選販売！1BOX（30パック入り）が対象"
+   },
    {
     "datum": "2026-10-29T06:15:03Z",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zTFlxYlA2c3dlUkdGVEZQV1ptdmp2TUhwRFNDbU1Rb0RiVTloQ3oxRm1aYlN3OGxObUJTdXVsQlQ0a0pUblBjYk52aTRwektSamhRWWFVNHpvY0pPTlh0RkJRRFBmekdSQU82VHdHbHF1QkIzZXEw?oc=5",
