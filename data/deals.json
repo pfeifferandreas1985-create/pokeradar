@@ -1,5 +1,36 @@
 [
  {
+  "datum": "2026-10-30T13:56:28Z",
+  "fake_risiko": false,
+  "haendler": "Card-Corner",
+  "hype": 9,
+  "id": "7c837436da6760ef",
+  "kurz": "Exklusive Pokemon Center-Box mit Pikachu-Promos für 349,99€, sehr begehrt",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-center-special-box-set-3er-set-japanisch-2861743",
+  "markt": null,
+  "preis": 349.99,
+  "preis_eur": 349.99,
+  "produkt": "Pokemon Center Special Box Set",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": null,
+  "rating": {
+   "gruende": [
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
+    "Begehrtes Produkt (Hype 9/10)"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "sprache": "jp",
+  "status": "angebot",
+  "titel": "Pokemon Center Special Box Set 3er Set (Japanisch)",
+  "typ": "etb",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-10-29T09:47:57Z",
   "fake_risiko": false,
   "haendler": "Amazon",
