@@ -1,5 +1,113 @@
 [
  {
+  "datum": "2026-10-30T17:16:53Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 8,
+  "id": "0575e96fd2cba46f",
+  "kurz": "Top-Trainer-Box Delta-Herrschaft für 52,99€ – begehrt, knapp",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-top-trainer-box-mega-entwicklung-delta-herrschaft-einladung-2861837",
+  "markt": null,
+  "preis": 52.99,
+  "preis_eur": 52.99,
+  "produkt": "Mega Evolution - Delta Dominance Top-Trainer-Box",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": null,
+  "rating": {
+   "gruende": [
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
+    "Begehrtes Produkt (Hype 8/10)"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "(Prime) Pokémon-Sammelkartenspiel: Top-Trainer-Box Mega-Entwicklung – Delta-Herrschaft Einladung",
+  "typ": "etb",
+  "waehrung": "EUR"
+ },
+ {
+  "datum": "2026-10-30T17:26:34Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 4,
+  "id": "f1b3db6cb43beb58",
+  "kurz": "3er-Booster-Pack für 15,99€ – günstig, aber nicht vollständig",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/prime-pokemon-sammelkartenspiel-3er-pack-mega-entwicklung-delta-herrschaft-einladung-amazon-2861839",
+  "markt": {
+   "ch30": -15.8,
+   "ch7": -6.9,
+   "hoch": 248.67,
+   "id": 834832,
+   "low": 140,
+   "name": "Mega Evolution Booster Box",
+   "trend": 209.31
+  },
+  "preis": 15.99,
+  "preis_eur": 15.99,
+  "produkt": "Mega Evolution Booster Box",
+  "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
+  "quelle": "mydealz",
+  "rabatt": 92.4,
+  "rating": {
+   "gruende": [
+    "92 % unter Cardmarket-Trend (15,99 € statt 209,31 €)"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "(Prime) Pokémon-Sammelkartenspiel: 3er-Pack Mega-Entwicklung – Delta-Herrschaft Einladung Amazon",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
+  "datum": "2026-10-30T17:38:15Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 7,
+  "id": "04bcb4241ae4ef11",
+  "kurz": "18er Booster-Display für Delta-Herrschaft ab 89,82€",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-boosterpack-display-mega-entwicklung-delta-herrschaft-prime-einladung-2861845",
+  "markt": {
+   "ch30": -19.3,
+   "ch7": -10.6,
+   "hoch": 120.14,
+   "id": 834825,
+   "low": 94,
+   "name": "Mega Evolution Booster Box (18 Boosters)",
+   "trend": 96.93
+  },
+  "preis": 89.82,
+  "preis_eur": 89.82,
+  "produkt": "Mega Evolution Booster Box (18 Boosters)",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": 7.3,
+  "rating": {
+   "gruende": [
+    "7 % unter Cardmarket-Trend (89,82 € statt 96,93 €)",
+    "Marktpreis fällt gerade (−11 % in 7 Tagen)"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "Pokémon-Sammelkartenspiel: Boosterpack-Display Mega-Entwicklung – Delta-Herrschaft (Prime, Einladung)",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-10-30T13:56:28Z",
   "fake_risiko": false,
   "haendler": "Card-Corner",
