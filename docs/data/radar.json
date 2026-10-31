@@ -1,6 +1,45 @@
 {
  "deals": [
   {
+   "datum": "2026-10-29T22:00:00Z",
+   "fake_risiko": false,
+   "haendler": "Amazon",
+   "hype": 4,
+   "id": "595ab3958f151d95",
+   "kurz": "Booster-Bundle Delta Reign mit 25% Rabatt bei Amazon vor Launch",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkJaMDhPWm5xNmdzVzVUVnA2SlVOd1F6TFZTOFVWM0VQYlJSdWtaSFJZUy04MzBqUDJWY094b19tN25mVnQ5U21sYklqSmJTRWJzYkZTQUlOUGpSSHp5dnc3THhxYk02Q0dNS0dpRU5GUWl4YmhlMUhyZzlhUEVVN19xdTVNVXc?oc=5",
+   "markt": {
+    "ch30": -8.0,
+    "ch7": -2.2,
+    "hoch": 234.3,
+    "id": 903956,
+    "low": 178.98,
+    "name": "Delta Reign Booster Box",
+    "trend": 210.37
+   },
+   "preis": 20.0,
+   "preis_eur": 17.9,
+   "produkt": "Delta Reign Booster Box",
+   "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
+   "quelle": "Yahoo",
+   "rabatt": 91.5,
+   "rating": {
+    "gruende": [
+     "92 % unter Cardmarket-Trend (17,90 € statt 210,37 €)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 4,
+    "urteil": "Lohnt sich"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "Pokémon TCG Delta Reign Booster Bundle preorders are 25% off at Amazon — save nearly $20 ahead of launch",
+   "typ": "display",
+   "waehrung": "USD"
+  },
+  {
    "datum": "2026-10-30T17:16:53Z",
    "fake_risiko": false,
    "haendler": "Amazon",
