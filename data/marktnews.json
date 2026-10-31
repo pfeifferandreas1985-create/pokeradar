@@ -1,5 +1,25 @@
 [
  {
+  "datum": "2026-10-31T13:40:30Z",
+  "id": "d6084988abaac33b",
+  "kurz": "White Flare-Box: Marktpreise steigen, Nachfrage hoch",
+  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94WTZMX1pRc1pJaE91eXFuVU9STGtRTnNxcnR1NFF5bUM5Sy1JZE9Wd2JlQ2JLUU1HY0habGFZNVUxeWNiWHpiSDVDZ3g?oc=5",
+  "markt": {
+   "ch30": 14.5,
+   "ch7": 2.8,
+   "hoch": 80.33,
+   "id": 823793,
+   "low": 60,
+   "name": "White Flare JP Booster Box",
+   "trend": 80.33
+  },
+  "quelle": "SNKRDUNK",
+  "sprache": "jp",
+  "titel": "【ポケカ】ホワイトフレアの当たりランキング/買取相場/封入率/予約抽選/値段まとめ",
+  "trend": "steigt",
+  "typ": "display"
+ },
+ {
   "datum": "2026-10-27T07:00:00Z",
   "id": "078ce6b569def322",
   "kurz": "30. Jubiläum-Kollektion mit Santa Cruz wird nacheinander verkauft – hoher Nachfrage",
