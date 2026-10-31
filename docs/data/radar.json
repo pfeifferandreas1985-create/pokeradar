@@ -1,6 +1,37 @@
 {
  "deals": [
   {
+   "datum": "2026-10-31T06:57:33Z",
+   "fake_risiko": false,
+   "haendler": "Amazon",
+   "hype": 6,
+   "id": "c6963d4b32abaf23",
+   "kurz": "Mega Zygarde ex-UPC für 39,99 GBP bei Amazon erhältlich",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.hotukdeals.com/deals/pokemon-tcg-mega-zygarde-ex-premium-collection-1-promo-card-1-oversize-lenticular-card-1-tech-sticker-8-boosters-request-invite-5018533",
+   "markt": null,
+   "preis": 39.99,
+   "preis_eur": 47.96,
+   "produkt": "Mega Zygarde ex Ultra-Premium-Kollektion",
+   "pruefen": null,
+   "quelle": "hotukdeals",
+   "rabatt": null,
+   "rating": {
+    "gruende": [
+     "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 1,
+    "urteil": "Eher nicht"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "Pokémon TCG: Mega Zygarde ex Premium Collection (1 Promo Card, 1 Oversize Lenticular Card, 1 Tech Sticker, 8 Boosters) Request Invite",
+   "typ": "upc",
+   "waehrung": "GBP"
+  },
+  {
    "datum": "2026-10-29T22:00:00Z",
    "fake_risiko": false,
    "haendler": "Amazon",
@@ -876,14 +907,14 @@
    "waehrung": "USD"
   },
   {
-   "datum": "2026-10-27T22:30:44Z",
+   "datum": "2026-10-29T14:50:36Z",
    "haendler": "Amazon",
    "hype": 10,
    "id": "a13d95c2a26ff0f3",
    "kurz": "30. Jubiläum-ETB für 59,99 USD im Angebot – knapp und begehrt",
    "liefertermin": null,
    "lieferwelle": null,
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQck1fRk5UQzl1VE1iUk1TaXNxU2ZpVk1jcVVNWThIU3pUSlNubV9lbUMyeFYwV1A0UHE2dVItNjktblJPcTZaeV9ra01QcmMtUjlhQ2FhUFVJdUNmNlpuR3F5eEF4YmJLQU1JSGl0UHQzNGREb2VDWE80VUNxVV9MalZsU1d6S2R4ejFZRkhB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORldmZmtEMUgyXzExemJPZmtDalpKX3FFY3FVQzRoTXpRRVlrM3Nld0F0R1pGeWNiQU04Z0RUSjl5bTN4S1hxTHpkM0RuWEFvaDc0bDlJSDZVZHhWaXBsSFV2Vmp6YXU2UTB6TndPQTl0NXBKeWhhcmdHUFlmZE1sMHhrbmJYQm1yUHZDa2pB?oc=5",
    "markt": {
     "ch30": null,
     "ch7": -0.1,
@@ -896,7 +927,7 @@
    "preis": 59.99,
    "preis_eur": 53.4,
    "produkt": "30th Celebration Elite Trainer Box",
-   "quelle": "geekspin",
+   "quelle": "Yahoo",
    "rabatt": 59.4,
    "rating": {
     "gruende": [
@@ -909,7 +940,7 @@
    },
    "sprache": "en",
    "status": "angebot",
-   "titel": "Nab Pokémon’s 30th anniversary Elite Trainer Box for $60 at Amazon",
+   "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is way under market price at Amazon — buy for $59.99",
    "typ": "etb",
    "waehrung": "USD"
   },
