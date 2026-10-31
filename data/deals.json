@@ -906,14 +906,14 @@
   "waehrung": "USD"
  },
  {
-  "datum": "2026-10-29T14:50:36Z",
+  "datum": "2026-10-31T19:20:31Z",
   "haendler": "Amazon",
   "hype": 10,
   "id": "a13d95c2a26ff0f3",
   "kurz": "30. Jubiläum-ETB für 59,99 USD im Angebot – knapp und begehrt",
   "liefertermin": null,
   "lieferwelle": null,
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORldmZmtEMUgyXzExemJPZmtDalpKX3FFY3FVQzRoTXpRRVlrM3Nld0F0R1pGeWNiQU04Z0RUSjl5bTN4S1hxTHpkM0RuWEFvaDc0bDlJSDZVZHhWaXBsSFV2Vmp6YXU2UTB6TndPQTl0NXBKeWhhcmdHUFlmZE1sMHhrbmJYQm1yUHZDa2pB?oc=5",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2plUk5mU3cyNzJhZ19GdUFVSnNvTTBNSDRPXzFiS0RwblMtcUU5QVk4RVNJT0JfWExiZlFxSjM1ckhwUng1WlB2NllyaG5LLVpCaC00VnN4YnowY3RpaDgyMDRBY2JSRWFCNFJIdUgxTWFOVWNFUnV4OUVQZHpBdnBiOEx5cmgwSWhKR2FOZ1J6VzZI?oc=5",
   "markt": {
    "ch30": null,
    "ch7": -0.1,
@@ -926,7 +926,7 @@
   "preis": 59.99,
   "preis_eur": 53.4,
   "produkt": "30th Celebration Elite Trainer Box",
-  "quelle": "Yahoo",
+  "quelle": "Mashable",
   "rabatt": 59.4,
   "rating": {
    "gruende": [
@@ -939,7 +939,7 @@
   },
   "sprache": "en",
   "status": "angebot",
-  "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is way under market price at Amazon — buy for $59.99",
+  "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is way under market price at Amazon — buy now for $59.99",
   "typ": "etb",
   "waehrung": "USD"
  },
