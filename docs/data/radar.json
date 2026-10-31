@@ -1373,28 +1373,6 @@
    "status": "vorbestellbar",
    "titel": "Best Buy Delivered",
    "typ": "etb"
-  },
-  {
-   "datum": "2026-10-24T12:31:16Z",
-   "id": "622bf5928dc49f85",
-   "link": "https://www.reddit.com/r/PokeInvesting/comments/1xe7fzo/mega_evolution_delta_reign_pokemon_center_etb/",
-   "produkt": "Pokémon Center Elite Trainer Box",
-   "quelle": "Reddit",
-   "sprache": "en",
-   "status": "ausverkauft",
-   "titel": "Mega Evolution Delta Reign Pokemon Center ETB",
-   "typ": "etb"
-  },
-  {
-   "datum": "2026-10-24T11:56:49Z",
-   "id": "8e1719986ae8f6ad",
-   "link": "https://www.reddit.com/r/PokeInvesting/comments/1xe6qxw/value_check_on_this_phantasmal_flames_sealed/",
-   "produkt": "Phantasmal Flames Booster-Box",
-   "quelle": "Reddit",
-   "sprache": "en",
-   "status": "sonstiges",
-   "titel": "Value check on this Phantasmal Flames sealed 24-pack sleeved booster display",
-   "typ": "display"
   }
  ],
  "konfig": {
@@ -1834,38 +1812,6 @@
    "titel": "Best Pokémon TCG deal: 30th Celebration Elite Trainer Box is close to market value",
    "trend": "steigt",
    "typ": "etb"
-  },
-  {
-   "datum": "2026-10-01T08:17:35Z",
-   "id": "0b72e99f0c504a5e",
-   "kurz": "Futuristic Box des 30. Jubiläums wird auf dem Markt begehrt",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdktaYTZaemozY3NMank0R1pRWE9SWGFseGJWbFdQYkItb1BHX0hPN0ljVmpyODVkYVFEYTN5TmVBWVgtTF84SGw4b2dtLTQxOE53bEk0WGluNlgzYWR6RFFnN3VyM0swcFktWmp2X2ZNNkFTQm41T0VHWlcyY0FURW5yeGczb0xXRjNuS1NTNTIweFNhamY0UC1SZzNZdm14Y3ZxMk5KTjlvUXlKcS1xSVhzaFB2cWU5NWZLaGlvcUN6bWNyLVBHZDRFVi1iME40UWM2RUdKdGNEcjY4Snc?oc=5",
-   "markt": {
-    "ch30": null,
-    "ch7": null,
-    "hoch": 2239.24,
-    "id": 271440,
-    "low": 18000,
-    "name": "Phantom Forces Booster Box",
-    "trend": 2239.24
-   },
-   "quelle": "SNKRDUNK",
-   "sprache": "en",
-   "titel": "[Pokémon TCG] 30th CELEBRATION FUTURISTIC BOX: Market Predictions & Post-Launch Hype Analysis",
-   "trend": null,
-   "typ": "display"
-  },
-  {
-   "datum": "2026-10-01T10:54:48Z",
-   "id": "3cf7c2a2a528f406",
-   "kurz": "2-Pack Blister für Evoli im Markt zu 11,99€ mit 10% Rabatt",
-   "link": "https://www.mydealz.de/deals/pokemon-30-jahre-2-pack-blister-evoli-deutsch-2846689",
-   "markt": null,
-   "quelle": "mydealz",
-   "sprache": "de",
-   "titel": "Pokemon 30 Jahre 2-Pack Blister - Evoli (deutsch)",
-   "trend": null,
-   "typ": "display"
   }
  ],
  "produkte": [
@@ -1882,12 +1828,19 @@
    "haendler": "Amazon",
    "hype": 9,
    "key": "30th-upc-upc-en",
-   "kurz": "Ultra-Premium-Collection 30. Jubiläum vorbestellbar – sehr begehrt",
+   "kurz": "30. Jubiläum-UPC vorbestellbar, knapp und begehrt",
    "liefertermin": null,
    "lieferwelle": null,
    "name": "30th UPC Ultra Premium Collection",
    "preis_eur": null,
    "quellen": [
+    {
+     "datum": "2026-10-30T11:05:59Z",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEpPR25SNFpmYk5YMjFDbFdvNDdqVUt2RFpTZS15WS1paS1sNzJKOFFmazc5YW1WWFFxM1p4Um1ZV2tuTFRLSUNNY21GeWhTdGZqZXFWdVNPQlZLVlJwVkdHb29XSmphSlZFQ1AzXzNmU3pBYmJHV3E4YnItdnRiU0p4RWZVWEhnbEx4aExabGk?oc=5",
+     "quelle": "Yahoo",
+     "status": "vorbestellbar",
+     "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection preorders are live: Shop now for under market price"
+    },
     {
      "datum": "2026-10-30T11:15:16Z",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUdlMlFacnNiMDJ0VXlVWHVSc3A1dnhhdmFneWZjOVZUZWxxN3JEUlNGcmg2Vy1YVm5MdUp2NGlMcV9QX05FQXJqY3dfaVZNbzNWdkdsbFJFemFnd1k1N1M4eTVuSldYbnl1Z2ZETHI1T0cxUU5ueE55T25WSnM5NVlSQkhRdy1fRlJ6N1hTZWhWbEhIMTJfU05wT1NzMFpIQW9r?oc=5",
@@ -1936,13 +1889,6 @@
      "quelle": "Mashable",
      "status": "vorbestellbar",
      "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder now"
-    },
-    {
-     "datum": "2026-10-14T00:41:32Z",
-     "link": "https://www.reddit.com/r/PokeInvesting/comments/1x5dm10/what_do_you_guys_think_about_30th_upc/",
-     "quelle": "Reddit",
-     "status": "angekuendigt",
-     "titel": "What do you guys think about 30th UPC?"
     }
    ],
    "rating": {
@@ -1960,7 +1906,7 @@
    "stage": "vorbestellbar",
    "typ": "upc",
    "variante": null,
-   "vorverkauf_ab": "2026-10-30"
+   "vorverkauf_ab": "2026-10-31"
   },
   {
    "aktualisiert": "2026-10-29T22:00:00Z",
@@ -2063,6 +2009,46 @@
    "typ": "display",
    "variante": null,
    "vorverkauf_ab": "2026-10-14"
+  },
+  {
+   "aktualisiert": "2026-10-29T06:15:03Z",
+   "erstmals": "2026-10-29T06:15:03Z",
+   "gruende": [
+    "Neues Set",
+    "Ziehung im Japan",
+    "Limitierte Box"
+   ],
+   "haendler": "Amazon",
+   "hype": 8,
+   "key": "null-display-jp",
+   "kurz": "Neue 30er-Box 'Hadoushi-Ka' via Ziehung auf Amazon, knapp.",
+   "lieferwelle": 1,
+   "name": "null 30er-Box",
+   "quellen": [
+    {
+     "datum": "2026-10-29T06:15:03Z",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DYkNaZDVxYmJCeEM4SHRnTmdoNkw2a2NQeWNrR0oyQmtveW1KUFBkTDVsZ3dBanQzUFpXeGlrbUxtbXJlYjY2cWpGQjBleU5jVWplSzJWNGl4VEdoeXhmRzVId1hIVXQ0MFdLRk9KYjRkU00wMUpF?oc=5",
+     "quelle": "インサイド",
+     "status": "vorbestellbar",
+     "titel": "『ポケカ』新拡張パック「ハドウシーカー」がAmazonで抽選販売！1BOX（30パック入り）が対象 3枚目の写真・画像"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Neues Set",
+     "Ziehung im Japan",
+     "Limitierte Box"
+    ],
+    "sterne": 4,
+    "urteil": "Lohnt sich"
+   },
+   "set": "null",
+   "sprache": "jp",
+   "stage": "vorbestellbar",
+   "typ": "display",
+   "variante": null,
+   "vorverkauf_ab": "2026-10-30"
   },
   {
    "aktualisiert": "2026-10-29T06:15:03Z",

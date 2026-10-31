@@ -629,12 +629,19 @@
   "haendler": "Amazon",
   "hype": 9,
   "key": "30th-upc-upc-en",
-  "kurz": "Ultra-Premium-Collection 30. Jubiläum vorbestellbar – sehr begehrt",
+  "kurz": "30. Jubiläum-UPC vorbestellbar, knapp und begehrt",
   "liefertermin": null,
   "lieferwelle": null,
   "name": "30th UPC Ultra Premium Collection",
   "preis_eur": null,
   "quellen": [
+   {
+    "datum": "2026-10-30T11:05:59Z",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEpPR25SNFpmYk5YMjFDbFdvNDdqVUt2RFpTZS15WS1paS1sNzJKOFFmazc5YW1WWFFxM1p4Um1ZV2tuTFRLSUNNY21GeWhTdGZqZXFWdVNPQlZLVlJwVkdHb29XSmphSlZFQ1AzXzNmU3pBYmJHV3E4YnItdnRiU0p4RWZVWEhnbEx4aExabGk?oc=5",
+    "quelle": "Yahoo",
+    "status": "vorbestellbar",
+    "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection preorders are live: Shop now for under market price"
+   },
    {
     "datum": "2026-10-30T11:15:16Z",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUdlMlFacnNiMDJ0VXlVWHVSc3A1dnhhdmFneWZjOVZUZWxxN3JEUlNGcmg2Vy1YVm5MdUp2NGlMcV9QX05FQXJqY3dfaVZNbzNWdkdsbFJFemFnd1k1N1M4eTVuSldYbnl1Z2ZETHI1T0cxUU5ueE55T25WSnM5NVlSQkhRdy1fRlJ6N1hTZWhWbEhIMTJfU05wT1NzMFpIQW9r?oc=5",
@@ -683,13 +690,6 @@
     "quelle": "Mashable",
     "status": "vorbestellbar",
     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder now"
-   },
-   {
-    "datum": "2026-10-14T00:41:32Z",
-    "link": "https://www.reddit.com/r/PokeInvesting/comments/1x5dm10/what_do_you_guys_think_about_30th_upc/",
-    "quelle": "Reddit",
-    "status": "angekuendigt",
-    "titel": "What do you guys think about 30th UPC?"
    }
   ],
   "rating": {
@@ -707,7 +707,7 @@
   "stage": "vorbestellbar",
   "typ": "upc",
   "variante": null,
-  "vorverkauf_ab": "2026-10-30"
+  "vorverkauf_ab": "2026-10-31"
  },
  "ascended-heroes-etb-de-pokemon-center": {
   "aktualisiert": "2026-10-07T14:54:00Z",
@@ -1704,6 +1704,47 @@
   "typ": "display",
   "variante": null,
   "vorverkauf_ab": "2026-10-01"
+ },
+ "null-display-jp": {
+  "aktualisiert": "2026-10-29T06:15:03Z",
+  "erstmals": "2026-10-29T06:15:03Z",
+  "gemeldet": [],
+  "gruende": [
+   "Neues Set",
+   "Ziehung im Japan",
+   "Limitierte Box"
+  ],
+  "haendler": "Amazon",
+  "hype": 8,
+  "key": "null-display-jp",
+  "kurz": "Neue 30er-Box 'Hadoushi-Ka' via Ziehung auf Amazon, knapp.",
+  "lieferwelle": 1,
+  "name": "null 30er-Box",
+  "quellen": [
+   {
+    "datum": "2026-10-29T06:15:03Z",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DYkNaZDVxYmJCeEM4SHRnTmdoNkw2a2NQeWNrR0oyQmtveW1KUFBkTDVsZ3dBanQzUFpXeGlrbUxtbXJlYjY2cWpGQjBleU5jVWplSzJWNGl4VEdoeXhmRzVId1hIVXQ0MFdLRk9KYjRkU00wMUpF?oc=5",
+    "quelle": "インサイド",
+    "status": "vorbestellbar",
+    "titel": "『ポケカ』新拡張パック「ハドウシーカー」がAmazonで抽選販売！1BOX（30パック入り）が対象 3枚目の写真・画像"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Neues Set",
+    "Ziehung im Japan",
+    "Limitierte Box"
+   ],
+   "sterne": 4,
+   "urteil": "Lohnt sich"
+  },
+  "set": "null",
+  "sprache": "jp",
+  "stage": "vorbestellbar",
+  "typ": "display",
+  "variante": null,
+  "vorverkauf_ab": "2026-10-30"
  },
  "phantasmal-flames-etb-en": {
   "aktualisiert": "2026-10-11T14:06:51Z",
