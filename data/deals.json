@@ -1,5 +1,43 @@
 [
  {
+  "datum": "2026-11-01T10:31:38Z",
+  "fake_risiko": false,
+  "haendler": "Kofuku",
+  "hype": 7,
+  "id": "42c8589bd3eadfd7",
+  "kurz": "Günstiger Display-Preis für Delta Herrschaft, Markt zeigt Nachfrage",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-mega-entwicklung-me06-delta-herrschaft-booster-display-deutsch-2862688",
+  "markt": {
+   "ch30": -16.1,
+   "ch7": -7.2,
+   "hoch": 248.67,
+   "id": 834832,
+   "low": 140,
+   "name": "Mega Evolution Booster Box",
+   "trend": 208.59
+  },
+  "preis": 165.48,
+  "preis_eur": 165.48,
+  "produkt": "Mega Evolution Booster Box",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": 20.7,
+  "rating": {
+   "gruende": [
+    "21 % unter Cardmarket-Trend (165,48 € statt 208,59 €)"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "POKÉMON MEGA-ENTWICKLUNG (ME06): DELTA HERRSCHAFT BOOSTER DISPLAY (DEUTSCH)",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-10-31T06:57:33Z",
   "fake_risiko": false,
   "haendler": "Amazon",

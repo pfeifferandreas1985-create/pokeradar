@@ -1,6 +1,44 @@
 {
  "deals": [
   {
+   "datum": "2026-11-01T10:31:38Z",
+   "fake_risiko": false,
+   "haendler": "Kofuku",
+   "hype": 7,
+   "id": "42c8589bd3eadfd7",
+   "kurz": "Günstiger Display-Preis für Delta Herrschaft, Markt zeigt Nachfrage",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.mydealz.de/deals/pokemon-mega-entwicklung-me06-delta-herrschaft-booster-display-deutsch-2862688",
+   "markt": {
+    "ch30": -16.1,
+    "ch7": -7.2,
+    "hoch": 248.67,
+    "id": 834832,
+    "low": 140,
+    "name": "Mega Evolution Booster Box",
+    "trend": 208.59
+   },
+   "preis": 165.48,
+   "preis_eur": 165.48,
+   "produkt": "Mega Evolution Booster Box",
+   "pruefen": null,
+   "quelle": "mydealz",
+   "rabatt": 20.7,
+   "rating": {
+    "gruende": [
+     "21 % unter Cardmarket-Trend (165,48 € statt 208,59 €)"
+    ],
+    "sterne": 3,
+    "urteil": "Interessant"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "POKÉMON MEGA-ENTWICKLUNG (ME06): DELTA HERRSCHAFT BOOSTER DISPLAY (DEUTSCH)",
+   "typ": "display",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-10-31T06:57:33Z",
    "fake_risiko": false,
    "haendler": "Amazon",
@@ -1780,49 +1818,111 @@
    "titel": "Destined Rivals PC ETB. Sell now or hold on?",
    "trend": "faellt",
    "typ": "etb"
-  },
-  {
-   "datum": "2026-10-02T09:10:19Z",
-   "id": "fb375069b65aa1f3",
-   "kurz": "30. Jubiläum-ETB nähert sich Marktpreis, knapp und begehrt.",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0xsVGFIODBSLW1Db3g2dG9JTjF3ODFqY1d0dGg2S2V4RUwxdjFFZVVrLUk3NmRaWE93eHpmZVRVYW1CbXNuelJNNEhaTlc2elhlNTh3X3JLTFd4NkF4emZOM1lwSjdwa0ozMTYya18xSm1oQ3VOS1BLM3lVTjd6MUlLdkdMTlUtdHJhUU53?oc=5",
-   "markt": {
-    "ch30": null,
-    "ch7": null,
-    "hoch": 348.48,
-    "id": 895552,
-    "low": 175,
-    "name": "30th Celebration Pokémon Center Elite Trainer Box",
-    "trend": 348.48
-   },
-   "quelle": "Yahoo",
-   "sprache": "en",
-   "titel": "The Pokémon TCG 30th Celebration ETB is close to market price on Amazon — while stocks last",
-   "trend": "steigt",
-   "typ": "etb"
-  },
-  {
-   "datum": "2026-10-02T09:34:35Z",
-   "id": "37f96d594d26f48d",
-   "kurz": "30. Jubiläums-ETB nähert sich Marktwert – begehrt und knapp",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzNnN1hYV0JUa1o1Sk9INzRidURaSzhZdWcyM2xlblR0bTRmQ29QZVlqUy1ZM2E3S2RCVmQ4b0d4RmVFTDZEcS1BcTJmMXcxMV9WR3I5bFNXdUJpOEZma25lNERLdkJoX3BhX1FOUTZDYkg2NzhQYzB2S0dnbU9nb3J4VW5HVEZtSE1R?oc=5",
-   "markt": {
-    "ch30": null,
-    "ch7": null,
-    "hoch": 135.27,
-    "id": 895551,
-    "low": 85,
-    "name": "30th Celebration Elite Trainer Box",
-    "trend": 135.27
-   },
-   "quelle": "Mashable",
-   "sprache": "en",
-   "titel": "Best Pokémon TCG deal: 30th Celebration Elite Trainer Box is close to market value",
-   "trend": "steigt",
-   "typ": "etb"
   }
  ],
  "produkte": [
+  {
+   "aktualisiert": "2026-11-01T08:30:00Z",
+   "erscheint_am": "2026-11-01",
+   "erstmals": "2026-09-28T07:00:00Z",
+   "gruende": [
+    "Jubiläums-Set, 30 Jahre Pokémon",
+    "nur per Einladung verfügbare Vorbestellung",
+    "knapp und exklusiv",
+    "Jubiläum-Box"
+   ],
+   "haendler": "Pokémon TCG Official",
+   "hype": 10,
+   "key": "30th-celebration-etb-de-pokemon-center",
+   "kurz": "Neue Trainer-Box mit Rayquaza stiehlt Jubiläums-Show",
+   "liefertermin": "2026-11-07",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": 25.1,
+    "ch7": 8.9,
+    "hoch": 411.29,
+    "id": 895552,
+    "low": 399,
+    "name": "30th Celebration Pokémon Center Elite Trainer Box",
+    "trend": 410.02
+   },
+   "name": "30th Celebration Elite Trainer Box",
+   "preis_eur": 44.0,
+   "quellen": [
+    {
+     "datum": "2026-11-01T08:30:00Z",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVmdxSVJJaF82bGlsYWNtTWhGcGZqNzdCU2N5WUZPR3psVzBRSDhYOXE3OWlteHFFMHAxTHBUSzdlbk5LUGhQT3dVM2FPdGdiR2FNYnVzamtJeFVvelIya0tlYVRlWk1UY2RJX3dWcUhZU1RwOXZFcEp6bFVhLTZ1V3QyTlE4ZVpIRk5ZbXhJb2Nsa19MS0VwMDJLR3F4OXdXNE1TZkVkR1l6aXIxZWZydGE4bV9QLUpvcHZCOGNtYkhmWndJMDhSeUc4OGdhWmdUX1N0SmZxLVlBQjBhaEFDQ3JB?oc=5",
+     "quelle": "PC Games.de",
+     "status": "angekuendigt",
+     "titel": "Rayquaza greift an: Neue Pokémon-Trainer-Box und Booster stehlen dem 30. Jubiläum die Show"
+    },
+    {
+     "datum": "2026-10-13T06:41:36Z",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWtNOC1ieXVOQVc1U0JfOGt2M0RsOE5hQk5xX2lBVy1ZLVB6V3NKUTE4VXJ2d3ltbzR5a1Y4U3gybElRc3RKWC0yOG05dlZ5ZGd4cnROWTNjS09FQVZBcTNzZ1lFcG9TdWx5WkUzTmRIN1F0S2dZUGhYODVnOEp6cUVHMThzZmRGb3RLcXhaeUltcnp2SU5wUDhnYW80OTRQZzVHSjJfcllfNVVuM0M1SWVLdFJGZFV3?oc=5",
+     "quelle": "Giga",
+     "status": "ausverkauft",
+     "titel": "Pokémon-Karten: Netto verkauft wieder 30 Jahre Elite-Trainer-Box"
+    },
+    {
+     "datum": "2026-10-08T12:17:32Z",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDI3S1RaNndXM3NoUVIwNzRpOTkxb1M3SEpFdHFLNWVLWXVDOVEwZ21Nb3ZINVZsWEtvMWxGSkl2Vk1KQi1LSzZEbjZOSW4tWWlZNEhMQ0d2eENHSDJSc09wUmYxX0I2V1Q4S0owanJnSFBjdjI5SjgwV0JvU1VQUlI4QlVhV3NHVF95dHJoNGIxOTJtNG5IRjFzUFhTQVNBQW80dXFTQ3BfLURJY1lOZ2pObUFTakllYk1xNlRQdV84REE?oc=5",
+     "quelle": "Giga",
+     "status": "ausverkauft",
+     "titel": "Pokémon-Karten: Kaufland verkauft Montag 30-Jahre-Top-Trainer-Box zur UVP"
+    },
+    {
+     "datum": "2026-10-03T10:45:00Z",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMkowSU1QYlN6NHdzbFRBeVktOGhPbXI0eWV0YnZnTmZ0WUVabUpTOUE5Yl9scjZrV3FPb1RXVDItUUVoTnRBa1cwaGMzRFgzSlZZeFRtWFd3S0F2NjhzU0VFVjlRUVpqRDJwb0EyV0ZIc0hENXdGNUU2eU8yNzNCOHc0RUlzN1dyTjB4RGxFb2ZTajFhdjlqZXdoZWpvSXdhMFRZVzBWSGRLVFVJcHpCclRiUGpWTnJyTE52cmdPcGhXSG1jZ1N5RFpsZnNVQUNHMTE4Y3dVLXo3NkI4c19XelNfT3VGdw?oc=5",
+     "quelle": "CHIP",
+     "status": "angekuendigt",
+     "titel": "Was steckt in der Pokémon-Jubiläumsbox? Sammler bekommen mehr als Booster"
+    },
+    {
+     "datum": "2026-10-02T21:01:32Z",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODBSVGNXZHRTRVBMZFV3M1paQmtzdFZtdUNzeGI4Z2x2Q3Fsbm9BS1ZINGJHOEI3LVpEYU1kQXNWWm82QlV1Z1ItclhtZFZpOVNfOXdZbVlLZVRXQjlGRnFFU1FNN2F3akhKcjJTdmhQSXpBb2tEY3dYZlBFVXgtQ3lDMEVGeXpBam9mZXF5ZlFucWsteUg0SmRHUm9WUnBnOE5FaVRGOHpBcmFSVjN3M0JuTlRUX2YybHFqdF9pTFlDYW1wa3V4bg?oc=5",
+     "quelle": "Billboard",
+     "status": "vorbestellbar",
+     "titel": "Pokémon TCG: Here's How to Shop the 30th Celebration Elite Trainer Box & Booster Bundle Online"
+    },
+    {
+     "datum": "2026-10-02T11:35:00Z",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeWhqdXQ4aGhZb1J6dkVrRWhOdnl0Q2s1YmN2WVNUMmk2ZjBHcVRwN2xZQ2J3UUpMZzNjNTdwSG5jS2s1aF9PU2V4eHRJZXY4Y1F3QWU1YjJhTnBTa3pPOFZ2blZRVVlSSTlLa0toTWhqRTE3WnA5TUJtS3pSaHZ2V25remFzUHRzcktyXzNqQ0pTNmxqUFkzTTJxaVZDQktGTHBJSVNPa0djNFJ6b1hDUTJpbVRtQnJaZG1HZ0hhTWd5NjNJX0hybkRnejgwOHZhYXlFTXNJbUJXLWtNUldxZi0tRDhuNUczR3c?oc=5",
+     "quelle": "CHIP",
+     "status": "angekuendigt",
+     "titel": "Was steckt in der Pokémon-Jubiläumsbox? Sammler bekommen mehr als Booster"
+    },
+    {
+     "datum": "2026-09-28T15:00:00Z",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEkxcWQtQVMwVjJlMGY5SmEyMy1hS0p0eHpXV3JCRFJwOC04TjJoXzlUaTY2dTE1aHJhQW0ybkRid3FMdFFPejJTbklCNWdUMUlya3JvV3VzSVVNREpjZXNZNzdicXAydkxTZzRzZko3T3JaQlpZd2o1S2p6U0UtUFRwYjJiTXdkN21WOUhDV2w3QlpLUFhWUFpHOFJ2eDNjQkZFZlhqdjRCV0ZxQkZaY04wWi1fN2RDcHNXbFZYMUJiUGpJck1ERnlPZw?oc=5",
+     "quelle": "Netzwelt",
+     "status": "vorbestellbar",
+     "titel": "Pokémon-Trainerbox bei Amazon nur mit Einladung: Bei Netto gibt es die englische Variante sofort, aber teurer"
+    },
+    {
+     "datum": "2026-09-28T07:00:00Z",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMkZwMXM0b01UWUhyeEo3T0doYl9ESzdfbjZ1WmY0c0RKN0NGb05CSVRrWVhUQ1FZWm45ZXIxeGQyT0FFV2VyeUFPcDQ5dnB5WjVVbkZLQWthWkxBSDNYWnFURFNuT3ktaU00SzI4VWxIem1FbEl5YU92QUozUTFjUUNJZ2pFSDRuRUNvczhONlljN3ZBUVdBM2EwYzYtbE5HdThrV0REamM0Ni1CTE1BSGM3ZE5PV20zQldNMURqbk9vNTlhb1p0ZDEtYkRoalJEVHBad0RFTXpDRTlf?oc=5",
+     "quelle": "T-Online",
+     "status": "vorbestellbar",
+     "titel": "Pokémon wird 30 – Amazon lässt die Jubiläums-Boxen nur per Einladung in den Warenkorb"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Jubiläums-Set, 30 Jahre Pokémon",
+     "nur per Einladung verfügbare Vorbestellung",
+     "knapp und exklusiv",
+     "Jubiläum-Box"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Celebration",
+   "sprache": "de",
+   "stage": "ausverkauft",
+   "typ": "etb",
+   "variante": null,
+   "vorverkauf_ab": "2026-10-03"
+  },
   {
    "aktualisiert": "2026-10-30T11:15:16Z",
    "erscheint_am": null,
@@ -3252,108 +3352,6 @@
    "stage": "vorbestellbar",
    "typ": "display",
    "variante": "18er"
-  },
-  {
-   "aktualisiert": "2026-10-13T06:41:36Z",
-   "erscheint_am": "2026-11-01",
-   "erstmals": "2026-09-28T07:00:00Z",
-   "gruende": [
-    "Jubiläums-Set, 30 Jahre Pokémon",
-    "nur per Einladung verfügbare Vorbestellung",
-    "knapp und exklusiv",
-    "Jubiläum-Box"
-   ],
-   "haendler": "Pokémon TCG Official",
-   "hype": 10,
-   "key": "30th-celebration-etb-de-pokemon-center",
-   "kurz": "30. Jubiläum-Elite-Box vorbestellbar, knapp und begehrt",
-   "liefertermin": "2026-11-07",
-   "lieferwelle": 1,
-   "markt": {
-    "ch30": null,
-    "ch7": 0.6,
-    "hoch": 135.27,
-    "id": 895551,
-    "low": 88,
-    "name": "30th Celebration Elite Trainer Box",
-    "trend": 132
-   },
-   "name": "30th Celebration Elite Trainer Box",
-   "preis_eur": 44.0,
-   "quellen": [
-    {
-     "datum": "2026-10-13T06:41:36Z",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWtNOC1ieXVOQVc1U0JfOGt2M0RsOE5hQk5xX2lBVy1ZLVB6V3NKUTE4VXJ2d3ltbzR5a1Y4U3gybElRc3RKWC0yOG05dlZ5ZGd4cnROWTNjS09FQVZBcTNzZ1lFcG9TdWx5WkUzTmRIN1F0S2dZUGhYODVnOEp6cUVHMThzZmRGb3RLcXhaeUltcnp2SU5wUDhnYW80OTRQZzVHSjJfcllfNVVuM0M1SWVLdFJGZFV3?oc=5",
-     "quelle": "Giga",
-     "status": "ausverkauft",
-     "titel": "Pokémon-Karten: Netto verkauft wieder 30 Jahre Elite-Trainer-Box"
-    },
-    {
-     "datum": "2026-10-08T12:17:32Z",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDI3S1RaNndXM3NoUVIwNzRpOTkxb1M3SEpFdHFLNWVLWXVDOVEwZ21Nb3ZINVZsWEtvMWxGSkl2Vk1KQi1LSzZEbjZOSW4tWWlZNEhMQ0d2eENHSDJSc09wUmYxX0I2V1Q4S0owanJnSFBjdjI5SjgwV0JvU1VQUlI4QlVhV3NHVF95dHJoNGIxOTJtNG5IRjFzUFhTQVNBQW80dXFTQ3BfLURJY1lOZ2pObUFTakllYk1xNlRQdV84REE?oc=5",
-     "quelle": "Giga",
-     "status": "ausverkauft",
-     "titel": "Pokémon-Karten: Kaufland verkauft Montag 30-Jahre-Top-Trainer-Box zur UVP"
-    },
-    {
-     "datum": "2026-10-03T10:45:00Z",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMkowSU1QYlN6NHdzbFRBeVktOGhPbXI0eWV0YnZnTmZ0WUVabUpTOUE5Yl9scjZrV3FPb1RXVDItUUVoTnRBa1cwaGMzRFgzSlZZeFRtWFd3S0F2NjhzU0VFVjlRUVpqRDJwb0EyV0ZIc0hENXdGNUU2eU8yNzNCOHc0RUlzN1dyTjB4RGxFb2ZTajFhdjlqZXdoZWpvSXdhMFRZVzBWSGRLVFVJcHpCclRiUGpWTnJyTE52cmdPcGhXSG1jZ1N5RFpsZnNVQUNHMTE4Y3dVLXo3NkI4c19XelNfT3VGdw?oc=5",
-     "quelle": "CHIP",
-     "status": "angekuendigt",
-     "titel": "Was steckt in der Pokémon-Jubiläumsbox? Sammler bekommen mehr als Booster"
-    },
-    {
-     "datum": "2026-10-02T21:01:32Z",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODBSVGNXZHRTRVBMZFV3M1paQmtzdFZtdUNzeGI4Z2x2Q3Fsbm9BS1ZINGJHOEI3LVpEYU1kQXNWWm82QlV1Z1ItclhtZFZpOVNfOXdZbVlLZVRXQjlGRnFFU1FNN2F3akhKcjJTdmhQSXpBb2tEY3dYZlBFVXgtQ3lDMEVGeXpBam9mZXF5ZlFucWsteUg0SmRHUm9WUnBnOE5FaVRGOHpBcmFSVjN3M0JuTlRUX2YybHFqdF9pTFlDYW1wa3V4bg?oc=5",
-     "quelle": "Billboard",
-     "status": "vorbestellbar",
-     "titel": "Pokémon TCG: Here's How to Shop the 30th Celebration Elite Trainer Box & Booster Bundle Online"
-    },
-    {
-     "datum": "2026-10-02T11:35:00Z",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeWhqdXQ4aGhZb1J6dkVrRWhOdnl0Q2s1YmN2WVNUMmk2ZjBHcVRwN2xZQ2J3UUpMZzNjNTdwSG5jS2s1aF9PU2V4eHRJZXY4Y1F3QWU1YjJhTnBTa3pPOFZ2blZRVVlSSTlLa0toTWhqRTE3WnA5TUJtS3pSaHZ2V25remFzUHRzcktyXzNqQ0pTNmxqUFkzTTJxaVZDQktGTHBJSVNPa0djNFJ6b1hDUTJpbVRtQnJaZG1HZ0hhTWd5NjNJX0hybkRnejgwOHZhYXlFTXNJbUJXLWtNUldxZi0tRDhuNUczR3c?oc=5",
-     "quelle": "CHIP",
-     "status": "angekuendigt",
-     "titel": "Was steckt in der Pokémon-Jubiläumsbox? Sammler bekommen mehr als Booster"
-    },
-    {
-     "datum": "2026-09-28T15:00:00Z",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEkxcWQtQVMwVjJlMGY5SmEyMy1hS0p0eHpXV3JCRFJwOC04TjJoXzlUaTY2dTE1aHJhQW0ybkRid3FMdFFPejJTbklCNWdUMUlya3JvV3VzSVVNREpjZXNZNzdicXAydkxTZzRzZko3T3JaQlpZd2o1S2p6U0UtUFRwYjJiTXdkN21WOUhDV2w3QlpLUFhWUFpHOFJ2eDNjQkZFZlhqdjRCV0ZxQkZaY04wWi1fN2RDcHNXbFZYMUJiUGpJck1ERnlPZw?oc=5",
-     "quelle": "Netzwelt",
-     "status": "vorbestellbar",
-     "titel": "Pokémon-Trainerbox bei Amazon nur mit Einladung: Bei Netto gibt es die englische Variante sofort, aber teurer"
-    },
-    {
-     "datum": "2026-09-28T07:00:00Z",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMkZwMXM0b01UWUhyeEo3T0doYl9ESzdfbjZ1WmY0c0RKN0NGb05CSVRrWVhUQ1FZWm45ZXIxeGQyT0FFV2VyeUFPcDQ5dnB5WjVVbkZLQWthWkxBSDNYWnFURFNuT3ktaU00SzI4VWxIem1FbEl5YU92QUozUTFjUUNJZ2pFSDRuRUNvczhONlljN3ZBUVdBM2EwYzYtbE5HdThrV0REamM0Ni1CTE1BSGM3ZE5PV20zQldNMURqbk9vNTlhb1p0ZDEtYkRoalJEVHBad0RFTXpDRTlf?oc=5",
-     "quelle": "T-Online",
-     "status": "vorbestellbar",
-     "titel": "Pokémon wird 30 – Amazon lässt die Jubiläums-Boxen nur per Einladung in den Warenkorb"
-    },
-    {
-     "datum": "2026-09-27T05:28:22Z",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHZ4N1liV2x3MHVCZzR2SlhESmUybkFWWkVQbjQ5VjBtNTBqaXRtRE1fZjczRE93VmdJU1hpSGlaUWhRamw1Z3p4TjlGTWhDallaY0pLM1p0aVRJSkJ0Z3N5dDRCYkg4NkhGeC1DdmNCSG9vbnpSYWQ2UW5PMlhuX1JCTjlsWFYyUC1Xb0J0NUh2ZG91bjI3eW55cmV0ZE9NcW1SUUxEQjBLbUJISTFoVlAyZlNlTkVlcWhEa2Q0QnB6TGFtTC1DamZweWg3RFRNNWtj?oc=5",
-     "quelle": "giga.de",
-     "status": "angekuendigt",
-     "titel": "Pokémon-Karten: Netto verkauft 30 Jahre Elite-Trainer-Box aktuell ohne Versandkosten"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Jubiläums-Set, 30 Jahre Pokémon",
-     "nur per Einladung verfügbare Vorbestellung",
-     "knapp und exklusiv",
-     "Jubiläum-Box"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "30th Celebration",
-   "sprache": "de",
-   "stage": "ausverkauft",
-   "typ": "etb",
-   "variante": null,
-   "vorverkauf_ab": "2026-10-03"
   },
   {
    "aktualisiert": "2026-10-11T14:06:51Z",

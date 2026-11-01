@@ -390,45 +390,5 @@
   "titel": "Destined Rivals PC ETB. Sell now or hold on?",
   "trend": "faellt",
   "typ": "etb"
- },
- {
-  "datum": "2026-10-02T09:10:19Z",
-  "id": "fb375069b65aa1f3",
-  "kurz": "30. Jubiläum-ETB nähert sich Marktpreis, knapp und begehrt.",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0xsVGFIODBSLW1Db3g2dG9JTjF3ODFqY1d0dGg2S2V4RUwxdjFFZVVrLUk3NmRaWE93eHpmZVRVYW1CbXNuelJNNEhaTlc2elhlNTh3X3JLTFd4NkF4emZOM1lwSjdwa0ozMTYya18xSm1oQ3VOS1BLM3lVTjd6MUlLdkdMTlUtdHJhUU53?oc=5",
-  "markt": {
-   "ch30": null,
-   "ch7": null,
-   "hoch": 348.48,
-   "id": 895552,
-   "low": 175,
-   "name": "30th Celebration Pokémon Center Elite Trainer Box",
-   "trend": 348.48
-  },
-  "quelle": "Yahoo",
-  "sprache": "en",
-  "titel": "The Pokémon TCG 30th Celebration ETB is close to market price on Amazon — while stocks last",
-  "trend": "steigt",
-  "typ": "etb"
- },
- {
-  "datum": "2026-10-02T09:34:35Z",
-  "id": "37f96d594d26f48d",
-  "kurz": "30. Jubiläums-ETB nähert sich Marktwert – begehrt und knapp",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzNnN1hYV0JUa1o1Sk9INzRidURaSzhZdWcyM2xlblR0bTRmQ29QZVlqUy1ZM2E3S2RCVmQ4b0d4RmVFTDZEcS1BcTJmMXcxMV9WR3I5bFNXdUJpOEZma25lNERLdkJoX3BhX1FOUTZDYkg2NzhQYzB2S0dnbU9nb3J4VW5HVEZtSE1R?oc=5",
-  "markt": {
-   "ch30": null,
-   "ch7": null,
-   "hoch": 135.27,
-   "id": 895551,
-   "low": 85,
-   "name": "30th Celebration Elite Trainer Box",
-   "trend": 135.27
-  },
-  "quelle": "Mashable",
-  "sprache": "en",
-  "titel": "Best Pokémon TCG deal: 30th Celebration Elite Trainer Box is close to market value",
-  "trend": "steigt",
-  "typ": "etb"
  }
 ]
