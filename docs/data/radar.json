@@ -1400,19 +1400,7 @@
    "waehrung": "USD"
   }
  ],
- "hinweise": [
-  {
-   "datum": "2026-10-25T18:21:47Z",
-   "id": "999396ce88fae0b8",
-   "link": "https://www.reddit.com/r/PokeInvesting/comments/1xf9ovv/best_buy_delivered/",
-   "produkt": "Elite Trainer Box",
-   "quelle": "Reddit",
-   "sprache": "en",
-   "status": "vorbestellbar",
-   "titel": "Best Buy Delivered",
-   "typ": "etb"
-  }
- ],
+ "hinweise": [],
  "konfig": {
   "alarm_prozent": 15.0,
   "mindestpreis": 40.0,
