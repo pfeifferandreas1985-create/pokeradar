@@ -1,5 +1,44 @@
 [
  {
+  "datum": "2026-11-02T07:25:04Z",
+  "fake_risiko": false,
+  "haendler": "Netto",
+  "hype": 5,
+  "id": "4dc2bfc42091b9f1",
+  "kurz": "Top-Trainer-Box Karmesin & Purpur ab 9. Nov. bei Netto für 49,99€.",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/netto-mit-scottie-pokemon-tcg-top-trainer-box-karmesin-purpur-maskerade-im-zwielicht-9-booster-ab-9-november-im-markt-2863194",
+  "markt": {
+   "ch30": 11.7,
+   "ch7": 10.8,
+   "hoch": 79.71,
+   "id": 761229,
+   "low": 45,
+   "name": "Twilight Masquerade Elite Trainer Box",
+   "trend": 77.75
+  },
+  "preis": 49.99,
+  "preis_eur": 49.99,
+  "produkt": "Twilight Masquerade Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": 35.7,
+  "rating": {
+   "gruende": [
+    "36 % unter Cardmarket-Trend (49,99 € statt 77,75 €)",
+    "Marktpreis steigt (+12 % in 30 Tagen)"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "[Netto mit Scottie] Pokemon TCG: Top-Trainer-Box Karmesin & Purpur – Maskerade im Zwielicht | 9 Booster | ab 9. November im Markt",
+  "typ": "etb",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-01T10:31:38Z",
   "fake_risiko": false,
   "haendler": "Kofuku",
