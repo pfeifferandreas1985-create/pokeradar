@@ -1810,6 +1810,42 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-11-01T22:24:43Z",
+   "erstmals": "2026-11-01T22:24:43Z",
+   "gruende": [
+    "Neues Set mit exklusiven Karten",
+    "Hado-Set als Fan-Liebling",
+    "limitierte Auflage"
+   ],
+   "hype": 8,
+   "key": "hadowisee-ka-etb-jp-pokemon-center",
+   "kurz": "Neues Pokémon-Center-Set mit Hadowisee-Karten angekündigt",
+   "name": "Hadowisee Ka Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-11-01T22:24:43Z",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QaFhya1VOMExzTG91SUVIRE1ldjlvbVd3VmZPZ29MWHNIejQzekwtWU9uWE5rVDFLZ1F4UzJ6Y0QwSVEwY0ZLTHpvczd6dw?oc=5",
+     "quelle": "アプリゲット",
+     "status": "angekuendigt",
+     "titel": "ポケカ「ハドウシーカー」の当たり予想！収録カード・発売日・予約情報"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Neues Set mit exklusiven Karten",
+     "Hado-Set als Fan-Liebling",
+     "limitierte Auflage"
+    ],
+    "sterne": 4,
+    "urteil": "Lohnt sich"
+   },
+   "set": "Hadowisee Ka",
+   "sprache": "jp",
+   "stage": "angekuendigt",
+   "typ": "etb",
+   "variante": "pokemon-center"
+  },
+  {
    "aktualisiert": "2026-11-01T08:30:00Z",
    "erscheint_am": "2026-11-01",
    "erstmals": "2026-09-28T07:00:00Z",
