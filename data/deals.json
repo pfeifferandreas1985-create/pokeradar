@@ -1,5 +1,43 @@
 [
  {
+  "datum": "2026-11-02T10:00:38Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 4,
+  "id": "4f76a7e4f672f08a",
+  "kurz": "Neues Booster-Bundle für Delta Herrschaft ab 29,94€ bei Amazon verfügbar",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/amazon-einladung-pokemon-tcg-delta-herrschaft-booster-bundle-2863309",
+  "markt": {
+   "ch30": -9.3,
+   "ch7": -1.9,
+   "hoch": 234.3,
+   "id": 903956,
+   "low": 177.97,
+   "name": "Delta Reign Booster Box",
+   "trend": 207.76
+  },
+  "preis": 29.94,
+  "preis_eur": 29.94,
+  "produkt": "Delta Reign Booster Box",
+  "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
+  "quelle": "mydealz",
+  "rabatt": 85.6,
+  "rating": {
+   "gruende": [
+    "86 % unter Cardmarket-Trend (29,94 € statt 207,76 €)"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "[Amazon Prime Einladung] Pokemon TCG Delta Herrschaft Booster Bundle",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-02T07:25:04Z",
   "fake_risiko": false,
   "haendler": "Netto",

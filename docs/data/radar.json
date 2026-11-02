@@ -1,6 +1,44 @@
 {
  "deals": [
   {
+   "datum": "2026-11-02T10:00:38Z",
+   "fake_risiko": false,
+   "haendler": "Amazon",
+   "hype": 4,
+   "id": "4f76a7e4f672f08a",
+   "kurz": "Neues Booster-Bundle für Delta Herrschaft ab 29,94€ bei Amazon verfügbar",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.mydealz.de/deals/amazon-einladung-pokemon-tcg-delta-herrschaft-booster-bundle-2863309",
+   "markt": {
+    "ch30": -9.3,
+    "ch7": -1.9,
+    "hoch": 234.3,
+    "id": 903956,
+    "low": 177.97,
+    "name": "Delta Reign Booster Box",
+    "trend": 207.76
+   },
+   "preis": 29.94,
+   "preis_eur": 29.94,
+   "produkt": "Delta Reign Booster Box",
+   "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
+   "quelle": "mydealz",
+   "rabatt": 85.6,
+   "rating": {
+    "gruende": [
+     "86 % unter Cardmarket-Trend (29,94 € statt 207,76 €)"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "[Amazon Prime Einladung] Pokemon TCG Delta Herrschaft Booster Bundle",
+   "typ": "display",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-11-02T07:25:04Z",
    "fake_risiko": false,
    "haendler": "Netto",
@@ -1848,6 +1886,44 @@
   }
  ],
  "produkte": [
+  {
+   "aktualisiert": "2026-11-02T13:47:16Z",
+   "erstmals": "2026-11-02T13:47:16Z",
+   "gruende": [
+    "Ältere ETB günstiger",
+    "Netto-Verkauf",
+    "günstiger Preis nächste Woche"
+   ],
+   "haendler": "Netto",
+   "hype": 4,
+   "key": "top-trainer-box-etb-de",
+   "kurz": "Netto verkauft ältere Top-Trainer-Box günstiger – Nachschub im Handel.",
+   "name": "Top-Trainer-Box",
+   "quellen": [
+    {
+     "datum": "2026-11-02T13:47:16Z",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV2l6WWwzOHoxVXZRZFhGVDBydVpnSXdPRmFXUWt5WEdtY2dGWldDdFd2VzBhWC1JZXlGYmVQczA2TUktSHpPRDItUk5SbGNqRWFnR1U2cWI1QWFOZTZKb3M5bF9kdllQSXpjaENuMzBwTUlHcF85UTR0X2pNNnZZcXRWd0pVVzFYamtWemlfY05ScUZpczRGalUtMlJBUmtwWEhIcGZPU0dEQkN6UjNoZlhKR1V2WG9oNVg1RHJKVEdFYl9XOF9IUjdYMXo?oc=5",
+     "quelle": "Giga",
+     "status": "vorbestellbar",
+     "titel": "Pokémon-Karten: Netto verkauft nächste Woche ältere Top-Trainer-Box günstiger"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Ältere ETB günstiger",
+     "Netto-Verkauf",
+     "günstiger Preis nächste Woche"
+    ],
+    "sterne": 2,
+    "urteil": "Abwarten"
+   },
+   "set": "Top-Trainer-Box",
+   "sprache": "de",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": null
+  },
   {
    "aktualisiert": "2026-11-01T22:24:43Z",
    "erstmals": "2026-11-01T22:24:43Z",

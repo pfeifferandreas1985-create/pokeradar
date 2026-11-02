@@ -2214,6 +2214,47 @@
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-10-26"
  },
+ "top-trainer-box-etb-de": {
+  "aktualisiert": "2026-11-02T13:47:16Z",
+  "erstmals": "2026-11-02T13:47:16Z",
+  "gemeldet": [
+   "vorbestellbar"
+  ],
+  "gruende": [
+   "Ältere ETB günstiger",
+   "Netto-Verkauf",
+   "günstiger Preis nächste Woche"
+  ],
+  "haendler": "Netto",
+  "hype": 4,
+  "key": "top-trainer-box-etb-de",
+  "kurz": "Netto verkauft ältere Top-Trainer-Box günstiger – Nachschub im Handel.",
+  "name": "Top-Trainer-Box",
+  "quellen": [
+   {
+    "datum": "2026-11-02T13:47:16Z",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV2l6WWwzOHoxVXZRZFhGVDBydVpnSXdPRmFXUWt5WEdtY2dGWldDdFd2VzBhWC1JZXlGYmVQczA2TUktSHpPRDItUk5SbGNqRWFnR1U2cWI1QWFOZTZKb3M5bF9kdllQSXpjaENuMzBwTUlHcF85UTR0X2pNNnZZcXRWd0pVVzFYamtWemlfY05ScUZpczRGalUtMlJBUmtwWEhIcGZPU0dEQkN6UjNoZlhKR1V2WG9oNVg1RHJKVEdFYl9XOF9IUjdYMXo?oc=5",
+    "quelle": "Giga",
+    "status": "vorbestellbar",
+    "titel": "Pokémon-Karten: Netto verkauft nächste Woche ältere Top-Trainer-Box günstiger"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Ältere ETB günstiger",
+    "Netto-Verkauf",
+    "günstiger Preis nächste Woche"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "set": "Top-Trainer-Box",
+  "sprache": "de",
+  "stage": "vorbestellbar",
+  "typ": "etb",
+  "variante": null
+ },
  "ultra-sun-display-jp": {
   "aktualisiert": "2026-10-29T06:15:03Z",
   "erstmals": "2026-10-29T06:15:03Z",
