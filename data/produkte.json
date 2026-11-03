@@ -1704,6 +1704,44 @@
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-11-27"
  },
+ "mega-mega-charizard-mega-kyurem-mega-gengar-display-jp": {
+  "aktualisiert": "2026-11-03T12:11:35Z",
+  "erstmals": "2026-11-03T12:11:35Z",
+  "gemeldet": [],
+  "gruende": [
+   "Mega-Formen sind Fan-Lieblinge",
+   "Exklusivität und Limitierung",
+   "Hype durch frühere Ausverkäufe"
+  ],
+  "hype": 9,
+  "key": "mega-mega-charizard-mega-kyurem-mega-gengar-display-jp",
+  "kurz": "Special Deck MEGA-Formen vorbestellbar – begehrt durch Fans",
+  "name": "MEGA Mega Charizard/Mega Kyurem/Mega Gengar Special Deck Set MEGA",
+  "quellen": [
+   {
+    "datum": "2026-11-03T12:11:35Z",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iMTNZeV82N3F0eVFKenZmQks4WjhJbmJ4YmYtWHZpdFRVVDBfb1VQNmRlT1BmRkJvd3NNVGtwSXNldHRfNHNpNkV1N3ZQOWthN201c05MN1JNTTlU?oc=5",
+    "quelle": "SNKRDUNK",
+    "status": "vorbestellbar",
+    "titel": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【11/3更新】"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Mega-Formen sind Fan-Lieblinge",
+    "Exklusivität und Limitierung",
+    "Hype durch frühere Ausverkäufe"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "MEGA Mega Charizard/Mega Kyurem/Mega Gengar",
+  "sprache": "jp",
+  "stage": "vorbestellbar",
+  "typ": "display",
+  "variante": null
+ },
  "mega-mega-oodamiru-mega-kaiju-mega-gengar-etb-jp-pokemon-center": {
   "aktualisiert": "2026-10-16T08:53:35Z",
   "erstmals": "2026-10-16T08:53:35Z",
@@ -2293,6 +2331,48 @@
   "stage": "vorbestellbar",
   "typ": "etb",
   "variante": null
+ },
+ "ultra-premium-kollektion": {
+  "aktualisiert": "2026-11-03T20:53:10Z",
+  "erstmals": "2026-11-03T20:53:10Z",
+  "gemeldet": [
+   "vorbestellbar"
+  ],
+  "gruende": [
+   "Massiver Vorverkauf",
+   "Limitierte Lotterie",
+   "Hohe Nachfrage"
+  ],
+  "haendler": "Walmart",
+  "hype": 7,
+  "key": "ultra-premium-kollektion",
+  "kurz": "Walmart startet Lotterie für UPC-Boxen – knapp und begehrt.",
+  "name": "Ultra-Premium-Kollektion",
+  "quellen": [
+   {
+    "datum": "2026-11-03T20:53:10Z",
+    "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1xn4u60/massive_walmart_lottery_announced_upc_and_delta/",
+    "quelle": "Reddit",
+    "status": "vorbestellbar",
+    "titel": "MASSIVE Walmart lottery announced! UPC AND DELTA"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Massiver Vorverkauf",
+    "Limitierte Lotterie",
+    "Hohe Nachfrage"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "set": null,
+  "sprache": "en",
+  "stage": "vorbestellbar",
+  "typ": "upc",
+  "variante": null,
+  "vorverkauf_ab": "2026-11-04"
  },
  "ultra-sun-display-jp": {
   "aktualisiert": "2026-10-29T06:15:03Z",

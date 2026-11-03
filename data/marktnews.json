@@ -358,25 +358,5 @@
   "titel": "Best Pokémon TCG deal: 30th Celebration Elite Trainer Box is close to market value on Amazon",
   "trend": "steigt",
   "typ": "etb"
- },
- {
-  "datum": "2026-10-04T19:08:47Z",
-  "id": "13d33aef9100d35f",
-  "kurz": "DR-ETB auf eBay sinkt, Nachfrage fällt",
-  "link": "https://www.reddit.com/r/PokeInvesting/comments/1wxns97/destined_rivals_pc_etb_sell_now_or_hold_on/",
-  "markt": {
-   "ch30": null,
-   "ch7": -0.8,
-   "hoch": 617.92,
-   "id": 818586,
-   "low": 500,
-   "name": "Destined Rivals Pokémon Center Elite Trainer Box",
-   "trend": 613.18
-  },
-  "quelle": "Reddit",
-  "sprache": "en",
-  "titel": "Destined Rivals PC ETB. Sell now or hold on?",
-  "trend": "faellt",
-  "typ": "etb"
  }
 ]
