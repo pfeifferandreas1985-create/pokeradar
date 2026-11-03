@@ -1,6 +1,44 @@
 {
  "deals": [
   {
+   "datum": "2026-11-03T11:44:05Z",
+   "fake_risiko": true,
+   "haendler": "HIT",
+   "hype": 5,
+   "id": "b5cea62e8463bdba",
+   "kurz": "Delta Herrschaft-Booster ab 9.11. bei HIT zu 4,44€ pro Stück",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.mydealz.de/deals/hit-pokemon-booster-delta-herrschaft-neues-set-mit-release-am-611-bei-hit-ab-911-verfugbar-und-unter-uvp-2864112",
+   "markt": {
+    "ch30": -9.9,
+    "ch7": -2.3,
+    "hoch": 234.3,
+    "id": 903956,
+    "low": 177.97,
+    "name": "Delta Reign Booster Box",
+    "trend": 206.7
+   },
+   "preis": 4.44,
+   "preis_eur": 4.44,
+   "produkt": "Delta Reign Booster Box",
+   "pruefen": "Unbekannter Shop – Fake-Shop-Risiko: Impressum, Bewertungen und Zahlart prüfen",
+   "quelle": "mydealz",
+   "rabatt": 97.9,
+   "rating": {
+    "gruende": [
+     "98 % unter Cardmarket-Trend (4,44 € statt 206,70 €)"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "[HIT] Pokemon Booster Delta Herrschaft | neues Set mit Release am 6.11., bei HIT ab 9.11. verfügbar und unter UVP",
+   "typ": "display",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-11-02T10:00:38Z",
    "fake_risiko": false,
    "haendler": "Amazon",
@@ -1493,6 +1531,26 @@
  },
  "marktnews": [
   {
+   "datum": "2026-10-29T18:40:00Z",
+   "id": "ec553365e1762ad8",
+   "kurz": "Pokémon Prismatic Evolutions ETB im Deal – Marktanstieg, begehrt",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04RHpQTjFYeU5OVjVxTWQ2WkR3NHlPUGxqQ0FacTBwMEsyTlhNYzdMS1dRS2hrd2N6V3J3aDI5b2tJbmNBOVdUeEFueFV5NTA1eTJ0TDRVVTM1bDRyZmwyam0xV0xjb2NSdTJZ?oc=5",
+   "markt": {
+    "ch30": -1.2,
+    "ch7": 1.7,
+    "hoch": 152.44,
+    "id": 798930,
+    "low": 84,
+    "name": "Prismatic Evolutions Elite Trainer Box",
+    "trend": 147.68
+   },
+   "quelle": "IGN",
+   "sprache": "en",
+   "titel": "Today’s Top Deals: Phantom Blade Zero, LEGO NASA Artemis Launch System, and Pokémon Prismatic Evolutions ETB",
+   "trend": "steigt",
+   "typ": "etb"
+  },
+  {
    "datum": "2026-10-31T13:40:30Z",
    "id": "d6084988abaac33b",
    "kurz": "White Flare-Box: Marktpreise steigen, Nachfrage hoch",
@@ -1830,26 +1888,6 @@
    "sprache": "en",
    "titel": "Best Pokémon TCG deal: 30th Celebration Elite Trainer Box is close to market value on Amazon",
    "trend": "steigt",
-   "typ": "etb"
-  },
-  {
-   "datum": "2026-10-04T13:04:03Z",
-   "id": "b851b653475a48fd",
-   "kurz": "SIR Gengar aus ETB-ASC sinkt im Preis – Nachfrage bleibt moderat",
-   "link": "https://www.reddit.com/r/PokeInvesting/comments/1wxf7jt/sell_or_hold_sir_gengar_from_asc/",
-   "markt": {
-    "ch30": null,
-    "ch7": 0.0,
-    "hoch": 993.88,
-    "id": 286942,
-    "low": 1049.98,
-    "name": "BREAKthrough Elite Trainer Box (Mega Mewtwo X)",
-    "trend": 993.88
-   },
-   "quelle": "Reddit",
-   "sprache": "en",
-   "titel": "Sell or hold? SIR Gengar from ASC",
-   "trend": "faellt",
    "typ": "etb"
   },
   {
