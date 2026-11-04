@@ -263,7 +263,7 @@
   "vorverkauf_ab": "2026-10-28"
  },
  "30th-celebration-etb-de-pokemon-center": {
-  "aktualisiert": "2026-11-01T08:30:00Z",
+  "aktualisiert": "2026-11-04T16:23:40Z",
   "erscheint_am": "2026-11-01",
   "erstmals": "2026-09-28T07:00:00Z",
   "gemeldet": [
@@ -275,24 +275,31 @@
    "knapp und exklusiv",
    "Jubiläum-Box"
   ],
-  "haendler": "Pokémon TCG Official",
+  "haendler": "Amazon",
   "hype": 10,
   "key": "30th-celebration-etb-de-pokemon-center",
-  "kurz": "Neue Trainer-Box mit Rayquaza stiehlt Jubiläums-Show",
+  "kurz": "30. Jubiläum-ETB vorbestellbar, knapp und begehrt",
   "liefertermin": "2026-11-07",
   "lieferwelle": 1,
   "markt": {
-   "ch30": 25.1,
-   "ch7": 8.9,
-   "hoch": 411.29,
-   "id": 895552,
-   "low": 399,
-   "name": "30th Celebration Pokémon Center Elite Trainer Box",
-   "trend": 410.02
+   "ch30": -8.7,
+   "ch7": -6.0,
+   "hoch": 135.27,
+   "id": 895551,
+   "low": 95,
+   "name": "30th Celebration Elite Trainer Box",
+   "trend": 121.19
   },
   "name": "30th Celebration Elite Trainer Box",
-  "preis_eur": 44.0,
+  "preis_eur": 52.78,
   "quellen": [
+   {
+    "datum": "2026-11-04T16:23:40Z",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQk5VbWNON3E3UGRmTV9KU3NObHlxbm9BVU5uSlZZOWQxem5PSzNrMmFqbmsyUERobGRKUjlOOUNxUWNlOFd0T2F4Tk9zRWx3QTBlcXl1QzNrLTJHUjRtbnJ2ZDZHNjdVM01GRmwwdVU3dEtsOG54MmhfNUp2TDZSNlE0UThaQ2pieF82Yk00Ulo1WENiMVVnSw?oc=5",
+    "quelle": "Reviewed",
+    "status": "vorbestellbar",
+    "titel": "How I got the Pokémon 30th Celebration Elite Trainer Box for $59 on Amazon"
+   },
    {
     "datum": "2026-11-01T08:30:00Z",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVmdxSVJJaF82bGlsYWNtTWhGcGZqNzdCU2N5WUZPR3psVzBRSDhYOXE3OWlteHFFMHAxTHBUSzdlbk5LUGhQT3dVM2FPdGdiR2FNYnVzamtJeFVvelIya0tlYVRlWk1UY2RJX3dWcUhZU1RwOXZFcEp6bFVhLTZ1V3QyTlE4ZVpIRk5ZbXhJb2Nsa19MS0VwMDJLR3F4OXdXNE1TZkVkR1l6aXIxZWZydGE4bV9QLUpvcHZCOGNtYkhmWndJMDhSeUc4OGdhWmdUX1N0SmZxLVlBQjBhaEFDQ3JB?oc=5",
@@ -341,13 +348,6 @@
     "quelle": "Netzwelt",
     "status": "vorbestellbar",
     "titel": "Pokémon-Trainerbox bei Amazon nur mit Einladung: Bei Netto gibt es die englische Variante sofort, aber teurer"
-   },
-   {
-    "datum": "2026-09-28T07:00:00Z",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMkZwMXM0b01UWUhyeEo3T0doYl9ESzdfbjZ1WmY0c0RKN0NGb05CSVRrWVhUQ1FZWm45ZXIxeGQyT0FFV2VyeUFPcDQ5dnB5WjVVbkZLQWthWkxBSDNYWnFURFNuT3ktaU00SzI4VWxIem1FbEl5YU92QUozUTFjUUNJZ2pFSDRuRUNvczhONlljN3ZBUVdBM2EwYzYtbE5HdThrV0REamM0Ni1CTE1BSGM3ZE5PV20zQldNMURqbk9vNTlhb1p0ZDEtYkRoalJEVHBad0RFTXpDRTlf?oc=5",
-    "quelle": "T-Online",
-    "status": "vorbestellbar",
-    "titel": "Pokémon wird 30 – Amazon lässt die Jubiläums-Boxen nur per Einladung in den Warenkorb"
    }
   ],
   "rating": {
@@ -652,7 +652,7 @@
   "vorverkauf_ab": "2026-10-21"
  },
  "30th-upc-upc-en": {
-  "aktualisiert": "2026-10-30T11:15:16Z",
+  "aktualisiert": "2026-11-03T10:00:50Z",
   "erscheint_am": null,
   "erstmals": "2026-10-14T00:41:32Z",
   "gemeldet": [
@@ -665,15 +665,22 @@
    "Hype um Evolutions-Entwicklungen",
    "30. Jubiläum, exklusiv, limitiert"
   ],
-  "haendler": "Amazon",
+  "haendler": "Walmart",
   "hype": 9,
   "key": "30th-upc-upc-en",
-  "kurz": "30. Jubiläum-UPC vorbestellbar, knapp und begehrt",
+  "kurz": "30. Jubiläum-UPC vorbestellbar auf Walmart.",
   "liefertermin": null,
   "lieferwelle": null,
   "name": "30th UPC Ultra Premium Collection",
   "preis_eur": null,
   "quellen": [
+   {
+    "datum": "2026-11-03T10:00:50Z",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmlPUzRLM2FwZmx0Qi1sdm8zZ1dmeGlkbl9JN3ZKRUMtaWx0cURGOTZCenZoeEZOckFtM2FpRlBPRHJrWHlvTmxSQjE1R1VCV21fUWlwa3czM2Zwc2Q5QmpUR0VCZDM5a2ZMdmtxbW5yQ1U4REV1eVE4bi02MGZid3FETk5pVHlqWl9ZXzZXY1hZVUpLdkl4Z2NR?oc=5",
+    "quelle": "Mashable",
+    "status": "vorbestellbar",
+    "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Walmart: Preorder now"
+   },
    {
     "datum": "2026-10-30T11:05:59Z",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEpPR25SNFpmYk5YMjFDbFdvNDdqVUt2RFpTZS15WS1paS1sNzJKOFFmazc5YW1WWFFxM1p4Um1ZV2tuTFRLSUNNY21GeWhTdGZqZXFWdVNPQlZLVlJwVkdHb29XSmphSlZFQ1AzXzNmU3pBYmJHV3E4YnItdnRiU0p4RWZVWEhnbEx4aExabGk?oc=5",
@@ -722,13 +729,6 @@
     "quelle": "Yahoo",
     "status": "vorbestellbar",
     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live at Amazon: Preorder now"
-   },
-   {
-    "datum": "2026-10-14T10:49:58Z",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUVNsOUlCY0hwVmR0T2hteF85SGdTdEdXYlo3SkZ1R0hNV1p2Nmp0TnBvUXJ1cXozZHY4VFVhNTE1RkdRNW5uNnlUZVBuVm5KVkNIbDloNVk1ZDczR0JMMWhkNDBMU3lzclh0Q3AzQjBQaUNrWnVGMlEtbnBMQmE5QVUwdlZlRW9FSkJtVGp1dTVqWjQ?oc=5",
-    "quelle": "Mashable",
-    "status": "vorbestellbar",
-    "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder now"
    }
   ],
   "rating": {
@@ -746,7 +746,7 @@
   "stage": "vorbestellbar",
   "typ": "upc",
   "variante": null,
-  "vorverkauf_ab": "2026-10-31"
+  "vorverkauf_ab": "2026-11-03"
  },
  "ascended-heroes-etb-de-pokemon-center": {
   "aktualisiert": "2026-10-07T14:54:00Z",
@@ -891,7 +891,7 @@
   "variante": "pokemon-center"
  },
  "delta-reign-display-de": {
-  "aktualisiert": "2026-10-09T15:46:38Z",
+  "aktualisiert": "2026-11-04T09:09:02Z",
   "erstmals": "2026-10-09T15:46:38Z",
   "gemeldet": [
    "vorbestellbar"
@@ -899,22 +899,31 @@
   "gruende": [
    "neue Erweiterung vorbestellbar",
    "knapp bei Vorbestellung",
-   "beliebtes Set"
+   "beliebtes Set",
+   "neues Set"
   ],
+  "haendler": "Amazon",
   "hype": 7,
   "key": "delta-reign-display-de",
-  "kurz": "Delta Reign-Box vorbestellbar – knapp und begehrt",
+  "kurz": "Delta-Herrschaft-Booster-Box vorbestellbar, Preise steigen",
   "markt": {
-   "ch30": null,
-   "ch7": -3.6,
+   "ch30": -9.9,
+   "ch7": -2.0,
    "hoch": 234.3,
    "id": 903956,
-   "low": 175,
+   "low": 177.94,
    "name": "Delta Reign Booster Box",
-   "trend": 223.57
+   "trend": 206.7
   },
   "name": "Delta Reign Erweiterung",
   "quellen": [
+   {
+    "datum": "2026-11-04T09:09:02Z",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWkZNYWV3MDc3N2F6Mk5nSDlVT3JuMThfN0hjRXdWVm1NVUY4X1ZXS1V6MThrNUJKU0NTLUZFRDlGOFRaVURDUXBKdzhndm5UQ25iemVKbEhOYkdsODBITi1ubGtjLVBYX2xwNFM3Z2ZqWE5RUldMM0JCbmpydlJmSjQwZl9kZENUVWdkeHNibk9oZzI5a2hpMGd4MHB6eHhOV0RpMHJybGtsUHFjaEo4T2xDYVFLaFJuSzVsOWdCbw?oc=5",
+    "quelle": "Golem",
+    "status": "vorbestellbar",
+    "titel": "UVP statt Scalper-Preise: Pokémon Delta-Herrschaft Sammelkarten bei Amazon vorbestellen"
+   },
    {
     "datum": "2026-10-09T15:46:38Z",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWlWM3IwYlNiYzVId3dha2c5VGZRcTFGbkhHd25jamhmWE5sLUNQOWdxUlc0aUh5d2x2QzljMVYtdGNWWWEtOWxtUlBIMWJXUGZmb3YteW9veWpKc3dNTDg2VWlZQ0lsV0F4QVJTV3Jkd0oxNGVwM3o5dVU0MXFKT0dPOC0wRkZrYXhaMEYzYw?oc=5",
@@ -1703,6 +1712,53 @@
   "typ": "etb",
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-11-27"
+ },
+ "mega-evolution-display-de": {
+  "aktualisiert": "2026-11-04T10:25:32Z",
+  "erscheint_am": "2026-11-06",
+  "erstmals": "2026-11-04T10:25:32Z",
+  "gemeldet": [],
+  "gruende": [
+   "neues Set-Update",
+   "nachfolgende Booster-Box",
+   "nachfrage steigt"
+  ],
+  "hype": 7,
+  "key": "mega-evolution-display-de",
+  "kurz": "Delta-Herrschaft erscheint am 6. Nov 2026, vorbestellbar",
+  "markt": {
+   "ch30": -14.0,
+   "ch7": -3.1,
+   "hoch": 248.67,
+   "id": 834832,
+   "low": 140,
+   "name": "Mega Evolution Booster Box",
+   "trend": 202.33
+  },
+  "name": "Mega Evolution Booster Box",
+  "quellen": [
+   {
+    "datum": "2026-11-04T10:25:32Z",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0RWRVBIVzAzSW1ma2g3ck8yMUs5S3NSTUYyQU1MZXFFVTBsSWcwakJvM0drU2JoS2xMbUp6S3k1TFR1ZkNGQWY0aklwYjMtdUVvZ3UzaUFDZDB5LWs1SDdEWWdXY2dJeW4weGNBNW53dzl6R3d0emNIeHd1QURLNEcwQmdzR21mdElHR0tuR3dtYWxXdEpSUFJVUlYwYVFibHBXdzg0dVhBZmZoelNEWk1sVnBZSENUb05rb0tPWmZZbzNrZm5PQ0xGV1NzY0lFdnZFVkFQeEE?oc=5",
+    "quelle": "Pokemon.com",
+    "status": "angekuendigt",
+    "titel": "Die Erweiterung Mega-Entwicklung – Delta-Herrschaft des Pokémon-Sammelkartenspiels erscheint am 6. November 2026"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "neues Set-Update",
+    "nachfolgende Booster-Box",
+    "nachfrage steigt"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "set": "Mega Evolution",
+  "sprache": "de",
+  "stage": "angekuendigt",
+  "typ": "display",
+  "variante": null
  },
  "mega-mega-charizard-mega-kyurem-mega-gengar-display-jp": {
   "aktualisiert": "2026-11-03T12:11:35Z",
