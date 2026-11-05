@@ -2388,6 +2388,57 @@
   "typ": "etb",
   "variante": null
  },
+ "twilight-masquerade-etb-de": {
+  "aktualisiert": "2026-11-04T20:49:52Z",
+  "erstmals": "2026-11-04T20:49:52Z",
+  "gemeldet": [
+   "neu"
+  ],
+  "gruende": [
+   "Einladungssystem",
+   "nur für ausgewählte",
+   "knapp durch Zufall"
+  ],
+  "haendler": "Amazon",
+  "hype": 8,
+  "key": "twilight-masquerade-etb-de",
+  "kurz": "Top-Trainer-Box Karmesin & Purpur: Einladungssystem startet – knapp und begehrt",
+  "markt": {
+   "ch30": 13.8,
+   "ch7": 5.4,
+   "hoch": 80.05,
+   "id": 761229,
+   "low": 40,
+   "name": "Twilight Masquerade Elite Trainer Box",
+   "trend": 78.59
+  },
+  "name": "Twilight Masquerade Elite Trainer Box",
+  "preis_eur": 52.99,
+  "quellen": [
+   {
+    "datum": "2026-11-04T20:49:52Z",
+    "link": "https://www.mydealz.de/deals/pokemon-tcg-top-trainer-box-karmesin-purpur-maskerade-im-zwielicht-einladung-2864961",
+    "quelle": "mydealz",
+    "status": "angekuendigt",
+    "titel": "Pokemon TCG: Top-Trainer-Box Karmesin & Purpur – Maskerade im Zwielicht (Einladung)"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Einladungssystem",
+    "nur für ausgewählte",
+    "knapp durch Zufall",
+    "Marktpreis schon 78,59 € – über dem Angebotspreis"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "Twilight Masquerade",
+  "sprache": "de",
+  "stage": "angekuendigt",
+  "typ": "etb",
+  "variante": null
+ },
  "ultra-premium-kollektion": {
   "aktualisiert": "2026-11-03T20:53:10Z",
   "erstmals": "2026-11-03T20:53:10Z",

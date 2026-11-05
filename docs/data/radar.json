@@ -1506,6 +1506,26 @@
  },
  "marktnews": [
   {
+   "datum": "2026-11-04T14:02:50Z",
+   "id": "5f2eb10b8a791a5a",
+   "kurz": "Prismatic Evolutions-ETB unter 150 USD – hoher Marktwert und Hype",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ2dfMnRFeExqeFdzdnctQWxUX0t0MTZDWURsQjZhMkVBZkExUm5iendOQ2RBUjd6OG8tQmE1WjFVempsRlRQR19QUTd5TWRsN3FBdDM3NXRjMGNmMEozM0ozQzVScHB4TmlaWGtvbEMzSTA4NmVfR180X0RQNWNlRDQ3WFFaRTk2ZFZ2Z3ZVRFA?oc=5",
+   "markt": {
+    "ch30": -1.0,
+    "ch7": 1.8,
+    "hoch": 152.44,
+    "id": 798930,
+    "low": 75,
+    "name": "Prismatic Evolutions Elite Trainer Box",
+    "trend": 148.05
+   },
+   "quelle": "Mashable",
+   "sprache": "en",
+   "titel": "The Pokémon TCG Prismatic Evolutions Elite Trainer Box is under $150 at Amazon ahead of Black Friday",
+   "trend": "steigt",
+   "typ": "etb"
+  },
+  {
    "datum": "2026-10-29T18:40:00Z",
    "id": "ec553365e1762ad8",
    "kurz": "Pokémon Prismatic Evolutions ETB im Deal – Marktanstieg, begehrt",
@@ -1847,6 +1867,54 @@
   }
  ],
  "produkte": [
+  {
+   "aktualisiert": "2026-11-04T20:49:52Z",
+   "erstmals": "2026-11-04T20:49:52Z",
+   "gruende": [
+    "Einladungssystem",
+    "nur für ausgewählte",
+    "knapp durch Zufall"
+   ],
+   "haendler": "Amazon",
+   "hype": 8,
+   "key": "twilight-masquerade-etb-de",
+   "kurz": "Top-Trainer-Box Karmesin & Purpur: Einladungssystem startet – knapp und begehrt",
+   "markt": {
+    "ch30": 13.8,
+    "ch7": 5.4,
+    "hoch": 80.05,
+    "id": 761229,
+    "low": 40,
+    "name": "Twilight Masquerade Elite Trainer Box",
+    "trend": 78.59
+   },
+   "name": "Twilight Masquerade Elite Trainer Box",
+   "preis_eur": 52.99,
+   "quellen": [
+    {
+     "datum": "2026-11-04T20:49:52Z",
+     "link": "https://www.mydealz.de/deals/pokemon-tcg-top-trainer-box-karmesin-purpur-maskerade-im-zwielicht-einladung-2864961",
+     "quelle": "mydealz",
+     "status": "angekuendigt",
+     "titel": "Pokemon TCG: Top-Trainer-Box Karmesin & Purpur – Maskerade im Zwielicht (Einladung)"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Einladungssystem",
+     "nur für ausgewählte",
+     "knapp durch Zufall",
+     "Marktpreis schon 78,59 € – über dem Angebotspreis"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Twilight Masquerade",
+   "sprache": "de",
+   "stage": "angekuendigt",
+   "typ": "etb",
+   "variante": null
+  },
   {
    "aktualisiert": "2026-11-04T16:23:40Z",
    "erscheint_am": "2026-11-01",
