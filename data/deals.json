@@ -1,5 +1,44 @@
 [
  {
+  "datum": "2026-11-04T14:02:50Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 6,
+  "id": "6f67735ad1aa9478",
+  "kurz": "Prismatische Evolution-Box unter $150 bei Amazon",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2lqUi15N0xkbEZIa2hNVXFTVmhiZkxCZzJZS0swSjkyOG5RN09JM0liRElTTHN0UGdIaU5TVHVoSHp1VXRHbVNWNzZtbnVWVmdWU3BiQTV3cS1td0pHTEpkbUUwQTlubnh2eTRSYVpHbFVmX1Z0Z25ZNDdTRVJuWjJfWDJ2dzItVlV0LWQ4d29ISXM?oc=5",
+  "markt": {
+   "ch30": -1.0,
+   "ch7": 1.8,
+   "hoch": 152.44,
+   "id": 798930,
+   "low": 75,
+   "name": "Prismatic Evolutions Elite Trainer Box",
+   "trend": 148.05
+  },
+  "preis": 149.0,
+  "preis_eur": 132.24,
+  "produkt": "Prismatic Evolutions Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "Yahoo",
+  "rabatt": 10.7,
+  "rating": {
+   "gruende": [
+    "11 % unter Cardmarket-Trend (132,24 € statt 148,05 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "The Pokémon TCG Prismatic Evolutions Elite Trainer Box is under $150 at Amazon ahead of Black Friday",
+  "typ": "etb",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-11-03T11:44:05Z",
   "fake_risiko": true,
   "haendler": "HIT",
@@ -1447,33 +1486,5 @@
   "titel": "The Pokémon TCG Delta Reign Elite Trainer Box is close to market price at Amazon — buy for under $140",
   "typ": "etb",
   "waehrung": "USD"
- },
- {
-  "datum": "2026-10-06T11:29:21Z",
-  "haendler": "Amazon",
-  "hype": 7,
-  "id": "2c8fc4187eb53f19",
-  "kurz": "18er-Booster-Display mit Promokarte, günstig im Deal.",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.mydealz.de/deals/wachsendes-chaos-sammeldeal-pokemon-sammelkartenspiel-top-trainer-box-und-andere-artikel-einladung-2849794",
-  "markt": null,
-  "preis": 52.99,
-  "preis_eur": 52.99,
-  "produkt": "Wachsendes Chaos Booster-Display",
-  "quelle": "mydealz",
-  "rabatt": null,
-  "rating": {
-   "gruende": [
-    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
-   ],
-   "sterne": 2,
-   "urteil": "Abwarten"
-  },
-  "sprache": "de",
-  "status": "angebot",
-  "titel": "Wachsendes Chaos Sammeldeal: Pokémon Sammelkartenspiel - Top-Trainer-Box und andere Artikel – (Einladung)",
-  "typ": "display",
-  "waehrung": "EUR"
  }
 ]

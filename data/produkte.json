@@ -652,7 +652,7 @@
   "vorverkauf_ab": "2026-10-21"
  },
  "30th-upc-upc-en": {
-  "aktualisiert": "2026-11-03T10:00:50Z",
+  "aktualisiert": "2026-11-05T14:50:35Z",
   "erscheint_am": null,
   "erstmals": "2026-10-14T00:41:32Z",
   "gemeldet": [
@@ -665,15 +665,36 @@
    "Hype um Evolutions-Entwicklungen",
    "30. Jubiläum, exklusiv, limitiert"
   ],
-  "haendler": "Walmart",
+  "haendler": "Amazon",
   "hype": 9,
   "key": "30th-upc-upc-en",
-  "kurz": "30. Jubiläum-UPC vorbestellbar auf Walmart.",
+  "kurz": "Ditto-Premium-Kollektion für 30. Jubiläum angekündigt",
   "liefertermin": null,
   "lieferwelle": null,
   "name": "30th UPC Ultra Premium Collection",
   "preis_eur": null,
   "quellen": [
+   {
+    "datum": "2026-11-05T13:45:43Z",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSFVjejFHY2JxUzRYdGNweFl1QXR2SEFpY3M3dGxoS3pRYnNHZ3AtOW9CaXhEb0RJWmZ1eDNmWGg2R2xnbkd2VjJRY0R0UzhzYlI2Mk1BMC1URTF6QWxoWXNEYlVaUWJsOGJDNmhITTY4Qmoxb2tFS3Uwa3VGdVp6THhkR1JGTElRSHUwbzJlR2RjNE54WWVid2g5OHE?oc=5",
+    "quelle": "Pokemon.com",
+    "status": "angekuendigt",
+    "titel": "Pokémon TCG: 30th Celebration Ditto Premium Collection"
+   },
+   {
+    "datum": "2026-11-05T14:26:04Z",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSk5xTkMtODRTbFFZbEJtajVlUTNNVlhaTzZ2cmYyUXFyb1Zfb01yLUE2TkdtNkt4aGdZV1paYkxIcV9YLU5VVk5JQkQ0YU1YQ1dMVEV5SXhFdURjcjhEVF9TZFNiWTlnazlENEZTQTdVU2QyZ2xmOXl4M3BLamxDUDEycl9vZDFrUUd3dUpIUnB6ZUhMZHBwbGtFb05MRWJyUEE?oc=5",
+    "quelle": "Mashable",
+    "status": "vorbestellbar",
+    "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections are live at Amazon: Preorder now"
+   },
+   {
+    "datum": "2026-11-05T14:50:35Z",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkRFYnZZVl9kSU8yV213NnFsRFc3c0tfOHNkZUpFYnRVaFU0Sl8zU2E5dmU5a3JUbW9zdWZlZmxmaHBBUmN2T3RFYm96UGxESEl4cmtkQTA0WUktZ3RsUml2djdiejk2cVcwVmZmS19ibjZCVURPWldhejlDQzk2cDhrbHQxZFRaRGJjMUd5Q09TUkZraGwwWE5kRE5venRwMGE5U2dQS3B1U0E?oc=5",
+    "quelle": "Pokemon.com",
+    "status": "angekuendigt",
+    "titel": "Pokémon TCG: 30th Celebration Ultra-Premium Collections—Day & Night"
+   },
    {
     "datum": "2026-11-03T10:00:50Z",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmlPUzRLM2FwZmx0Qi1sdm8zZ1dmeGlkbl9JN3ZKRUMtaWx0cURGOTZCenZoeEZOckFtM2FpRlBPRHJrWHlvTmxSQjE1R1VCV21fUWlwa3czM2Zwc2Q5QmpUR0VCZDM5a2ZMdmtxbW5yQ1U4REV1eVE4bi02MGZid3FETk5pVHlqWl9ZXzZXY1hZVUpLdkl4Z2NR?oc=5",
@@ -708,27 +729,6 @@
     "quelle": "Yahoo",
     "status": "vorbestellbar",
     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder yours now"
-   },
-   {
-    "datum": "2026-10-19T12:27:04Z",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzR3cDcxWFEzdXdrc3JMRHZPZVpGZE5pTHZYUFNQOWVySUt0bjdYOUhfUVlWdlV0amJsWVQ1WmJiSUtfcC1XVHFvVktHajA4SEdzdVNubzBibTBSZnBJQ2pSYWVQTlNvVFg5TmtQaHdaMi1GbmgtYWdla21RYWdRLWlVZk5OT0NkdEJfeFJlZlFiZw?oc=5",
-    "quelle": "Mashable",
-    "status": "vorbestellbar",
-    "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder yours now"
-   },
-   {
-    "datum": "2026-10-17T11:58:58Z",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0NZLVRlTWRiQjJZX1BFMjBvLTRycGRKMENTSVlVNVRBbVJRWVdZZXlCZERQSXhua01qMll6WFBUNTZxUFZMMFpYV0oxYUttUWMycTltTDVqSmU2VVJ2Q1FycTdsYkh0elg1eWx1dkIyR1pSQVpLYi13X1h3ZkxmWG8wakgtazZ3Wjl3TVFySUdVemo5U2VCZGl3?oc=5",
-    "quelle": "Mashable",
-    "status": "vorbestellbar",
-    "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder now"
-   },
-   {
-    "datum": "2026-10-17T10:24:51Z",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWm9aOUNpTXZHSndtNV9NQXNFR3J4aC1qZC1aSktQVnhtVW5JdFVPYkNPUEJzeXV5dmx6UDlfNDAtbVNRTV9wdDloT3BaODR5YkJmUHpKNHBoS0o0Z2VvcENjTlNSU01LUTVoY2ZienBzQnNVQWh5SVFKbmIwOGFPZ01DWmtIazNRdVJEaDNuMEE?oc=5",
-    "quelle": "Yahoo",
-    "status": "vorbestellbar",
-    "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live at Amazon: Preorder now"
    }
   ],
   "rating": {
@@ -746,7 +746,7 @@
   "stage": "vorbestellbar",
   "typ": "upc",
   "variante": null,
-  "vorverkauf_ab": "2026-11-03"
+  "vorverkauf_ab": "2026-11-05"
  },
  "ascended-heroes-etb-de-pokemon-center": {
   "aktualisiert": "2026-10-07T14:54:00Z",

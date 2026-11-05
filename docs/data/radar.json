@@ -1,6 +1,45 @@
 {
  "deals": [
   {
+   "datum": "2026-11-04T14:02:50Z",
+   "fake_risiko": false,
+   "haendler": "Amazon",
+   "hype": 6,
+   "id": "6f67735ad1aa9478",
+   "kurz": "Prismatische Evolution-Box unter $150 bei Amazon",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2lqUi15N0xkbEZIa2hNVXFTVmhiZkxCZzJZS0swSjkyOG5RN09JM0liRElTTHN0UGdIaU5TVHVoSHp1VXRHbVNWNzZtbnVWVmdWU3BiQTV3cS1td0pHTEpkbUUwQTlubnh2eTRSYVpHbFVmX1Z0Z25ZNDdTRVJuWjJfWDJ2dzItVlV0LWQ4d29ISXM?oc=5",
+   "markt": {
+    "ch30": -1.0,
+    "ch7": 1.8,
+    "hoch": 152.44,
+    "id": 798930,
+    "low": 75,
+    "name": "Prismatic Evolutions Elite Trainer Box",
+    "trend": 148.05
+   },
+   "preis": 149.0,
+   "preis_eur": 132.24,
+   "produkt": "Prismatic Evolutions Elite Trainer Box",
+   "pruefen": null,
+   "quelle": "Yahoo",
+   "rabatt": 10.7,
+   "rating": {
+    "gruende": [
+     "11 % unter Cardmarket-Trend (132,24 € statt 148,05 €)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 1,
+    "urteil": "Eher nicht"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "The Pokémon TCG Prismatic Evolutions Elite Trainer Box is under $150 at Amazon ahead of Black Friday",
+   "typ": "etb",
+   "waehrung": "USD"
+  },
+  {
    "datum": "2026-11-03T11:44:05Z",
    "fake_risiko": true,
    "haendler": "HIT",
@@ -1448,34 +1487,6 @@
    "titel": "The Pokémon TCG Delta Reign Elite Trainer Box is close to market price at Amazon — buy for under $140",
    "typ": "etb",
    "waehrung": "USD"
-  },
-  {
-   "datum": "2026-10-06T11:29:21Z",
-   "haendler": "Amazon",
-   "hype": 7,
-   "id": "2c8fc4187eb53f19",
-   "kurz": "18er-Booster-Display mit Promokarte, günstig im Deal.",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "link": "https://www.mydealz.de/deals/wachsendes-chaos-sammeldeal-pokemon-sammelkartenspiel-top-trainer-box-und-andere-artikel-einladung-2849794",
-   "markt": null,
-   "preis": 52.99,
-   "preis_eur": 52.99,
-   "produkt": "Wachsendes Chaos Booster-Display",
-   "quelle": "mydealz",
-   "rabatt": null,
-   "rating": {
-    "gruende": [
-     "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
-    ],
-    "sterne": 2,
-    "urteil": "Abwarten"
-   },
-   "sprache": "de",
-   "status": "angebot",
-   "titel": "Wachsendes Chaos Sammeldeal: Pokémon Sammelkartenspiel - Top-Trainer-Box und andere Artikel – (Einladung)",
-   "typ": "display",
-   "waehrung": "EUR"
   }
  ],
  "hinweise": [
@@ -1868,6 +1879,99 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-11-05T14:50:35Z",
+   "erscheint_am": null,
+   "erstmals": "2026-10-14T00:41:32Z",
+   "gruende": [
+    "Limitiertes Set, hoher Fan-Bezug",
+    "Preisstabilität trotz großen Angebots",
+    "Hype um Evolutions-Entwicklungen",
+    "30. Jubiläum, exklusiv, limitiert"
+   ],
+   "haendler": "Amazon",
+   "hype": 9,
+   "key": "30th-upc-upc-en",
+   "kurz": "Ditto-Premium-Kollektion für 30. Jubiläum angekündigt",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "name": "30th UPC Ultra Premium Collection",
+   "preis_eur": null,
+   "quellen": [
+    {
+     "datum": "2026-11-05T13:45:43Z",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSFVjejFHY2JxUzRYdGNweFl1QXR2SEFpY3M3dGxoS3pRYnNHZ3AtOW9CaXhEb0RJWmZ1eDNmWGg2R2xnbkd2VjJRY0R0UzhzYlI2Mk1BMC1URTF6QWxoWXNEYlVaUWJsOGJDNmhITTY4Qmoxb2tFS3Uwa3VGdVp6THhkR1JGTElRSHUwbzJlR2RjNE54WWVid2g5OHE?oc=5",
+     "quelle": "Pokemon.com",
+     "status": "angekuendigt",
+     "titel": "Pokémon TCG: 30th Celebration Ditto Premium Collection"
+    },
+    {
+     "datum": "2026-11-05T14:26:04Z",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSk5xTkMtODRTbFFZbEJtajVlUTNNVlhaTzZ2cmYyUXFyb1Zfb01yLUE2TkdtNkt4aGdZV1paYkxIcV9YLU5VVk5JQkQ0YU1YQ1dMVEV5SXhFdURjcjhEVF9TZFNiWTlnazlENEZTQTdVU2QyZ2xmOXl4M3BLamxDUDEycl9vZDFrUUd3dUpIUnB6ZUhMZHBwbGtFb05MRWJyUEE?oc=5",
+     "quelle": "Mashable",
+     "status": "vorbestellbar",
+     "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections are live at Amazon: Preorder now"
+    },
+    {
+     "datum": "2026-11-05T14:50:35Z",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkRFYnZZVl9kSU8yV213NnFsRFc3c0tfOHNkZUpFYnRVaFU0Sl8zU2E5dmU5a3JUbW9zdWZlZmxmaHBBUmN2T3RFYm96UGxESEl4cmtkQTA0WUktZ3RsUml2djdiejk2cVcwVmZmS19ibjZCVURPWldhejlDQzk2cDhrbHQxZFRaRGJjMUd5Q09TUkZraGwwWE5kRE5venRwMGE5U2dQS3B1U0E?oc=5",
+     "quelle": "Pokemon.com",
+     "status": "angekuendigt",
+     "titel": "Pokémon TCG: 30th Celebration Ultra-Premium Collections—Day & Night"
+    },
+    {
+     "datum": "2026-11-03T10:00:50Z",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmlPUzRLM2FwZmx0Qi1sdm8zZ1dmeGlkbl9JN3ZKRUMtaWx0cURGOTZCenZoeEZOckFtM2FpRlBPRHJrWHlvTmxSQjE1R1VCV21fUWlwa3czM2Zwc2Q5QmpUR0VCZDM5a2ZMdmtxbW5yQ1U4REV1eVE4bi02MGZid3FETk5pVHlqWl9ZXzZXY1hZVUpLdkl4Z2NR?oc=5",
+     "quelle": "Mashable",
+     "status": "vorbestellbar",
+     "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Walmart: Preorder now"
+    },
+    {
+     "datum": "2026-10-30T11:05:59Z",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEpPR25SNFpmYk5YMjFDbFdvNDdqVUt2RFpTZS15WS1paS1sNzJKOFFmazc5YW1WWFFxM1p4Um1ZV2tuTFRLSUNNY21GeWhTdGZqZXFWdVNPQlZLVlJwVkdHb29XSmphSlZFQ1AzXzNmU3pBYmJHV3E4YnItdnRiU0p4RWZVWEhnbEx4aExabGk?oc=5",
+     "quelle": "Yahoo",
+     "status": "vorbestellbar",
+     "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection preorders are live: Shop now for under market price"
+    },
+    {
+     "datum": "2026-10-30T11:15:16Z",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUdlMlFacnNiMDJ0VXlVWHVSc3A1dnhhdmFneWZjOVZUZWxxN3JEUlNGcmg2Vy1YVm5MdUp2NGlMcV9QX05FQXJqY3dfaVZNbzNWdkdsbFJFemFnd1k1N1M4eTVuSldYbnl1Z2ZETHI1T0cxUU5ueE55T25WSnM5NVlSQkhRdy1fRlJ6N1hTZWhWbEhIMTJfU05wT1NzMFpIQW9r?oc=5",
+     "quelle": "Mashable",
+     "status": "vorbestellbar",
+     "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection preorders are live: Shop now for under market price"
+    },
+    {
+     "datum": "2026-10-15T08:46:42Z",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWdNOVdDWU1VdHcxSnhlY1RlcnVmSkdPZy1qYjBaWWYwanEtR0pUb2ZnZWM3WVoxRVhrRkdGOWt5bnFHaHg2eGtNSFVGa1JEZThKb09JTFB3ZURFMXJDNlVaRWxCQ2RLX0ZvZldudWxGU3lFeTZ5UjlnMUEwcHhoTzZmdFJGVWVINUlsc19nLWU?oc=5",
+     "quelle": "Yahoo",
+     "status": "vorbestellbar",
+     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder now"
+    },
+    {
+     "datum": "2026-10-19T12:27:04Z",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEpqVVJSV055X1duX1JWWTNIMWNmRlMxVDBDQ1VBTUMyMXZrdE9kVEIxTWtValpaa0tMdW9mUldFWHBtY1BHdl8tYmwyM2tjaElRY09JdXdvNDVwSkR4OTYwZHMxWFU5eVJCamgwYnRpSTdfampRSFkyTkNVbXUwOFhhNHN0TTJmUVFMUkRtMTR3VEly?oc=5",
+     "quelle": "Yahoo",
+     "status": "vorbestellbar",
+     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder yours now"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Limitiertes Set, hoher Fan-Bezug",
+     "Preisstabilität trotz großen Angebots",
+     "Hype um Evolutions-Entwicklungen"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th UPC",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "upc",
+   "variante": null,
+   "vorverkauf_ab": "2026-11-05"
+  },
+  {
    "aktualisiert": "2026-11-04T20:49:52Z",
    "erstmals": "2026-11-04T20:49:52Z",
    "gruende": [
@@ -2194,99 +2298,6 @@
    "stage": "vorbestellbar",
    "typ": "display",
    "variante": null
-  },
-  {
-   "aktualisiert": "2026-11-03T10:00:50Z",
-   "erscheint_am": null,
-   "erstmals": "2026-10-14T00:41:32Z",
-   "gruende": [
-    "Limitiertes Set, hoher Fan-Bezug",
-    "Preisstabilität trotz großen Angebots",
-    "Hype um Evolutions-Entwicklungen",
-    "30. Jubiläum, exklusiv, limitiert"
-   ],
-   "haendler": "Walmart",
-   "hype": 9,
-   "key": "30th-upc-upc-en",
-   "kurz": "30. Jubiläum-UPC vorbestellbar auf Walmart.",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "name": "30th UPC Ultra Premium Collection",
-   "preis_eur": null,
-   "quellen": [
-    {
-     "datum": "2026-11-03T10:00:50Z",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmlPUzRLM2FwZmx0Qi1sdm8zZ1dmeGlkbl9JN3ZKRUMtaWx0cURGOTZCenZoeEZOckFtM2FpRlBPRHJrWHlvTmxSQjE1R1VCV21fUWlwa3czM2Zwc2Q5QmpUR0VCZDM5a2ZMdmtxbW5yQ1U4REV1eVE4bi02MGZid3FETk5pVHlqWl9ZXzZXY1hZVUpLdkl4Z2NR?oc=5",
-     "quelle": "Mashable",
-     "status": "vorbestellbar",
-     "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Walmart: Preorder now"
-    },
-    {
-     "datum": "2026-10-30T11:05:59Z",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEpPR25SNFpmYk5YMjFDbFdvNDdqVUt2RFpTZS15WS1paS1sNzJKOFFmazc5YW1WWFFxM1p4Um1ZV2tuTFRLSUNNY21GeWhTdGZqZXFWdVNPQlZLVlJwVkdHb29XSmphSlZFQ1AzXzNmU3pBYmJHV3E4YnItdnRiU0p4RWZVWEhnbEx4aExabGk?oc=5",
-     "quelle": "Yahoo",
-     "status": "vorbestellbar",
-     "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection preorders are live: Shop now for under market price"
-    },
-    {
-     "datum": "2026-10-30T11:15:16Z",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUdlMlFacnNiMDJ0VXlVWHVSc3A1dnhhdmFneWZjOVZUZWxxN3JEUlNGcmg2Vy1YVm5MdUp2NGlMcV9QX05FQXJqY3dfaVZNbzNWdkdsbFJFemFnd1k1N1M4eTVuSldYbnl1Z2ZETHI1T0cxUU5ueE55T25WSnM5NVlSQkhRdy1fRlJ6N1hTZWhWbEhIMTJfU05wT1NzMFpIQW9r?oc=5",
-     "quelle": "Mashable",
-     "status": "vorbestellbar",
-     "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection preorders are live: Shop now for under market price"
-    },
-    {
-     "datum": "2026-10-15T08:46:42Z",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWdNOVdDWU1VdHcxSnhlY1RlcnVmSkdPZy1qYjBaWWYwanEtR0pUb2ZnZWM3WVoxRVhrRkdGOWt5bnFHaHg2eGtNSFVGa1JEZThKb09JTFB3ZURFMXJDNlVaRWxCQ2RLX0ZvZldudWxGU3lFeTZ5UjlnMUEwcHhoTzZmdFJGVWVINUlsc19nLWU?oc=5",
-     "quelle": "Yahoo",
-     "status": "vorbestellbar",
-     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder now"
-    },
-    {
-     "datum": "2026-10-19T12:27:04Z",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEpqVVJSV055X1duX1JWWTNIMWNmRlMxVDBDQ1VBTUMyMXZrdE9kVEIxTWtValpaa0tMdW9mUldFWHBtY1BHdl8tYmwyM2tjaElRY09JdXdvNDVwSkR4OTYwZHMxWFU5eVJCamgwYnRpSTdfampRSFkyTkNVbXUwOFhhNHN0TTJmUVFMUkRtMTR3VEly?oc=5",
-     "quelle": "Yahoo",
-     "status": "vorbestellbar",
-     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder yours now"
-    },
-    {
-     "datum": "2026-10-19T12:27:04Z",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzR3cDcxWFEzdXdrc3JMRHZPZVpGZE5pTHZYUFNQOWVySUt0bjdYOUhfUVlWdlV0amJsWVQ1WmJiSUtfcC1XVHFvVktHajA4SEdzdVNubzBibTBSZnBJQ2pSYWVQTlNvVFg5TmtQaHdaMi1GbmgtYWdla21RYWdRLWlVZk5OT0NkdEJfeFJlZlFiZw?oc=5",
-     "quelle": "Mashable",
-     "status": "vorbestellbar",
-     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder yours now"
-    },
-    {
-     "datum": "2026-10-17T11:58:58Z",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0NZLVRlTWRiQjJZX1BFMjBvLTRycGRKMENTSVlVNVRBbVJRWVdZZXlCZERQSXhua01qMll6WFBUNTZxUFZMMFpYV0oxYUttUWMycTltTDVqSmU2VVJ2Q1FycTdsYkh0elg1eWx1dkIyR1pSQVpLYi13X1h3ZkxmWG8wakgtazZ3Wjl3TVFySUdVemo5U2VCZGl3?oc=5",
-     "quelle": "Mashable",
-     "status": "vorbestellbar",
-     "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder now"
-    },
-    {
-     "datum": "2026-10-17T10:24:51Z",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWm9aOUNpTXZHSndtNV9NQXNFR3J4aC1qZC1aSktQVnhtVW5JdFVPYkNPUEJzeXV5dmx6UDlfNDAtbVNRTV9wdDloT3BaODR5YkJmUHpKNHBoS0o0Z2VvcENjTlNSU01LUTVoY2ZienBzQnNVQWh5SVFKbmIwOGFPZ01DWmtIazNRdVJEaDNuMEE?oc=5",
-     "quelle": "Yahoo",
-     "status": "vorbestellbar",
-     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live at Amazon: Preorder now"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
-     "Limitiertes Set, hoher Fan-Bezug",
-     "Preisstabilität trotz großen Angebots",
-     "Hype um Evolutions-Entwicklungen"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "30th UPC",
-   "sprache": "en",
-   "stage": "vorbestellbar",
-   "typ": "upc",
-   "variante": null,
-   "vorverkauf_ab": "2026-11-03"
   },
   {
    "aktualisiert": "2026-11-03T09:30:13Z",
