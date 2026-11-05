@@ -652,7 +652,7 @@
   "vorverkauf_ab": "2026-10-21"
  },
  "30th-upc-upc-en": {
-  "aktualisiert": "2026-11-05T14:50:35Z",
+  "aktualisiert": "2026-11-05T19:36:24Z",
   "erscheint_am": null,
   "erstmals": "2026-10-14T00:41:32Z",
   "gemeldet": [
@@ -665,15 +665,22 @@
    "Hype um Evolutions-Entwicklungen",
    "30. Jubiläum, exklusiv, limitiert"
   ],
-  "haendler": "Amazon",
+  "haendler": "Target, Best Buy",
   "hype": 9,
   "key": "30th-upc-upc-en",
-  "kurz": "Ditto-Premium-Kollektion für 30. Jubiläum angekündigt",
+  "kurz": "Pokémon 30. Jubiläum: UPC-Release von Target und Best Buy angekündigt",
   "liefertermin": null,
   "lieferwelle": null,
   "name": "30th UPC Ultra Premium Collection",
   "preis_eur": null,
   "quellen": [
+   {
+    "datum": "2026-11-05T19:36:24Z",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ01lRWNOdTZqQWdBVXdBNHFoYWZpU3hZRVRfOFJPQUY0U2JUcG1odG9WcUtyZXdVUkFfTjROdmlJT0lyTDhtbU41cWZSbmtHQVZOM0VJMEM0c3NIX2htQzBQbTg4UlFld25Ua1VfNEtMWThfMjZjQ3NEVFRMM2twWDBadnVDNFBTM1hlckFyc1FiMEJ5c3NIbHI2SzVwVjNjZWFJ?oc=5",
+    "quelle": "Polygon.com",
+    "status": "angekuendigt",
+    "titel": "Pokémon's 30th Anniversary's UPC release: Target vs. Best Buy"
+   },
    {
     "datum": "2026-11-05T13:45:43Z",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSFVjejFHY2JxUzRYdGNweFl1QXR2SEFpY3M3dGxoS3pRYnNHZ3AtOW9CaXhEb0RJWmZ1eDNmWGg2R2xnbkd2VjJRY0R0UzhzYlI2Mk1BMC1URTF6QWxoWXNEYlVaUWJsOGJDNmhITTY4Qmoxb2tFS3Uwa3VGdVp6THhkR1JGTElRSHUwbzJlR2RjNE54WWVid2g5OHE?oc=5",
@@ -722,13 +729,6 @@
     "quelle": "Yahoo",
     "status": "vorbestellbar",
     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder now"
-   },
-   {
-    "datum": "2026-10-19T12:27:04Z",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEpqVVJSV055X1duX1JWWTNIMWNmRlMxVDBDQ1VBTUMyMXZrdE9kVEIxTWtValpaa0tMdW9mUldFWHBtY1BHdl8tYmwyM2tjaElRY09JdXdvNDVwSkR4OTYwZHMxWFU5eVJCamgwYnRpSTdfampRSFkyTkNVbXUwOFhhNHN0TTJmUVFMUkRtMTR3VEly?oc=5",
-    "quelle": "Yahoo",
-    "status": "vorbestellbar",
-    "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder yours now"
    }
   ],
   "rating": {
