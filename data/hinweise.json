@@ -1,5 +1,21 @@
 [
  {
+  "aussage": "geruecht",
+  "autor": "/u/Chippyrs",
+  "datum": "2026-11-06T05:23:38Z",
+  "forum": true,
+  "id": "228e9659b664a197",
+  "key": "30th-upc-upc-en",
+  "kurz": "30. Jubiläum-UPC-Box mit Charity-Event, limitiert und begehrt",
+  "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1xp4rpj/expected_target_drop_tonight_midnight_pst/",
+  "produkt": "30th Celebration Ultra-Premium Collection Night Delta Reign Booster Display",
+  "quelle": "Reddit",
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Expected Target drop tonight Midnight PST",
+  "typ": "upc"
+ },
+ {
   "aussage": "frage",
   "autor": null,
   "datum": "2026-11-03T22:00:16Z",
@@ -175,22 +191,6 @@
   "sprache": "en",
   "status": "sonstiges",
   "titel": "Is 30th PKC ETB a buy and hold right now @ $290?",
-  "typ": "etb"
- },
- {
-  "aussage": "frage",
-  "autor": "/u/SeaPsychological8398",
-  "datum": "2026-10-23T04:26:09Z",
-  "forum": true,
-  "id": "1a9e9f31b3b3d8e5",
-  "key": "evolving-skies-etb-en",
-  "kurz": "Sammler fragt nach Wirtschaftlichkeit des ersten ETB-Kaufs",
-  "link": "https://www.reddit.com/r/PokeInvesting/comments/1xd49jv/evolving_skies_etb/",
-  "produkt": "Evolving Skies Elite Trainer Box",
-  "quelle": "Reddit",
-  "sprache": "en",
-  "status": "vorbestellbar",
-  "titel": "Evolving skies ETB",
   "typ": "etb"
  }
 ]
