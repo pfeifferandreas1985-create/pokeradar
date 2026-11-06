@@ -547,7 +547,7 @@
   "variante": null
  },
  "30th-etb-en-pokemon-center": {
-  "aktualisiert": "2026-10-21T05:01:28Z",
+  "aktualisiert": "2026-11-06T11:42:17Z",
   "erscheint_am": "2026-11-01",
   "erstmals": "2026-09-18T00:29:28Z",
   "gemeldet": [
@@ -562,21 +562,28 @@
   "haendler": "Amazon",
   "hype": 10,
   "key": "30th-etb-en-pokemon-center",
-  "kurz": "Vorbestellungen für Pokémon-Center-ETB 30. Jubiläum sind live auf Amazon",
+  "kurz": "30. Jubiläum-ETB live bei Amazon – begehrt, knapp, Tiefpreis",
   "liefertermin": "2026-12-15",
   "lieferwelle": 1,
   "markt": {
-   "ch30": null,
-   "ch7": 1.5,
+   "ch30": -8.3,
+   "ch7": -4.3,
    "hoch": 135.27,
    "id": 895551,
-   "low": 94.89,
+   "low": 95,
    "name": "30th Celebration Elite Trainer Box",
-   "trend": 132.43
+   "trend": 120.91
   },
   "name": "30th Celebration Elite Trainer Box",
   "preis_eur": 113.75,
   "quellen": [
+   {
+    "datum": "2026-11-06T11:42:17Z",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ3pnNmRVT3EyVzR6blpuWHZicHVRRU1rcWFUbHdTRUdUZWo5UlN5MTNnV1RvblRST2xKc0dJNnZLOGRrZGNGU1dBaDVIa1pkaTgxMVhMdGd1SzZfQXJaSmszMUxRdElGQ1Y0ekRINEhoR0xQNXh2ZUdCRUQ5TTlMVHRsSjE3ZVdzWXhn?oc=5",
+    "quelle": "Mashable",
+    "status": "vorbestellbar",
+    "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop now for way under market price"
+   },
    {
     "datum": "2026-10-21T05:01:28Z",
     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1xbe6es/30th_celebration_elite_trainer_box_lottery_amazon/",
@@ -625,13 +632,6 @@
     "quelle": "Yahoo",
     "status": "angekuendigt",
     "titel": "Pokémon TCG: Here’s How to Shop the 30th Celebration Elite Trainer Box & Booster Bundle Online"
-   },
-   {
-    "datum": "2026-10-02T00:20:50Z",
-    "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1wvfo9b/target_drop_tonight_midnight_pst_3am_edt/",
-    "quelle": "Reddit",
-    "status": "vorbestellbar",
-    "titel": "Target Drop tonight Midnight PST 3am EDT"
    }
   ],
   "rating": {
@@ -652,7 +652,7 @@
   "vorverkauf_ab": "2026-10-21"
  },
  "30th-upc-upc-en": {
-  "aktualisiert": "2026-11-05T19:36:24Z",
+  "aktualisiert": "2026-11-06T12:34:19Z",
   "erscheint_am": null,
   "erstmals": "2026-10-14T00:41:32Z",
   "gemeldet": [
@@ -668,12 +668,26 @@
   "haendler": "Target, Best Buy",
   "hype": 9,
   "key": "30th-upc-upc-en",
-  "kurz": "Pokémon 30. Jubiläum: UPC-Release von Target und Best Buy angekündigt",
+  "kurz": "30. Jubiläum-UPC-Box wird verkauft – begehrt und knapp",
   "liefertermin": null,
   "lieferwelle": null,
   "name": "30th UPC Ultra Premium Collection",
   "preis_eur": null,
   "quellen": [
+   {
+    "datum": "2026-11-06T11:34:53Z",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUViMnE1Qjc1YXFYYThGSmNFVGx5SzRaS19ZQ0RRRnd0d2JJYk5Ed0RsYUtLX0h6UDVHSjh6SERiSUdQZVBieFpzX285YjRTQ3g0cEJHV3lFbExaZlpjcWx6WHBzc0sybGJncmNQU3Q1eEFJREJkNHByMG1uVE95YkV6cTdXLWRjYWF5N040ME8zbWo4UXd1V0Ftbw?oc=5",
+    "quelle": "IGN",
+    "status": "angekuendigt",
+    "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collection: Where to Buy the Day and Night Boxes"
+   },
+   {
+    "datum": "2026-11-06T12:34:19Z",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2hvWXpac3lJcXZnYTItUXRzMlFQQ29IYm1Ca19xTEVvcEhPVjV0QWxqNFpUSUtWQml5aFpNcXlCcE95aEVBalVqaWNYRXNyaEloeGNFVU5vQUVYVTltemgxdllvejFIZHRwY2ZidmdBY1gzbmJIZFJ0OE9pNjZXY29vd1p1TFR1WjROMVNlQ0NNVkhSS0Rya19BZGxad3M?oc=5",
+    "quelle": "TalkEsport",
+    "status": "vorbestellbar",
+    "titel": "Pokémon Fans Camp Outside a French Fnac a Day Early for the 30th Celebration Ultra-Premium Collection"
+   },
    {
     "datum": "2026-11-05T19:36:24Z",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ01lRWNOdTZqQWdBVXdBNHFoYWZpU3hZRVRfOFJPQUY0U2JUcG1odG9WcUtyZXdVUkFfTjROdmlJT0lyTDhtbU41cWZSbmtHQVZOM0VJMEM0c3NIX2htQzBQbTg4UlFld25Ua1VfNEtMWThfMjZjQ3NEVFRMM2twWDBadnVDNFBTM1hlckFyc1FiMEJ5c3NIbHI2SzVwVjNjZWFJ?oc=5",
@@ -715,20 +729,6 @@
     "quelle": "Yahoo",
     "status": "vorbestellbar",
     "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection preorders are live: Shop now for under market price"
-   },
-   {
-    "datum": "2026-10-30T11:15:16Z",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUdlMlFacnNiMDJ0VXlVWHVSc3A1dnhhdmFneWZjOVZUZWxxN3JEUlNGcmg2Vy1YVm5MdUp2NGlMcV9QX05FQXJqY3dfaVZNbzNWdkdsbFJFemFnd1k1N1M4eTVuSldYbnl1Z2ZETHI1T0cxUU5ueE55T25WSnM5NVlSQkhRdy1fRlJ6N1hTZWhWbEhIMTJfU05wT1NzMFpIQW9r?oc=5",
-    "quelle": "Mashable",
-    "status": "vorbestellbar",
-    "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection preorders are live: Shop now for under market price"
-   },
-   {
-    "datum": "2026-10-15T08:46:42Z",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWdNOVdDWU1VdHcxSnhlY1RlcnVmSkdPZy1qYjBaWWYwanEtR0pUb2ZnZWM3WVoxRVhrRkdGOWt5bnFHaHg2eGtNSFVGa1JEZThKb09JTFB3ZURFMXJDNlVaRWxCQ2RLX0ZvZldudWxGU3lFeTZ5UjlnMUEwcHhoTzZmdFJGVWVINUlsc19nLWU?oc=5",
-    "quelle": "Yahoo",
-    "status": "vorbestellbar",
-    "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Preorder now"
    }
   ],
   "rating": {
@@ -889,6 +889,43 @@
   "stage": "nachschub",
   "typ": "display",
   "variante": "pokemon-center"
+ },
+ "delta-herrschaft-display-de": {
+  "aktualisiert": "2026-11-06T10:55:20Z",
+  "erstmals": "2026-11-06T10:55:20Z",
+  "gemeldet": [],
+  "gruende": [
+   "neues Set",
+   "Mega-Entwicklungen",
+   "Handel erschienen"
+  ],
+  "hype": 7,
+  "key": "delta-herrschaft-display-de",
+  "kurz": "Delta-Herrschaft-Set mit Mega-Entwicklungen im Handel verfügbar",
+  "name": "Delta-Herrschaft Display-Box",
+  "quellen": [
+   {
+    "datum": "2026-11-06T10:55:20Z",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeEpyZDRfa21waXJIckw5ZWFkNzVwTkRSMnhHMnFQckUwQTBkeEZsLXpCaURtcVlsTE5mdXVzLUFYOUVHRDlZQ2hlYVRhYVAwaVNEd0poemExTEd1bEtZWGtWbngtMHdyTUdvN3ZkcFoyM1FiTXZMOXYtd01OZlZuVA?oc=5",
+    "quelle": "Eurogamer.de",
+    "status": "erschienen",
+    "titel": "Neues Set fürs Pokémon-Sammelkartenspiel: Delta-Herrschaft bringt weitere Mega-Entwicklungen in den Handel"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "neues Set",
+    "Mega-Entwicklungen",
+    "Handel erschienen"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "set": "Delta-Herrschaft",
+  "sprache": "de",
+  "stage": "erschienen",
+  "typ": "display",
+  "variante": null
  },
  "delta-reign-display-de": {
   "aktualisiert": "2026-11-04T09:09:02Z",

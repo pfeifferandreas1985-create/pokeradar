@@ -1,5 +1,43 @@
 [
  {
+  "datum": "2026-11-06T11:38:19Z",
+  "fake_risiko": false,
+  "haendler": "mydealz",
+  "hype": 7,
+  "id": "3528f1b2b81f8732",
+  "kurz": "36er Display Delta-Herrschaft für 165,99€ – günstiger Deal im Handel",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-center-pokemon-sammelkartenspiel-boosterpack-display-box-mega-entwicklung-delta-herrschaft-36-boosterpacks-verfugbarkeitsdeal-2865865",
+  "markt": {
+   "ch30": -14.2,
+   "ch7": -5.7,
+   "hoch": 248.67,
+   "id": 834832,
+   "low": 140,
+   "name": "Mega Evolution Booster Box",
+   "trend": 197.28
+  },
+  "preis": 171.84,
+  "preis_eur": 171.84,
+  "produkt": "Mega Evolution Booster Box",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": 12.9,
+  "rating": {
+   "gruende": [
+    "13 % unter Cardmarket-Trend (171,84 € statt 197,28 €)"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "[Pokemon Center] Pokémon-Sammelkartenspiel: Boosterpack-Display-Box Mega-Entwicklung – Delta-Herrschaft (36 Boosterpacks) Verfügbarkeitsdeal",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-04T14:02:50Z",
   "fake_risiko": false,
   "haendler": "Amazon",
