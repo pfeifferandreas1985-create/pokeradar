@@ -1,5 +1,43 @@
 [
  {
+  "datum": "2026-11-06T23:09:25Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 5,
+  "id": "c9bf32683d9d5104",
+  "kurz": "Einladung für Top-Trainer-Box bei Amazon, kein Garantie für Auswahl",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-dunkelnacht-sammeldeal-top-trainer-box-boosterbundle-display-3er-blister-amazon-einladung-2866219",
+  "markt": {
+   "ch30": -3.2,
+   "ch7": -2.4,
+   "hoch": 72.63,
+   "id": 885542,
+   "low": 47,
+   "name": "Pitch Black Elite Trainer Box",
+   "trend": 67.39
+  },
+  "preis": 52.99,
+  "preis_eur": 52.99,
+  "produkt": "Pitch Black Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": 21.4,
+  "rating": {
+   "gruende": [
+    "21 % unter Cardmarket-Trend (52,99 € statt 67,39 €)"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "Pokemon Sammelkartenspiel Dunkelnacht Sammeldeal - Top Trainer Box, Boosterbundle, Display, 3er Blister (Amazon Einladung)",
+  "typ": "etb",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-06T11:38:19Z",
   "fake_risiko": false,
   "haendler": "mydealz",
