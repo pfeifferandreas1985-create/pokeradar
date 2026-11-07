@@ -1526,43 +1526,6 @@
    "titel": "Pokémon-Karten: Kaufland verkauft ab heute 30-Jahre-Top-Trainer-Box für 55 Euro",
    "typ": "etb",
    "waehrung": "EUR"
-  },
-  {
-   "datum": "2026-10-08T16:57:37Z",
-   "haendler": null,
-   "hype": 5,
-   "id": "a0b5c8be5e966a3e",
-   "kurz": "The Pokémon TCG Delta Reign Elite Trainer Box is close to market price at Amazon — buy for under $140",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNEJkYV9JdUcxSXZwZHI5T05BWHZscXFWblRhWE8ycmZDS2c5UTc5Vk1BaDlQcFJVdXh3TTFuWEEwSTYzWXVQNTNpQzd5YXVXT09SV21KdGlSamk1S0oweGFTZGpwWmxRTTJWdkFOQUNpU0JNUGwxODYzQmVqYXplOEhWS29RSVZCcGVaUFROTEF1LVRlUGJ3?oc=5",
-   "markt": {
-    "ch30": null,
-    "ch7": -2.1,
-    "hoch": 102.27,
-    "id": 903955,
-    "low": 83.5,
-    "name": "Delta Reign Elite Trainer Box",
-    "trend": 98.77
-   },
-   "preis": 140.0,
-   "preis_eur": 125.26,
-   "produkt": "Delta Reign Elite Trainer Box",
-   "quelle": "Mashable",
-   "rabatt": -26.8,
-   "rating": {
-    "gruende": [
-     "Kein Vorteil: 125,26 € liegt über dem Cardmarket-Trend (98,77 €)",
-     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-    ],
-    "sterne": 1,
-    "urteil": "Eher nicht"
-   },
-   "sprache": "en",
-   "status": "angebot",
-   "titel": "The Pokémon TCG Delta Reign Elite Trainer Box is close to market price at Amazon — buy for under $140",
-   "typ": "etb",
-   "waehrung": "USD"
   }
  ],
  "hinweise": [
