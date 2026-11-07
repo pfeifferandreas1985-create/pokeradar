@@ -1935,6 +1935,60 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-11-07T22:10:11Z",
+   "erstmals": "2026-10-22T08:33:58Z",
+   "gruende": [
+    "Vorbestellungs-Invite",
+    "knapp",
+    "nur mit Einladung",
+    "Jubiläum"
+   ],
+   "hype": 10,
+   "key": "30th-celebration-etb-en-pokemon-center",
+   "kurz": "30. Jubiläum-Elite-Trainer-Box angekündigt, begehrt",
+   "markt": {
+    "ch30": 15.5,
+    "ch7": 0.8,
+    "hoch": 416.1,
+    "id": 895552,
+    "low": 359,
+    "name": "30th Celebration Pokémon Center Elite Trainer Box",
+    "trend": 413.45
+   },
+   "name": "30th Celebration Pokémon Center Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-11-07T22:10:11Z",
+     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1CZ1FpTlFER2hyLUlXSXktYXUtRjE5MEhIYWFjRGZtOHZwbU1xMkRSTjdLS0FXVjJobTNN?oc=5",
+     "quelle": "Howl.Link",
+     "status": "angekuendigt",
+     "titel": "Pokémon TCG: 30th Celebration Elite Trainer Box"
+    },
+    {
+     "datum": "2026-10-22T08:33:58Z",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQai02LXRsTU9GY1BTT0dMZ3JRaWptQ3Y2SHE5UVMzUW55aVlwOFNfc2hzalNNeU4wcTVpS1NzN1puR0h3ZzVCb1JsS0hqZUdYVkk2cG9NY3BBRlBGZXdfdlpPcmVvNG5mcXFXZWpoQnhxYTFZeW9jWHdZaTNvU2RBcjM1S1VtWFMwcmxSSlg0b1pOYmo4TjE4QWgyT2E1bUk?oc=5",
+     "quelle": "IGN",
+     "status": "vorbestellbar",
+     "titel": "Pokémon TCG: 30th Celebration Elite Trainer Box Down to $59.99 at Amazon — if You Can Secure an Invite to Buy"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Vorbestellungs-Invite",
+     "knapp",
+     "nur mit Einladung"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Celebration",
+   "sprache": "en",
+   "stage": "vorbestellbar",
+   "typ": "etb",
+   "variante": "pokemon-center"
+  },
+  {
    "aktualisiert": "2026-11-06T20:13:30Z",
    "erscheint_am": "2026-11-06",
    "erstmals": "2026-10-14T00:41:32Z",
@@ -3496,52 +3550,6 @@
    "typ": "display",
    "variante": null,
    "vorverkauf_ab": "2026-10-27"
-  },
-  {
-   "aktualisiert": "2026-10-22T08:33:58Z",
-   "erstmals": "2026-10-22T08:33:58Z",
-   "gruende": [
-    "Vorbestellungs-Invite",
-    "knapp",
-    "nur mit Einladung"
-   ],
-   "hype": 10,
-   "key": "30th-celebration-etb-en-pokemon-center",
-   "kurz": "ETB 30. Jubiläum nur mit Einladung vorbestellbar – knapp",
-   "markt": {
-    "ch30": null,
-    "ch7": -0.4,
-    "hoch": 379.7,
-    "id": 895552,
-    "low": 380,
-    "name": "30th Celebration Pokémon Center Elite Trainer Box",
-    "trend": 372.49
-   },
-   "name": "30th Celebration Pokémon Center Elite Trainer Box",
-   "quellen": [
-    {
-     "datum": "2026-10-22T08:33:58Z",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQai02LXRsTU9GY1BTT0dMZ3JRaWptQ3Y2SHE5UVMzUW55aVlwOFNfc2hzalNNeU4wcTVpS1NzN1puR0h3ZzVCb1JsS0hqZUdYVkk2cG9NY3BBRlBGZXdfdlpPcmVvNG5mcXFXZWpoQnhxYTFZeW9jWHdZaTNvU2RBcjM1S1VtWFMwcmxSSlg0b1pOYmo4TjE4QWgyT2E1bUk?oc=5",
-     "quelle": "IGN",
-     "status": "vorbestellbar",
-     "titel": "Pokémon TCG: 30th Celebration Elite Trainer Box Down to $59.99 at Amazon — if You Can Secure an Invite to Buy"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
-     "Vorbestellungs-Invite",
-     "knapp",
-     "nur mit Einladung"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "30th Celebration",
-   "sprache": "en",
-   "stage": "vorbestellbar",
-   "typ": "etb",
-   "variante": "pokemon-center"
   },
   {
    "aktualisiert": "2026-10-22T05:34:00Z",

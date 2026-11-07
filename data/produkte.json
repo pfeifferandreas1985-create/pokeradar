@@ -368,7 +368,7 @@
   "vorverkauf_ab": "2026-10-03"
  },
  "30th-celebration-etb-en-pokemon-center": {
-  "aktualisiert": "2026-10-22T08:33:58Z",
+  "aktualisiert": "2026-11-07T22:10:11Z",
   "erstmals": "2026-10-22T08:33:58Z",
   "gemeldet": [
    "vorbestellbar"
@@ -376,22 +376,30 @@
   "gruende": [
    "Vorbestellungs-Invite",
    "knapp",
-   "nur mit Einladung"
+   "nur mit Einladung",
+   "Jubiläum"
   ],
   "hype": 10,
   "key": "30th-celebration-etb-en-pokemon-center",
-  "kurz": "ETB 30. Jubiläum nur mit Einladung vorbestellbar – knapp",
+  "kurz": "30. Jubiläum-Elite-Trainer-Box angekündigt, begehrt",
   "markt": {
-   "ch30": null,
-   "ch7": -0.4,
-   "hoch": 379.7,
+   "ch30": 15.5,
+   "ch7": 0.8,
+   "hoch": 416.1,
    "id": 895552,
-   "low": 380,
+   "low": 359,
    "name": "30th Celebration Pokémon Center Elite Trainer Box",
-   "trend": 372.49
+   "trend": 413.45
   },
   "name": "30th Celebration Pokémon Center Elite Trainer Box",
   "quellen": [
+   {
+    "datum": "2026-11-07T22:10:11Z",
+    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1CZ1FpTlFER2hyLUlXSXktYXUtRjE5MEhIYWFjRGZtOHZwbU1xMkRSTjdLS0FXVjJobTNN?oc=5",
+    "quelle": "Howl.Link",
+    "status": "angekuendigt",
+    "titel": "Pokémon TCG: 30th Celebration Elite Trainer Box"
+   },
    {
     "datum": "2026-10-22T08:33:58Z",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQai02LXRsTU9GY1BTT0dMZ3JRaWptQ3Y2SHE5UVMzUW55aVlwOFNfc2hzalNNeU4wcTVpS1NzN1puR0h3ZzVCb1JsS0hqZUdYVkk2cG9NY3BBRlBGZXdfdlpPcmVvNG5mcXFXZWpoQnhxYTFZeW9jWHdZaTNvU2RBcjM1S1VtWFMwcmxSSlg0b1pOYmo4TjE4QWgyT2E1bUk?oc=5",
