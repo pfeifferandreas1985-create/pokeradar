@@ -1,5 +1,21 @@
 [
  {
+  "aussage": "fakt",
+  "autor": "/u/One-Molasses-5104",
+  "datum": "2026-11-08T13:52:22Z",
+  "forum": true,
+  "id": "8d46dac9153661d9",
+  "key": "elite-trainer-box",
+  "kurz": "eBay-Händler verkaufen ETB-Vorbestellungen – hoher Hype und Risiko",
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1xqywpc/title_warning_major_ebay_live_seller_using/",
+  "produkt": "Elite Trainer Box",
+  "quelle": "Reddit",
+  "sprache": "en",
+  "status": "vorbestellbar",
+  "titel": "TITLE: WARNING: Major eBay Live Seller Using Pokémon ETB Pre-Orders for Short-Term Cash Float / Liquidity",
+  "typ": "etb"
+ },
+ {
   "aussage": "frage",
   "autor": "/u/QOR49",
   "datum": "2026-11-06T21:59:54Z",
@@ -129,21 +145,5 @@
   "status": "angebot",
   "titel": "Prismatic booster bundle displays",
   "typ": "display"
- },
- {
-  "aussage": "frage",
-  "autor": "/u/Liverpool_-",
-  "datum": "2026-10-25T22:23:02Z",
-  "forum": true,
-  "id": "9cff0ab5fbcc6beb",
-  "key": "elite-trainer-box",
-  "kurz": "Nephew möchte ETB – Rat zur Bestellstrategie bei Großhändlern gesucht",
-  "link": "https://www.reddit.com/r/PokeInvesting/comments/1xffmwb/elite_trainer_boxes/",
-  "produkt": "Elite Trainer Box",
-  "quelle": "Reddit",
-  "sprache": "en",
-  "status": "vorbestellbar",
-  "titel": "Elite trainer boxes",
-  "typ": "etb"
  }
 ]
