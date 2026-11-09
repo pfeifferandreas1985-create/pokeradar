@@ -1,6 +1,45 @@
 {
  "deals": [
   {
+   "datum": "2026-11-09T14:29:42Z",
+   "fake_risiko": false,
+   "haendler": "Amazon",
+   "hype": 7,
+   "id": "ed42040f2b6dad72",
+   "kurz": "Delta Reign-Display-Box mit Tiefpreis bei Amazon",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamkxa1Jfc05BcjY0R3hDQ3BLQ2RUajFLVnRYcmUwbklBWW9tMGZpWngyc1lDbUdzNTM0SnZyeTV1ZlNJcERDT3ZzZ1N5cTU1Q3pIVU8waU9UZTVjYjRQeGU1bHpMR09jMFJzNWlFNTVLNmxzMmVGNFF6RWtnQ0VWbkNxSnVaWW4tZHFqSUw2bVdtc3RSckFISG9pQjlZQUw5?oc=5",
+   "markt": {
+    "ch30": -13.0,
+    "ch7": -2.9,
+    "hoch": 234.3,
+    "id": 903956,
+    "low": 178.9,
+    "name": "Delta Reign Booster Box",
+    "trend": 203.87
+   },
+   "preis": 15.0,
+   "preis_eur": 13.43,
+   "produkt": "Delta Reign Booster Box",
+   "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
+   "quelle": "Mashable",
+   "rabatt": 93.4,
+   "rating": {
+    "gruende": [
+     "93 % unter Cardmarket-Trend (13,43 € statt 203,87 €)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 4,
+    "urteil": "Lohnt sich"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "The Pokémon TCG Delta Reign Booster Display Box hits best-ever price at Amazon — save $15",
+   "typ": "display",
+   "waehrung": "USD"
+  },
+  {
    "datum": "2026-11-06T23:09:25Z",
    "fake_risiko": false,
    "haendler": "Amazon",
@@ -1567,6 +1606,26 @@
  },
  "marktnews": [
   {
+   "datum": "2026-11-08T22:11:20Z",
+   "id": "d2aa4f70deac5780",
+   "kurz": "Delta Reign ETB zeigt starke Preisbewegung bei Launch",
+   "link": "https://www.reddit.com/r/PokeInvesting/comments/1xramz0/same_delta_reign_etb_in_launch_week_5499_at_the/",
+   "markt": {
+    "ch30": -14.0,
+    "ch7": -6.2,
+    "hoch": 102.27,
+    "id": 903955,
+    "low": 62,
+    "name": "Delta Reign Elite Trainer Box",
+    "trend": 86.57
+   },
+   "quelle": "Reddit",
+   "sprache": "en",
+   "titel": "Same Delta Reign ETB in launch week: $54.99 at the cheapest US store, $160.99 at the dearest. I made a tracker and the spread surprised me",
+   "trend": "steigt",
+   "typ": "etb"
+  },
+  {
    "datum": "2026-11-06T09:28:07Z",
    "id": "102267aa7a0fa278",
    "kurz": "Delta Reign-ETB-Preis sinkt, Markt zeigt Verfall",
@@ -1902,6 +1961,238 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-11-09T16:10:08Z",
+   "erstmals": "2026-11-09T16:10:08Z",
+   "gruende": [
+    "Jubiläums-Set",
+    "limitierte Box",
+    "begehrt"
+   ],
+   "haendler": "Target",
+   "hype": 7,
+   "key": "30th-celebration-display-en",
+   "kurz": "30. Jubiläums-Booster-Box bei Target, Vorbestellung erwartet",
+   "name": "30th Celebration Booster Bundle Box",
+   "quellen": [
+    {
+     "datum": "2026-11-09T16:10:08Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1xrvq3k/pokémon_trading_card_game_30th_celebration/",
+     "quelle": "Reddit",
+     "status": "angekuendigt",
+     "titel": "Pokémon Trading Card Game: 30th Celebration Booster Bundle Box : Target"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Jubiläums-Set",
+     "limitierte Box",
+     "begehrt"
+    ],
+    "sterne": 3,
+    "urteil": "Interessant"
+   },
+   "set": "30th Celebration",
+   "sprache": "en",
+   "stage": "angekuendigt",
+   "typ": "display",
+   "variante": null
+  },
+  {
+   "aktualisiert": "2026-11-09T12:15:18Z",
+   "erscheint_am": "2026-11-30",
+   "erstmals": "2026-10-14T00:41:32Z",
+   "gruende": [
+    "Limitiertes Set, hoher Fan-Bezug",
+    "Preisstabilität trotz großen Angebots",
+    "Hype um Evolutions-Entwicklungen",
+    "30. Jubiläum, exklusiv, limitiert"
+   ],
+   "haendler": "Amazon",
+   "hype": 9,
+   "key": "30th-upc-upc-en",
+   "kurz": "30. Jubiläums-UPC angekündigt: exklusive Karten und Accessoires",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "name": "30th UPC Ultra Premium Collection",
+   "preis_eur": null,
+   "quellen": [
+    {
+     "datum": "2026-11-06T20:13:30Z",
+     "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUzQ2VDRTUExkMXhCRGJYVGh2NFo3MHVIMDB2R1IyMjFaZWlHcklVT0JKOVFwbkhyQXlNdkpfQlY5NGV4ZkJoTmV1bXBYbnk2bUV6UWlUank5bml1a2c1Ym9FaDk0SWxJeV8tSjlyYmJ1YUNoWUVQUnNLVExjcXB1eTZiMmRRbDhBVFVRWW5sREdfbkIwMTBMbVlXRHJkRTJ5QU4wckEwZnVlVmdpQUlKdW94d2pybVpnYnY3cFpIc0pTTUt0MEFMTTZ1ZzlmeEk2dkZnN2xDSlM5STVVU0VmTUt0NlE5UW45RE4wSktpbTlGdXZMTmlCQW1sb2N6Uy1wYWJTTWpuaWdmYVlhWVRBNC02S0pfZTVwNTAyeWZra9IBpAJBVV95cUxQaXpjT2dXbjNmd0RpU1U2OTY1WU54c2RGZXl1YTBNa3FCRTB4dDU4ZTltWHEwdlp2ZHNfdEFlSE5JTzFzaFVISVdVRUMzMVlobFFlZFIzSUduX2RhR1R4YVJaUzF4U2hyWEhkeFlheGxrTS11N2Yya0RiU1BpOS1QUmM0aE5LUHkxZk00dEI3ZzFFeUVzWU1Db2Nud3J3aXozbTFEeXIxRjl2MFJWTUdia0luZnY0S2huSEJZdHJiaE1yMVdSOXFQYUE3ZWtFVGh1SDRzbnJWQm5TYXdkQmdaWDVEZEZRTHhSNWlUUU1sOC1QRXQwTjNHTVczSFAycDFaUDZkNVEtTEJJTS1adFVPLTdPVGJrMWo0TTlWMUZiTVVDM2Ff?oc=5",
+     "quelle": "The Economic Times",
+     "status": "angekuendigt",
+     "titel": "Pokémon 30th anniversary ultra-premium collection arriving with exclusive cards and accessories on Novembe"
+    },
+    {
+     "datum": "2026-11-09T12:15:18Z",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZF9ZaGs4Zk4wWVhGSDFrNzg2UmpDTDNpYXRlQXR1T00xYzFkRl9rLXB6Ny1hcVhkS3RsWm1oQmI3V1ZyOFQ1VTYyTTROYUs4WFRnU0VlUlhxTV81Q2hORk81TmV0NWZQN2hKMjVieVV1WVIzeVhRcFpPN3VtSTQ3VHdCbDNDejZrY2xWbXFOU2hWeVVGRzJmdXBKZjY5dHc?oc=5",
+     "quelle": "Mashable",
+     "status": "erschienen",
+     "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collections are live: Shop for under market price"
+    },
+    {
+     "datum": "2026-11-05T10:55:32Z",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeG1wQWpkOF9aLW5McTVOV1h5N3ZMSHJCMVlEajF2dTJHZHBnODE0dXRMZFZlMU9lQXROM2lwdGtIajgxUzQ3eXo4TkMwYS1wMkZMc0RjellQcE5MUGFVWFVrT3A1RWpieURsamFpUHFiTDhPS0JITU1oYzhwSk5ETjIySk8ycW9uUnFFVXVsa3FzSVFK?oc=5",
+     "quelle": "Yahoo",
+     "status": "vorbestellbar",
+     "titel": "The Pokémon TCG 30th Celebration Ultra-Premium Collection is live at Amazon: Preorder now"
+    },
+    {
+     "datum": "2026-11-06T20:13:30Z",
+     "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOTllRYzhMLXljaUc5NVNySHhhWkRpVmpQb2JxbkFFU3Q2S1lTT1VVckt0X1F1ZDE2Q3ZodnFOSS1Tdy1iZU1QWUdIY1M0OHJYUHg4Q2pHNjhSUzA0Q2xZTjVMdWREZHJnelZJd05ZNGt0X0hOcTRCT2Yxc04tNkN1Q3pmR2JSMl95NWlaTi1HenNrcnlwdGROVHJSbUhnM25Db2NUWVdna2NLV1dCZHIzeXVtdV9rd2dwRWlCbl9ENl9BTDFjcmp1aEN5RFNfY3l5MTZDZzhlcmJCc244UGVmclYxVFlvWVdUd3M2blI0cEJQTDJjbmhzZ0dWRzUxMFFDaHhJUXE4UjcyS2JEMFVXZEdEaWtaZFJxdlRGNkZhYlJKSWNMajg3eGZnVdIBpAJBVV95cUxQaXpjT2dXbjNmd0RpU1U2OTY1WU54c2RGZXl1YTBNa3FCRTB4dDU4ZTltWHEwdlp2ZHNfdEFlSE5JTzFzaFVISVdVRUMzMVlobFFlZFIzSUduX2RhR1R4YVJaUzF4U2hyWEhkeFlheGxrTS11N2Yya0RiU1BpOS1QUmM0aE5LUHkxZk00dEI3ZzFFeUVzWU1Db2Nud3J3aXozbTFEeXIxRjl2MFJWTUdia0luZnY0S2huSEJZdHJiaE1yMVdSOXFQYUE3ZWtFVGh1SDRzbnJWQm5TYXdkQmdaWDVEZEZRTHhSNWlUUU1sOC1QRXQwTjNHTVczSFAycDFaUDZkNVEtTEJJTS1adFVPLTdPVGJrMWo0TTlWMUZiTVVDM2Ff?oc=5",
+     "quelle": "The Economic Times",
+     "status": "angekuendigt",
+     "titel": "Pokémon 30th anniversary ultra-premium collection arriving with exclusive cards and accessories on Novembe"
+    },
+    {
+     "datum": "2026-11-06T11:34:53Z",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUViMnE1Qjc1YXFYYThGSmNFVGx5SzRaS19ZQ0RRRnd0d2JJYk5Ed0RsYUtLX0h6UDVHSjh6SERiSUdQZVBieFpzX285YjRTQ3g0cEJHV3lFbExaZlpjcWx6WHBzc0sybGJncmNQU3Q1eEFJREJkNHByMG1uVE95YkV6cTdXLWRjYWF5N040ME8zbWo4UXd1V0Ftbw?oc=5",
+     "quelle": "IGN",
+     "status": "angekuendigt",
+     "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collection: Where to Buy the Day and Night Boxes"
+    },
+    {
+     "datum": "2026-11-06T12:34:19Z",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2hvWXpac3lJcXZnYTItUXRzMlFQQ29IYm1Ca19xTEVvcEhPVjV0QWxqNFpUSUtWQml5aFpNcXlCcE95aEVBalVqaWNYRXNyaEloeGNFVU5vQUVYVTltemgxdllvejFIZHRwY2ZidmdBY1gzbmJIZFJ0OE9pNjZXY29vd1p1TFR1WjROMVNlQ0NNVkhSS0Rya19BZGxad3M?oc=5",
+     "quelle": "TalkEsport",
+     "status": "vorbestellbar",
+     "titel": "Pokémon Fans Camp Outside a French Fnac a Day Early for the 30th Celebration Ultra-Premium Collection"
+    },
+    {
+     "datum": "2026-11-05T19:36:24Z",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ01lRWNOdTZqQWdBVXdBNHFoYWZpU3hZRVRfOFJPQUY0U2JUcG1odG9WcUtyZXdVUkFfTjROdmlJT0lyTDhtbU41cWZSbmtHQVZOM0VJMEM0c3NIX2htQzBQbTg4UlFld25Ua1VfNEtMWThfMjZjQ3NEVFRMM2twWDBadnVDNFBTM1hlckFyc1FiMEJ5c3NIbHI2SzVwVjNjZWFJ?oc=5",
+     "quelle": "Polygon.com",
+     "status": "angekuendigt",
+     "titel": "Pokémon's 30th Anniversary's UPC release: Target vs. Best Buy"
+    },
+    {
+     "datum": "2026-11-05T13:45:43Z",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSFVjejFHY2JxUzRYdGNweFl1QXR2SEFpY3M3dGxoS3pRYnNHZ3AtOW9CaXhEb0RJWmZ1eDNmWGg2R2xnbkd2VjJRY0R0UzhzYlI2Mk1BMC1URTF6QWxoWXNEYlVaUWJsOGJDNmhITTY4Qmoxb2tFS3Uwa3VGdVp6THhkR1JGTElRSHUwbzJlR2RjNE54WWVid2g5OHE?oc=5",
+     "quelle": "Pokemon.com",
+     "status": "angekuendigt",
+     "titel": "Pokémon TCG: 30th Celebration Ditto Premium Collection"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Limitiertes Set, hoher Fan-Bezug",
+     "Preisstabilität trotz großen Angebots",
+     "Hype um Evolutions-Entwicklungen",
+     "30. Jubiläum, exklusiv, limitiert"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th UPC",
+   "sprache": "en",
+   "stage": "erschienen",
+   "typ": "upc",
+   "variante": null,
+   "vorverkauf_ab": "2026-11-05"
+  },
+  {
+   "aktualisiert": "2026-11-08T11:45:58Z",
+   "erscheint_am": "2026-11-01",
+   "erstmals": "2026-09-18T00:29:28Z",
+   "gruende": [
+    "30. Jubiläum",
+    "über 50.000 Stück",
+    "Warteschlange",
+    "Jubiläums-Set"
+   ],
+   "haendler": "Amazon",
+   "hype": 10,
+   "key": "30th-etb-en-pokemon-center",
+   "kurz": "30. Jubiläums-ETB-Box live bei Amazon: knapp und begehrt",
+   "liefertermin": "2026-12-15",
+   "lieferwelle": 1,
+   "markt": {
+    "ch30": -8.5,
+    "ch7": -3.6,
+    "hoch": 135.27,
+    "id": 895551,
+    "low": 95,
+    "name": "30th Celebration Elite Trainer Box",
+    "trend": 120.26
+   },
+   "name": "30th Celebration Elite Trainer Box",
+   "preis_eur": 113.75,
+   "quellen": [
+    {
+     "datum": "2026-11-08T11:45:58Z",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0pfVXQ0dVJQb3BWQkgyTjJBNzc4VDRQMzNQNkNCbDNnczlwN3lxTnpzZlQyVVZRQnBLcGthU2F3bDZvN0tqY3dwTU5DNVBib0dzX2t4OWJXV1hPZGFaX1FqcG0tUkNFWDcxQklqbmltSkpvbi15eGxieUVwZkVNaVE5ZlJJb1BPaldN?oc=5",
+     "quelle": "Mashable",
+     "status": "vorbestellbar",
+     "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop now for under market price"
+    },
+    {
+     "datum": "2026-11-06T11:42:17Z",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ3pnNmRVT3EyVzR6blpuWHZicHVRRU1rcWFUbHdTRUdUZWo5UlN5MTNnV1RvblRST2xKc0dJNnZLOGRrZGNGU1dBaDVIa1pkaTgxMVhMdGd1SzZfQXJaSmszMUxRdElGQ1Y0ekRINEhoR0xQNXh2ZUdCRUQ5TTlMVHRsSjE3ZVdzWXhn?oc=5",
+     "quelle": "Mashable",
+     "status": "vorbestellbar",
+     "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop now for way under market price"
+    },
+    {
+     "datum": "2026-10-21T05:01:28Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1xbe6es/30th_celebration_elite_trainer_box_lottery_amazon/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "30th Celebration Elite Trainer Box Lottery amazon!"
+    },
+    {
+     "datum": "2026-10-17T17:05:01Z",
+     "link": "https://www.reddit.com/r/PokeInvesting/comments/1x8ffje/30th_anniversary_celebration_elite_trainer_boxes/",
+     "quelle": "Reddit",
+     "status": "angekuendigt",
+     "titel": "30th Anniversary Celebration Elite Trainer Boxes $128"
+    },
+    {
+     "datum": "2026-10-13T19:01:49Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1x55irf/target_drop_expected_tonight_midnight_pst_3am_est/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "Target drop Expected tonight Midnight PST 3am EST"
+    },
+    {
+     "datum": "2026-10-08T19:52:34Z",
+     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1x10w9o/target_drop_expected_tonight_midnight_pst_3am_est/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "Target Drop Expected tonight! Midnight PST 3am EST"
+    },
+    {
+     "datum": "2026-10-08T14:26:15Z",
+     "link": "https://www.reddit.com/r/PokeInvesting/comments/1x0scbp/etbs_might_be_the_most_underrated_way_to_build/",
+     "quelle": "Reddit",
+     "status": "angekuendigt",
+     "titel": "ETBs might be the most underrated way to build your Pokémon portfolio"
+    },
+    {
+     "datum": "2026-10-03T00:41:37Z",
+     "link": "https://www.reddit.com/r/PokeInvesting/comments/1ww9wap/30th_anniversary_pokemon_centre_etbs/",
+     "quelle": "Reddit",
+     "status": "vorbestellbar",
+     "titel": "30th anniversary Pokemon centre ETBs"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Nachschub – kurze Gelegenheit zum Originalpreis",
+     "30. Jubiläum",
+     "über 50.000 Stück",
+     "Warteschlange"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Celebration",
+   "sprache": "en",
+   "stage": "nachschub",
+   "typ": "etb",
+   "variante": null,
+   "vorverkauf_ab": "2026-11-08"
+  },
+  {
    "aktualisiert": "2026-11-07T22:10:11Z",
    "erstmals": "2026-10-22T08:33:58Z",
    "gruende": [
@@ -1954,201 +2245,6 @@
    "stage": "vorbestellbar",
    "typ": "etb",
    "variante": "pokemon-center"
-  },
-  {
-   "aktualisiert": "2026-11-06T20:13:30Z",
-   "erscheint_am": "2026-11-06",
-   "erstmals": "2026-10-14T00:41:32Z",
-   "gruende": [
-    "Limitiertes Set, hoher Fan-Bezug",
-    "Preisstabilität trotz großen Angebots",
-    "Hype um Evolutions-Entwicklungen",
-    "30. Jubiläum, exklusiv, limitiert"
-   ],
-   "haendler": "Amazon",
-   "hype": 9,
-   "key": "30th-upc-upc-en",
-   "kurz": "30. Jubiläums-UPC ist vorbestellbar und begehrt",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "name": "30th UPC Ultra Premium Collection",
-   "preis_eur": null,
-   "quellen": [
-    {
-     "datum": "2026-11-05T10:55:32Z",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeG1wQWpkOF9aLW5McTVOV1h5N3ZMSHJCMVlEajF2dTJHZHBnODE0dXRMZFZlMU9lQXROM2lwdGtIajgxUzQ3eXo4TkMwYS1wMkZMc0RjellQcE5MUGFVWFVrT3A1RWpieURsamFpUHFiTDhPS0JITU1oYzhwSk5ETjIySk8ycW9uUnFFVXVsa3FzSVFK?oc=5",
-     "quelle": "Yahoo",
-     "status": "vorbestellbar",
-     "titel": "The Pokémon TCG 30th Celebration Ultra-Premium Collection is live at Amazon: Preorder now"
-    },
-    {
-     "datum": "2026-11-06T20:13:30Z",
-     "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOTllRYzhMLXljaUc5NVNySHhhWkRpVmpQb2JxbkFFU3Q2S1lTT1VVckt0X1F1ZDE2Q3ZodnFOSS1Tdy1iZU1QWUdIY1M0OHJYUHg4Q2pHNjhSUzA0Q2xZTjVMdWREZHJnelZJd05ZNGt0X0hOcTRCT2Yxc04tNkN1Q3pmR2JSMl95NWlaTi1HenNrcnlwdGROVHJSbUhnM25Db2NUWVdna2NLV1dCZHIzeXVtdV9rd2dwRWlCbl9ENl9BTDFjcmp1aEN5RFNfY3l5MTZDZzhlcmJCc244UGVmclYxVFlvWVdUd3M2blI0cEJQTDJjbmhzZ0dWRzUxMFFDaHhJUXE4UjcyS2JEMFVXZEdEaWtaZFJxdlRGNkZhYlJKSWNMajg3eGZnVdIBpAJBVV95cUxQaXpjT2dXbjNmd0RpU1U2OTY1WU54c2RGZXl1YTBNa3FCRTB4dDU4ZTltWHEwdlp2ZHNfdEFlSE5JTzFzaFVISVdVRUMzMVlobFFlZFIzSUduX2RhR1R4YVJaUzF4U2hyWEhkeFlheGxrTS11N2Yya0RiU1BpOS1QUmM0aE5LUHkxZk00dEI3ZzFFeUVzWU1Db2Nud3J3aXozbTFEeXIxRjl2MFJWTUdia0luZnY0S2huSEJZdHJiaE1yMVdSOXFQYUE3ZWtFVGh1SDRzbnJWQm5TYXdkQmdaWDVEZEZRTHhSNWlUUU1sOC1QRXQwTjNHTVczSFAycDFaUDZkNVEtTEJJTS1adFVPLTdPVGJrMWo0TTlWMUZiTVVDM2Ff?oc=5",
-     "quelle": "The Economic Times",
-     "status": "angekuendigt",
-     "titel": "Pokémon 30th anniversary ultra-premium collection arriving with exclusive cards and accessories on Novembe"
-    },
-    {
-     "datum": "2026-11-06T11:34:53Z",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUViMnE1Qjc1YXFYYThGSmNFVGx5SzRaS19ZQ0RRRnd0d2JJYk5Ed0RsYUtLX0h6UDVHSjh6SERiSUdQZVBieFpzX285YjRTQ3g0cEJHV3lFbExaZlpjcWx6WHBzc0sybGJncmNQU3Q1eEFJREJkNHByMG1uVE95YkV6cTdXLWRjYWF5N040ME8zbWo4UXd1V0Ftbw?oc=5",
-     "quelle": "IGN",
-     "status": "angekuendigt",
-     "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collection: Where to Buy the Day and Night Boxes"
-    },
-    {
-     "datum": "2026-11-06T12:34:19Z",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2hvWXpac3lJcXZnYTItUXRzMlFQQ29IYm1Ca19xTEVvcEhPVjV0QWxqNFpUSUtWQml5aFpNcXlCcE95aEVBalVqaWNYRXNyaEloeGNFVU5vQUVYVTltemgxdllvejFIZHRwY2ZidmdBY1gzbmJIZFJ0OE9pNjZXY29vd1p1TFR1WjROMVNlQ0NNVkhSS0Rya19BZGxad3M?oc=5",
-     "quelle": "TalkEsport",
-     "status": "vorbestellbar",
-     "titel": "Pokémon Fans Camp Outside a French Fnac a Day Early for the 30th Celebration Ultra-Premium Collection"
-    },
-    {
-     "datum": "2026-11-05T19:36:24Z",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ01lRWNOdTZqQWdBVXdBNHFoYWZpU3hZRVRfOFJPQUY0U2JUcG1odG9WcUtyZXdVUkFfTjROdmlJT0lyTDhtbU41cWZSbmtHQVZOM0VJMEM0c3NIX2htQzBQbTg4UlFld25Ua1VfNEtMWThfMjZjQ3NEVFRMM2twWDBadnVDNFBTM1hlckFyc1FiMEJ5c3NIbHI2SzVwVjNjZWFJ?oc=5",
-     "quelle": "Polygon.com",
-     "status": "angekuendigt",
-     "titel": "Pokémon's 30th Anniversary's UPC release: Target vs. Best Buy"
-    },
-    {
-     "datum": "2026-11-05T13:45:43Z",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSFVjejFHY2JxUzRYdGNweFl1QXR2SEFpY3M3dGxoS3pRYnNHZ3AtOW9CaXhEb0RJWmZ1eDNmWGg2R2xnbkd2VjJRY0R0UzhzYlI2Mk1BMC1URTF6QWxoWXNEYlVaUWJsOGJDNmhITTY4Qmoxb2tFS3Uwa3VGdVp6THhkR1JGTElRSHUwbzJlR2RjNE54WWVid2g5OHE?oc=5",
-     "quelle": "Pokemon.com",
-     "status": "angekuendigt",
-     "titel": "Pokémon TCG: 30th Celebration Ditto Premium Collection"
-    },
-    {
-     "datum": "2026-11-05T14:26:04Z",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSk5xTkMtODRTbFFZbEJtajVlUTNNVlhaTzZ2cmYyUXFyb1Zfb01yLUE2TkdtNkt4aGdZV1paYkxIcV9YLU5VVk5JQkQ0YU1YQ1dMVEV5SXhFdURjcjhEVF9TZFNiWTlnazlENEZTQTdVU2QyZ2xmOXl4M3BLamxDUDEycl9vZDFrUUd3dUpIUnB6ZUhMZHBwbGtFb05MRWJyUEE?oc=5",
-     "quelle": "Mashable",
-     "status": "vorbestellbar",
-     "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections are live at Amazon: Preorder now"
-    },
-    {
-     "datum": "2026-11-05T14:50:35Z",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkRFYnZZVl9kSU8yV213NnFsRFc3c0tfOHNkZUpFYnRVaFU0Sl8zU2E5dmU5a3JUbW9zdWZlZmxmaHBBUmN2T3RFYm96UGxESEl4cmtkQTA0WUktZ3RsUml2djdiejk2cVcwVmZmS19ibjZCVURPWldhejlDQzk2cDhrbHQxZFRaRGJjMUd5Q09TUkZraGwwWE5kRE5venRwMGE5U2dQS3B1U0E?oc=5",
-     "quelle": "Pokemon.com",
-     "status": "angekuendigt",
-     "titel": "Pokémon TCG: 30th Celebration Ultra-Premium Collections—Day & Night"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
-     "Limitiertes Set, hoher Fan-Bezug",
-     "Preisstabilität trotz großen Angebots",
-     "Hype um Evolutions-Entwicklungen"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "30th UPC",
-   "sprache": "en",
-   "stage": "vorbestellbar",
-   "typ": "upc",
-   "variante": null,
-   "vorverkauf_ab": "2026-11-05"
-  },
-  {
-   "aktualisiert": "2026-11-06T11:42:17Z",
-   "erscheint_am": "2026-11-01",
-   "erstmals": "2026-09-18T00:29:28Z",
-   "gruende": [
-    "30. Jubiläum",
-    "über 50.000 Stück",
-    "Warteschlange",
-    "Jubiläums-Set"
-   ],
-   "haendler": "Amazon",
-   "hype": 10,
-   "key": "30th-etb-en-pokemon-center",
-   "kurz": "30. Jubiläum-ETB live bei Amazon – begehrt, knapp, Tiefpreis",
-   "liefertermin": "2026-12-15",
-   "lieferwelle": 1,
-   "markt": {
-    "ch30": -8.3,
-    "ch7": -4.3,
-    "hoch": 135.27,
-    "id": 895551,
-    "low": 95,
-    "name": "30th Celebration Elite Trainer Box",
-    "trend": 120.91
-   },
-   "name": "30th Celebration Elite Trainer Box",
-   "preis_eur": 113.75,
-   "quellen": [
-    {
-     "datum": "2026-11-06T11:42:17Z",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ3pnNmRVT3EyVzR6blpuWHZicHVRRU1rcWFUbHdTRUdUZWo5UlN5MTNnV1RvblRST2xKc0dJNnZLOGRrZGNGU1dBaDVIa1pkaTgxMVhMdGd1SzZfQXJaSmszMUxRdElGQ1Y0ekRINEhoR0xQNXh2ZUdCRUQ5TTlMVHRsSjE3ZVdzWXhn?oc=5",
-     "quelle": "Mashable",
-     "status": "vorbestellbar",
-     "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop now for way under market price"
-    },
-    {
-     "datum": "2026-10-21T05:01:28Z",
-     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1xbe6es/30th_celebration_elite_trainer_box_lottery_amazon/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "30th Celebration Elite Trainer Box Lottery amazon!"
-    },
-    {
-     "datum": "2026-10-17T17:05:01Z",
-     "link": "https://www.reddit.com/r/PokeInvesting/comments/1x8ffje/30th_anniversary_celebration_elite_trainer_boxes/",
-     "quelle": "Reddit",
-     "status": "angekuendigt",
-     "titel": "30th Anniversary Celebration Elite Trainer Boxes $128"
-    },
-    {
-     "datum": "2026-10-13T19:01:49Z",
-     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1x55irf/target_drop_expected_tonight_midnight_pst_3am_est/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "Target drop Expected tonight Midnight PST 3am EST"
-    },
-    {
-     "datum": "2026-10-08T19:52:34Z",
-     "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1x10w9o/target_drop_expected_tonight_midnight_pst_3am_est/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "Target Drop Expected tonight! Midnight PST 3am EST"
-    },
-    {
-     "datum": "2026-10-08T14:26:15Z",
-     "link": "https://www.reddit.com/r/PokeInvesting/comments/1x0scbp/etbs_might_be_the_most_underrated_way_to_build/",
-     "quelle": "Reddit",
-     "status": "angekuendigt",
-     "titel": "ETBs might be the most underrated way to build your Pokémon portfolio"
-    },
-    {
-     "datum": "2026-10-03T00:41:37Z",
-     "link": "https://www.reddit.com/r/PokeInvesting/comments/1ww9wap/30th_anniversary_pokemon_centre_etbs/",
-     "quelle": "Reddit",
-     "status": "vorbestellbar",
-     "titel": "30th anniversary Pokemon centre ETBs"
-    },
-    {
-     "datum": "2026-10-02T21:01:06Z",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYU5ZSUVOYi15Ny1HZjRGeFZObXNNZDJSVFZOUzVVVEFVUzNLQkJIQzFmM1NDS0hKb21ZVFhkbE81ODdvQ0xLNGtlUGxNTGdfX2FGVXJPazBJWm9KTEkzV0dNenNOVlNwMmJnOWRZWG8tWmwtMmdub1QzNjlHcDlPWDFQbXZPeWtzRjlJ?oc=5",
-     "quelle": "Yahoo",
-     "status": "angekuendigt",
-     "titel": "Pokémon TCG: Here’s How to Shop the 30th Celebration Elite Trainer Box & Booster Bundle Online"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Nachschub – kurze Gelegenheit zum Originalpreis",
-     "30. Jubiläum",
-     "über 50.000 Stück",
-     "Warteschlange"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "30th Celebration",
-   "sprache": "en",
-   "stage": "nachschub",
-   "typ": "etb",
-   "variante": null,
-   "vorverkauf_ab": "2026-10-21"
   },
   {
    "aktualisiert": "2026-11-06T10:55:20Z",

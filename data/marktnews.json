@@ -1,5 +1,25 @@
 [
  {
+  "datum": "2026-11-08T22:11:20Z",
+  "id": "d2aa4f70deac5780",
+  "kurz": "Delta Reign ETB zeigt starke Preisbewegung bei Launch",
+  "link": "https://www.reddit.com/r/PokeInvesting/comments/1xramz0/same_delta_reign_etb_in_launch_week_5499_at_the/",
+  "markt": {
+   "ch30": -14.0,
+   "ch7": -6.2,
+   "hoch": 102.27,
+   "id": 903955,
+   "low": 62,
+   "name": "Delta Reign Elite Trainer Box",
+   "trend": 86.57
+  },
+  "quelle": "Reddit",
+  "sprache": "en",
+  "titel": "Same Delta Reign ETB in launch week: $54.99 at the cheapest US store, $160.99 at the dearest. I made a tracker and the spread surprised me",
+  "trend": "steigt",
+  "typ": "etb"
+ },
+ {
   "datum": "2026-11-06T09:28:07Z",
   "id": "102267aa7a0fa278",
   "kurz": "Delta Reign-ETB-Preis sinkt, Markt zeigt Verfall",

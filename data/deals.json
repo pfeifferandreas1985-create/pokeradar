@@ -1,5 +1,44 @@
 [
  {
+  "datum": "2026-11-09T14:29:42Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 7,
+  "id": "ed42040f2b6dad72",
+  "kurz": "Delta Reign-Display-Box mit Tiefpreis bei Amazon",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamkxa1Jfc05BcjY0R3hDQ3BLQ2RUajFLVnRYcmUwbklBWW9tMGZpWngyc1lDbUdzNTM0SnZyeTV1ZlNJcERDT3ZzZ1N5cTU1Q3pIVU8waU9UZTVjYjRQeGU1bHpMR09jMFJzNWlFNTVLNmxzMmVGNFF6RWtnQ0VWbkNxSnVaWW4tZHFqSUw2bVdtc3RSckFISG9pQjlZQUw5?oc=5",
+  "markt": {
+   "ch30": -13.0,
+   "ch7": -2.9,
+   "hoch": 234.3,
+   "id": 903956,
+   "low": 178.9,
+   "name": "Delta Reign Booster Box",
+   "trend": 203.87
+  },
+  "preis": 15.0,
+  "preis_eur": 13.43,
+  "produkt": "Delta Reign Booster Box",
+  "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
+  "quelle": "Mashable",
+  "rabatt": 93.4,
+  "rating": {
+   "gruende": [
+    "93 % unter Cardmarket-Trend (13,43 € statt 203,87 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 4,
+   "urteil": "Lohnt sich"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "The Pokémon TCG Delta Reign Booster Display Box hits best-ever price at Amazon — save $15",
+  "typ": "display",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-11-06T23:09:25Z",
   "fake_risiko": false,
   "haendler": "Amazon",
