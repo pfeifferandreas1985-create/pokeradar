@@ -1,5 +1,43 @@
 [
  {
+  "datum": "2026-11-10T19:13:13Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 5,
+  "id": "5580af64f0457cb6",
+  "kurz": "Pokémon-Sammelkartenspiel: Display-Box Karmesin & Purpur (36 Boosterpacks) - Amazon Einladung",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-display-box-karmesin-purpur-36-boosterpacks-amazon-einladung-2868462",
+  "markt": {
+   "ch30": -0.6,
+   "ch7": -0.7,
+   "hoch": 208.57,
+   "id": 692092,
+   "low": 145,
+   "name": "Scarlet & Violet Booster Box",
+   "trend": 203.04
+  },
+  "preis": 179.64,
+  "preis_eur": 179.64,
+  "produkt": "Scarlet & Violet Booster Box",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": 11.5,
+  "rating": {
+   "gruende": [
+    "12 % unter Cardmarket-Trend (179,64 € statt 203,04 €)"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "Pokémon-Sammelkartenspiel: Display-Box Karmesin & Purpur (36 Boosterpacks) - Amazon Einladung",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-10T13:16:12Z",
   "fake_risiko": false,
   "haendler": "Amazon",
