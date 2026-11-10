@@ -1,5 +1,45 @@
 [
  {
+  "datum": "2026-11-10T13:16:12Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 8,
+  "id": "3d98b1d3fb424222",
+  "kurz": "Delta Reign-ETB unter 100 EUR auf Amazon verfügbar",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOREQ4NFZRZ01EMm14M1FMQTA0ajBndDdkdnRnNWpPUGhTcXg1YlloVGF1SXdReVBoXzBsWF9zSGt6akljdkpfRmp5UTlXaHBwVF9qczRtcE1QdU5PZlJVSXcxVEZrNnVBMDVJRFJrWHJkazNNd3V4Q1lTbnhLWF9rd0FoMTdObXlFb1FqSg?oc=5",
+  "markt": {
+   "ch30": -19.8,
+   "ch7": -10.4,
+   "hoch": 102.27,
+   "id": 903955,
+   "low": 55,
+   "name": "Delta Reign Elite Trainer Box",
+   "trend": 80.99
+  },
+  "preis": 99.0,
+  "preis_eur": 99.0,
+  "produkt": "Delta Reign Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "Mashable",
+  "rabatt": -22.2,
+  "rating": {
+   "gruende": [
+    "Kein Vorteil: 99,00 € liegt über dem Cardmarket-Trend (80,99 €)",
+    "Marktpreis fällt gerade (−10 % in 7 Tagen)",
+    "Begehrtes Produkt (Hype 8/10)"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Best Pokémon TCG deal: Delta Reign Elite Trainer Box now under $100 on Amazon",
+  "typ": "etb",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-09T14:29:42Z",
   "fake_risiko": false,
   "haendler": "Amazon",
@@ -927,46 +967,6 @@
   "sprache": "en",
   "status": "vorbestellbar",
   "titel": "Pokémon TCG: Scarlet & Violet — Destined Rivals Elite Trainer Box (1 Full-Art Promo Card, 9 Boosters & Premium Accessories) Invite Only",
-  "typ": "etb",
-  "waehrung": "GBP"
- },
- {
-  "datum": "2026-10-11T14:06:51Z",
-  "fake_risiko": false,
-  "haendler": "Amazon",
-  "hype": 8,
-  "id": "6bec6eb942944509",
-  "kurz": "ETB Phantasmal Flames vorbestellbar mit Promo-Karte und begehrt",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.hotukdeals.com/deals/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box-1-full-art-promo-card-9-booster-packs-premium-accessories-5002634",
-  "markt": {
-   "ch30": null,
-   "ch7": -0.2,
-   "hoch": 93.12,
-   "id": 846744,
-   "low": 59.99,
-   "name": "Phantasmal Flames Elite Trainer Box",
-   "trend": 90.02
-  },
-  "preis": 40.5,
-  "preis_eur": 48.37,
-  "produkt": "Phantasmal Flames Elite Trainer Box",
-  "pruefen": null,
-  "quelle": "hotukdeals",
-  "rabatt": 46.3,
-  "rating": {
-   "gruende": [
-    "46 % unter Cardmarket-Trend (48,37 € statt 90,02 €)",
-    "Begehrtes Produkt (Hype 8/10)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 4,
-   "urteil": "Lohnt sich"
-  },
-  "sprache": "en",
-  "status": "vorbestellbar",
-  "titel": "Pokémon TCG: Mega Evolution—Phantasmal Flames Elite Trainer Box (1 Full-Art Promo Card, 9 Booster Packs & Premium Accessories) - Invite Only",
   "typ": "etb",
   "waehrung": "GBP"
  },

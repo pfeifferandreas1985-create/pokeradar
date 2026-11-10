@@ -600,7 +600,7 @@
   "variante": null
  },
  "30th-etb-en-pokemon-center": {
-  "aktualisiert": "2026-11-08T11:45:58Z",
+  "aktualisiert": "2026-11-10T10:45:14Z",
   "erscheint_am": "2026-11-01",
   "erstmals": "2026-09-18T00:29:28Z",
   "gemeldet": [
@@ -615,21 +615,28 @@
   "haendler": "Amazon",
   "hype": 10,
   "key": "30th-etb-en-pokemon-center",
-  "kurz": "30. Jubiläums-ETB-Box live bei Amazon: knapp und begehrt",
+  "kurz": "30. Jubiläum-ETB erschienen für 59,99 EUR auf Amazon",
   "liefertermin": "2026-12-15",
   "lieferwelle": 1,
   "markt": {
-   "ch30": -8.5,
-   "ch7": -3.6,
+   "ch30": -8.8,
+   "ch7": -1.7,
    "hoch": 135.27,
    "id": 895551,
-   "low": 95,
+   "low": 90,
    "name": "30th Celebration Elite Trainer Box",
-   "trend": 120.26
+   "trend": 119.66
   },
   "name": "30th Celebration Elite Trainer Box",
   "preis_eur": 113.75,
   "quellen": [
+   {
+    "datum": "2026-11-10T10:45:14Z",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNay16SlYwYUtzODFoNy1fQVVGenJxVlJXWXc4UE50SVRreUhrZEJKUlBiajl1NmdXY095M3NfcDlCVDVfcHlMNUZxMDhIS0JnNVo3WnVJVGdaNnh4QlRJZXgtbFhMYkFuUUdRNGlaZVNSbHJ2T2hMbHRKX2xkMFJRSTRCMm1nUzd6aVBIUWFXLUNyeWtkUXZMYWxHT2hPd1JCOE45MHdB?oc=5",
+    "quelle": "SSBCrack",
+    "status": "erschienen",
+    "titel": "Pokémon TCG 30th Celebration Elite Trainer Box Available at Amazon for $59.99"
+   },
    {
     "datum": "2026-11-08T11:45:58Z",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0pfVXQ0dVJQb3BWQkgyTjJBNzc4VDRQMzNQNkNCbDNnczlwN3lxTnpzZlQyVVZRQnBLcGthU2F3bDZvN0tqY3dwTU5DNVBib0dzX2t4OWJXV1hPZGFaX1FqcG0tUkNFWDcxQklqbmltSkpvbi15eGxieUVwZkVNaVE5ZlJJb1BPaldN?oc=5",
@@ -678,13 +685,6 @@
     "quelle": "Reddit",
     "status": "angekuendigt",
     "titel": "ETBs might be the most underrated way to build your Pokémon portfolio"
-   },
-   {
-    "datum": "2026-10-03T00:41:37Z",
-    "link": "https://www.reddit.com/r/PokeInvesting/comments/1ww9wap/30th_anniversary_pokemon_centre_etbs/",
-    "quelle": "Reddit",
-    "status": "vorbestellbar",
-    "titel": "30th anniversary Pokemon centre ETBs"
    }
   ],
   "rating": {
