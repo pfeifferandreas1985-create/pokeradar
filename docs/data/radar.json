@@ -1633,6 +1633,26 @@
  },
  "marktnews": [
   {
+   "datum": "2026-11-10T22:00:00Z",
+   "id": "838dacbbbf8744a6",
+   "kurz": "Pokémon TCG’s Delta Reign Elite Trainer Box Is Already Down to Almost Market Price Across Walmart & Amazon",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLVZsTy1GUlA4Y1U2U2x4V3NLYkJHd2g0Q050ZjhRa3A5c09RNFpmMmZmamQ2TzNadkE0c09Scnk1aU5ReUxoVjFBTnI2M1RBQkZIMmtjNlpxbWttV0hmVmdJbTRUbmgzekhKSzBUeERYa2VPNTdZU3I0bjdZa3NCZTU0NUUxNEZMVXQ3NGpvZzJ3d0ZVLUE?oc=5",
+   "markt": {
+    "ch30": -19.8,
+    "ch7": -10.4,
+    "hoch": 102.27,
+    "id": 903955,
+    "low": 55,
+    "name": "Delta Reign Elite Trainer Box",
+    "trend": 80.99
+   },
+   "quelle": "IGN",
+   "sprache": "en",
+   "titel": "Pokémon TCG’s Delta Reign Elite Trainer Box Is Already Down to Almost Market Price Across Walmart & Amazon",
+   "trend": null,
+   "typ": "etb"
+  },
+  {
    "datum": "2026-11-08T22:11:20Z",
    "id": "d2aa4f70deac5780",
    "kurz": "Delta Reign ETB zeigt starke Preisbewegung bei Launch",
