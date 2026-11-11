@@ -1,5 +1,43 @@
 [
  {
+  "datum": "2026-11-11T14:11:04Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 5,
+  "id": "6346e255ff717d05",
+  "kurz": "18er Booster-Display Karmesin & Purpur für 89,82€ – fairer Zugang via Einladung.",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-boosterpack-display-karmesin-purpur-sturmische-funken-enthalt-18-boosterpacks-einladung-2869088",
+  "markt": {
+   "ch30": -3.3,
+   "ch7": 0.0,
+   "hoch": 152.34,
+   "id": 784951,
+   "low": 125,
+   "name": "Surging Sparks Booster Box (18 Boosters)",
+   "trend": 147.32
+  },
+  "preis": 89.82,
+  "preis_eur": 89.82,
+  "produkt": "Surging Sparks Booster Box (18 Boosters)",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": 39.0,
+  "rating": {
+   "gruende": [
+    "39 % unter Cardmarket-Trend (89,82 € statt 147,32 €)"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "Pokémon-Sammelkartenspiel: Boosterpack-Display Karmesin & Purpur – Stürmische Funken (enthält 18 Boosterpacks) (Einladung)",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-10T19:13:13Z",
   "fake_risiko": false,
   "haendler": "Amazon",

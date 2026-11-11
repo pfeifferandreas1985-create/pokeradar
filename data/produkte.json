@@ -75,6 +75,48 @@
   "typ": "display",
   "variante": null
  },
+ "30th-anniversary-set-display-de": {
+  "aktualisiert": "2026-11-11T06:57:07Z",
+  "erstmals": "2026-11-11T06:57:07Z",
+  "gemeldet": [
+   "vorbestellbar"
+  ],
+  "gruende": [
+   "Jubiläumsset",
+   "limitiert",
+   "großer Fan-Hype"
+  ],
+  "haendler": "Smyths Toys",
+  "hype": 9,
+  "key": "30th-anniversary-set-display-de",
+  "kurz": "30-Jahre-Set vorbestellbar – knapp und begehrt",
+  "name": "30th Anniversary Set Display",
+  "quellen": [
+   {
+    "datum": "2026-11-11T06:57:07Z",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRlRsT2JTRWtNTlJjcXc5c2FhUlJKZEp4WW9ZVml5OGpld0c4Y0E5MHFtdjhGaWJjRW96ZW5kQ1Z0WGFLMDh3bERabzE2N0hSdGZOZjVQUWJsTmp3SzRDczJUNDE5MHpORTk2UkZaWDlTdXpyWmRiOGRhZkZpT3BXS3dnY3BjcDJhaGp5VC04MGdrT1E3ODRjczBaM00tN2ZLRDgwc2p1VUZGRVpuM3B4amtaWHlvV3RHRjF5SUt2N2xWS0RIbXJkMk5sSlBsZw?oc=5",
+    "quelle": "Giga",
+    "status": "vorbestellbar",
+    "titel": "Pokémon-Karten: Wer das 30-Jahre-Set sucht, sollte morgen bei Smyths Toys anstehen"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Jubiläumsset",
+    "limitiert",
+    "großer Fan-Hype"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "30th Anniversary Set",
+  "sprache": "de",
+  "stage": "vorbestellbar",
+  "typ": "display",
+  "variante": null,
+  "vorverkauf_ab": "2026-11-12"
+ },
  "30th-celebration-display-de": {
   "aktualisiert": "2026-10-19T11:30:00Z",
   "erstmals": "2026-10-19T11:30:00Z",
@@ -800,6 +842,51 @@
   "typ": "upc",
   "variante": null,
   "vorverkauf_ab": "2026-11-05"
+ },
+ "anniversary-display-en-18er": {
+  "aktualisiert": "2026-11-11T07:18:50Z",
+  "erscheint_am": "2026-12-01",
+  "erstmals": "2026-11-11T07:18:50Z",
+  "gemeldet": [
+   "vorbestellbar"
+  ],
+  "gruende": [
+   "Jubiläum, limitiert",
+   "nachts Linien, hohe Nachfrage",
+   "Preis für Sammler attraktiv"
+  ],
+  "hype": 9,
+  "key": "anniversary-display-en-18er",
+  "kurz": "Anniversary-Box 18er vorbestellbar, Preiskonkurrenz, hohe Nachfrage",
+  "liefertermin": "2026-12-01",
+  "lieferwelle": 1,
+  "name": "Anniversary Box",
+  "preis_eur": 160.5,
+  "quellen": [
+   {
+    "datum": "2026-11-11T07:18:50Z",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjX21KVUEweVVkR1hxWjB2WkdYNFgzc21CMDk5Tk9nUEhzSmpIdjhmakFyXzlBYUE2TmpnTWFoVjBtbXFoa3d6TGxjbDQ2ZHNSSzRVOUJtMzdXcmhJOEVvQmlQa1JaS00?oc=5",
+    "quelle": "IMDb",
+    "status": "vorbestellbar",
+    "titel": "Pokemon cards drew overnight lines for a $179.99 anniversary box"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Jubiläum, limitiert",
+    "nachts Linien, hohe Nachfrage",
+    "Preis für Sammler attraktiv"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "Anniversary",
+  "sprache": "en",
+  "stage": "vorbestellbar",
+  "typ": "display",
+  "variante": "18er",
+  "vorverkauf_ab": "2026-11-10"
  },
  "ascended-heroes-etb-de-pokemon-center": {
   "aktualisiert": "2026-10-07T14:54:00Z",
