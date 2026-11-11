@@ -1,6 +1,45 @@
 {
  "deals": [
   {
+   "datum": "2026-11-11T20:53:58Z",
+   "fake_risiko": false,
+   "haendler": "Netto",
+   "hype": 9,
+   "id": "dfa81810f8fce3cb",
+   "kurz": "30. Jubiläum-ETB bei Netto für 128,99€ nach Gutschein",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.mydealz.de/deals/pokemon-30-jahre-etb-englisch-2869416",
+   "markt": {
+    "ch30": -7.9,
+    "ch7": -0.8,
+    "hoch": 135.27,
+    "id": 895551,
+    "low": 90,
+    "name": "30th Celebration Elite Trainer Box",
+    "trend": 120.16
+   },
+   "preis": 128.99,
+   "preis_eur": 128.99,
+   "produkt": "30th Celebration Elite Trainer Box",
+   "pruefen": null,
+   "quelle": "mydealz",
+   "rabatt": -7.3,
+   "rating": {
+    "gruende": [
+     "Kein Vorteil: 128,99 € liegt über dem Cardmarket-Trend (120,16 €)",
+     "Begehrtes Produkt (Hype 9/10)"
+    ],
+    "sterne": 1,
+    "urteil": "Eher nicht"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "Pokemon 30 Jahre ETB Englisch",
+   "typ": "etb",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-11-11T14:11:04Z",
    "fake_risiko": false,
    "haendler": "Amazon",
@@ -2051,21 +2090,28 @@
    "haendler": "Amazon",
    "hype": 10,
    "key": "30th-etb-en-pokemon-center",
-   "kurz": "30. Jubiläum-ETB erschienen für 59,99 EUR auf Amazon",
+   "kurz": "30. Jubiläum-ETB bei Amazon im Handel erhältlich",
    "liefertermin": "2026-12-15",
    "lieferwelle": 1,
    "markt": {
-    "ch30": -8.8,
-    "ch7": -1.7,
+    "ch30": -7.9,
+    "ch7": -0.8,
     "hoch": 135.27,
     "id": 895551,
     "low": 90,
     "name": "30th Celebration Elite Trainer Box",
-    "trend": 119.66
+    "trend": 120.16
    },
    "name": "30th Celebration Elite Trainer Box",
    "preis_eur": 113.75,
    "quellen": [
+    {
+     "datum": "2026-11-10T09:13:25Z",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObDh4dFV5d1JaU19ud2Nkd2FuQWZaVWdKUlhwUHN5dVJRdnJ6OExBYnFDLVJ2REd0aGpRSnloUkl6MHVQQmxQSElpbjdBNzFSWkxTd09COUV1SlFBTWtTYjN2Q09VdmtoZUYtYnpXRnVKWlM5VWNzRzRKRnRQQmFRWE9tT2hZV29RTzBUQ1Rn?oc=5",
+     "quelle": "Yahoo",
+     "status": "erschienen",
+     "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop now for under market price"
+    },
     {
      "datum": "2026-11-10T10:45:14Z",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNay16SlYwYUtzODFoNy1fQVVGenJxVlJXWXc4UE50SVRreUhrZEJKUlBiajl1NmdXY095M3NfcDlCVDVfcHlMNUZxMDhIS0JnNVo3WnVJVGdaNnh4QlRJZXgtbFhMYkFuUUdRNGlaZVNSbHJ2T2hMbHRKX2xkMFJRSTRCMm1nUzd6aVBIUWFXLUNyeWtkUXZMYWxHT2hPd1JCOE45MHdB?oc=5",
@@ -2114,13 +2160,6 @@
      "quelle": "Reddit",
      "status": "vorbestellbar",
      "titel": "Target Drop Expected tonight! Midnight PST 3am EST"
-    },
-    {
-     "datum": "2026-10-08T14:26:15Z",
-     "link": "https://www.reddit.com/r/PokeInvesting/comments/1x0scbp/etbs_might_be_the_most_underrated_way_to_build/",
-     "quelle": "Reddit",
-     "status": "angekuendigt",
-     "titel": "ETBs might be the most underrated way to build your Pokémon portfolio"
     }
    ],
    "rating": {

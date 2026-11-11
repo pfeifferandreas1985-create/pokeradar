@@ -1,5 +1,44 @@
 [
  {
+  "datum": "2026-11-11T20:53:58Z",
+  "fake_risiko": false,
+  "haendler": "Netto",
+  "hype": 9,
+  "id": "dfa81810f8fce3cb",
+  "kurz": "30. Jubiläum-ETB bei Netto für 128,99€ nach Gutschein",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-30-jahre-etb-englisch-2869416",
+  "markt": {
+   "ch30": -7.9,
+   "ch7": -0.8,
+   "hoch": 135.27,
+   "id": 895551,
+   "low": 90,
+   "name": "30th Celebration Elite Trainer Box",
+   "trend": 120.16
+  },
+  "preis": 128.99,
+  "preis_eur": 128.99,
+  "produkt": "30th Celebration Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": -7.3,
+  "rating": {
+   "gruende": [
+    "Kein Vorteil: 128,99 € liegt über dem Cardmarket-Trend (120,16 €)",
+    "Begehrtes Produkt (Hype 9/10)"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "Pokemon 30 Jahre ETB Englisch",
+  "typ": "etb",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-11T14:11:04Z",
   "fake_risiko": false,
   "haendler": "Amazon",
