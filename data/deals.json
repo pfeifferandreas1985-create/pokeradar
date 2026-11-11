@@ -1009,46 +1009,6 @@
   "waehrung": "GBP"
  },
  {
-  "datum": "2026-10-12T07:11:39Z",
-  "fake_risiko": false,
-  "haendler": "Amazon",
-  "hype": 9,
-  "id": "e30301271a926dcd",
-  "kurz": "ETB für Scarlet & Violet – Prismatic Evolutions ist vorbestellbar und begehrt",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.hotukdeals.com/deals/pokemon-tcg-scarlet-violet-prismatic-evolutions-elite-trainer-box-5003123",
-  "markt": {
-   "ch30": null,
-   "ch7": -2.4,
-   "hoch": 152.44,
-   "id": 798930,
-   "low": 85,
-   "name": "Prismatic Evolutions Elite Trainer Box",
-   "trend": 146.99
-  },
-  "preis": 41.56,
-  "preis_eur": 49.64,
-  "produkt": "Prismatic Evolutions Elite Trainer Box",
-  "pruefen": null,
-  "quelle": "hotukdeals",
-  "rabatt": 66.2,
-  "rating": {
-   "gruende": [
-    "66 % unter Cardmarket-Trend (49,64 € statt 146,99 €)",
-    "Begehrtes Produkt (Hype 9/10)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 4,
-   "urteil": "Lohnt sich"
-  },
-  "sprache": "en",
-  "status": "vorbestellbar",
-  "titel": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Elite Trainer Box - Available By Invite",
-  "typ": "etb",
-  "waehrung": "GBP"
- },
- {
   "datum": "2026-10-17T06:02:24Z",
   "fake_risiko": false,
   "haendler": "Amazon",
@@ -1573,34 +1533,6 @@
   "status": "vorbestellbar",
   "titel": "Preorder:Pokemon Center Deutschland: Pokemon TCG: Delta Herrschaft Display 165,99 Euro + 6 Euro Versand, Bundle auch verfügbar",
   "typ": "display",
-  "waehrung": "EUR"
- },
- {
-  "datum": "2026-10-12T03:41:00Z",
-  "haendler": null,
-  "hype": 5,
-  "id": "5e1a8651fe8a4f30",
-  "kurz": "Pokémon-Karten: Kaufland verkauft ab heute 30-Jahre-Top-Trainer-Box für 55 Euro",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONHpsMFJpU3IzV3F3TVVYYmpvWkg5SlRQRWdPd3BKWTNFNlo1NG84b2dMOVBJNHZPZW5vclFGVFNfOWNORDRGRGVHbFZGc0N6UVloYnZOMC1TY1dFeHJCemxvcU1ZcmhFbmJKRUxOTlpzMDFiQU1ib2RIZDNPLWNEUnhXeklPNEdKYU9PVkMxc0d1c2FfbElmY3FrNlBRTllBWmFVLTdEdVN4V3ctRmRDREdBRmZFaW9OVG56OENpMGJFZDliYnRLbnppY3E?oc=5",
-  "markt": null,
-  "preis": 55.0,
-  "preis_eur": 55.0,
-  "produkt": "Pokémon-Karten: Kaufland verkauft ab heute 30-Jahre-Top-Trainer-Box für 55 Euro",
-  "quelle": "Giga",
-  "rabatt": null,
-  "rating": {
-   "gruende": [
-    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
-   ],
-   "sterne": 2,
-   "urteil": "Abwarten"
-  },
-  "sprache": "de",
-  "status": "angebot",
-  "titel": "Pokémon-Karten: Kaufland verkauft ab heute 30-Jahre-Top-Trainer-Box für 55 Euro",
-  "typ": "etb",
   "waehrung": "EUR"
  }
 ]
