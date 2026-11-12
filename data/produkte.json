@@ -992,6 +992,45 @@
   "variante": "pokemon-center",
   "vorverkauf_ab": "2026-10-07"
  },
+ "day-night-upc-en": {
+  "aktualisiert": "2026-11-12T10:14:57Z",
+  "erstmals": "2026-11-12T10:14:57Z",
+  "gemeldet": [
+   "neu"
+  ],
+  "gruende": [
+   "Jubiläums-Set",
+   "limitierte Auflage",
+   "großer Fan-Hype"
+  ],
+  "hype": 9,
+  "key": "day-night-upc-en",
+  "kurz": "Pokémon Day & Night: Ultra-Premium-Boxen angekündigt, begehrt",
+  "name": "Day & Night Ultra-Premium-Kollektion",
+  "quellen": [
+   {
+    "datum": "2026-11-12T10:14:57Z",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVDBwenJGcmhSUktaczNpNTVvSnVYbnJMNWp6WVpiSXRQQm9uSXBDaDlGcEh1RTRJN0NJUU9rS1l1UzlXempWU212RUVvOUdMbWxVZjFIOGhlb2R2OHlUNGprcl9rRDJEMHB0S2RVcG9yc1hwelF3aHktalpUb0ZqN2pZeEZuNllidUs1eUNGWQ?oc=5",
+    "quelle": "Softonic",
+    "status": "angekuendigt",
+    "titel": "Pokémon Day & Night is official: ultra-premium TCG boxes"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Jubiläums-Set",
+    "limitierte Auflage",
+    "großer Fan-Hype"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "Day & Night",
+  "sprache": "en",
+  "stage": "angekuendigt",
+  "typ": "upc",
+  "variante": null
+ },
  "deck-buddies-display-en-pokemon-center": {
   "aktualisiert": "2026-10-22T05:34:00Z",
   "erstmals": "2026-10-22T05:34:00Z",

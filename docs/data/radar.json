@@ -1520,34 +1520,6 @@
    "waehrung": "USD"
   },
   {
-   "datum": "2026-10-13T11:55:57Z",
-   "haendler": "EDEKA",
-   "hype": 4,
-   "id": "6e5a8637af7e0cff",
-   "kurz": "18er Display Fatale Flammen bei EDEKA zu 4,99€ ohne Folie",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "link": "https://www.mydealz.de/deals/lokal-edeka-pokemon-fatale-flammen-2853375",
-   "markt": null,
-   "preis": 4.99,
-   "preis_eur": 4.99,
-   "produkt": "Fatale Flammen 18er Display",
-   "quelle": "mydealz",
-   "rabatt": null,
-   "rating": {
-    "gruende": [
-     "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
-    ],
-    "sterne": 2,
-    "urteil": "Abwarten"
-   },
-   "sprache": "de",
-   "status": "angebot",
-   "titel": "[Lokal Edeka] Pokemon Fatale Flammen",
-   "typ": "display",
-   "waehrung": "EUR"
-  },
-  {
    "datum": "2026-10-13T13:37:23Z",
    "haendler": "Walmart",
    "hype": 7,
@@ -2007,6 +1979,42 @@
   }
  ],
  "produkte": [
+  {
+   "aktualisiert": "2026-11-12T10:14:57Z",
+   "erstmals": "2026-11-12T10:14:57Z",
+   "gruende": [
+    "Jubiläums-Set",
+    "limitierte Auflage",
+    "großer Fan-Hype"
+   ],
+   "hype": 9,
+   "key": "day-night-upc-en",
+   "kurz": "Pokémon Day & Night: Ultra-Premium-Boxen angekündigt, begehrt",
+   "name": "Day & Night Ultra-Premium-Kollektion",
+   "quellen": [
+    {
+     "datum": "2026-11-12T10:14:57Z",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVDBwenJGcmhSUktaczNpNTVvSnVYbnJMNWp6WVpiSXRQQm9uSXBDaDlGcEh1RTRJN0NJUU9rS1l1UzlXempWU212RUVvOUdMbWxVZjFIOGhlb2R2OHlUNGprcl9rRDJEMHB0S2RVcG9yc1hwelF3aHktalpUb0ZqN2pZeEZuNllidUs1eUNGWQ?oc=5",
+     "quelle": "Softonic",
+     "status": "angekuendigt",
+     "titel": "Pokémon Day & Night is official: ultra-premium TCG boxes"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Jubiläums-Set",
+     "limitierte Auflage",
+     "großer Fan-Hype"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "Day & Night",
+   "sprache": "en",
+   "stage": "angekuendigt",
+   "typ": "upc",
+   "variante": null
+  },
   {
    "aktualisiert": "2026-11-11T07:18:50Z",
    "erscheint_am": "2026-12-01",

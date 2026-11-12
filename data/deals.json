@@ -1519,34 +1519,6 @@
   "waehrung": "USD"
  },
  {
-  "datum": "2026-10-13T11:55:57Z",
-  "haendler": "EDEKA",
-  "hype": 4,
-  "id": "6e5a8637af7e0cff",
-  "kurz": "18er Display Fatale Flammen bei EDEKA zu 4,99€ ohne Folie",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.mydealz.de/deals/lokal-edeka-pokemon-fatale-flammen-2853375",
-  "markt": null,
-  "preis": 4.99,
-  "preis_eur": 4.99,
-  "produkt": "Fatale Flammen 18er Display",
-  "quelle": "mydealz",
-  "rabatt": null,
-  "rating": {
-   "gruende": [
-    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
-   ],
-   "sterne": 2,
-   "urteil": "Abwarten"
-  },
-  "sprache": "de",
-  "status": "angebot",
-  "titel": "[Lokal Edeka] Pokemon Fatale Flammen",
-  "typ": "display",
-  "waehrung": "EUR"
- },
- {
   "datum": "2026-10-13T13:37:23Z",
   "haendler": "Walmart",
   "hype": 7,
