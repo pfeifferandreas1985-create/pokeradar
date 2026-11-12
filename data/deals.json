@@ -1,5 +1,44 @@
 [
  {
+  "datum": "2026-11-12T16:00:42Z",
+  "fake_risiko": false,
+  "haendler": "Amazon.co.jp",
+  "hype": 9,
+  "id": "39b35462c1359c58",
+  "kurz": "30. Jubiläums-Deck-Set mit Nachtara und Psiana nur per Einladung bei Amazon JP.",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-30th-celebration-premium-deck-set-nachtara-psiana-amazon-jp-einladung-2870011",
+  "markt": {
+   "ch30": -11.4,
+   "ch7": -9.6,
+   "hoch": 165.74,
+   "id": 891464,
+   "low": 84.49,
+   "name": "30th Celebration JP Booster Box",
+   "trend": 140.22
+  },
+  "preis": 34.97,
+  "preis_eur": 34.97,
+  "produkt": "30th Celebration JP Booster Box",
+  "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
+  "quelle": "mydealz",
+  "rabatt": 75.1,
+  "rating": {
+   "gruende": [
+    "75 % unter Cardmarket-Trend (34,97 € statt 140,22 €)",
+    "Begehrtes Produkt (Hype 9/10)"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "sprache": "jp",
+  "status": "angebot",
+  "titel": "Pokemon 30th Celebration Premium Deck Set Nachtara Psiana (Amazon JP / Einladung)",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-11T20:53:58Z",
   "fake_risiko": false,
   "haendler": "Netto",
@@ -1326,34 +1365,6 @@
   "waehrung": "USD"
  },
  {
-  "datum": "2026-10-13T15:30:55Z",
-  "haendler": "Amazon",
-  "hype": 5,
-  "id": "c75815acf85ce2a5",
-  "kurz": "Pokémon Sammelkartenspiel: Sammeldeal mit allen verfügbaren Produkten mit Amazon Einladung",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-sammeldeal-mit-allen-verfugbaren-produkten-mit-amazon-einladung-2853462",
-  "markt": null,
-  "preis": 29.94,
-  "preis_eur": 29.94,
-  "produkt": "Pokémon Sammelkartenspiel: Sammeldeal mit allen verfügbaren Produkten mit Amazon Einladung",
-  "quelle": "mydealz",
-  "rabatt": null,
-  "rating": {
-   "gruende": [
-    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
-   ],
-   "sterne": 2,
-   "urteil": "Abwarten"
-  },
-  "sprache": "de",
-  "status": "angebot",
-  "titel": "Pokémon Sammelkartenspiel: Sammeldeal mit allen verfügbaren Produkten mit Amazon Einladung",
-  "typ": "display",
-  "waehrung": "EUR"
- },
- {
   "datum": "2026-10-21T15:16:19Z",
   "haendler": null,
   "hype": 9,
@@ -1517,71 +1528,5 @@
   "titel": "Pokémon TCG 30th Celebration Elite Trainer Box Available for $159.99 on Amazon",
   "typ": "etb",
   "waehrung": "USD"
- },
- {
-  "datum": "2026-10-13T13:37:23Z",
-  "haendler": "Walmart",
-  "hype": 7,
-  "id": "213e04100e756100",
-  "kurz": "Elite Trainer Box bei Walmart günstig, 20€ gespart",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DeVpzVGVXZVg3NEMxRFdIMnVfaEl0Z1VVdTBHYXdFVXR1N1g5eld3Z0F5MjNlbll4dGUzS21TZFk0TDFvclhEQk9BVWF0TmdnTG55dFRDQUphVHN3NzR2ZEFodmpUNUxVNlpUd05FYjh1bkRGZDNEVEtsSDNFQQ?oc=5",
-  "markt": null,
-  "preis": 120.0,
-  "preis_eur": 107.32,
-  "produkt": "Elite Trainer Box",
-  "quelle": "IGN",
-  "rabatt": null,
-  "rating": {
-   "gruende": [
-    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 1,
-   "urteil": "Eher nicht"
-  },
-  "sprache": "en",
-  "status": "angebot",
-  "titel": "Pokémon TCG: Elite Trainer Box is now down to $120 at Walmart — save $20 compared to Amazon",
-  "typ": "etb",
-  "waehrung": "USD"
- },
- {
-  "datum": "2026-10-13T16:03:59Z",
-  "haendler": "Pokemon Center",
-  "hype": 8,
-  "id": "a67df3fcbcf2165e",
-  "kurz": "Delta Herrschaft Display vorbestellbar mit Limit 2, günstig im Angebot",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.mydealz.de/deals/pokemon-center-deutschland-pokemon-tcg-delta-herrschaft-top-trainer-box-ttb-6199-euro-6-euro-versand-display-und-bundle-verfugbar-2853478",
-  "markt": {
-   "ch30": null,
-   "ch7": -3.6,
-   "hoch": 234.3,
-   "id": 903956,
-   "low": 175,
-   "name": "Delta Reign Booster Box",
-   "trend": 223.57
-  },
-  "preis": 165.99,
-  "preis_eur": 165.99,
-  "produkt": "Delta Reign Booster Box",
-  "quelle": "mydealz",
-  "rabatt": 25.8,
-  "rating": {
-   "gruende": [
-    "26 % unter Cardmarket-Trend (165,99 € statt 223,57 €)",
-    "Begehrtes Produkt (Hype 8/10)"
-   ],
-   "sterne": 4,
-   "urteil": "Lohnt sich"
-  },
-  "sprache": "de",
-  "status": "vorbestellbar",
-  "titel": "Preorder:Pokemon Center Deutschland: Pokemon TCG: Delta Herrschaft Display 165,99 Euro + 6 Euro Versand, Bundle auch verfügbar",
-  "typ": "display",
-  "waehrung": "EUR"
  }
 ]
