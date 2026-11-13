@@ -642,7 +642,7 @@
   "variante": null
  },
  "30th-etb-en-pokemon-center": {
-  "aktualisiert": "2026-11-11T10:39:21Z",
+  "aktualisiert": "2026-11-13T17:06:58Z",
   "erscheint_am": "2026-11-01",
   "erstmals": "2026-09-18T00:29:28Z",
   "gemeldet": [
@@ -657,21 +657,28 @@
   "haendler": "Amazon",
   "hype": 10,
   "key": "30th-etb-en-pokemon-center",
-  "kurz": "30. Jubiläum-ETB live bei Amazon, günstig und knapp",
+  "kurz": "30. Jubiläum-Elite-Box vorbestellbar mit untermarkt-Preis",
   "liefertermin": "2026-12-15",
   "lieferwelle": 1,
   "markt": {
-   "ch30": -7.8,
+   "ch30": -8.8,
    "ch7": -0.8,
    "hoch": 135.27,
    "id": 895551,
    "low": 90,
    "name": "30th Celebration Elite Trainer Box",
-   "trend": 120.35
+   "trend": 119.98
   },
   "name": "30th Celebration Elite Trainer Box",
   "preis_eur": 113.75,
   "quellen": [
+   {
+    "datum": "2026-11-13T17:06:58Z",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWU90a3FvT1daOG93TVBka0tEYlRrQW55OWRNazFGeWhFYVk5X29Gejdtc2tpU3hNc2xhNHNBd0E2NExZV3AyUFlIcmR4SGllMTFtZXBIQjM2WUl3bFpUbm84dUEzczE3bGZLREV0VzhMbGtrSXA2Q2VpQldpRUx0Uk1WTVg4SnRtU2xvbA?oc=5",
+    "quelle": "Mashable",
+    "status": "vorbestellbar",
+    "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop for under market price"
+   },
    {
     "datum": "2026-11-06T11:42:17Z",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkU1bWxkc0VDUUV2SUk0Y19BWFJBVm9wblRUXzZ6T1hJSGFWam9OZzlhN2NKaTJCenYtaUJKQ0VmN1J2V1Bzd2hVY3hxNFRRUkNILVpaTHhJcDE3X0VBVjlYaElBaUxIQU15X3k1clp6ejFSNjd5d0hiS2p0SjdpSVFyeXp3eVowYlZ3TXFR?oc=5",
@@ -720,13 +727,6 @@
     "quelle": "Reddit",
     "status": "vorbestellbar",
     "titel": "30th Celebration Elite Trainer Box Lottery amazon!"
-   },
-   {
-    "datum": "2026-10-17T17:05:01Z",
-    "link": "https://www.reddit.com/r/PokeInvesting/comments/1x8ffje/30th_anniversary_celebration_elite_trainer_boxes/",
-    "quelle": "Reddit",
-    "status": "angekuendigt",
-    "titel": "30th Anniversary Celebration Elite Trainer Boxes $128"
    }
   ],
   "rating": {
@@ -744,7 +744,7 @@
   "stage": "nachschub",
   "typ": "etb",
   "variante": null,
-  "vorverkauf_ab": "2026-11-06"
+  "vorverkauf_ab": "2026-11-13"
  },
  "30th-upc-upc-en": {
   "aktualisiert": "2026-11-12T12:59:01Z",
