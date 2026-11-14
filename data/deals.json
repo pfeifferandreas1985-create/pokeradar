@@ -1,5 +1,45 @@
 [
  {
+  "datum": "2026-11-13T13:07:23Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 8,
+  "id": "30813cb541656ddd",
+  "kurz": "Ascended Heroes-ETB mit Tiefpreis – lohnt sich für Sammler.",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZThBMWp1RjJCWmt3am1ZcjcyT1JpUkxsdk8xZGVsLVZVT2prZFNUdkJRemtyQ0kzTGROV20tSjZJdHd6eDBjN0R0Rm5uN3pCcjVrSVQ2NnlJZHdRZmY4cWVPbzYwdnJrcGF3V3FVYi10RXNTZkNGa3BZYUJJQ0ZRS0JmUXZOZV9CN1VEbQ?oc=5",
+  "markt": {
+   "ch30": 0.2,
+   "ch7": 2.8,
+   "hoch": 132.06,
+   "id": 860574,
+   "low": 70,
+   "name": "Ascended Heroes Elite Trainer Box",
+   "trend": 126.21
+  },
+  "preis": 35.0,
+  "preis_eur": 31.67,
+  "produkt": "Ascended Heroes Elite Trainer Box",
+  "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
+  "quelle": "Yahoo",
+  "rabatt": 74.9,
+  "rating": {
+   "gruende": [
+    "75 % unter Cardmarket-Trend (31,67 € statt 126,21 €)",
+    "Begehrtes Produkt (Hype 8/10)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 4,
+   "urteil": "Lohnt sich"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "The Pokémon TCG Ascended Heroes Elite Trainer Box hits its lowest price in months — save $35",
+  "typ": "etb",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-11-13T15:00:33Z",
   "fake_risiko": false,
   "haendler": "Amazon",
@@ -1483,43 +1523,6 @@
   "titel": "Pokémon-Sammelkartenspiel: Boosterpack-Display-Box Mega-Entwicklung – Delta-Herrschaft (36 Boosterpacks)",
   "typ": "display",
   "waehrung": "EUR"
- },
- {
-  "datum": "2026-10-15T13:23:24Z",
-  "haendler": null,
-  "hype": 7,
-  "id": "1806b8a0b14f36d1",
-  "kurz": "The Pokémon TCG 30th Celebration ETB is close to market price at Amazon — shop for $159.99",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONE9nSDJaTnBCQV9rdFVLLW9xNmVUMEtIYm13cUZxT2VneDFuOWRvS05rRVNRMzJrRDUwdTY3RWFRYU52RFZoUUpKeGFQMmRLVjFzbV9hb1hnckcxQWRHemh6Rk1WaXZlSU9GOEZoYlIyR0dLSFpJcWtpeUFFUVBLN1M5MzZXOGJNaEF1STNR?oc=5",
-  "markt": {
-   "ch30": null,
-   "ch7": 0.6,
-   "hoch": 135.27,
-   "id": 895551,
-   "low": 88,
-   "name": "30th Celebration Elite Trainer Box",
-   "trend": 132
-  },
-  "preis": 159.99,
-  "preis_eur": 142.75,
-  "produkt": "30th Celebration Elite Trainer Box",
-  "quelle": "Yahoo",
-  "rabatt": -8.1,
-  "rating": {
-   "gruende": [
-    "Kein Vorteil: 142,75 € liegt über dem Cardmarket-Trend (132,00 €)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 1,
-   "urteil": "Eher nicht"
-  },
-  "sprache": "en",
-  "status": "angebot",
-  "titel": "The Pokémon TCG 30th Celebration ETB is close to market price at Amazon — shop for $159.99",
-  "typ": "etb",
-  "waehrung": "USD"
  },
  {
   "datum": "2026-10-16T00:34:54Z",

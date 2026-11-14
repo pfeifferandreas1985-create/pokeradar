@@ -551,7 +551,7 @@
   "variante": null
  },
  "30th-celebration-etb-jp-pokemon-center": {
-  "aktualisiert": "2026-09-30T05:02:42Z",
+  "aktualisiert": "2026-11-14T13:05:37Z",
   "erstmals": "2026-09-30T05:02:42Z",
   "gemeldet": [],
   "gruende": [
@@ -562,11 +562,18 @@
   ],
   "hype": 10,
   "key": "30th-celebration-etb-jp-pokemon-center",
-  "kurz": "Japanische Vorbestellung für Pokémon 30. Jubiläum-ETB mit Draw.",
+  "kurz": "30. Jubiläum-ETB in Japan vorbestellbar – begehrt und knapp.",
   "liefertermin": "2026-11-15",
   "lieferwelle": 1,
   "name": "Pokémon Center 30th Celebration",
   "quellen": [
+   {
+    "datum": "2026-11-14T13:05:37Z",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16Y1BNa2hNSWxFV2JrY1hqWVE0WEFYZXphTFVIQXJSWjJvUjNvNV9xUWRsWFE5RklTY3BnWDJYaUVWaUhMdmI1ZnRfdWg?oc=5",
+    "quelle": "SNKRDUNK",
+    "status": "vorbestellbar",
+    "titel": "【ポケカ】30th CELEBRATION(30th セレブレーション)の予約・抽選情報まとめ【9/15更新】 | スニーカーダンク"
+   },
    {
     "datum": "2026-09-28T07:00:00Z",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhY28xVVJlcVRwa0E4WEN4SHJPamUwTkJBZ0pyTmgtZDBsa2FTX05hcUxheVZBeEEwcHV2OEo4RFFsNVczMzlGSGdaY3E?oc=5",
@@ -597,7 +604,7 @@
   "stage": "vorbestellbar",
   "typ": "etb",
   "variante": "pokemon-center",
-  "vorverkauf_ab": "2026-10-01"
+  "vorverkauf_ab": "2026-09-15"
  },
  "30th-celebration-m6a-display-de": {
   "aktualisiert": "2026-10-26T09:58:56Z",
@@ -657,7 +664,7 @@
   "haendler": "Amazon",
   "hype": 10,
   "key": "30th-etb-en-pokemon-center",
-  "kurz": "30. Jubiläum-Elite-Box vorbestellbar mit untermarkt-Preis",
+  "kurz": "30. Jubiläum-ETB live auf Amazon – begehrt, knapp und exklusiv.",
   "liefertermin": "2026-12-15",
   "lieferwelle": 1,
   "markt": {
@@ -672,6 +679,13 @@
   "name": "30th Celebration Elite Trainer Box",
   "preis_eur": 113.75,
   "quellen": [
+   {
+    "datum": "2026-11-13T10:54:54Z",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXJaVXlYNmJUR2lqWHdZSFRaU0tqWUdITm5SNlRuOTYtSWZGa3ZlZWdWVEZuODk4a2hMVVFrOG4zYUhQMDNQc1hzQWd5Y2Y4R1RWMnEtQXQyQVNnSl9JY0pmX2hoalVhYjB1Z0xWYmk4SDF3NHcwWjV1WHprby1MdWUwUml2eDMzTHBXZm1n?oc=5",
+    "quelle": "Yahoo",
+    "status": "vorbestellbar",
+    "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop for under market price"
+   },
    {
     "datum": "2026-11-13T17:06:58Z",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWU90a3FvT1daOG93TVBka0tEYlRrQW55OWRNazFGeWhFYVk5X29Gejdtc2tpU3hNc2xhNHNBd0E2NExZV3AyUFlIcmR4SGllMTFtZXBIQjM2WUl3bFpUbm84dUEzczE3bGZLREV0VzhMbGtrSXA2Q2VpQldpRUx0Uk1WTVg4SnRtU2xvbA?oc=5",
@@ -720,13 +734,6 @@
     "quelle": "Mashable",
     "status": "vorbestellbar",
     "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop now for way under market price"
-   },
-   {
-    "datum": "2026-10-21T05:01:28Z",
-    "link": "https://www.reddit.com/r/PKMNTCGDeals/comments/1xbe6es/30th_celebration_elite_trainer_box_lottery_amazon/",
-    "quelle": "Reddit",
-    "status": "vorbestellbar",
-    "titel": "30th Celebration Elite Trainer Box Lottery amazon!"
    }
   ],
   "rating": {
