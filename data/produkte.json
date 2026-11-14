@@ -747,7 +747,7 @@
   "vorverkauf_ab": "2026-11-13"
  },
  "30th-upc-upc-en": {
-  "aktualisiert": "2026-11-12T12:59:01Z",
+  "aktualisiert": "2026-11-13T09:36:50Z",
   "erscheint_am": "2026-11-30",
   "erstmals": "2026-10-14T00:41:32Z",
   "gemeldet": [
@@ -761,15 +761,22 @@
    "Hype um Evolutions-Entwicklungen",
    "30. Jubiläum, exklusiv, limitiert"
   ],
-  "haendler": "Amazon",
+  "haendler": "Amazon, Walmart, Target",
   "hype": 9,
   "key": "30th-upc-upc-en",
-  "kurz": "30. Jubiläum-UPC wieder erhältlich, knapp und begehrt",
+  "kurz": "Ultra-Premium-Kollektionen für 30. Jubiläum wieder verfügbar",
   "liefertermin": null,
   "lieferwelle": null,
   "name": "30th UPC Ultra Premium Collection",
   "preis_eur": null,
   "quellen": [
+   {
+    "datum": "2026-11-13T09:36:50Z",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkZHMTc3d0pjVVl5dzJBVGtocXBfeHZXUzg5cThBa1Y3a0VYNjhuYU9WeTByR2JLVWRuZjVZLW13c3RjVVdtTmswekdwWFFOeWlLd0dOYmR1eEVvLUNfWHFJYXl1WHUwcVFkdDljeTZhU3hoZ28zS0wwZk5ndk9fbWV3UmYwQVJrOWNSMnlJbzVObDlP?oc=5",
+    "quelle": "Yahoo",
+    "status": "nachschub",
+    "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections: Live restock updates at Amazon, Walmart, and Target (Nov. 13)"
+   },
    {
     "datum": "2026-11-12T12:59:01Z",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN095TzJyR2FUY3M3VlRCSEpLSEczNjlpV1VXenp0eWJCa3lrX0swQVYtVEp2UndzNVdWa2JmWFktSEJ6bXdUUi10c1IwNVpYOUhSSTExcWt1WjBlUmh0TVRnelJxWFhlaXM3ZWNoNHpYX083dGJQdHRCcmoyUDFpd0JBNUhXV3hiUThuV0VFLXctWXFrY1EwRjFhM1o?oc=5",
@@ -818,13 +825,6 @@
     "quelle": "TalkEsport",
     "status": "vorbestellbar",
     "titel": "Pokémon Fans Camp Outside a French Fnac a Day Early for the 30th Celebration Ultra-Premium Collection"
-   },
-   {
-    "datum": "2026-11-05T19:36:24Z",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ01lRWNOdTZqQWdBVXdBNHFoYWZpU3hZRVRfOFJPQUY0U2JUcG1odG9WcUtyZXdVUkFfTjROdmlJT0lyTDhtbU41cWZSbmtHQVZOM0VJMEM0c3NIX2htQzBQbTg4UlFld25Ua1VfNEtMWThfMjZjQ3NEVFRMM2twWDBadnVDNFBTM1hlckFyc1FiMEJ5c3NIbHI2SzVwVjNjZWFJ?oc=5",
-    "quelle": "Polygon.com",
-    "status": "angekuendigt",
-    "titel": "Pokémon's 30th Anniversary's UPC release: Target vs. Best Buy"
    }
   ],
   "rating": {
