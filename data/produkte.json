@@ -240,7 +240,7 @@
   "vorverkauf_ab": "2026-10-01"
  },
  "30th-celebration-display-jp-18er": {
-  "aktualisiert": "2026-11-13T00:00:00Z",
+  "aktualisiert": "2026-11-14T09:35:35Z",
   "erscheint_am": null,
   "erstmals": "2026-09-28T10:45:03Z",
   "gemeldet": [],
@@ -253,21 +253,28 @@
   "haendler": "Rakuten",
   "hype": 10,
   "key": "30th-celebration-display-jp-18er",
-  "kurz": "Ziehungsverkauf für Jubiläumspack und Special Decks startet 18.11.",
+  "kurz": "30. Jubiläum: Premium-Decks mit Eufi-Blakkie-Karten werden wieder vertrieben",
   "liefertermin": null,
   "lieferwelle": null,
   "markt": {
-   "ch30": -11.4,
-   "ch7": -9.6,
+   "ch30": -16.1,
+   "ch7": -10.5,
    "hoch": 165.74,
    "id": 891464,
    "low": 84.49,
    "name": "30th Celebration JP Booster Box",
-   "trend": 140.22
+   "trend": 136.01
   },
   "name": "30th Celebration JP Booster Box",
   "preis_eur": 125.02,
   "quellen": [
+   {
+    "datum": "2026-11-14T09:35:35Z",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hMW53cGE2X2J5UDNaLWRXTkIwaGV0UzZNaC1wYUVSZVNtTWZqenpFMWUyYUpuZDZsZFlkXzFNOXpnMnd3VXB2RElJQU0?oc=5",
+    "quelle": "SNKRDUNK",
+    "status": "vorbestellbar",
+    "titel": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ"
+   },
    {
     "datum": "2026-11-13T00:00:00Z",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJWlBMVG1adlVTWk5KY3plaTdKeWI1aXhLbC0xajgzbldxZi1fQjVHaExUWkE3RlNUNDdzOEkzWV9POWd6aUo0elA2dXVFRjdxYVJjMkR1bw?oc=5",
@@ -316,13 +323,6 @@
     "quelle": "インサイド",
     "status": "vorbestellbar",
     "titel": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象 1枚目の写真・画像"
-   },
-   {
-    "datum": "2026-09-28T10:45:03Z",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zSC12dXN0ZURrNDdoT3VKc0RqUUYyN2VEaUhfVFg3dmFualRuYXVlTEZBZUNkOTNuLVl5ZWo1cWt2OGRMbHpqTUFEbzJGZDI0Q3poR2I5T1FCVXNvUEJYTlJVenZIUWZNOXg0MWpSM19xcEZQSlU3ZGZn?oc=5",
-    "quelle": "インサイド",
-    "status": "vorbestellbar",
-    "titel": "ゲオで『ポケカ』30周年記念拡張パック「30th CELEBRATION」が抽選販売中！1BOX限定でパック単位は受付不可 1枚目の写真・画像"
    }
   ],
   "rating": {
