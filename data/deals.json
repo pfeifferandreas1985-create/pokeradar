@@ -1523,43 +1523,5 @@
   "titel": "Pokémon-Sammelkartenspiel: Boosterpack-Display-Box Mega-Entwicklung – Delta-Herrschaft (36 Boosterpacks)",
   "typ": "display",
   "waehrung": "EUR"
- },
- {
-  "datum": "2026-10-16T00:34:54Z",
-  "haendler": "Amazon",
-  "hype": 9,
-  "id": "d04c7c9ce441cc13",
-  "kurz": "30. Jubiläum-Elite-Box für 159,99 USD auf Amazon verfügbar",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2x0SWVUeHpNdEFtdU1wT0tfQVBMYVZlei01LW9mYTRTUlJBMVU4RnpKVDVyRjRvMXRjZllnN19HdEdUX1AtR2xFS1E3WWtGUS10MzMwWlN3N2RQcTlOZEp2ZWNETnlma2R1emlXakhpMGk5U09YQXM3MjBzQTBseWVXTVpzYXJkNlVxZ014U3JWdkRDODZRNGE0QXJJMk5ISC1TZ2xTTQ?oc=5",
-  "markt": {
-   "ch30": null,
-   "ch7": 0.6,
-   "hoch": 135.27,
-   "id": 895551,
-   "low": 88,
-   "name": "30th Celebration Elite Trainer Box",
-   "trend": 132
-  },
-  "preis": 159.99,
-  "preis_eur": 142.75,
-  "produkt": "30th Celebration Elite Trainer Box",
-  "quelle": "SSBCrack",
-  "rabatt": -8.1,
-  "rating": {
-   "gruende": [
-    "Kein Vorteil: 142,75 € liegt über dem Cardmarket-Trend (132,00 €)",
-    "Begehrtes Produkt (Hype 9/10)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 1,
-   "urteil": "Eher nicht"
-  },
-  "sprache": "en",
-  "status": "angebot",
-  "titel": "Pokémon TCG 30th Celebration Elite Trainer Box Available for $159.99 on Amazon",
-  "typ": "etb",
-  "waehrung": "USD"
  }
 ]
