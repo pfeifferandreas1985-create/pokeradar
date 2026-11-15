@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "datum": "2026-11-15T18:08:40Z",
+   "fake_risiko": false,
+   "haendler": null,
+   "hype": 7,
+   "id": "89a2a4105efb61bd",
+   "kurz": "Pokemon Center: Pokémon-Sammelkartenspiel: Boosterbundle Mega-Entwicklung – Dunkelnacht (6 Boosterpacks) o. Display 165,99 +VSK",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.mydealz.de/deals/pokemon-center-pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-dunkelnacht-6-boosterpacks-o-display-16599-vsk-2871985",
+   "markt": null,
+   "preis": 33.45,
+   "preis_eur": 33.45,
+   "produkt": "Pokemon Center: Pokémon-Sammelkartenspiel: Boosterbundle Mega-Entwicklung – Dunkelnacht (6",
+   "pruefen": null,
+   "quelle": "mydealz",
+   "rabatt": null,
+   "rating": {
+    "gruende": [
+     "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
+    ],
+    "sterne": 2,
+    "urteil": "Abwarten"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "Pokemon Center: Pokémon-Sammelkartenspiel: Boosterbundle Mega-Entwicklung – Dunkelnacht (6 Boosterpacks) o. Display 165,99 +VSK",
+   "typ": "display",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-11-15T08:30:00Z",
    "fake_risiko": false,
    "haendler": null,
