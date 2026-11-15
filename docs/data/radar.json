@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "datum": "2026-11-15T08:30:00Z",
+   "fake_risiko": false,
+   "haendler": null,
+   "hype": 5,
+   "id": "1e2099b839ef3019",
+   "kurz": "Ditto Premium für 49,99€ – knapp und teuer im Markt",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd01NbmVnN2wwMW1YZU00dWxTOHBlVHJ2WFdnR1pzQUt5VkJ1bG1PX3JfSjRiaHpTVlA0N19Xa19FZkRXRFgzam5rRFRicGlNQWJWTWg5bS1OTDV2ZXVRNkd2akt1VExNRVEtazFsVFV3MlRnWmY1MVdWalRCbkJDRnoxejBvdlFuTkFzUktFZk14OVVOTGFRVEIwUEJoZ0NIUW52SktRVVl0ZE52ZlRrcHZQZnJaSFlyMUdvZjM5S2h4cVhjWk1DNnlSaVlLcmNrRVlRbDRSOA?oc=5",
+   "markt": null,
+   "preis": 49.99,
+   "preis_eur": 49.99,
+   "produkt": "Ditto Premium-Kollektion",
+   "pruefen": null,
+   "quelle": "PCGH",
+   "rabatt": null,
+   "rating": {
+    "gruende": [
+     "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
+    ],
+    "sterne": 2,
+    "urteil": "Abwarten"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "30 Jahre Pokémon: Ditto Premium-Kollektion für nur 49,99 Euro - anderswo doppelt so teuer",
+   "typ": "upc",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-11-13T13:07:23Z",
    "fake_risiko": false,
    "haendler": "Amazon",
@@ -1526,19 +1556,7 @@
    "waehrung": "EUR"
   }
  ],
- "hinweise": [
-  {
-   "datum": "2026-11-08T13:52:22Z",
-   "id": "8d46dac9153661d9",
-   "link": "https://www.reddit.com/r/PokeInvesting/comments/1xqywpc/title_warning_major_ebay_live_seller_using/",
-   "produkt": "Elite Trainer Box",
-   "quelle": "Reddit",
-   "sprache": "en",
-   "status": "vorbestellbar",
-   "titel": "TITLE: WARNING: Major eBay Live Seller Using Pokémon ETB Pre-Orders for Short-Term Cash Float / Liquidity",
-   "typ": "etb"
-  }
- ],
+ "hinweise": [],
  "konfig": {
   "alarm_prozent": 15.0,
   "mindestpreis": 40.0,
