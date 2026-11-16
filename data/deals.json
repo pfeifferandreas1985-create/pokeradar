@@ -1,5 +1,65 @@
 [
  {
+  "datum": "2026-11-16T10:00:00Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 4,
+  "id": "cd55521e3840f3cc",
+  "kurz": "Ditto Premium-Kollektion für 49,99€ bei Amazon, teurer sonstwo",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV0FKajBVc013VEZHUTJ1c01QNW5YelBuQUR5T3RDcUgxRDlqZ05JbllWTzRZSzF4V0ZQUGd6WFJSaXgyczhUOUxqeml0bWpRV1BuclJtNWRpZUE4SGM0MjNxYWs1SHV0R0h0U2Jka0dncTNsOVRDUm1GUDVXZHoyT0Fzb3hXd2w5UE1WVVhlc0NXVlRMYjN4R2VYRlNzcDk0V0dKVWJoYnNDaXZ1aVZVcmVxVWFMV2xZTjdOSE9kd0F2MmpWM0NKSlVTQ3ZSZw?oc=5",
+  "markt": null,
+  "preis": 49.99,
+  "preis_eur": 49.99,
+  "produkt": "Ditto Premium Collection Ultra-Premium-Kollektion",
+  "pruefen": null,
+  "quelle": "PC Games (DE)",
+  "rabatt": null,
+  "rating": {
+   "gruende": [
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "30 Jahre Pokémon: Ditto Premium-Kollektion nur 49,99 Euro bei Amazon – anderswo dreimal so teuer",
+  "typ": "upc",
+  "waehrung": "EUR"
+ },
+ {
+  "datum": "2026-11-16T10:02:12Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 7,
+  "id": "5e7630eccb4fed87",
+  "kurz": "Einladung für Nacht Ultra Premium Kollektion anforderbar, Preis 209,99€ bei Amazon",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-30-jahre-jubilaum-ultra-premium-kollektion-tag-amazon-einladung-2872532",
+  "markt": null,
+  "preis": 209.99,
+  "preis_eur": 209.99,
+  "produkt": "Night Ultra Premium Collection Ultra-Premium-Kollektion",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": null,
+  "rating": {
+   "gruende": [
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "Pokemon Sammelkartenspiel: 30 Jahre Jubiläum Ultra Premium Kollektion Tag (Amazon Einladung)",
+  "typ": "upc",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-15T18:08:40Z",
   "fake_risiko": false,
   "haendler": null,
