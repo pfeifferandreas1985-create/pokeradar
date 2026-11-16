@@ -1255,44 +1255,6 @@
   "waehrung": "GBP"
  },
  {
-  "datum": "2026-10-17T06:02:24Z",
-  "fake_risiko": false,
-  "haendler": "Amazon",
-  "hype": 7,
-  "id": "fe952ae813cf4d59",
-  "kurz": "Exklusives Booster-Bundle mit Einladung, knapp und begehrt",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.preisjaeger.at/deals/amazon-pokemon-sammelkartenspiel-mega-entwicklung-erhabene-helden-booster-bundle-einladung-erforderlich-370820",
-  "markt": {
-   "ch30": null,
-   "ch7": 2.1,
-   "hoch": 248.67,
-   "id": 834832,
-   "low": 140,
-   "name": "Mega Evolution Booster Box",
-   "trend": 224.69
-  },
-  "preis": 28.1,
-  "preis_eur": 28.1,
-  "produkt": "Mega Evolution Booster Box",
-  "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
-  "quelle": "Preisjäger",
-  "rabatt": 87.5,
-  "rating": {
-   "gruende": [
-    "88 % unter Cardmarket-Trend (28,10 € statt 224,69 €)"
-   ],
-   "sterne": 5,
-   "urteil": "Top-Chance"
-  },
-  "sprache": "de",
-  "status": "angebot",
-  "titel": "[Amazon] Pokémon-Sammelkartenspiel - Mega-Entwicklung Erhabene Helden Booster Bundle - Einladung erforderlich",
-  "typ": "display",
-  "waehrung": "EUR"
- },
- {
   "datum": "2026-10-17T20:42:06Z",
   "fake_risiko": false,
   "haendler": "Amazon",
