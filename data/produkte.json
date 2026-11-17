@@ -811,12 +811,19 @@
   "haendler": "Amazon",
   "hype": 9,
   "key": "30th-upc-upc-en",
-  "kurz": "UPC 30. Jubiläum auf Amazon erhältlich, Marktpreis",
+  "kurz": "30. Jubiläums-UPC erschienen, hoher Nachfrage- und Hype-Status",
   "liefertermin": null,
   "lieferwelle": null,
   "name": "30th UPC Ultra Premium Collection",
   "preis_eur": null,
   "quellen": [
+   {
+    "datum": "2026-11-16T10:13:10Z",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWtCQXVuSHRmSnZqbkl3ZXpmX0dNSnNBWTdoM2xsNWdmVXRHTlhnRHVmU0xrQ2ZPNmc0ZlQxaUwzZGlrZWU3bnJEcUlhc0w2Zjc2REwtVHJXYnRtY0NkSmltT1JrczgwSkVaQW5DbjZjZk5uTG83WHJfNkoxRWdWV1cxQXAzVy14djZHbEZB?oc=5",
+    "quelle": "Yahoo",
+    "status": "erschienen",
+    "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Buy at market price"
+   },
    {
     "datum": "2026-11-16T10:13:10Z",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWo1dGtyelpPSnNXNGt3d01xa2VfNmFvV2ljN1djU2dubDhpNTU4cFZJWHExMi1MZ254RUt4djBTRzZaNXc2dnZmWjdSZTJiclp1SDIwbWNaUGtfQUFuTE5Ia0xoSnZuaVBqd2hzQ0ZNenZLVHN0aV84VThhakZoRE1fRnlaS283RmU3cw?oc=5",
@@ -865,13 +872,6 @@
     "quelle": "Yahoo",
     "status": "vorbestellbar",
     "titel": "The Pokémon TCG 30th Celebration Ultra-Premium Collection is live at Amazon: Preorder now"
-   },
-   {
-    "datum": "2026-11-06T20:13:30Z",
-    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOTllRYzhMLXljaUc5NVNySHhhWkRpVmpQb2JxbkFFU3Q2S1lTT1VVckt0X1F1ZDE2Q3ZodnFOSS1Tdy1iZU1QWUdIY1M0OHJYUHg4Q2pHNjhSUzA0Q2xZTjVMdWREZHJnelZJd05ZNGt0X0hOcTRCT2Yxc04tNkN1Q3pmR2JSMl95NWlaTi1HenNrcnlwdGROVHJSbUhnM25Db2NUWVdna2NLV1dCZHIzeXVtdV9rd2dwRWlCbl9ENl9BTDFjcmp1aEN5RFNfY3l5MTZDZzhlcmJCc244UGVmclYxVFlvWVdUd3M2blI0cEJQTDJjbmhzZ0dWRzUxMFFDaHhJUXE4UjcyS2JEMFVXZEdEaWtaZFJxdlRGNkZhYlJKSWNMajg3eGZnVdIBpAJBVV95cUxQaXpjT2dXbjNmd0RpU1U2OTY1WU54c2RGZXl1YTBNa3FCRTB4dDU4ZTltWHEwdlp2ZHNfdEFlSE5JTzFzaFVISVdVRUMzMVlobFFlZFIzSUduX2RhR1R4YVJaUzF4U2hyWEhkeFlheGxrTS11N2Yya0RiU1BpOS1QUmM0aE5LUHkxZk00dEI3ZzFFeUVzWU1Db2Nud3J3aXozbTFEeXIxRjl2MFJWTUdia0luZnY0S2huSEJZdHJiaE1yMVdSOXFQYUE3ZWtFVGh1SDRzbnJWQm5TYXdkQmdaWDVEZEZRTHhSNWlUUU1sOC1QRXQwTjNHTVczSFAycDFaUDZkNVEtTEJJTS1adFVPLTdPVGJrMWo0TTlWMUZiTVVDM2Ff?oc=5",
-    "quelle": "The Economic Times",
-    "status": "angekuendigt",
-    "titel": "Pokémon 30th anniversary ultra-premium collection arriving with exclusive cards and accessories on Novembe"
    }
   ],
   "rating": {
@@ -2579,22 +2579,30 @@
   "variante": null
  },
  "scarletex-violetex-special-set-etb-jp-pokemon-center": {
-  "aktualisiert": "2026-10-02T06:59:01Z",
+  "aktualisiert": "2026-11-17T06:27:21Z",
   "erscheint_am": "2026-12-20",
   "erstmals": "2026-10-02T06:59:01Z",
   "gemeldet": [],
   "gruende": [
    "Special-Set, exklusiv für Pokémon-Center",
    "30. Jubiläum, große Nachfrage",
-   "limitierte Auflage"
+   "limitierte Auflage",
+   "Jubiläums-Set"
   ],
   "hype": 9,
   "key": "scarletex-violetex-special-set-etb-jp-pokemon-center",
-  "kurz": "Pokémon-Center-Spezialbox mit Jubiläum-Exklusivität wird ab 1.10.26 vorbestellt.",
+  "kurz": "Pokémon Center-Spezialset mit Vorbestellung ab 20. Jan. 2027, sehr begehrt",
   "liefertermin": "2026-12-20",
   "lieferwelle": 1,
   "name": "Scarletex & Violetex Special Set Elite Trainer Box",
   "quellen": [
+   {
+    "datum": "2026-11-17T06:27:21Z",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Tb01LTGZuNEdySDZpR2FsQUlkWjdtVGlfcnFKRXptMm5LZEtpV2JPcFRtcHlid2dyZmRsZDNFMVhDaFc3OTM5Z1VzZ3c?oc=5",
+    "quelle": "SNKRDUNK",
+    "status": "vorbestellbar",
+    "titel": "【ポケカ】「スカーレットex＆バイオレットex スペシャルセット」の収録アイテムリスト/予約/抽選/定価/販売店舗まとめ【1/20発売】"
+   },
    {
     "datum": "2026-10-02T06:59:01Z",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Tb01LTGZuNEdySDZpR2FsQUlkWjdtVGlfcnFKRXptMm5LZEtpV2JPcFRtcHlid2dyZmRsZDNFMVhDaFc3OTM5Z1VzZ3c?oc=5",
@@ -2618,7 +2626,7 @@
   "stage": "vorbestellbar",
   "typ": "etb",
   "variante": "pokemon-center",
-  "vorverkauf_ab": "2026-10-01"
+  "vorverkauf_ab": "2027-01-20"
  },
  "shining-box-2027-etb-jp-pokemon-center": {
   "aktualisiert": "2026-10-26T04:00:03Z",
