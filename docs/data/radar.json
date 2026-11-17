@@ -1316,45 +1316,6 @@
    "waehrung": "GBP"
   },
   {
-   "datum": "2026-10-17T20:42:06Z",
-   "fake_risiko": false,
-   "haendler": "Amazon",
-   "hype": 7,
-   "id": "e474010374aaa6ab",
-   "kurz": "Exklusives Booster-Bundle mit Einladung, knapp und begehrt",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "link": "https://www.hotukdeals.com/deals/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-6-booster-packs-invite-only-5007725",
-   "markt": {
-    "ch30": null,
-    "ch7": 2.1,
-    "hoch": 248.67,
-    "id": 834832,
-    "low": 140,
-    "name": "Mega Evolution Booster Box",
-    "trend": 224.69
-   },
-   "preis": 20.37,
-   "preis_eur": 24.33,
-   "produkt": "Mega Evolution Booster Box",
-   "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
-   "quelle": "hotukdeals",
-   "rabatt": 89.2,
-   "rating": {
-    "gruende": [
-     "89 % unter Cardmarket-Trend (24,33 € statt 224,69 €)",
-     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-    ],
-    "sterne": 4,
-    "urteil": "Lohnt sich"
-   },
-   "sprache": "en",
-   "status": "angebot",
-   "titel": "Pokémon TCG: Mega Evolution—Ascended Heroes Booster Bundle (6 Booster Packs) - Invite Only",
-   "typ": "display",
-   "waehrung": "GBP"
-  },
-  {
    "datum": "2026-10-23T14:17:46Z",
    "haendler": "Walmart",
    "hype": 4,
