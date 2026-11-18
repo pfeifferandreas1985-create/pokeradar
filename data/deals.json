@@ -1,5 +1,43 @@
 [
  {
+  "datum": "2026-11-18T11:08:56Z",
+  "fake_risiko": false,
+  "haendler": "Kaufland",
+  "hype": 5,
+  "id": "ccc98286d7fe1044",
+  "kurz": "36er Display für 220,89 € – günstiger als Marktpreis",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/kaufland-pokemon-karmesin-purpur-ewige-rivalen-36er-display-de-fur-22089-eur-inkl-versand-2874586",
+  "markt": {
+   "ch30": -4.3,
+   "ch7": -2.5,
+   "hoch": 305.82,
+   "id": 818574,
+   "low": 175,
+   "name": "Destined Rivals Booster Box",
+   "trend": 284.76
+  },
+  "preis": 220.89,
+  "preis_eur": 220.89,
+  "produkt": "Destined Rivals Booster Box",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": 22.4,
+  "rating": {
+   "gruende": [
+    "22 % unter Cardmarket-Trend (220,89 € statt 284,76 €)"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "[Kaufland] Pokémon Karmesin & Purpur – Ewige Rivalen 36er Display (DE) für 220,89 € inkl. Versand",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-16T10:00:00Z",
   "fake_risiko": false,
   "haendler": "Amazon",
@@ -1531,39 +1569,6 @@
   "sprache": "de",
   "status": "angebot",
   "titel": "Pokémon-Karten: Netto verkauft 30-Jahre-Display aus China zum fairen Preis",
-  "typ": "display",
-  "waehrung": "EUR"
- },
- {
-  "datum": "2026-10-19T13:25:17Z",
-  "haendler": "mydealz",
-  "hype": 7,
-  "id": "27c004bcc03dbea6",
-  "kurz": "Mega-Entwicklung-Box mit 36 Boostern für 165,99€ im Angebot",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-boosterpack-display-box-mega-entwicklung-delta-herrschaft-36-boosterpacks-2856167",
-  "markt": {
-   "id": 271908,
-   "low": null,
-   "name": "EX Delta Species Booster Box",
-   "trend": 274.04
-  },
-  "preis": 165.99,
-  "preis_eur": 165.99,
-  "produkt": "EX Delta Species Booster Box",
-  "quelle": "mydealz",
-  "rabatt": 39.4,
-  "rating": {
-   "gruende": [
-    "39 % unter Cardmarket-Trend (165,99 € statt 274,04 €)"
-   ],
-   "sterne": 5,
-   "urteil": "Top-Chance"
-  },
-  "sprache": "de",
-  "status": "angebot",
-  "titel": "Pokémon-Sammelkartenspiel: Boosterpack-Display-Box Mega-Entwicklung – Delta-Herrschaft (36 Boosterpacks)",
   "typ": "display",
   "waehrung": "EUR"
  }
