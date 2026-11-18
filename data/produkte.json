@@ -1663,6 +1663,51 @@
   "typ": "etb",
   "variante": "pokemon-center"
  },
+ "expansion-pack-display-jp": {
+  "aktualisiert": "2026-11-17T22:00:52Z",
+  "erscheint_am": "2026-11-27",
+  "erstmals": "2026-11-17T22:00:52Z",
+  "gemeldet": [],
+  "gruende": [
+   "Limitierte Auflage",
+   "Hype bei Fans",
+   "Schnellverkauf"
+  ],
+  "haendler": "ローソン",
+  "hype": 8,
+  "key": "expansion-pack-display-jp",
+  "kurz": "Neues Erweiterungspack von Pokémon ab 27.11.26 bei Lawson, begehrt.",
+  "markt": {
+   "id": 557543,
+   "low": null,
+   "name": "Expansion Pack Booster Box",
+   "trend": null
+  },
+  "name": "Expansion Pack Booster Box",
+  "quellen": [
+   {
+    "datum": "2026-11-17T22:00:52Z",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JX0NXOXRkM3NFeFh0emd1QWtxQWV0ZWZxSGVhZ0ZuSW1sdDl0OElpbDR1TXZ3R3BTT05oY2x3cFNJMnRJZjNwbVJwMVJ0c0hQUDBxdk41UFg5TldoUmdyM1hPREI?oc=5",
+    "quelle": "│BABYDOT（ベイビードット）",
+    "status": "erschienen",
+    "titel": "思わず悲鳴上げた…人気殺到確定の神パック！絶対手に入れたい！瞬殺の予感【ローソン】ポケカ新拡張パック11/27日～発売！"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Limitierte Auflage",
+    "Hype bei Fans",
+    "Schnellverkauf"
+   ],
+   "sterne": 4,
+   "urteil": "Lohnt sich"
+  },
+  "set": "Expansion Pack",
+  "sprache": "jp",
+  "stage": "erschienen",
+  "typ": "display",
+  "variante": null
+ },
  "final-2026-set-etb-en": {
   "aktualisiert": "2026-10-02T18:00:00Z",
   "erscheint_am": "2026-12-15",

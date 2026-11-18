@@ -1,6 +1,22 @@
 [
  {
   "aussage": "geruecht",
+  "autor": null,
+  "datum": "2026-11-17T19:56:16Z",
+  "forum": true,
+  "id": "6be7f1ecc720328f",
+  "key": "ultra-premium-collection-30-years-upc-de",
+  "kurz": "EDEKA in Aschaffenburg verleiht Ultra Premium Kollektion 30 Jahre, möglicherweise nur lokal verfügbar.",
+  "link": "https://www.mydealz.de/deals/pokemon-30-jahre-ultra-premium-kollektion-edeka-lokal-2874155",
+  "produkt": "Ultra Premium Collection 30 Years Ultra Premium Kollektion",
+  "quelle": "mydealz",
+  "sprache": "de",
+  "status": "angekuendigt",
+  "titel": "Pokemon 30 Jahre Ultra Premium Kollektion Edeka Lokal",
+  "typ": "upc"
+ },
+ {
+  "aussage": "geruecht",
   "autor": "/u/Chippyrs",
   "bestaetigt": "Mashable",
   "datum": "2026-11-12T01:18:56Z",
@@ -79,22 +95,6 @@
   "sprache": "en",
   "status": "angebot",
   "titel": "Expected Target drop tonight Midnight PST",
-  "typ": "upc"
- },
- {
-  "aussage": "frage",
-  "autor": null,
-  "datum": "2026-11-03T22:00:16Z",
-  "forum": false,
-  "id": "c68d383cf5b68b47",
-  "key": "is-the-mega-charizard-upc-still-worth-opening",
-  "kurz": "Is the Mega Charizard UPC Still Worth Opening?",
-  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1obnFneXIxS3pzMFptWHlyajY5cFR1ZHQ1NXdSN19pYmpNWGJ2ZkM4YzNCUVpIWWxVWU01ZDgxUFdWeUU1bzRybldTZlRoeDVaanVVQzZVV0R5WkZB?oc=5",
-  "produkt": "Is the Mega Charizard UPC Still Worth Opening?",
-  "quelle": "YouTube",
-  "sprache": "en",
-  "status": "sonstiges",
-  "titel": "Is the Mega Charizard UPC Still Worth Opening?",
   "typ": "upc"
  }
 ]
