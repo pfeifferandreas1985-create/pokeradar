@@ -1,5 +1,44 @@
 [
  {
+  "datum": "2026-11-19T14:43:43Z",
+  "fake_risiko": false,
+  "haendler": "Black Friday (nicht genannt)",
+  "hype": 7,
+  "id": "c91ecea3042af6e5",
+  "kurz": "Elite Trainer Box 'Prismatic Evolutions' für unter 140 USD bei Black Friday",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb2lfVktqa0JuQWlxYXhBS0VvNTZtbklaR254am5oSkJVeFc3Q2VSUV9Zc3FOUUs0VFZNdlZfV3RfcG9XTGJ2ZjFVSzVtc1AyUGZaZE04UC1LN3NESzRyR183V2tZMGpOd1FSSm5HdVZ5NGpwaGJ0dkJpR2VWaDEzRDY0b1RoUy14M3c?oc=5",
+  "markt": {
+   "ch30": -4.5,
+   "ch7": -4.2,
+   "hoch": 152.44,
+   "id": 798930,
+   "low": 84,
+   "name": "Prismatic Evolutions Elite Trainer Box",
+   "trend": 143.04
+  },
+  "preis": 140.0,
+  "preis_eur": 127.64,
+  "produkt": "Prismatic Evolutions Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "Mashable",
+  "rabatt": 10.8,
+  "rating": {
+   "gruende": [
+    "11 % unter Cardmarket-Trend (127,64 € statt 143,04 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Best Pokémon TCG Deal: Prismatic Evolutions Elite Trainer Box for under $140 on Black Friday",
+  "typ": "etb",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-11-18T11:08:56Z",
   "fake_risiko": false,
   "haendler": "Kaufland",
