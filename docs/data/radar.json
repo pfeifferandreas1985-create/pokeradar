@@ -1,6 +1,68 @@
 {
  "deals": [
   {
+   "datum": "2026-11-19T17:40:37Z",
+   "fake_risiko": false,
+   "haendler": "Walmart",
+   "hype": 9,
+   "id": "cd83ee865377e28f",
+   "kurz": "30. Jubiläums-Display-Box bei Walmart für 69 USD, knapp und begehrt",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ1I4VFZhbFhoODlZeW1KNzFqT05vM1pCQ2dKWE1JZkxzNVlsMDhWSHhscGJtcUdGTlpnb3dDRkdISTM0YjY2bFFpSW5GRHh6azg3eXVhaFFmcW9vdFMwbmZfc0RuemZ2ZHFTSndudXFlTmJZMDdMYkY1cmJLZEhBY3hmcw?oc=5",
+   "markt": null,
+   "preis": 69.0,
+   "preis_eur": 62.77,
+   "produkt": "30th Celebration Booster-Box",
+   "pruefen": null,
+   "quelle": "IGN",
+   "rabatt": null,
+   "rating": {
+    "gruende": [
+     "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
+     "Begehrtes Produkt (Hype 9/10)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 2,
+    "urteil": "Abwarten"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "Walmart just dropped this Pokémon TCG 30th Celebration box to a record-low $69 — nearly matching market price",
+   "typ": "display",
+   "waehrung": "USD"
+  },
+  {
+   "datum": "2026-11-20T00:36:28Z",
+   "fake_risiko": false,
+   "haendler": "EDEKA",
+   "hype": 7,
+   "id": "69dbf1f2c34c7836",
+   "kurz": "30-Jahres-UPC-Box wird ab 21.11.2026 für 200€ im Handel angeboten",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.mydealz.de/deals/edeka-pokemon-30-jahre-ultra-premium-kollektion-2876592",
+   "markt": null,
+   "preis": 200.0,
+   "preis_eur": 200.0,
+   "produkt": "30 Years Ultra Premium Kollektion",
+   "pruefen": null,
+   "quelle": "mydealz",
+   "rabatt": null,
+   "rating": {
+    "gruende": [
+     "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
+    ],
+    "sterne": 2,
+    "urteil": "Abwarten"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "Edeka Gebauer - Pokemon 30 Jahre Ultra Premium Kollektion",
+   "typ": "upc",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-11-19T14:43:43Z",
    "fake_risiko": false,
    "haendler": "Black Friday (nicht genannt)",
@@ -1585,19 +1647,7 @@
    "waehrung": "EUR"
   }
  ],
- "hinweise": [
-  {
-   "datum": "2026-11-17T19:56:16Z",
-   "id": "6be7f1ecc720328f",
-   "link": "https://www.mydealz.de/deals/pokemon-30-jahre-ultra-premium-kollektion-edeka-lokal-2874155",
-   "produkt": "Ultra Premium Collection 30 Years Ultra Premium Kollektion",
-   "quelle": "mydealz",
-   "sprache": "de",
-   "status": "angekuendigt",
-   "titel": "Pokemon 30 Jahre Ultra Premium Kollektion Edeka Lokal",
-   "typ": "upc"
-  }
- ],
+ "hinweise": [],
  "konfig": {
   "alarm_prozent": 15.0,
   "mindestpreis": 40.0,
