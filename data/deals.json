@@ -1,5 +1,74 @@
 [
  {
+  "datum": "2026-11-20T05:24:36Z",
+  "fake_risiko": false,
+  "haendler": null,
+  "hype": 7,
+  "id": "b02f6b3b2cbe88ef",
+  "kurz": "Mega-Entwicklung Booster-Display vorbestellbar ab Februar 2027",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/mega-entwicklung-flinke-fauste-booster-display-36-booster-vorbestellung-erscheint-am-06-februar-2876640",
+  "markt": {
+   "ch30": -23.2,
+   "ch7": -7.3,
+   "hoch": 248.67,
+   "id": 834832,
+   "low": 155,
+   "name": "Mega Evolution Booster Box",
+   "trend": 170.99
+  },
+  "preis": 154.99,
+  "preis_eur": 154.99,
+  "produkt": "Mega Evolution Booster Box",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": 9.4,
+  "rating": {
+   "gruende": [
+    "9 % unter Cardmarket-Trend (154,99 € statt 170,99 €)"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "sprache": "de",
+  "status": "vorbestellbar",
+  "titel": "Pokemon Mega-Entwicklung - Flinke Fäuste - Booster Display (36 Booster) [Vorbestellung, erscheint am 06. Februar]",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
+  "datum": "2026-11-20T11:16:16Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 9,
+  "id": "aecd7edec2565bf5",
+  "kurz": "Nachtvariante Ultra-Premium mit Pikachu und Nachtara, exklusiv, hoher Hype",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-ultra-premium-kollektion-30-jahre-nacht-2-holografische-promokarten-30-boosterpacks-premium-zubehor-2877053",
+  "markt": null,
+  "preis": 209.99,
+  "preis_eur": 209.99,
+  "produkt": "30 Years: Night Ultra-Premium-Kollektion",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": null,
+  "rating": {
+   "gruende": [
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
+    "Begehrtes Produkt (Hype 9/10)"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "Pokémon-Sammelkartenspiel: Ultra-Premium-Kollektion 30 Jahre: Nacht (2 holografische Promokarten, 30 Boosterpacks & Premium-Zubehör)",
+  "typ": "upc",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-19T17:40:37Z",
   "fake_risiko": false,
   "haendler": "Walmart",

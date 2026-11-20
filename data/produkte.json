@@ -2030,29 +2030,40 @@
   "vorverkauf_ab": "2026-11-27"
  },
  "mega-evolution-display-de": {
-  "aktualisiert": "2026-11-04T10:25:32Z",
-  "erscheint_am": "2026-11-06",
+  "aktualisiert": "2026-11-20T05:24:36Z",
+  "erscheint_am": "2027-02-06",
   "erstmals": "2026-11-04T10:25:32Z",
-  "gemeldet": [],
+  "gemeldet": [
+   "vorbestellbar"
+  ],
   "gruende": [
    "neues Set-Update",
    "nachfolgende Booster-Box",
-   "nachfrage steigt"
+   "nachfrage steigt",
+   "Mega-Entwicklung"
   ],
   "hype": 7,
   "key": "mega-evolution-display-de",
-  "kurz": "Delta-Herrschaft erscheint am 6. Nov 2026, vorbestellbar",
+  "kurz": "Mega-Entwicklung Booster-Display vorbestellbar ab Februar 2027",
   "markt": {
-   "ch30": -14.0,
-   "ch7": -3.1,
+   "ch30": -23.2,
+   "ch7": -7.3,
    "hoch": 248.67,
    "id": 834832,
-   "low": 140,
+   "low": 155,
    "name": "Mega Evolution Booster Box",
-   "trend": 202.33
+   "trend": 170.99
   },
   "name": "Mega Evolution Booster Box",
+  "preis_eur": 154.99,
   "quellen": [
+   {
+    "datum": "2026-11-20T05:24:36Z",
+    "link": "https://www.mydealz.de/deals/mega-entwicklung-flinke-fauste-booster-display-36-booster-vorbestellung-erscheint-am-06-februar-2876640",
+    "quelle": "mydealz",
+    "status": "vorbestellbar",
+    "titel": "Pokemon Mega-Entwicklung - Flinke Fäuste - Booster Display (36 Booster) [Vorbestellung, erscheint am 06. Februar]"
+   },
    {
     "datum": "2026-11-04T10:25:32Z",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0RWRVBIVzAzSW1ma2g3ck8yMUs5S3NSTUYyQU1MZXFFVTBsSWcwakJvM0drU2JoS2xMbUp6S3k1TFR1ZkNGQWY0aklwYjMtdUVvZ3UzaUFDZDB5LWs1SDdEWWdXY2dJeW4weGNBNW53dzl6R3d0emNIeHd1QURLNEcwQmdzR21mdElHR0tuR3dtYWxXdEpSUFJVUlYwYVFibHBXdzg0dVhBZmZoelNEWk1sVnBZSENUb05rb0tPWmZZbzNrZm5PQ0xGV1NzY0lFdnZFVkFQeEE?oc=5",
@@ -2063,6 +2074,7 @@
   ],
   "rating": {
    "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
     "neues Set-Update",
     "nachfolgende Booster-Box",
     "nachfrage steigt"
@@ -2072,7 +2084,7 @@
   },
   "set": "Mega Evolution",
   "sprache": "de",
-  "stage": "angekuendigt",
+  "stage": "vorbestellbar",
   "typ": "display",
   "variante": null
  },
