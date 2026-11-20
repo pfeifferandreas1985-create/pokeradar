@@ -1,5 +1,83 @@
 [
  {
+  "datum": "2026-11-17T13:46:40Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 7,
+  "id": "e4ad89754bd13493",
+  "kurz": "Delta Reign-Display-Box sinkt auf unter 215 USD bei Amazon.",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR0l5SW1kdGdGYW5QXzVIWWdLOUFsS29Belptbmc5emdYMGdNSExiTENIM2o1MUp1d2hQeUtxVDlRTWItMWt5MGl5MS1OVU4ydnJLWEFNNzQ1TWxCbzJvOFAtQURuYjhWUjFqRjFoVG14eTFkNEM2eFNBQk1MNDVfN3ZwRFlNbVVMMFF5c0xWT2JTZXhUSmpqOFA1XzJ0MGpVdFE?oc=5",
+  "markt": {
+   "ch30": -20.2,
+   "ch7": -9.6,
+   "hoch": 234.3,
+   "id": 903956,
+   "low": 130,
+   "name": "Delta Reign Booster Box",
+   "trend": 172.86
+  },
+  "preis": 215.0,
+  "preis_eur": 195.6,
+  "produkt": "Delta Reign Booster Box",
+  "pruefen": null,
+  "quelle": "Mashable",
+  "rabatt": -13.2,
+  "rating": {
+   "gruende": [
+    "Kein Vorteil: 195,60 € liegt über dem Cardmarket-Trend (172,86 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Best Pokémon TCG deal: Delta Reign Booster Display Box quickly drops to below $215 on Amazon",
+  "typ": "display",
+  "waehrung": "USD"
+ },
+ {
+  "datum": "2026-11-20T17:42:45Z",
+  "fake_risiko": false,
+  "haendler": "Cardcosmos",
+  "hype": 6,
+  "id": "5df23178530ab055",
+  "kurz": "Chinesische 30. Jubiläums-Box im Black Friday-Deal für 79,90 EUR",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-tcg-30th-anniversary-celebration-booster-display-chn-2877425",
+  "markt": {
+   "ch30": -29.8,
+   "ch7": -16.2,
+   "hoch": 165.74,
+   "id": 891464,
+   "low": 78.3,
+   "name": "30th Celebration JP Booster Box",
+   "trend": 114.04
+  },
+  "preis": 79.9,
+  "preis_eur": 79.9,
+  "produkt": "30th Celebration JP Booster Box",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": 29.9,
+  "rating": {
+   "gruende": [
+    "30 % unter Cardmarket-Trend (79,90 € statt 114,04 €)",
+    "Marktpreis fällt gerade (−16 % in 7 Tagen)"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "sprache": "jp",
+  "status": "angebot",
+  "titel": "Pokémon TCG Sammelkartenspiel - 30th Anniversary Celebration Booster Display - 20 Booster - CHN",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-20T05:24:36Z",
   "fake_risiko": false,
   "haendler": null,
@@ -1684,34 +1762,5 @@
   "titel": "Pokémon TCG 30th Celebration Elite Trainer Box Available for $59.99 on Amazon",
   "typ": "etb",
   "waehrung": "USD"
- },
- {
-  "datum": "2026-10-21T15:16:19Z",
-  "haendler": null,
-  "hype": 9,
-  "id": "8bcaa715469eb842",
-  "kurz": "Warteschlange für Pokémon Center TTB aktiv – knapp und begehrt",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.mydealz.de/deals/pokemon-center-dunkelnacht-top-trainer-box-2857171",
-  "markt": null,
-  "preis": 68.46,
-  "preis_eur": 68.46,
-  "produkt": "Dunkelnacht Top Trainer Box",
-  "quelle": "mydealz",
-  "rabatt": null,
-  "rating": {
-   "gruende": [
-    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
-    "Begehrtes Produkt (Hype 9/10)"
-   ],
-   "sterne": 3,
-   "urteil": "Interessant"
-  },
-  "sprache": "de",
-  "status": "vorbestellbar",
-  "titel": "Pokemon Center Dunkelnacht Top Trainer Box",
-  "typ": "etb",
-  "waehrung": "EUR"
  }
 ]

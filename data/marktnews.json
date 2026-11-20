@@ -1,5 +1,25 @@
 [
  {
+  "datum": "2026-11-20T17:22:03Z",
+  "id": "c62fdf5155894579",
+  "kurz": "Chaos Rising-Box wieder unter 210 USD auf Amazon",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb25nd3FYZGNkOWYzWmFpcXJPNk9Yek1KSEZ1OVRvSmZBcV9OWVJzVHBpbXB6dXNCNElWWExxaUtmTTFrZEZtZXdHWFl6S0Z6bzRtbG9DdEVZdjdkWV8wakhyYTBFcHY3V2JuZjN4R194NDhPUHpMOHVaNUVSYkEtY3lydnhIVmpYOHc?oc=5",
+  "markt": {
+   "ch30": -1.7,
+   "ch7": -1.6,
+   "hoch": 186.56,
+   "id": 877295,
+   "low": 120,
+   "name": "Chaos Rising Booster Box",
+   "trend": 177.58
+  },
+  "quelle": "Mashable",
+  "sprache": "de",
+  "titel": "The Pokémon TCG Chaos Rising Booster Display Box is back under $210 on Amazon",
+  "trend": "faellt",
+  "typ": "display"
+ },
+ {
   "datum": "2026-11-10T22:00:00Z",
   "id": "838dacbbbf8744a6",
   "kurz": "Pokémon TCG’s Delta Reign Elite Trainer Box Is Already Down to Almost Market Price Across Walmart & Amazon",
@@ -147,17 +167,5 @@
   "titel": "Same sealed product, up to 88% price gap between US stores right now (I checked 30+ stores per product)",
   "trend": "steigt",
   "typ": "display"
- },
- {
-  "datum": "2026-10-21T16:38:45Z",
-  "id": "368ba3d27de59589",
-  "kurz": "ETB auf Markt 130 USD, Best Buy für 49,99 USD",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk5acnR0VDVYTWJxUFNvM1E4UXVkeGFzeVR6NlJrQkxSLU16R0tzZXJyNUMxUi1SamhyWE5kUnhSTXcwbkVmS3JoWTdKa25zeTNKYnFrV1N1MUxzd2FHX1BnVEJrcy01YjlMb213VmFLb2VtR0o2Ym1FNXZ6NlFnZWRibEc2VGcw?oc=5",
-  "markt": null,
-  "quelle": "IGN",
-  "sprache": "en",
-  "titel": "This Rare Pokémon TCG ETB Costs $130 on the Market, but Best Buy Has It for $49.99",
-  "trend": "faellt",
-  "typ": "etb"
  }
 ]
