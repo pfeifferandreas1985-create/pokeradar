@@ -1,5 +1,43 @@
 [
  {
+  "datum": "2026-11-21T10:29:28Z",
+  "fake_risiko": false,
+  "haendler": "sb LÜNING",
+  "hype": 5,
+  "id": "91f5c628b5a61f6c",
+  "kurz": "Top-Trainer-Box im Angebot für 49€ – Vorrat begrenzt",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/sb-luning-viele-pokemon-produkte-im-angebot-zb-top-trainer-boxen-fur-4999-30-jahre-ditto-4999-uvm-2877848",
+  "markt": {
+   "ch30": -12.0,
+   "ch7": -3.6,
+   "hoch": 135.27,
+   "id": 895551,
+   "low": 90,
+   "name": "30th Celebration Elite Trainer Box",
+   "trend": 115.71
+  },
+  "preis": 49.0,
+  "preis_eur": 49.0,
+  "produkt": "30th Celebration Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": 57.7,
+  "rating": {
+   "gruende": [
+    "58 % unter Cardmarket-Trend (49,00 € statt 115,71 €)"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "[sb LÜNING] Viele Pokémon Produkte im Angebot - z.B. Top Trainer Boxen für 49,99 / 30 Jahre Ditto 49,99 u.v.m.",
+  "typ": "etb",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-17T13:46:40Z",
   "fake_risiko": false,
   "haendler": "Amazon",
