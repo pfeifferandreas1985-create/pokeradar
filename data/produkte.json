@@ -36,6 +36,44 @@
   "typ": "etb",
   "variante": "pokemon-center"
  },
+ "30-years-pokemon-display-jp": {
+  "aktualisiert": "2026-11-18T06:36:46Z",
+  "erstmals": "2026-11-18T06:36:46Z",
+  "gemeldet": [],
+  "gruende": [
+   "Ziehewarteschlange endete",
+   "limitierte Boxen",
+   "ausverkauft"
+  ],
+  "haendler": "Rakuten",
+  "hype": 10,
+  "key": "30-years-pokemon-display-jp",
+  "kurz": "30. Jubiläum-Boxen bei Rakuten ausverkauft, Warteschlange beendet",
+  "name": "30 Years Pokémon 30. Jubiläum-Box",
+  "quellen": [
+   {
+    "datum": "2026-11-18T06:36:46Z",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XVVd3eDBFbklLMFZDcFFSd2J4V0VfYktFZG9CZEw4ajd5U2xqWGp5eWR6aGVjY2lXVGxEZWpOd3BJeEVuSGo1NURJR3lVTDBtWHdxamhjWjJtUUpRWWVxTFpOTjFXckFiX3c?oc=5",
+    "quelle": "ファミ通",
+    "status": "ausverkauft",
+    "titel": "画像ページ (3/9) 【ポケカ】楽天の抽選受付は本日（11/18）終了。ハドウシーカー、スペシャルデッキセットMEGA、30周年パック、ストームエメラルダなどが対象"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Ziehewarteschlange endete",
+    "limitierte Boxen",
+    "ausverkauft"
+   ],
+   "sterne": 5,
+   "urteil": "Top-Chance"
+  },
+  "set": "30 Years Pokémon",
+  "sprache": "jp",
+  "stage": "ausverkauft",
+  "typ": "display",
+  "variante": null
+ },
  "30th-anniversary-event-display-de": {
   "aktualisiert": "2026-11-03T04:36:36Z",
   "erstmals": "2026-11-03T04:36:36Z",

@@ -1669,34 +1669,6 @@
    "waehrung": "USD"
   },
   {
-   "datum": "2026-10-23T11:01:51Z",
-   "haendler": "Amazon",
-   "hype": 7,
-   "id": "a939174f61de7927",
-   "kurz": "Kampfdeck mit Psiana-ex für 24,99€ bei Amazon erhältlich",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-kampfdeck-30-jahre-psiana-ex-einladung-2858022",
-   "markt": null,
-   "preis": 24.99,
-   "preis_eur": 24.99,
-   "produkt": "30 Years Kampfdeck",
-   "quelle": "mydealz",
-   "rabatt": null,
-   "rating": {
-    "gruende": [
-     "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
-    ],
-    "sterne": 2,
-    "urteil": "Abwarten"
-   },
-   "sprache": "de",
-   "status": "angebot",
-   "titel": "Pokémon-Sammelkartenspiel: Kampfdeck 30 Jahre: Psiana-ex (Einladung)",
-   "typ": "display",
-   "waehrung": "EUR"
-  },
-  {
    "datum": "2026-11-08T00:12:13Z",
    "haendler": "Amazon",
    "hype": 10,
@@ -1750,6 +1722,18 @@
   ]
  },
  "marktnews": [
+  {
+   "datum": "2026-11-22T08:00:00Z",
+   "id": "67132ebfb990a078",
+   "kurz": "30. Jubiläum: Ultra-Premium-Kollektionen kosten über 400 Euro, Marktwert steigt",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLTMzdlJEVnFsMkZMRkpZa0MzVGlNcDdhazlSVld5VkM2TjdtNWt4QzNGb0lDTXFoeF9hczcxT1IxTTVRLTZDaFBORzE5TklTNjM5bjJSd2NoMFpzUjNJMVpqbkIydlhfZW9LenVfU0ozbmZuQTJPbzN0RmVpWVltQU1YaFRzVnVKN3VORTVMV2lmMTZHRXBMbzVZU2l1dnpKaHlwS2cydmxGeWxobTB3UkF3amRyQWQxaGxValFaVDJUd21hcXRrbU4wNmFqekc4QlFFTTNIaw?oc=5",
+   "markt": null,
+   "quelle": "PCGH",
+   "sprache": "de",
+   "titel": "30 Jahre Pokémon: Ultra-Premium-Kollektionen Tag und Nacht zur UVP – anderswo über 400 Euro",
+   "trend": "steigt",
+   "typ": "upc"
+  },
   {
    "datum": "2026-11-20T17:22:03Z",
    "id": "c62fdf5155894579",
@@ -1898,26 +1882,6 @@
    "titel": "Pokémon TCG x Santa Cruz ポケモン30周年記念コラボアイテムが国内順次発売中 【抽選情報更新中】",
    "trend": "steigt",
    "typ": "display"
-  },
-  {
-   "datum": "2026-10-23T04:18:58Z",
-   "id": "a456c2ecdb185954",
-   "kurz": "Große Preisunterschiede bei Pitch Black Booster Box zeigen Marktschwankungen",
-   "link": "https://www.reddit.com/r/PokeInvesting/comments/1xd44p4/same_sealed_product_up_to_88_price_gap_between_us/",
-   "markt": {
-    "ch30": null,
-    "ch7": -1.3,
-    "hoch": 184.63,
-    "id": 885545,
-    "low": 140,
-    "name": "Pitch Black Booster Box",
-    "trend": 181.49
-   },
-   "quelle": "Reddit",
-   "sprache": "en",
-   "titel": "Same sealed product, up to 88% price gap between US stores right now (I checked 30+ stores per product)",
-   "trend": "steigt",
-   "typ": "display"
   }
  ],
  "produkte": [
@@ -1974,6 +1938,43 @@
    "set": "Mega Evolution",
    "sprache": "de",
    "stage": "vorbestellbar",
+   "typ": "display",
+   "variante": null
+  },
+  {
+   "aktualisiert": "2026-11-18T06:36:46Z",
+   "erstmals": "2026-11-18T06:36:46Z",
+   "gruende": [
+    "Ziehewarteschlange endete",
+    "limitierte Boxen",
+    "ausverkauft"
+   ],
+   "haendler": "Rakuten",
+   "hype": 10,
+   "key": "30-years-pokemon-display-jp",
+   "kurz": "30. Jubiläum-Boxen bei Rakuten ausverkauft, Warteschlange beendet",
+   "name": "30 Years Pokémon 30. Jubiläum-Box",
+   "quellen": [
+    {
+     "datum": "2026-11-18T06:36:46Z",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XVVd3eDBFbklLMFZDcFFSd2J4V0VfYktFZG9CZEw4ajd5U2xqWGp5eWR6aGVjY2lXVGxEZWpOd3BJeEVuSGo1NURJR3lVTDBtWHdxamhjWjJtUUpRWWVxTFpOTjFXckFiX3c?oc=5",
+     "quelle": "ファミ通",
+     "status": "ausverkauft",
+     "titel": "画像ページ (3/9) 【ポケカ】楽天の抽選受付は本日（11/18）終了。ハドウシーカー、スペシャルデッキセットMEGA、30周年パック、ストームエメラルダなどが対象"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Ziehewarteschlange endete",
+     "limitierte Boxen",
+     "ausverkauft"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30 Years Pokémon",
+   "sprache": "jp",
+   "stage": "ausverkauft",
    "typ": "display",
    "variante": null
   },
