@@ -832,7 +832,7 @@
   "vorverkauf_ab": "2026-11-13"
  },
  "30th-upc-upc-en": {
-  "aktualisiert": "2026-11-16T15:40:11Z",
+  "aktualisiert": "2026-11-21T10:32:51Z",
   "erscheint_am": "2026-11-30",
   "erstmals": "2026-10-14T00:41:32Z",
   "gemeldet": [
@@ -849,12 +849,19 @@
   "haendler": "Amazon",
   "hype": 9,
   "key": "30th-upc-upc-en",
-  "kurz": "30. Jubiläums-UPC erschienen, hoher Nachfrage- und Hype-Status",
+  "kurz": "Pokémon TCG 30th Celebration Ultra-Premium Collections: Live restock updates at Amazon, Walmart, and Target (Nov. 21)",
   "liefertermin": null,
   "lieferwelle": null,
   "name": "30th UPC Ultra Premium Collection",
   "preis_eur": null,
   "quellen": [
+   {
+    "datum": "2026-11-21T10:32:51Z",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMDNfamhvaGhDa2swSkU4RWJ6VWdYRnNfSWRWY0FRV1lxYlV6M0JpUEhBTkJJdTJkS0RKQl95aDNBd3B6S053VDVtS1BDekhDdkxHZEJQR3pDOFE3emhIejJlTENCY1U1VmRGOUNyZ2laNzFqcDJORU12SFVqZjNiUnN5VEl1YkFDZmtGaTdhTzYwUTM2?oc=5",
+    "quelle": "Yahoo",
+    "status": "nachschub",
+    "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections: Live restock updates at Amazon, Walmart, and Target (Nov. 21)"
+   },
    {
     "datum": "2026-11-16T10:13:10Z",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWtCQXVuSHRmSnZqbkl3ZXpmX0dNSnNBWTdoM2xsNWdmVXRHTlhnRHVmU0xrQ2ZPNmc0ZlQxaUwzZGlrZWU3bnJEcUlhc0w2Zjc2REwtVHJXYnRtY0NkSmltT1JrczgwSkVaQW5DbjZjZk5uTG83WHJfNkoxRWdWV1cxQXAzVy14djZHbEZB?oc=5",
@@ -903,13 +910,6 @@
     "quelle": "Mashable",
     "status": "erschienen",
     "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collections are live: Shop for under market price"
-   },
-   {
-    "datum": "2026-11-05T10:55:32Z",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeG1wQWpkOF9aLW5McTVOV1h5N3ZMSHJCMVlEajF2dTJHZHBnODE0dXRMZFZlMU9lQXROM2lwdGtIajgxUzQ3eXo4TkMwYS1wMkZMc0RjellQcE5MUGFVWFVrT3A1RWpieURsamFpUHFiTDhPS0JITU1oYzhwSk5ETjIySk8ycW9uUnFFVXVsa3FzSVFK?oc=5",
-    "quelle": "Yahoo",
-    "status": "vorbestellbar",
-    "titel": "The Pokémon TCG 30th Celebration Ultra-Premium Collection is live at Amazon: Preorder now"
    }
   ],
   "rating": {

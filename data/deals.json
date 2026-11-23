@@ -630,7 +630,7 @@
   "waehrung": "EUR"
  },
  {
-  "datum": "2026-11-14T09:51:33Z",
+  "datum": "2026-11-23T09:35:31Z",
   "fake_risiko": false,
   "haendler": "Amazon",
   "hype": 5,
@@ -638,7 +638,7 @@
   "kurz": "Pokémon-Sammelkartenspiel: Display-Box Karmesin & Purpur (36 Boosterpacks) - Amazon Einladung",
   "liefertermin": null,
   "lieferwelle": null,
-  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-display-box-karmesin-purpur-36-boosterpacks-prime-einladung-2871163",
+  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-display-box-karmesin-purpur-36-boosterpacks-primeeinladung-2879305",
   "markt": {
    "ch30": -0.6,
    "ch7": -0.7,
@@ -663,7 +663,7 @@
   },
   "sprache": "de",
   "status": "angebot",
-  "titel": "Pokémon Sammelkartenspiel: Display-Box Karmesin & Purpur (36 Boosterpacks) - (Prime/ Einladung)",
+  "titel": "Pokémon-Sammelkartenspiel: Display-Box Karmesin & Purpur (36 Boosterpacks) -Prime/Einladung",
   "typ": "display",
   "waehrung": "EUR"
  },
@@ -1558,95 +1558,14 @@
   "waehrung": "GBP"
  },
  {
-  "datum": "2026-10-24T18:24:04Z",
-  "fake_risiko": false,
-  "haendler": "Amazon",
-  "hype": 9,
-  "id": "14256f695d1a9da1",
-  "kurz": "ETB mit Eevee-Theme – vorbestellbar, knapp, begehrt",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.hotukdeals.com/deals/pokemon-tcg-scarlet-violet-prismatic-evolutions-elite-trainer-box-1-full-art-promo-card-9-boosters-premium-accessories-invite-only-5013021",
-  "markt": {
-   "ch30": null,
-   "ch7": -2.4,
-   "hoch": 152.44,
-   "id": 798930,
-   "low": 85,
-   "name": "Prismatic Evolutions Elite Trainer Box",
-   "trend": 146.99
-  },
-  "preis": 44.99,
-  "preis_eur": 53.73,
-  "produkt": "Prismatic Evolutions Elite Trainer Box",
-  "pruefen": null,
-  "quelle": "hotukdeals",
-  "rabatt": 63.4,
-  "rating": {
-   "gruende": [
-    "63 % unter Cardmarket-Trend (53,73 € statt 146,99 €)",
-    "Begehrtes Produkt (Hype 9/10)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 4,
-   "urteil": "Lohnt sich"
-  },
-  "sprache": "en",
-  "status": "vorbestellbar",
-  "titel": "Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Elite Trainer Box (1 Full Art Promo Card, 9 Boosters & Premium Accessories) - invite only",
-  "typ": "etb",
-  "waehrung": "GBP"
- },
- {
-  "datum": "2026-10-24T18:37:19Z",
-  "fake_risiko": false,
-  "haendler": "Amazon",
-  "hype": 9,
-  "id": "50024cfc13f379c3",
-  "kurz": "ETB mit Team Rocket-Card – vorbestellbar, knapp, begehrt",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.hotukdeals.com/deals/pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box-1-full-art-promo-card-9-boosters-premium-accessories-invite-only-5013030",
-  "markt": {
-   "ch30": null,
-   "ch7": -10.1,
-   "hoch": 127.98,
-   "id": 818585,
-   "low": 90,
-   "name": "Destined Rivals Elite Trainer Box",
-   "trend": 114.12
-  },
-  "preis": 44.99,
-  "preis_eur": 53.73,
-  "produkt": "Destined Rivals Elite Trainer Box",
-  "pruefen": null,
-  "quelle": "hotukdeals",
-  "rabatt": 52.9,
-  "rating": {
-   "gruende": [
-    "53 % unter Cardmarket-Trend (53,73 € statt 114,12 €)",
-    "Marktpreis fällt gerade (−10 % in 7 Tagen)",
-    "Begehrtes Produkt (Hype 9/10)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 3,
-   "urteil": "Interessant"
-  },
-  "sprache": "en",
-  "status": "vorbestellbar",
-  "titel": "Pokémon TCG: Scarlet & Violet — Destined Rivals Elite Trainer Box (1 Full-Art Promo Card, 9 Boosters & Premium Accessories) Invite Only",
-  "typ": "etb",
-  "waehrung": "GBP"
- },
- {
-  "datum": "2026-11-08T00:12:13Z",
+  "datum": "2026-11-23T10:57:34Z",
   "haendler": "Amazon",
   "hype": 10,
   "id": "a13d95c2a26ff0f3",
   "kurz": "30. Jubiläum-ETB für 59,99 USD im Angebot – knapp und begehrt",
   "liefertermin": null,
   "lieferwelle": null,
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanhwN0VQa28wVmI2VTBVOWJ5RDlPNUNQOC1FLW41YTVxRURKZ05YTnphREJlSEdtVDdHM184WEJiZ3FtLVJ6T01FdWk0ZUFFaHZLMHBXelhQZ3BFX01iVXBSRFpLQzJxZWJJdVR2c29mVVlaY1RiSTVPRVFmSFpTTXR6dkFiVlE3dnk5bFhrb1FFLV95TmtyeEFUQzllc2MyYm1nYUd3?oc=5",
+  "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-top-trainer-box-30-jahre-fur-5299-euro-bei-amazon-auf-einladung-erhaltlich-2879410",
   "markt": {
    "ch30": null,
    "ch7": -0.1,
@@ -1659,7 +1578,7 @@
   "preis": 59.99,
   "preis_eur": 53.4,
   "produkt": "30th Celebration Elite Trainer Box",
-  "quelle": "SSBCrack",
+  "quelle": "mydealz",
   "rabatt": 59.4,
   "rating": {
    "gruende": [
@@ -1672,7 +1591,7 @@
   },
   "sprache": "en",
   "status": "angebot",
-  "titel": "Pokémon TCG 30th Celebration Elite Trainer Box Available for $59.99 on Amazon",
+  "titel": "Pokémon-Sammelkartenspiel: Top-Trainer-Box 30 Jahre für 52,99 Euro bei Amazon (auf Einladung erhältlich)",
   "typ": "etb",
   "waehrung": "USD"
  }
