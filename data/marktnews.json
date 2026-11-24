@@ -1,5 +1,25 @@
 [
  {
+  "datum": "2026-11-24T10:44:22Z",
+  "id": "f0013cda1b39c2b7",
+  "kurz": "Booster-Set Delta Herrschaft ab 30. Nov. im Markt zu 4,44€",
+  "link": "https://www.mydealz.de/deals/hit-pokemon-booster-aus-dem-aktuellen-set-delta-herrschaft-im-markt-an-der-kasse-ab-30-november-2880428",
+  "markt": {
+   "ch30": -19.5,
+   "ch7": -5.3,
+   "hoch": 234.3,
+   "id": 903956,
+   "low": 130,
+   "name": "Delta Reign Booster Box",
+   "trend": 173.13
+  },
+  "quelle": "mydealz",
+  "sprache": "de",
+  "titel": "[HIT] Pokemon Booster aus dem aktuellen Set \"Delta Herrschaft\" | im Markt an der Kasse ab 30. November",
+  "trend": "steigt",
+  "typ": "display"
+ },
+ {
   "datum": "2026-11-22T08:00:00Z",
   "id": "67132ebfb990a078",
   "kurz": "30. Jubiläum: Ultra-Premium-Kollektionen kosten über 400 Euro, Marktwert steigt",
