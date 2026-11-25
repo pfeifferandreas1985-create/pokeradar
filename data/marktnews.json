@@ -1,5 +1,25 @@
 [
  {
+  "datum": "2026-11-25T16:40:59Z",
+  "id": "ca733ef8785fa233",
+  "kurz": "30. Jubiläum-ETB bei Walmart nahe am Marktpreis – hohe Nachfrage",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT1JUZ1psS2JOcUhhdjNPZ1BMVVZPYUdKZERfZWJUOElWTUNidUFzdkNfbkE5YnM3WE5nT0ZhSVFhTUNXMW9rWlJiMzdiVGJvTHBvd0tvUmQ5UENVWWlEaGNYZHQ4Mlp5b2hRVG5XdEF3WDZLVmlMUGYwc3RqeVgyMDNrSWtOckl2NkdhWHhmc1lKNG5TNXBaTjJpVXNKZw?oc=5",
+  "markt": {
+   "ch30": -14.2,
+   "ch7": -4.7,
+   "hoch": 135.27,
+   "id": 895551,
+   "low": 88,
+   "name": "30th Celebration Elite Trainer Box",
+   "trend": 112.12
+  },
+  "quelle": "Mashable",
+  "sprache": "en",
+  "titel": "Best Pokémon TCG deal: 30th Celebration ETB close to market price at Walmart",
+  "trend": "steigt",
+  "typ": "etb"
+ },
+ {
   "datum": "2026-11-24T10:44:22Z",
   "id": "f0013cda1b39c2b7",
   "kurz": "Booster-Set Delta Herrschaft ab 30. Nov. im Markt zu 4,44€",

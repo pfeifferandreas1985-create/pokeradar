@@ -1,5 +1,115 @@
 [
  {
+  "datum": "2026-11-25T11:44:38Z",
+  "fake_risiko": false,
+  "haendler": "Walmart",
+  "hype": 7,
+  "id": "ffaeb8433ad8381f",
+  "kurz": "30. Jubiläum-UPC für unter 310 USD bei Walmart – lohnend im Rahmen von Black Friday.",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0RlVzN2emRMV0lXaUpOanB1cDZwUDU0SWNNLUNrN3J2dWFBWTlaVW9XZEJnYk5ZODlDMEQ4SFJiRUppZXFydkFFSmJ3VHpTb1RtcnU0cVliNnBVR3ZsM3YwRURxYk9MNVc3NFVKek9NaVlxNnFaU3NQQzZGRzhlNmY4eTNNbUtoTWZB?oc=5",
+  "markt": null,
+  "preis": 310.0,
+  "preis_eur": 282.77,
+  "produkt": "30th Celebration Ultra-Premium-Kollektion",
+  "pruefen": null,
+  "quelle": "Mashable",
+  "rabatt": null,
+  "rating": {
+   "gruende": [
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Best Pokémon TCG Black Friday Deal: Grab a 30th Celebration Ultra-Premium Collection for under $310 at Walmart",
+  "typ": "upc",
+  "waehrung": "USD"
+ },
+ {
+  "datum": "2026-11-25T14:26:31Z",
+  "fake_risiko": false,
+  "haendler": "eBay",
+  "hype": 4,
+  "id": "4508844b101219f1",
+  "kurz": "eBay verkaufst Delta Reign Display zu 179,99€ – günstiger als Vergleichspreis",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/ebay-plus-pokemon-delta-reign-display-en-2881568",
+  "markt": {
+   "ch30": -21.9,
+   "ch7": -6.5,
+   "hoch": 234.3,
+   "id": 903956,
+   "low": 104.99,
+   "name": "Delta Reign Booster Box",
+   "trend": 165.39
+  },
+  "preis": 179.99,
+  "preis_eur": 179.99,
+  "produkt": "Delta Reign Booster Box",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": -8.8,
+  "rating": {
+   "gruende": [
+    "Kein Vorteil: 179,99 € liegt über dem Cardmarket-Trend (165,39 €)"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "eBay Plus - Pokemon Delta Reign Display EN",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
+  "datum": "2026-11-25T17:30:10Z",
+  "fake_risiko": false,
+  "haendler": null,
+  "hype": 9,
+  "id": "0db41b6c004552d9",
+  "kurz": "ETB auf Black Friday auf 116 USD gesunken – knapp und begehrt",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeGtzM3B6ZUNOZUxILW1mb0Y5NXRfTWJLb3ZOMEhmT1dPUFFPT3p6RE5VT2Y3NDJDZkwwTXpBZWRBREt2SkJhTVhIMDhMRk14NjRHRTBWY0xoUERUNUloRktyM203NEw2SGtHbWZ6Q0I3NGF2UGZlYWFKNXNTamd1b3pjTjVtTHhE?oc=5",
+  "markt": {
+   "ch30": -10.6,
+   "ch7": -11.1,
+   "hoch": 416.1,
+   "id": 895552,
+   "low": 120,
+   "name": "30th Celebration Pokémon Center Elite Trainer Box",
+   "trend": 344.19
+  },
+  "preis": 116.0,
+  "preis_eur": 105.81,
+  "produkt": "30th Celebration Pokémon Center Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "geekspin",
+  "rabatt": 69.3,
+  "rating": {
+   "gruende": [
+    "69 % unter Cardmarket-Trend (105,81 € statt 344,19 €)",
+    "Marktpreis fällt gerade (−11 % in 7 Tagen)",
+    "Begehrtes Produkt (Hype 9/10)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 3,
+   "urteil": "Interessant"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Pokémon’s $238 Elite Trainer Box drops to $116 for Black Friday",
+  "typ": "etb",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-11-24T20:44:06Z",
   "fake_risiko": false,
   "haendler": "Amazon",
@@ -1524,37 +1634,6 @@
   "titel": "Pokémon TCG: Scarlet and Violet Booster Display Box (36 Booster Packs) - Invite Only",
   "typ": "display",
   "waehrung": "GBP"
- },
- {
-  "datum": "2026-10-26T10:38:10Z",
-  "fake_risiko": false,
-  "haendler": "Amazon",
-  "hype": 6,
-  "id": "5e607e45a1d533c7",
-  "kurz": "Mega Meganium ex Box wird auf Amazon mit Rabatt angeboten, Wert steigt",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFlWdXJjRmYyWTMzWE1CcE9NanUtUDRkOUtjcS0ycmZtdWw4YTJJekV5c2hNSENQWWVjNUlMTGowSzNINFhwVDE5M1BwZ1pVYmNPQlcwZjlSWWVobTkyQ1FQRWlkU2dHRDBUMmFpSHhvZGRfSjBNNjRMYTNSaG8wTFp4R3RQUVdBRDhVYmZxNA?oc=5",
-  "markt": null,
-  "preis": 20.0,
-  "preis_eur": 17.88,
-  "produkt": "Ascended Heroes Mega Meganium ex Box",
-  "pruefen": null,
-  "quelle": "Mashable",
-  "rabatt": null,
-  "rating": {
-   "gruende": [
-    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 1,
-   "urteil": "Eher nicht"
-  },
-  "sprache": "en",
-  "status": "angebot",
-  "titel": "The Pokémon TCG Ascended Heroes Mega Meganium ex Box is close to best-ever price on Amazon — save $20",
-  "typ": "display",
-  "waehrung": "USD"
  },
  {
   "datum": "2026-11-23T10:57:34Z",
