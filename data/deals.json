@@ -1,5 +1,74 @@
 [
  {
+  "datum": "2026-11-24T20:44:06Z",
+  "fake_risiko": false,
+  "haendler": "Amazon",
+  "hype": 4,
+  "id": "0ce69c9f85fb48a3",
+  "kurz": "18er Booster-Display für 13,66 £ bei Amazon",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.hotukdeals.com/deals/pokemon-tcg-mega-evolution-delta-reign-booster-display-18-booster-packs-5045878",
+  "markt": {
+   "ch30": -15.5,
+   "ch7": -3.0,
+   "hoch": 120.14,
+   "id": 834825,
+   "low": 84.99,
+   "name": "Mega Evolution Booster Box (18 Boosters)",
+   "trend": 88.1
+  },
+  "preis": 13.66,
+  "preis_eur": 16.32,
+  "produkt": "Mega Evolution Booster Box (18 Boosters)",
+  "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
+  "quelle": "hotukdeals",
+  "rabatt": 81.5,
+  "rating": {
+   "gruende": [
+    "82 % unter Cardmarket-Trend (16,32 € statt 88,10 €)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 4,
+   "urteil": "Lohnt sich"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Pokémon TCG: Mega Evolution—Delta Reign Booster Display (18 Booster Packs)",
+  "typ": "display",
+  "waehrung": "GBP"
+ },
+ {
+  "datum": "2026-11-24T20:45:13Z",
+  "fake_risiko": false,
+  "haendler": "Smyths Toys",
+  "hype": 5,
+  "id": "1bc98aaea601a5c7",
+  "kurz": "Ultra-Premium-Set für 199,99 € im Angebot bei Smyths Toys",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/pokemon-30-jahre-ultra-premium-kollektion-tag-nacht-fur-je-19999-eur-bei-smyths-toys-nur-im-store-2880972",
+  "markt": null,
+  "preis": 199.99,
+  "preis_eur": 199.99,
+  "produkt": "30 Years Ultra Premium Collection Pokémon Box 30 Jahre Ultra-Premium-Kollektion Tag & Nacht",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": null,
+  "rating": {
+   "gruende": [
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "Pokémon 30 Jahre Ultra-Premium-Kollektion Tag & Nacht für je 199,99 € bei Smyths Toys (nur im Store)",
+  "typ": "upc",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-21T10:29:28Z",
   "fake_risiko": false,
   "haendler": "sb LÜNING",
