@@ -687,7 +687,7 @@
   "variante": null
  },
  "30th-celebration-upc-de": {
-  "aktualisiert": "2026-11-16T10:05:25Z",
+  "aktualisiert": "2026-11-25T08:09:06Z",
   "erstmals": "2026-11-16T10:05:25Z",
   "gemeldet": [
    "neu"
@@ -695,14 +695,22 @@
   "gruende": [
    "30. Jubiläum",
    "limitiert",
-   "hochwertige Karten"
+   "hochwertige Karten",
+   "30-Jahres-Set, exklusiv, limitiert"
   ],
   "haendler": "Amazon",
   "hype": 9,
   "key": "30th-celebration-upc-de",
-  "kurz": "UPC 30. Jubiläum bei Amazon mit 209,99€ erhältlich",
+  "kurz": "Ultra-Premium-Kollektion des 30-Jahres-Set wird angekündigt, begehrt.",
   "name": "30th Celebration Ultra-Premium-Kollektion",
   "quellen": [
+   {
+    "datum": "2026-11-25T08:09:06Z",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQld3aEhpbG1hYnh6c0F3ZHBEM2t6NjI5T3pvMTdQNmx1UjljUW1adXlwR1dQbGFGR2x5dXcxQWFHZWd1Y0RhbF9DZFV2aHk0cGtacHhjdlc2X1JjUmw2UVIybHZUTmRJMzY1VTY4TEw4eUhGUnJsM2pqclVRcnFpLXg0Rk1nUlBIRnVIbVVSZTY0MnNpdzFxaXl1a3Q5Yy1pUXFXSkNJdEZfcFoxcHplZXd1UzhlVFp6THgxRjBaMHMwclJSX2t6dk5XWVo1NTNwSklXd0FWMmJSNGpkdllCanNLbVFQNE1qR3FmTXdRZw?oc=5",
+    "quelle": "Giga",
+    "status": "angekuendigt",
+    "titel": "Wer die Ultra-Premium-Kollektion vom 30-Jahre-Pokémon-Set haben will, sollte sich diesen Termin freihalten"
+   },
    {
     "datum": "2026-11-16T10:05:25Z",
     "link": "https://www.mydealz.de/deals/pokemon-sammelkartenspiel-ultra-premium-kollektion-30-jahre-tag-2872537",
@@ -715,7 +723,8 @@
    "gruende": [
     "30. Jubiläum",
     "limitiert",
-    "hochwertige Karten"
+    "hochwertige Karten",
+    "30-Jahres-Set, exklusiv, limitiert"
    ],
    "sterne": 5,
    "urteil": "Top-Chance"
