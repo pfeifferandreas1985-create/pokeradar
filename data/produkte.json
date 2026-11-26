@@ -2459,19 +2459,28 @@
   "vorverkauf_ab": "2026-10-27"
  },
  "pikapika-box-2027-etb-jp-pokemon-center": {
-  "aktualisiert": "2026-10-26T04:00:03Z",
+  "aktualisiert": "2026-11-25T04:15:02Z",
   "erstmals": "2026-10-26T04:00:03Z",
   "gemeldet": [],
   "gruende": [
    "Jubiläums-Produkt",
    "nachgefragt",
-   "nachhaltige Hype"
+   "nachhaltige Hype",
+   "nachricht über Nachverkauf"
   ],
+  "haendler": "Pokémon Center",
   "hype": 10,
   "key": "pikapika-box-2027-etb-jp-pokemon-center",
-  "kurz": "Pikapikabox 2027 im Pokémon-Center-Draw – begehrt und knapp",
+  "kurz": "Pikapikabox 2027: Zusatz-Draw mit Pichu/Pikachu für Sammler",
   "name": "Pikapika Box 2027 Pikapikabox 2027",
   "quellen": [
+   {
+    "datum": "2026-11-25T04:15:02Z",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVU0xqNkQwb09NUFlGSW8zaEhOSEF3SmRoQjh2cDNmS2RlVjNvRFU3Y3YxSnBQUWlPYUFzbW8yWTVJeGtCT1dUdkhRZ1FnYk5KZnJqSTdzVU9OSEFjZFV0LUFJTl84bTd0VUE?oc=5",
+    "quelle": "インサイド",
+    "status": "vorbestellbar",
+    "titel": "「ピカピカボックス2027」がポケモンセンターオンラインで追加抽選販売！ピチュー・ピカチュウ・ライチュウのぬいぐるみのうち1点をセット"
+   },
    {
     "datum": "2026-10-26T04:00:03Z",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNSC1FLUFkUENyMjlWaktmU2xyWnNSRkVPcG5OVGhtVmh0WlIySS1sb3I4YmZRNkczSmo0RnV0SlRpQkd1Z3RjQldkQ0tHWVpDNVFtbjJ5b1lCTmxBS196Rl9qbHpmUmIwaGRvWlpvb3FicFNsODB4N24ySTlDaFU?oc=5",
@@ -2494,7 +2503,8 @@
   "sprache": "jp",
   "stage": "vorbestellbar",
   "typ": "etb",
-  "variante": "pokemon-center"
+  "variante": "pokemon-center",
+  "vorverkauf_ab": "2026-11-25"
  },
  "pokemon-day-2027-collection-display-en": {
   "aktualisiert": "2026-11-12T16:28:10Z",
