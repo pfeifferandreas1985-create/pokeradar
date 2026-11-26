@@ -1598,45 +1598,6 @@
    "waehrung": "GBP"
   },
   {
-   "datum": "2026-10-27T16:35:09Z",
-   "fake_risiko": false,
-   "haendler": "Amazon",
-   "hype": 6,
-   "id": "9bab138db5912551",
-   "kurz": "36er Booster-Box für Scarlet & Violet kostet 144,92 GBP bei Amazon",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "link": "https://www.hotukdeals.com/deals/pokemon-tcg-scarlet-and-violet-booster-display-box-36-booster-packs-invite-only-5015306",
-   "markt": {
-    "ch30": 1.5,
-    "ch7": -2.4,
-    "hoch": 208.57,
-    "id": 692092,
-    "low": 145,
-    "name": "Scarlet & Violet Booster Box",
-    "trend": 203.61
-   },
-   "preis": 144.92,
-   "preis_eur": 172.89,
-   "produkt": "Scarlet & Violet Booster Box",
-   "pruefen": null,
-   "quelle": "hotukdeals",
-   "rabatt": 15.1,
-   "rating": {
-    "gruende": [
-     "15 % unter Cardmarket-Trend (172,89 € statt 203,61 €)",
-     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-    ],
-    "sterne": 2,
-    "urteil": "Abwarten"
-   },
-   "sprache": "en",
-   "status": "angebot",
-   "titel": "Pokémon TCG: Scarlet and Violet Booster Display Box (36 Booster Packs) - Invite Only",
-   "typ": "display",
-   "waehrung": "GBP"
-  },
-  {
    "datum": "2026-11-23T10:57:34Z",
    "haendler": "Amazon",
    "hype": 10,
