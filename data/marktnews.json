@@ -1,5 +1,25 @@
 [
  {
+  "datum": "2026-11-27T13:10:02Z",
+  "id": "60b599a7df95de36",
+  "kurz": "Markt für FUTURISTIC BOX im 30. Jubiläum steigt",
+  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FZm9HUWVMRGJhZkY1Wl9ycmZfMDlzU2MzQ0ZySUd4WWlZMm0wb3EwbDNSdC1aekhmdlowRTZiVXVqT28za3lWbmZjSVI?oc=5",
+  "markt": {
+   "ch30": -34.7,
+   "ch7": -5.1,
+   "hoch": 165.74,
+   "id": 891464,
+   "low": 75,
+   "name": "30th Celebration JP Booster Box",
+   "trend": 108.19
+  },
+  "quelle": "SNKRDUNK",
+  "sprache": "jp",
+  "titel": "【ポケカ】FUTURISTIC BOXの買取・相場価格と値段推移｜30th CELEBRATION",
+  "trend": "steigt",
+  "typ": "display"
+ },
+ {
   "datum": "2026-11-25T16:40:59Z",
   "id": "ca733ef8785fa233",
   "kurz": "30. Jubiläum-ETB bei Walmart nahe am Marktpreis – hohe Nachfrage",

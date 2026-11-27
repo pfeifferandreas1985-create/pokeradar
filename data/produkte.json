@@ -3048,6 +3048,45 @@
   "variante": null,
   "vorverkauf_ab": "2026-10-29"
  },
+ "valentine-s-day-display-jp": {
+  "aktualisiert": "2026-11-24T07:48:30Z",
+  "erstmals": "2026-11-24T07:48:30Z",
+  "gemeldet": [],
+  "gruende": [
+   "Valentinstags-Theme",
+   "Regionale Pokémons",
+   "Vorbestellung ab 12.23"
+  ],
+  "hype": 5,
+  "key": "valentine-s-day-display-jp",
+  "kurz": "Valentinstags-Display ab 12.23.2026 vorbestellbar",
+  "name": "Valentine's Day Display",
+  "quellen": [
+   {
+    "datum": "2026-11-24T07:48:30Z",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yWmxMNmtqMG92aURzMko4N3ZOcTE4VVdDZlJKUHlaVVJTT2VOalkzQ0hta1FvSzdheUZGOG9aQnpYV2d4Ny1vaVozalJTVlVvMlFGdmVNaXpaakV3OVh3dWRBT1hxQVh2UUxSYnRNV0pqdUN5VlE?oc=5",
+    "quelle": "ニコニコニュース",
+    "status": "vorbestellbar",
+    "titel": "『ポケモン』のバレンタイン専用商品が12月23日より予約開始。ルギアやホウオウなど、ジョウト地方ならではのポケモンたち"
+   }
+  ],
+  "rating": {
+   "gruende": [
+    "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+    "Valentinstags-Theme",
+    "Regionale Pokémons",
+    "Vorbestellung ab 12.23"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "set": "Valentine's Day",
+  "sprache": "jp",
+  "stage": "vorbestellbar",
+  "typ": "display",
+  "variante": null,
+  "vorverkauf_ab": "2026-12-23"
+ },
  "walmart-queue-is-live": {
   "aktualisiert": "2026-10-22T01:04:19Z",
   "erstmals": "2026-10-22T01:04:19Z",

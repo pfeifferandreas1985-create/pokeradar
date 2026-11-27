@@ -1,6 +1,46 @@
 {
  "deals": [
   {
+   "datum": "2026-11-27T14:03:10Z",
+   "fake_risiko": false,
+   "haendler": "Amazon",
+   "hype": 9,
+   "id": "3f65bb5da25d3a47",
+   "kurz": "30. Jubiläum-ETB auf Amazon für 164,99 USD, günstigere Angebote bei Walmart",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMDFVRnFGNl92cEEwWWZ4Y2lPaVJHQ3hDTFBScmt3TnB0SU9QTjk1ZUFYVW9TTGs5Q2FXNTFGRFE1eUFjdjkzTmlySmtKd1BoMGdqY1JoOWQwNTg4LThkbU1LWUdCMl9ObGZES2tYemNabFl4cjNTSWY0Y0poMG50VU5GUk13TlVlWjZoY3pWV0RiZVRRVW9tSl9tNTJwUEJ4SC1KRWM3b2pPU2ZGbVczTENjSjNDQm5TeHh2SmhyNnpQMEhKTndldm9wMXE?oc=5",
+   "markt": {
+    "ch30": -13.6,
+    "ch7": -3.7,
+    "hoch": 135.27,
+    "id": 895551,
+    "low": 85,
+    "name": "30th Celebration Elite Trainer Box",
+    "trend": 111.38
+   },
+   "preis": 164.99,
+   "preis_eur": 150.33,
+   "produkt": "30th Celebration Elite Trainer Box",
+   "pruefen": null,
+   "quelle": "SSBCrack",
+   "rabatt": -35.0,
+   "rating": {
+    "gruende": [
+     "Kein Vorteil: 150,33 € liegt über dem Cardmarket-Trend (111,38 €)",
+     "Begehrtes Produkt (Hype 9/10)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 1,
+    "urteil": "Eher nicht"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "Pokémon TCG 30th Celebration Elite Trainer Box Returns to Amazon for $164.99, With Cheaper Walmart Listings",
+   "typ": "etb",
+   "waehrung": "USD"
+  },
+  {
    "datum": "2026-11-25T10:58:45Z",
    "fake_risiko": false,
    "haendler": "Walmart",
@@ -1590,45 +1630,6 @@
    "waehrung": "EUR"
   },
   {
-   "datum": "2026-10-28T14:36:58Z",
-   "fake_risiko": false,
-   "haendler": "Amazon",
-   "hype": 7,
-   "id": "c85253ca5e35479c",
-   "kurz": "Elite-Box Delta Reign unter Preis mit Rabatt für Sammler",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFpGa1ZQbURHbFM4VHBOY1NJaG1SYnFjSFAzT0o0eUFSbEw4QzgtUkstbnZSMzBjdXp0SVZXSTBqWWNWTXVNSHV0dnpkWVVwZTdZcjNoazhEMHd5M2hueGR5QnVrM0FaYzBYbVJqcHdwdW40RmVBVXBBOV9UMHM3NFhYWEpkWUpjMnJ2LVBxQ3cxYUUwYnhUbQ?oc=5",
-   "markt": {
-    "ch30": -6.2,
-    "ch7": -3.6,
-    "hoch": 102.27,
-    "id": 903955,
-    "low": 60,
-    "name": "Delta Reign Elite Trainer Box",
-    "trend": 93.35
-   },
-   "preis": 119.0,
-   "preis_eur": 106.73,
-   "produkt": "Delta Reign Elite Trainer Box",
-   "pruefen": null,
-   "quelle": "Mashable",
-   "rabatt": -14.3,
-   "rating": {
-    "gruende": [
-     "Kein Vorteil: 106,73 € liegt über dem Cardmarket-Trend (93,35 €)",
-     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-    ],
-    "sterne": 1,
-    "urteil": "Eher nicht"
-   },
-   "sprache": "en",
-   "status": "angebot",
-   "titel": "Best Pokémon TCG deal: Delta Reign Elite TB preorders have dropped below $120",
-   "typ": "etb",
-   "waehrung": "USD"
-  },
-  {
    "datum": "2026-11-23T10:57:34Z",
    "haendler": "Amazon",
    "hype": 10,
@@ -1682,6 +1683,26 @@
   ]
  },
  "marktnews": [
+  {
+   "datum": "2026-11-27T13:10:02Z",
+   "id": "60b599a7df95de36",
+   "kurz": "Markt für FUTURISTIC BOX im 30. Jubiläum steigt",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FZm9HUWVMRGJhZkY1Wl9ycmZfMDlzU2MzQ0ZySUd4WWlZMm0wb3EwbDNSdC1aekhmdlowRTZiVXVqT28za3lWbmZjSVI?oc=5",
+   "markt": {
+    "ch30": -34.7,
+    "ch7": -5.1,
+    "hoch": 165.74,
+    "id": 891464,
+    "low": 75,
+    "name": "30th Celebration JP Booster Box",
+    "trend": 108.19
+   },
+   "quelle": "SNKRDUNK",
+   "sprache": "jp",
+   "titel": "【ポケカ】FUTURISTIC BOXの買取・相場価格と値段推移｜30th CELEBRATION",
+   "trend": "steigt",
+   "typ": "display"
+  },
   {
    "datum": "2026-11-25T16:40:59Z",
    "id": "ca733ef8785fa233",
@@ -2174,6 +2195,44 @@
    "typ": "etb",
    "variante": "pokemon-center",
    "vorverkauf_ab": "2026-11-25"
+  },
+  {
+   "aktualisiert": "2026-11-24T07:48:30Z",
+   "erstmals": "2026-11-24T07:48:30Z",
+   "gruende": [
+    "Valentinstags-Theme",
+    "Regionale Pokémons",
+    "Vorbestellung ab 12.23"
+   ],
+   "hype": 5,
+   "key": "valentine-s-day-display-jp",
+   "kurz": "Valentinstags-Display ab 12.23.2026 vorbestellbar",
+   "name": "Valentine's Day Display",
+   "quellen": [
+    {
+     "datum": "2026-11-24T07:48:30Z",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yWmxMNmtqMG92aURzMko4N3ZOcTE4VVdDZlJKUHlaVVJTT2VOalkzQ0hta1FvSzdheUZGOG9aQnpYV2d4Ny1vaVozalJTVlVvMlFGdmVNaXpaakV3OVh3dWRBT1hxQVh2UUxSYnRNV0pqdUN5VlE?oc=5",
+     "quelle": "ニコニコニュース",
+     "status": "vorbestellbar",
+     "titel": "『ポケモン』のバレンタイン専用商品が12月23日より予約開始。ルギアやホウオウなど、ジョウト地方ならではのポケモンたち"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "Valentinstags-Theme",
+     "Regionale Pokémons",
+     "Vorbestellung ab 12.23"
+    ],
+    "sterne": 2,
+    "urteil": "Abwarten"
+   },
+   "set": "Valentine's Day",
+   "sprache": "jp",
+   "stage": "vorbestellbar",
+   "typ": "display",
+   "variante": null,
+   "vorverkauf_ab": "2026-12-23"
   },
   {
    "aktualisiert": "2026-11-21T10:32:51Z",
