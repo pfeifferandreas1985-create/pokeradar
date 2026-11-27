@@ -1,5 +1,36 @@
 [
  {
+  "datum": "2026-11-25T17:30:10Z",
+  "fake_risiko": false,
+  "haendler": null,
+  "hype": 6,
+  "id": "7d932dab709fe5c3",
+  "kurz": "Elite Trainer Box auf 116 USD gesenkt, aber nicht vorbestellbar.",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQnkzbkZITjlHRkNlVzdPeXRLSUN3cmhzU19EMzhJZDduRE5QSE8td2w2SE92THVUZy1XZUFBcHJlcjF4YkYydThxSzRrSmdPa1Y4Mmw3ZTNscVczVFhiWHZlLWp0V21FcUpvMElRTE9IMGpIMEZNelh0NTdpenEzMXBOYkRubHM4NFE?oc=5",
+  "markt": null,
+  "preis": 116.0,
+  "preis_eur": 105.69,
+  "produkt": "Pokémon Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "Yahoo",
+  "rabatt": null,
+  "rating": {
+   "gruende": [
+    "Kein Cardmarket-Vergleich gefunden – Preis bitte selbst prüfen",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "Pokémon’s $238 Elite Trainer Box drops to $116 for Black Friday",
+  "typ": "etb",
+  "waehrung": "USD"
+ },
+ {
   "datum": "2026-11-25T11:44:38Z",
   "fake_risiko": false,
   "haendler": "Walmart",
@@ -1517,84 +1548,6 @@
   "titel": "Best Pokémon TCG deal: Delta Reign Elite TB preorders have dropped below $120",
   "typ": "etb",
   "waehrung": "USD"
- },
- {
-  "datum": "2026-10-27T21:49:49Z",
-  "fake_risiko": false,
-  "haendler": "Amazon",
-  "hype": 7,
-  "id": "0a72897cb55e94ec",
-  "kurz": "Pitch Black-ETB für 42,72 GBP – begehrt und limitiert",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.hotukdeals.com/deals/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-invite-only-5015577",
-  "markt": {
-   "ch30": 4.4,
-   "ch7": -0.9,
-   "hoch": 72.63,
-   "id": 885542,
-   "low": 48.99,
-   "name": "Pitch Black Elite Trainer Box",
-   "trend": 69.43
-  },
-  "preis": 42.72,
-  "preis_eur": 50.97,
-  "produkt": "Pitch Black Elite Trainer Box",
-  "pruefen": null,
-  "quelle": "hotukdeals",
-  "rabatt": 26.6,
-  "rating": {
-   "gruende": [
-    "27 % unter Cardmarket-Trend (50,97 € statt 69,43 €)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 3,
-   "urteil": "Interessant"
-  },
-  "sprache": "en",
-  "status": "angebot",
-  "titel": "Pokémon TCG: Mega Evolution—Pitch Black Elite Trainer Box Invite Only",
-  "typ": "etb",
-  "waehrung": "GBP"
- },
- {
-  "datum": "2026-10-27T21:50:55Z",
-  "fake_risiko": false,
-  "haendler": "Amazon",
-  "hype": 7,
-  "id": "0de4cf467c2fcb99",
-  "kurz": "Perfect Order-ETB für 42,69 GBP – limitiert und begehrt",
-  "liefertermin": null,
-  "lieferwelle": null,
-  "link": "https://www.hotukdeals.com/deals/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box-invite-only-5015578",
-  "markt": {
-   "ch30": 1.9,
-   "ch7": -1.2,
-   "hoch": 61.37,
-   "id": 865406,
-   "low": 38.99,
-   "name": "Perfect Order Elite Trainer Box",
-   "trend": 59.17
-  },
-  "preis": 42.69,
-  "preis_eur": 50.93,
-  "produkt": "Perfect Order Elite Trainer Box",
-  "pruefen": null,
-  "quelle": "hotukdeals",
-  "rabatt": 13.9,
-  "rating": {
-   "gruende": [
-    "14 % unter Cardmarket-Trend (50,93 € statt 59,17 €)",
-    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
-   ],
-   "sterne": 1,
-   "urteil": "Eher nicht"
-  },
-  "sprache": "en",
-  "status": "angebot",
-  "titel": "Pokémon TCG: Mega Evolution - Perfect Order Elite Trainer Box - Invite Only",
-  "typ": "etb",
-  "waehrung": "GBP"
  },
  {
   "datum": "2026-11-23T10:57:34Z",
