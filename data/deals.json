@@ -1,5 +1,83 @@
 [
  {
+  "datum": "2026-11-25T10:58:45Z",
+  "fake_risiko": false,
+  "haendler": "Walmart",
+  "hype": 8,
+  "id": "b7c74c8ba8222353",
+  "kurz": "30. Jubiläums-ETB bei Walmart um $120 günstiger – knapp und begehrt.",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmlJdElVcktiTXRFaTc0V1JMRENnT3dxbzlrWGF2RkdOQjZCcEFsR0poc0dnLVVpWUNHamtzdGd3QjNOWVlLNmhkc0pJWWN4a3pFclBHNmp5RDgxNU1HMXNIVXdwbGdMLXBwbDZwb0lLb1lOWHJXeldCaTFacHFkbmpZUGU0aDQwWnMyWG1n?oc=5",
+  "markt": {
+   "ch30": -13.5,
+   "ch7": -4.5,
+   "hoch": 135.27,
+   "id": 895551,
+   "low": 85,
+   "name": "30th Celebration Elite Trainer Box",
+   "trend": 111.84
+  },
+  "preis": 120.0,
+  "preis_eur": 109.34,
+  "produkt": "30th Celebration Elite Trainer Box",
+  "pruefen": null,
+  "quelle": "Yahoo",
+  "rabatt": 2.2,
+  "rating": {
+   "gruende": [
+    "2 % unter Cardmarket-Trend (109,34 € statt 111,84 €)",
+    "Begehrtes Produkt (Hype 8/10)",
+    "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+   ],
+   "sterne": 1,
+   "urteil": "Eher nicht"
+  },
+  "sprache": "en",
+  "status": "angebot",
+  "titel": "The Pokémon TCG 30th Celebration ETB gets price cut in Walmart's Black Friday sale — save $120",
+  "typ": "etb",
+  "waehrung": "USD"
+ },
+ {
+  "datum": "2026-11-27T11:46:07Z",
+  "fake_risiko": false,
+  "haendler": "Kofuku",
+  "hype": 4,
+  "id": "049228c20aad2d65",
+  "kurz": "Delta-Herrschaft Display für 145,48€ bei Kofuku verfügbar",
+  "liefertermin": null,
+  "lieferwelle": null,
+  "link": "https://www.mydealz.de/deals/kofuku-delta-herrschaft-display-2883707",
+  "markt": {
+   "ch30": -23.1,
+   "ch7": -5.9,
+   "hoch": 234.3,
+   "id": 903956,
+   "low": 95,
+   "name": "Delta Reign Booster Box",
+   "trend": 162.59
+  },
+  "preis": 145.48,
+  "preis_eur": 145.48,
+  "produkt": "Delta Reign Booster Box",
+  "pruefen": null,
+  "quelle": "mydealz",
+  "rabatt": 10.5,
+  "rating": {
+   "gruende": [
+    "10 % unter Cardmarket-Trend (145,48 € statt 162,59 €)"
+   ],
+   "sterne": 2,
+   "urteil": "Abwarten"
+  },
+  "sprache": "de",
+  "status": "angebot",
+  "titel": "[Kofuku] Pokemon Delta-Herrschaft Display (Sammelkartenspiel)",
+  "typ": "display",
+  "waehrung": "EUR"
+ },
+ {
   "datum": "2026-11-25T17:30:10Z",
   "fake_risiko": false,
   "haendler": null,

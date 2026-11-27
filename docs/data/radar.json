@@ -1,6 +1,84 @@
 {
  "deals": [
   {
+   "datum": "2026-11-25T10:58:45Z",
+   "fake_risiko": false,
+   "haendler": "Walmart",
+   "hype": 8,
+   "id": "b7c74c8ba8222353",
+   "kurz": "30. Jubiläums-ETB bei Walmart um $120 günstiger – knapp und begehrt.",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmlJdElVcktiTXRFaTc0V1JMRENnT3dxbzlrWGF2RkdOQjZCcEFsR0poc0dnLVVpWUNHamtzdGd3QjNOWVlLNmhkc0pJWWN4a3pFclBHNmp5RDgxNU1HMXNIVXdwbGdMLXBwbDZwb0lLb1lOWHJXeldCaTFacHFkbmpZUGU0aDQwWnMyWG1n?oc=5",
+   "markt": {
+    "ch30": -13.5,
+    "ch7": -4.5,
+    "hoch": 135.27,
+    "id": 895551,
+    "low": 85,
+    "name": "30th Celebration Elite Trainer Box",
+    "trend": 111.84
+   },
+   "preis": 120.0,
+   "preis_eur": 109.34,
+   "produkt": "30th Celebration Elite Trainer Box",
+   "pruefen": null,
+   "quelle": "Yahoo",
+   "rabatt": 2.2,
+   "rating": {
+    "gruende": [
+     "2 % unter Cardmarket-Trend (109,34 € statt 111,84 €)",
+     "Begehrtes Produkt (Hype 8/10)",
+     "Händler außerhalb der EU – Versand/Zoll nicht eingerechnet"
+    ],
+    "sterne": 1,
+    "urteil": "Eher nicht"
+   },
+   "sprache": "en",
+   "status": "angebot",
+   "titel": "The Pokémon TCG 30th Celebration ETB gets price cut in Walmart's Black Friday sale — save $120",
+   "typ": "etb",
+   "waehrung": "USD"
+  },
+  {
+   "datum": "2026-11-27T11:46:07Z",
+   "fake_risiko": false,
+   "haendler": "Kofuku",
+   "hype": 4,
+   "id": "049228c20aad2d65",
+   "kurz": "Delta-Herrschaft Display für 145,48€ bei Kofuku verfügbar",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "link": "https://www.mydealz.de/deals/kofuku-delta-herrschaft-display-2883707",
+   "markt": {
+    "ch30": -23.1,
+    "ch7": -5.9,
+    "hoch": 234.3,
+    "id": 903956,
+    "low": 95,
+    "name": "Delta Reign Booster Box",
+    "trend": 162.59
+   },
+   "preis": 145.48,
+   "preis_eur": 145.48,
+   "produkt": "Delta Reign Booster Box",
+   "pruefen": null,
+   "quelle": "mydealz",
+   "rabatt": 10.5,
+   "rating": {
+    "gruende": [
+     "10 % unter Cardmarket-Trend (145,48 € statt 162,59 €)"
+    ],
+    "sterne": 2,
+    "urteil": "Abwarten"
+   },
+   "sprache": "de",
+   "status": "angebot",
+   "titel": "[Kofuku] Pokemon Delta-Herrschaft Display (Sammelkartenspiel)",
+   "typ": "display",
+   "waehrung": "EUR"
+  },
+  {
    "datum": "2026-11-25T17:30:10Z",
    "fake_risiko": false,
    "haendler": null,
@@ -1796,6 +1874,215 @@
  ],
  "produkte": [
   {
+   "aktualisiert": "2026-11-27T11:26:27Z",
+   "erstmals": "2026-10-22T08:33:58Z",
+   "gruende": [
+    "Vorbestellungs-Invite",
+    "knapp",
+    "nur mit Einladung",
+    "Jubiläum"
+   ],
+   "hype": 10,
+   "key": "30th-celebration-etb-en-pokemon-center",
+   "kurz": "Pokémon-Center-Box 30. Jubiläum wieder erhältlich",
+   "markt": {
+    "ch30": -12.6,
+    "ch7": -10.8,
+    "hoch": 416.1,
+    "id": 895552,
+    "low": 300,
+    "name": "30th Celebration Pokémon Center Elite Trainer Box",
+    "trend": 336.38
+   },
+   "name": "30th Celebration Pokémon Center Elite Trainer Box",
+   "quellen": [
+    {
+     "datum": "2026-11-27T11:26:27Z",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYnlFcEpCRFNHNW5MMWVBbW1reWhjQ0U4ZUFlSGUxWjRIdXR2M3o2X3FzQ2dtYUx0V1Z6clJ1N0Z3Yk9XemJTZEx3dVJETk5BREx1cXhhRFVvVE0tUGlpc0xSNFEzQUtTYU5QZDBnWWNCdC1MREo2QnVmZ1hGcFNHRU5hVFVlbjl6dFFJbjEycFZscDRUMlNwbTI1SVJCUQ?oc=5",
+     "quelle": "Mashable",
+     "status": "nachschub",
+     "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is back in stock for Black Friday: Buy at market price"
+    },
+    {
+     "datum": "2026-11-09T19:49:09Z",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NOUtXRkhkSTlaZ3R5ZUdhRGYtMXNLZzRKWEtUUkkyajBKTUR2OGEwOVF2cldCVi1fVnlyZFRoUlRqOWExdzNoaFhhdmZRSUl2Rk9CVEN1cXpWUzAzaVI0bVFON3N4MnJ5Uks5dWF5Vy0zbFRXNkNEVUZSbDE?oc=5",
+     "quelle": "Kanto Post",
+     "status": "vorbestellbar",
+     "titel": "Pokémon Center is finally processing 30th Celebration products for UK pre-orders"
+    },
+    {
+     "datum": "2026-11-07T22:10:11Z",
+     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1CZ1FpTlFER2hyLUlXSXktYXUtRjE5MEhIYWFjRGZtOHZwbU1xMkRSTjdLS0FXVjJobTNN?oc=5",
+     "quelle": "Howl.Link",
+     "status": "angekuendigt",
+     "titel": "Pokémon TCG: 30th Celebration Elite Trainer Box"
+    },
+    {
+     "datum": "2026-10-22T08:33:58Z",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQai02LXRsTU9GY1BTT0dMZ3JRaWptQ3Y2SHE5UVMzUW55aVlwOFNfc2hzalNNeU4wcTVpS1NzN1puR0h3ZzVCb1JsS0hqZUdYVkk2cG9NY3BBRlBGZXdfdlpPcmVvNG5mcXFXZWpoQnhxYTFZeW9jWHdZaTNvU2RBcjM1S1VtWFMwcmxSSlg0b1pOYmo4TjE4QWgyT2E1bUk?oc=5",
+     "quelle": "IGN",
+     "status": "vorbestellbar",
+     "titel": "Pokémon TCG: 30th Celebration Elite Trainer Box Down to $59.99 at Amazon — if You Can Secure an Invite to Buy"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Nachschub – kurze Gelegenheit zum Originalpreis",
+     "Vorbestellungs-Invite",
+     "knapp",
+     "nur mit Einladung"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Celebration",
+   "sprache": "en",
+   "stage": "nachschub",
+   "typ": "etb",
+   "variante": "pokemon-center"
+  },
+  {
+   "aktualisiert": "2026-11-27T07:40:02Z",
+   "erscheint_am": null,
+   "erstmals": "2026-09-28T10:45:03Z",
+   "gruende": [
+    "30. Jubiläum",
+    "1BOX-Only",
+    "Ziehungsverkauf",
+    "limitiert"
+   ],
+   "haendler": "ポケセンオンライン",
+   "hype": 10,
+   "key": "30th-celebration-display-jp-18er",
+   "kurz": "30. Jubiläum-Boxen via PokéCenter-Online-Draw verfügbar.",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "markt": {
+    "ch30": -33.9,
+    "ch7": -4.7,
+    "hoch": 165.74,
+    "id": 891464,
+    "low": 75,
+    "name": "30th Celebration JP Booster Box",
+    "trend": 108.7
+   },
+   "name": "30th Celebration JP Booster Box",
+   "preis_eur": 125.02,
+   "quellen": [
+    {
+     "datum": "2026-11-27T07:40:02Z",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRUE8xbHFSYVFfQlFJcE4yblBSWjF4TnFhUkFueEEzSk40WnkydjV2OUI3NXFnUjRwZTJnUllqUzBtRFVtemNHZjBST3F3dTdOazE2aWJFREkzTEpUbVFTNjBKakVhZlo3bkk4RnQwR2Q0aEc4UWxSNG90bEl6MGs?oc=5",
+     "quelle": "Yahoo!ニュース",
+     "status": "vorbestellbar",
+     "titel": "『ポケカ』30周年記念商品がポケセンオンラインで抽選販売！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象（インサイド）"
+    },
+    {
+     "datum": "2026-11-14T09:35:35Z",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hMW53cGE2X2J5UDNaLWRXTkIwaGV0UzZNaC1wYUVSZVNtTWZqenpFMWUyYUpuZDZsZFlkXzFNOXpnMnd3VXB2RElJQU0?oc=5",
+     "quelle": "SNKRDUNK",
+     "status": "vorbestellbar",
+     "titel": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ"
+    },
+    {
+     "datum": "2026-11-13T00:00:00Z",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJWlBMVG1adlVTWk5KY3plaTdKeWI1aXhLbC0xajgzbldxZi1fQjVHaExUWkE3RlNUNDdzOEkzWV9POWd6aUo0elA2dXVFRjdxYVJjMkR1bw?oc=5",
+     "quelle": "ファミ通",
+     "status": "vorbestellbar",
+     "titel": "【ポケカ】楽天で抽選販売。ハドウシーカーやスペシャルデッキセットMEGA、30周年パックなど。応募期間は11月18日まで"
+    },
+    {
+     "datum": "2026-10-28T04:16:17Z",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zOVJSUFIxQU9vdm1QMUw3czM0VFR2akRvSzZrRVM1dHd3MFZsaWdqcUFDVXlyRzkwanB4MmIwSjlDdjBYRmxBQTkyUWxhR2NER1paUjZDbUNMbGs?oc=5",
+     "quelle": "朝日新聞",
+     "status": "vorbestellbar",
+     "titel": "【速報】ポケカ30周年ボックス発売開始！買取価格は発売初日で最高2.2万円！トレゲトが情報を公開"
+    },
+    {
+     "datum": "2026-10-05T19:19:36Z",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wZVNnNndBaHItdk1qSjRzUEpWSGlYU2RqU3ZBWFFMY0duRHFDWFZwbTVtR3RlQnVyOVlaUDRJTmlYbWFTdUZCclF3?oc=5",
+     "quelle": "カードラボ",
+     "status": "nachschub",
+     "titel": "【ポケモンカードゲーム】『30thセレブレーション』再販抽選販売のお知らせ / 小倉店の店舗ブログ"
+    },
+    {
+     "datum": "2026-09-29T06:35:02Z",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHpzSGZjSTZ5UDJvd1FrY2NvZ3pyN1Bib2F0a2xNc2ZpOXhCOE9zaU5TRHFqUjBiU0ZMa1NpUHVWUU5DVjhDdElIaHV1M1B5RE5haGU1ZUJQa2h2RFZxQ0ZZQkNubGgyamI0cFVOTHJiTGZ2cGxxc1g3Y2tOalNrZTQxWFc?oc=5",
+     "quelle": "インサイド",
+     "status": "vorbestellbar",
+     "titel": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象"
+    },
+    {
+     "datum": "2026-09-29T06:35:02Z",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TUFUwOFBzc2d2MklQSzI0Y20waDdpc1k4LVUweFA1QXZ2M3k4aXIwbGdPa2x2TC10M04tcWVpaFlHLTVIS1ZFT2l1VnBTZTB3NUM1T1ZkeS1rdmhxUjJOanNQQVdodHJRVGJEOEZ5dnN6dzBTelpz?oc=5",
+     "quelle": "インサイド",
+     "status": "vorbestellbar",
+     "titel": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象 2枚目の写真・画像"
+    },
+    {
+     "datum": "2026-09-29T06:35:02Z",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KN01kcHRCWFdTRTIwamlxWC1GZXdnczViY3NQRjJFTVF1cXBjZFgwSFRXNENXUWlSVGQzazVpVHVsYUdONlE2MGwtMk5TZzNfc21DWEY0dUhXZFM1ZU14ckpCOVdMSmN5X09Wd2lITkVGWDNCbld3?oc=5",
+     "quelle": "インサイド",
+     "status": "vorbestellbar",
+     "titel": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象 14枚目の写真・画像"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Nachschub – kurze Gelegenheit zum Originalpreis",
+     "30. Jubiläum",
+     "1BOX-Only",
+     "Ziehungsverkauf"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th Celebration",
+   "sprache": "jp",
+   "stage": "nachschub",
+   "typ": "display",
+   "variante": null,
+   "vorverkauf_ab": "2026-11-27"
+  },
+  {
+   "aktualisiert": "2026-11-27T07:40:02Z",
+   "erstmals": "2026-11-27T07:40:02Z",
+   "gruende": [
+    "30. Jubiläum",
+    "Exklusivität",
+    "Zieh-Box-Preis"
+   ],
+   "haendler": "ポケセンオンライン",
+   "hype": 8,
+   "key": "eiffel-blakki-set-display-jp",
+   "kurz": "Eiffel Blakki-Set im 30. Jubiläum-Draw von PokéCenter verfügbar.",
+   "name": "Eiffel Blakki Set Erweiterungspack",
+   "quellen": [
+    {
+     "datum": "2026-11-27T07:40:02Z",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hT1k2bGJaU3BHT1I3NENJQ0x5bF81RTFKLUUxWTlLeS1ud2RQeEhNZk41Tk96YjRYX3Y3LXdSZFdBb1JLWnNUaC0wVFpNUEhqNnZ3ajVFdXJHd3BBekw3RWl6T2E4X3ZOc3c?oc=5",
+     "quelle": "インサイド",
+     "status": "vorbestellbar",
+     "titel": "『ポケカ』30周年記念商品がポケセンオンラインで抽選販売！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
+     "30. Jubiläum",
+     "Exklusivität",
+     "Zieh-Box-Preis"
+    ],
+    "sterne": 4,
+    "urteil": "Lohnt sich"
+   },
+   "set": "Eiffel Blakki Set",
+   "sprache": "jp",
+   "stage": "vorbestellbar",
+   "typ": "display",
+   "variante": null,
+   "vorverkauf_ab": "2026-11-27"
+  },
+  {
    "aktualisiert": "2026-11-25T08:09:06Z",
    "erstmals": "2026-11-16T10:05:25Z",
    "gruende": [
@@ -2223,108 +2510,6 @@
    "vorverkauf_ab": "2026-09-15"
   },
   {
-   "aktualisiert": "2026-11-14T09:35:35Z",
-   "erscheint_am": null,
-   "erstmals": "2026-09-28T10:45:03Z",
-   "gruende": [
-    "30. Jubiläum",
-    "1BOX-Only",
-    "Ziehungsverkauf",
-    "limitiert"
-   ],
-   "haendler": "Rakuten",
-   "hype": 10,
-   "key": "30th-celebration-display-jp-18er",
-   "kurz": "30. Jubiläum: Premium-Decks mit Eufi-Blakkie-Karten werden wieder vertrieben",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "markt": {
-    "ch30": -16.1,
-    "ch7": -10.5,
-    "hoch": 165.74,
-    "id": 891464,
-    "low": 84.49,
-    "name": "30th Celebration JP Booster Box",
-    "trend": 136.01
-   },
-   "name": "30th Celebration JP Booster Box",
-   "preis_eur": 125.02,
-   "quellen": [
-    {
-     "datum": "2026-11-14T09:35:35Z",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hMW53cGE2X2J5UDNaLWRXTkIwaGV0UzZNaC1wYUVSZVNtTWZqenpFMWUyYUpuZDZsZFlkXzFNOXpnMnd3VXB2RElJQU0?oc=5",
-     "quelle": "SNKRDUNK",
-     "status": "vorbestellbar",
-     "titel": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ"
-    },
-    {
-     "datum": "2026-11-13T00:00:00Z",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJWlBMVG1adlVTWk5KY3plaTdKeWI1aXhLbC0xajgzbldxZi1fQjVHaExUWkE3RlNUNDdzOEkzWV9POWd6aUo0elA2dXVFRjdxYVJjMkR1bw?oc=5",
-     "quelle": "ファミ通",
-     "status": "vorbestellbar",
-     "titel": "【ポケカ】楽天で抽選販売。ハドウシーカーやスペシャルデッキセットMEGA、30周年パックなど。応募期間は11月18日まで"
-    },
-    {
-     "datum": "2026-10-28T04:16:17Z",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zOVJSUFIxQU9vdm1QMUw3czM0VFR2akRvSzZrRVM1dHd3MFZsaWdqcUFDVXlyRzkwanB4MmIwSjlDdjBYRmxBQTkyUWxhR2NER1paUjZDbUNMbGs?oc=5",
-     "quelle": "朝日新聞",
-     "status": "vorbestellbar",
-     "titel": "【速報】ポケカ30周年ボックス発売開始！買取価格は発売初日で最高2.2万円！トレゲトが情報を公開"
-    },
-    {
-     "datum": "2026-10-05T19:19:36Z",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wZVNnNndBaHItdk1qSjRzUEpWSGlYU2RqU3ZBWFFMY0duRHFDWFZwbTVtR3RlQnVyOVlaUDRJTmlYbWFTdUZCclF3?oc=5",
-     "quelle": "カードラボ",
-     "status": "nachschub",
-     "titel": "【ポケモンカードゲーム】『30thセレブレーション』再販抽選販売のお知らせ / 小倉店の店舗ブログ"
-    },
-    {
-     "datum": "2026-09-29T06:35:02Z",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHpzSGZjSTZ5UDJvd1FrY2NvZ3pyN1Bib2F0a2xNc2ZpOXhCOE9zaU5TRHFqUjBiU0ZMa1NpUHVWUU5DVjhDdElIaHV1M1B5RE5haGU1ZUJQa2h2RFZxQ0ZZQkNubGgyamI0cFVOTHJiTGZ2cGxxc1g3Y2tOalNrZTQxWFc?oc=5",
-     "quelle": "インサイド",
-     "status": "vorbestellbar",
-     "titel": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象"
-    },
-    {
-     "datum": "2026-09-29T06:35:02Z",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TUFUwOFBzc2d2MklQSzI0Y20waDdpc1k4LVUweFA1QXZ2M3k4aXIwbGdPa2x2TC10M04tcWVpaFlHLTVIS1ZFT2l1VnBTZTB3NUM1T1ZkeS1rdmhxUjJOanNQQVdodHJRVGJEOEZ5dnN6dzBTelpz?oc=5",
-     "quelle": "インサイド",
-     "status": "vorbestellbar",
-     "titel": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象 2枚目の写真・画像"
-    },
-    {
-     "datum": "2026-09-29T06:35:02Z",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KN01kcHRCWFdTRTIwamlxWC1GZXdnczViY3NQRjJFTVF1cXBjZFgwSFRXNENXUWlSVGQzazVpVHVsYUdONlE2MGwtMk5TZzNfc21DWEY0dUhXZFM1ZU14ckpCOVdMSmN5X09Wd2lITkVGWDNCbld3?oc=5",
-     "quelle": "インサイド",
-     "status": "vorbestellbar",
-     "titel": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象 14枚目の写真・画像"
-    },
-    {
-     "datum": "2026-09-29T06:35:02Z",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ldTdaZ3drUFY0LWh2YWl2cG50Y1VSR1Z3ZlVxVFMtYi13RmNmek5oaGJTNDRDd09PWU9OVTBqcjhNRXg1RHllaTVKNDdHT2RubXBxdHJBU21aZUlsWkVVWWM1NGFFMzRnRTgwVjRCYmNqOHd4RU4wUjNn?oc=5",
-     "quelle": "インサイド",
-     "status": "vorbestellbar",
-     "titel": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象 1枚目の写真・画像"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Nachschub – kurze Gelegenheit zum Originalpreis",
-     "30. Jubiläum",
-     "1BOX-Only",
-     "Ziehungsverkauf"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "30th Celebration",
-   "sprache": "jp",
-   "stage": "nachschub",
-   "typ": "display",
-   "variante": null,
-   "vorverkauf_ab": "2026-11-18"
-  },
-  {
    "aktualisiert": "2026-11-13T17:06:58Z",
    "erscheint_am": "2026-11-01",
    "erstmals": "2026-09-18T00:29:28Z",
@@ -2580,67 +2765,6 @@
    "typ": "display",
    "variante": null,
    "vorverkauf_ab": "2026-11-12"
-  },
-  {
-   "aktualisiert": "2026-11-09T19:49:09Z",
-   "erstmals": "2026-10-22T08:33:58Z",
-   "gruende": [
-    "Vorbestellungs-Invite",
-    "knapp",
-    "nur mit Einladung",
-    "Jubiläum"
-   ],
-   "hype": 10,
-   "key": "30th-celebration-etb-en-pokemon-center",
-   "kurz": "UK-Pre-Order für Pokémon Center 30. Jubiläum startet – begehrt und knapp",
-   "markt": {
-    "ch30": 14.1,
-    "ch7": 1.3,
-    "hoch": 416.1,
-    "id": 895552,
-    "low": 359,
-    "name": "30th Celebration Pokémon Center Elite Trainer Box",
-    "trend": 413.83
-   },
-   "name": "30th Celebration Pokémon Center Elite Trainer Box",
-   "quellen": [
-    {
-     "datum": "2026-11-09T19:49:09Z",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NOUtXRkhkSTlaZ3R5ZUdhRGYtMXNLZzRKWEtUUkkyajBKTUR2OGEwOVF2cldCVi1fVnlyZFRoUlRqOWExdzNoaFhhdmZRSUl2Rk9CVEN1cXpWUzAzaVI0bVFON3N4MnJ5Uks5dWF5Vy0zbFRXNkNEVUZSbDE?oc=5",
-     "quelle": "Kanto Post",
-     "status": "vorbestellbar",
-     "titel": "Pokémon Center is finally processing 30th Celebration products for UK pre-orders"
-    },
-    {
-     "datum": "2026-11-07T22:10:11Z",
-     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1CZ1FpTlFER2hyLUlXSXktYXUtRjE5MEhIYWFjRGZtOHZwbU1xMkRSTjdLS0FXVjJobTNN?oc=5",
-     "quelle": "Howl.Link",
-     "status": "angekuendigt",
-     "titel": "Pokémon TCG: 30th Celebration Elite Trainer Box"
-    },
-    {
-     "datum": "2026-10-22T08:33:58Z",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQai02LXRsTU9GY1BTT0dMZ3JRaWptQ3Y2SHE5UVMzUW55aVlwOFNfc2hzalNNeU4wcTVpS1NzN1puR0h3ZzVCb1JsS0hqZUdYVkk2cG9NY3BBRlBGZXdfdlpPcmVvNG5mcXFXZWpoQnhxYTFZeW9jWHdZaTNvU2RBcjM1S1VtWFMwcmxSSlg0b1pOYmo4TjE4QWgyT2E1bUk?oc=5",
-     "quelle": "IGN",
-     "status": "vorbestellbar",
-     "titel": "Pokémon TCG: 30th Celebration Elite Trainer Box Down to $59.99 at Amazon — if You Can Secure an Invite to Buy"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Vorbestellung ist offen – bei begehrten Boxen oft in Stunden weg",
-     "Vorbestellungs-Invite",
-     "knapp",
-     "nur mit Einladung"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "30th Celebration",
-   "sprache": "en",
-   "stage": "vorbestellbar",
-   "typ": "etb",
-   "variante": "pokemon-center"
   },
   {
    "aktualisiert": "2026-11-09T16:10:08Z",
