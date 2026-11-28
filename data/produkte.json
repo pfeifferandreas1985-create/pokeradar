@@ -849,7 +849,7 @@
   "vorverkauf_ab": "2026-11-13"
  },
  "30th-upc-upc-en": {
-  "aktualisiert": "2026-11-21T10:32:51Z",
+  "aktualisiert": "2026-11-28T10:12:37Z",
   "erscheint_am": "2026-11-30",
   "erstmals": "2026-10-14T00:41:32Z",
   "gemeldet": [
@@ -866,12 +866,19 @@
   "haendler": "Amazon",
   "hype": 9,
   "key": "30th-upc-upc-en",
-  "kurz": "30. Jubiläum-UPC wieder verfügbar – Nachschub für Sammler",
+  "kurz": "30. Jubiläum-UPC wieder erhältlich – Nachschub",
   "liefertermin": null,
   "lieferwelle": null,
   "name": "30th UPC Ultra Premium Collection",
   "preis_eur": null,
   "quellen": [
+   {
+    "datum": "2026-11-28T10:12:37Z",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjljZHhNdzdoMXpQTi1tTm1hbC1uenhYYkl2NmwzbzM5ZGlNOFo4NkpsZTNwU1lzV0xDYTJacm9ZakdMRHZaWkpvSU9JYngyYldrSmlHZHItNXRkWGUtbXc4U0lyelhRWUpTVXA3dVkzVjNNM1FsUHJiYWxuNTV6Tk1HQ1ZxRG5xVkRNUlVXcHBaaEFlT3FiTVVrZ3pUbjRy?oc=5",
+    "quelle": "Mashable",
+    "status": "nachschub",
+    "titel": "The Pokémon TCG 30th Celebration Ultra-Premium Collection is finally back in stock at Amazon: Shop this weekend"
+   },
    {
     "datum": "2026-11-21T10:32:51Z",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemdBZmdQMm9RS3JBclZQWlVPeWp6NXlrWDhyQlNEcXBaX2FTUWotbVNKdjFwVnZ2dlVMaFRISFhwendpSjItRzdZWHg2YTgxU1hta3VadUxjVEVsZExDMEVscjU2QTZMTVJDZVllRzNQSHVlZTFtNzdZdTgwUEY2a1VhemVZMEdSOU8yS2pWVnVzaWVQQVhnbGYyYmtYNkE?oc=5",
@@ -920,13 +927,6 @@
     "quelle": "Mashable",
     "status": "nachschub",
     "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections restock retailers: Where to buy"
-   },
-   {
-    "datum": "2026-11-06T20:13:30Z",
-    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUzQ2VDRTUExkMXhCRGJYVGh2NFo3MHVIMDB2R1IyMjFaZWlHcklVT0JKOVFwbkhyQXlNdkpfQlY5NGV4ZkJoTmV1bXBYbnk2bUV6UWlUank5bml1a2c1Ym9FaDk0SWxJeV8tSjlyYmJ1YUNoWUVQUnNLVExjcXB1eTZiMmRRbDhBVFVRWW5sREdfbkIwMTBMbVlXRHJkRTJ5QU4wckEwZnVlVmdpQUlKdW94d2pybVpnYnY3cFpIc0pTTUt0MEFMTTZ1ZzlmeEk2dkZnN2xDSlM5STVVU0VmTUt0NlE5UW45RE4wSktpbTlGdXZMTmlCQW1sb2N6Uy1wYWJTTWpuaWdmYVlhWVRBNC02S0pfZTVwNTAyeWZra9IBpAJBVV95cUxQaXpjT2dXbjNmd0RpU1U2OTY1WU54c2RGZXl1YTBNa3FCRTB4dDU4ZTltWHEwdlp2ZHNfdEFlSE5JTzFzaFVISVdVRUMzMVlobFFlZFIzSUduX2RhR1R4YVJaUzF4U2hyWEhkeFlheGxrTS11N2Yya0RiU1BpOS1QUmM0aE5LUHkxZk00dEI3ZzFFeUVzWU1Db2Nud3J3aXozbTFEeXIxRjl2MFJWTUdia0luZnY0S2huSEJZdHJiaE1yMVdSOXFQYUE3ZWtFVGh1SDRzbnJWQm5TYXdkQmdaWDVEZEZRTHhSNWlUUU1sOC1QRXQwTjNHTVczSFAycDFaUDZkNVEtTEJJTS1adFVPLTdPVGJrMWo0TTlWMUZiTVVDM2Ff?oc=5",
-    "quelle": "The Economic Times",
-    "status": "angekuendigt",
-    "titel": "Pokémon 30th anniversary ultra-premium collection arriving with exclusive cards and accessories on Novembe"
    }
   ],
   "rating": {

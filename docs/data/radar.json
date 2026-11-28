@@ -1553,83 +1553,6 @@
    "waehrung": "EUR"
   },
   {
-   "datum": "2026-10-29T09:47:57Z",
-   "fake_risiko": false,
-   "haendler": "Amazon",
-   "hype": 9,
-   "id": "ec499aa092f102d9",
-   "kurz": "30. Jubiläum-ETB unter Marktpreis bei Amazon verfügbar",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOXlNTU5TS2ZFbk9fazdTeFNnZ0FNV1haR0dWMmtlNzdidE16S2RaNTFSNHdCbXZmOXBPbmFFaW1TTHd4QWdrNzBrcF9JY2x3YlFLdjNQaWE5bXp1aUc2N2FiNl9RNHBrSFJibUlNYm1ERy13QmtnZ3c5T0tfeVZyLTFsNkxCcldYX1lLRw?oc=5",
-   "markt": {
-    "ch30": -5.4,
-    "ch7": -2.2,
-    "hoch": 135.27,
-    "id": 895551,
-    "low": 94,
-    "name": "30th Celebration Elite Trainer Box",
-    "trend": 127.93
-   },
-   "preis": 59.99,
-   "preis_eur": 59.99,
-   "produkt": "30th Celebration Elite Trainer Box",
-   "pruefen": null,
-   "quelle": "Mashable",
-   "rabatt": 53.1,
-   "rating": {
-    "gruende": [
-     "53 % unter Cardmarket-Trend (59,99 € statt 127,93 €)",
-     "Begehrtes Produkt (Hype 9/10)"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "sprache": "en",
-   "status": "angebot",
-   "titel": "The Pokémon TCG 30th Celebration Elite Trainer Box is way under market price at Amazon — buy for $59.99",
-   "typ": "etb",
-   "waehrung": "EUR"
-  },
-  {
-   "datum": "2026-10-29T06:50:54Z",
-   "fake_risiko": false,
-   "haendler": "Amazon",
-   "hype": 5,
-   "id": "20f2f2d14027315e",
-   "kurz": "Amazon verkaufst 6 Boosterpacks für 33,93€",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "link": "https://www.mydealz.de/deals/amazon-einladung-pokemon-sammelkartenspiel-boosterbundle-karmesin-purpur-sturmische-funken-6-boosterpacks-2860966",
-   "markt": {
-    "ch30": 1.9,
-    "ch7": -1.5,
-    "hoch": 259.45,
-    "id": 784949,
-    "low": 144.95,
-    "name": "Surging Sparks Booster Box",
-    "trend": 255.65
-   },
-   "preis": 33.93,
-   "preis_eur": 33.93,
-   "produkt": "Surging Sparks Booster Box",
-   "pruefen": "Prüfen, ob es genau diese Box ist (keine Neuauflage, kein leerer Karton)",
-   "quelle": "mydealz",
-   "rabatt": 86.7,
-   "rating": {
-    "gruende": [
-     "87 % unter Cardmarket-Trend (33,93 € statt 255,65 €)"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "sprache": "de",
-   "status": "angebot",
-   "titel": "Amazon Einladung Pokémon-Sammelkartenspiel: Boosterbundle Karmesin & Purpur – Stürmische Funken (6 Boosterpacks)",
-   "typ": "display",
-   "waehrung": "EUR"
-  },
-  {
    "datum": "2026-11-23T10:57:34Z",
    "haendler": "Amazon",
    "hype": 10,
@@ -1894,6 +1817,99 @@
   }
  ],
  "produkte": [
+  {
+   "aktualisiert": "2026-11-28T10:12:37Z",
+   "erscheint_am": "2026-11-30",
+   "erstmals": "2026-10-14T00:41:32Z",
+   "gruende": [
+    "Limitiertes Set, hoher Fan-Bezug",
+    "Preisstabilität trotz großen Angebots",
+    "Hype um Evolutions-Entwicklungen",
+    "30. Jubiläum, exklusiv, limitiert"
+   ],
+   "haendler": "Amazon",
+   "hype": 9,
+   "key": "30th-upc-upc-en",
+   "kurz": "30. Jubiläum-UPC wieder erhältlich – Nachschub",
+   "liefertermin": null,
+   "lieferwelle": null,
+   "name": "30th UPC Ultra Premium Collection",
+   "preis_eur": null,
+   "quellen": [
+    {
+     "datum": "2026-11-28T10:12:37Z",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjljZHhNdzdoMXpQTi1tTm1hbC1uenhYYkl2NmwzbzM5ZGlNOFo4NkpsZTNwU1lzV0xDYTJacm9ZakdMRHZaWkpvSU9JYngyYldrSmlHZHItNXRkWGUtbXc4U0lyelhRWUpTVXA3dVkzVjNNM1FsUHJiYWxuNTV6Tk1HQ1ZxRG5xVkRNUlVXcHBaaEFlT3FiTVVrZ3pUbjRy?oc=5",
+     "quelle": "Mashable",
+     "status": "nachschub",
+     "titel": "The Pokémon TCG 30th Celebration Ultra-Premium Collection is finally back in stock at Amazon: Shop this weekend"
+    },
+    {
+     "datum": "2026-11-21T10:32:51Z",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemdBZmdQMm9RS3JBclZQWlVPeWp6NXlrWDhyQlNEcXBaX2FTUWotbVNKdjFwVnZ2dlVMaFRISFhwendpSjItRzdZWHg2YTgxU1hta3VadUxjVEVsZExDMEVscjU2QTZMTVJDZVllRzNQSHVlZTFtNzdZdTgwUEY2a1VhemVZMEdSOU8yS2pWVnVzaWVQQVhnbGYyYmtYNkE?oc=5",
+     "quelle": "Mashable",
+     "status": "nachschub",
+     "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections restock retailers: Where to buy"
+    },
+    {
+     "datum": "2026-11-21T10:32:51Z",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMDNfamhvaGhDa2swSkU4RWJ6VWdYRnNfSWRWY0FRV1lxYlV6M0JpUEhBTkJJdTJkS0RKQl95aDNBd3B6S053VDVtS1BDekhDdkxHZEJQR3pDOFE3emhIejJlTENCY1U1VmRGOUNyZ2laNzFqcDJORU12SFVqZjNiUnN5VEl1YkFDZmtGaTdhTzYwUTM2?oc=5",
+     "quelle": "Yahoo",
+     "status": "nachschub",
+     "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections: Live restock updates at Amazon, Walmart, and Target (Nov. 21)"
+    },
+    {
+     "datum": "2026-11-16T10:13:10Z",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWtCQXVuSHRmSnZqbkl3ZXpmX0dNSnNBWTdoM2xsNWdmVXRHTlhnRHVmU0xrQ2ZPNmc0ZlQxaUwzZGlrZWU3bnJEcUlhc0w2Zjc2REwtVHJXYnRtY0NkSmltT1JrczgwSkVaQW5DbjZjZk5uTG83WHJfNkoxRWdWV1cxQXAzVy14djZHbEZB?oc=5",
+     "quelle": "Yahoo",
+     "status": "erschienen",
+     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Buy at market price"
+    },
+    {
+     "datum": "2026-11-16T10:13:10Z",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWo1dGtyelpPSnNXNGt3d01xa2VfNmFvV2ljN1djU2dubDhpNTU4cFZJWHExMi1MZ254RUt4djBTRzZaNXc2dnZmWjdSZTJiclp1SDIwbWNaUGtfQUFuTE5Ia0xoSnZuaVBqd2hzQ0ZNenZLVHN0aV84VThhakZoRE1fRnlaS283RmU3cw?oc=5",
+     "quelle": "Mashable",
+     "status": "erschienen",
+     "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Buy at market price"
+    },
+    {
+     "datum": "2026-11-16T15:40:11Z",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXBXTEV0LXBBTF94M2FvWU1YZ190OTFXWERPUnluSVJsQUZxb2NuY3FicXF2UV9zTWRjX1VScC1LZHlRdVZSMG9mdW9KaFp0SEZBQTVNYXltd0VmWmN0aWxzaU00MXpvYmRwTk83MmJyRjdDNjlfSEtSaFY4NG9uV2FFYzBqOHJOVnBHTVZhek1HR2FrZjNraHJCQm00aVNiblFQMU5TQQ?oc=5",
+     "quelle": "IGN",
+     "status": "nachschub",
+     "titel": "Pokémon TCG: 30th Celebration Ultra-Premium Collection Back in Stock at Amazon, But There's a Catch"
+    },
+    {
+     "datum": "2026-11-13T09:36:50Z",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkZHMTc3d0pjVVl5dzJBVGtocXBfeHZXUzg5cThBa1Y3a0VYNjhuYU9WeTByR2JLVWRuZjVZLW13c3RjVVdtTmswekdwWFFOeWlLd0dOYmR1eEVvLUNfWHFJYXl1WHUwcVFkdDljeTZhU3hoZ28zS0wwZk5ndk9fbWV3UmYwQVJrOWNSMnlJbzVObDlP?oc=5",
+     "quelle": "Yahoo",
+     "status": "nachschub",
+     "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections: Live restock updates at Amazon, Walmart, and Target (Nov. 13)"
+    },
+    {
+     "datum": "2026-11-12T12:59:01Z",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN095TzJyR2FUY3M3VlRCSEpLSEczNjlpV1VXenp0eWJCa3lrX0swQVYtVEp2UndzNVdWa2JmWFktSEJ6bXdUUi10c1IwNVpYOUhSSTExcWt1WjBlUmh0TVRnelJxWFhlaXM3ZWNoNHpYX083dGJQdHRCcmoyUDFpd0JBNUhXV3hiUThuV0VFLXctWXFrY1EwRjFhM1o?oc=5",
+     "quelle": "Mashable",
+     "status": "nachschub",
+     "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections restock retailers: Where to buy"
+    }
+   ],
+   "rating": {
+    "gruende": [
+     "Nachschub – kurze Gelegenheit zum Originalpreis",
+     "Limitiertes Set, hoher Fan-Bezug",
+     "Preisstabilität trotz großen Angebots",
+     "Hype um Evolutions-Entwicklungen"
+    ],
+    "sterne": 5,
+    "urteil": "Top-Chance"
+   },
+   "set": "30th UPC",
+   "sprache": "en",
+   "stage": "nachschub",
+   "typ": "upc",
+   "variante": null,
+   "vorverkauf_ab": "2026-11-05"
+  },
   {
    "aktualisiert": "2026-11-27T11:26:27Z",
    "erstmals": "2026-10-22T08:33:58Z",
@@ -2233,99 +2249,6 @@
    "typ": "display",
    "variante": null,
    "vorverkauf_ab": "2026-12-23"
-  },
-  {
-   "aktualisiert": "2026-11-21T10:32:51Z",
-   "erscheint_am": "2026-11-30",
-   "erstmals": "2026-10-14T00:41:32Z",
-   "gruende": [
-    "Limitiertes Set, hoher Fan-Bezug",
-    "Preisstabilität trotz großen Angebots",
-    "Hype um Evolutions-Entwicklungen",
-    "30. Jubiläum, exklusiv, limitiert"
-   ],
-   "haendler": "Amazon",
-   "hype": 9,
-   "key": "30th-upc-upc-en",
-   "kurz": "30. Jubiläum-UPC wieder verfügbar – Nachschub für Sammler",
-   "liefertermin": null,
-   "lieferwelle": null,
-   "name": "30th UPC Ultra Premium Collection",
-   "preis_eur": null,
-   "quellen": [
-    {
-     "datum": "2026-11-21T10:32:51Z",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemdBZmdQMm9RS3JBclZQWlVPeWp6NXlrWDhyQlNEcXBaX2FTUWotbVNKdjFwVnZ2dlVMaFRISFhwendpSjItRzdZWHg2YTgxU1hta3VadUxjVEVsZExDMEVscjU2QTZMTVJDZVllRzNQSHVlZTFtNzdZdTgwUEY2a1VhemVZMEdSOU8yS2pWVnVzaWVQQVhnbGYyYmtYNkE?oc=5",
-     "quelle": "Mashable",
-     "status": "nachschub",
-     "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections restock retailers: Where to buy"
-    },
-    {
-     "datum": "2026-11-21T10:32:51Z",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMDNfamhvaGhDa2swSkU4RWJ6VWdYRnNfSWRWY0FRV1lxYlV6M0JpUEhBTkJJdTJkS0RKQl95aDNBd3B6S053VDVtS1BDekhDdkxHZEJQR3pDOFE3emhIejJlTENCY1U1VmRGOUNyZ2laNzFqcDJORU12SFVqZjNiUnN5VEl1YkFDZmtGaTdhTzYwUTM2?oc=5",
-     "quelle": "Yahoo",
-     "status": "nachschub",
-     "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections: Live restock updates at Amazon, Walmart, and Target (Nov. 21)"
-    },
-    {
-     "datum": "2026-11-16T10:13:10Z",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWtCQXVuSHRmSnZqbkl3ZXpmX0dNSnNBWTdoM2xsNWdmVXRHTlhnRHVmU0xrQ2ZPNmc0ZlQxaUwzZGlrZWU3bnJEcUlhc0w2Zjc2REwtVHJXYnRtY0NkSmltT1JrczgwSkVaQW5DbjZjZk5uTG83WHJfNkoxRWdWV1cxQXAzVy14djZHbEZB?oc=5",
-     "quelle": "Yahoo",
-     "status": "erschienen",
-     "titel": "The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Buy at market price"
-    },
-    {
-     "datum": "2026-11-16T10:13:10Z",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWo1dGtyelpPSnNXNGt3d01xa2VfNmFvV2ljN1djU2dubDhpNTU4cFZJWHExMi1MZ254RUt4djBTRzZaNXc2dnZmWjdSZTJiclp1SDIwbWNaUGtfQUFuTE5Ia0xoSnZuaVBqd2hzQ0ZNenZLVHN0aV84VThhakZoRE1fRnlaS283RmU3cw?oc=5",
-     "quelle": "Mashable",
-     "status": "erschienen",
-     "titel": "Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Buy at market price"
-    },
-    {
-     "datum": "2026-11-16T15:40:11Z",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXBXTEV0LXBBTF94M2FvWU1YZ190OTFXWERPUnluSVJsQUZxb2NuY3FicXF2UV9zTWRjX1VScC1LZHlRdVZSMG9mdW9KaFp0SEZBQTVNYXltd0VmWmN0aWxzaU00MXpvYmRwTk83MmJyRjdDNjlfSEtSaFY4NG9uV2FFYzBqOHJOVnBHTVZhek1HR2FrZjNraHJCQm00aVNiblFQMU5TQQ?oc=5",
-     "quelle": "IGN",
-     "status": "nachschub",
-     "titel": "Pokémon TCG: 30th Celebration Ultra-Premium Collection Back in Stock at Amazon, But There's a Catch"
-    },
-    {
-     "datum": "2026-11-13T09:36:50Z",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkZHMTc3d0pjVVl5dzJBVGtocXBfeHZXUzg5cThBa1Y3a0VYNjhuYU9WeTByR2JLVWRuZjVZLW13c3RjVVdtTmswekdwWFFOeWlLd0dOYmR1eEVvLUNfWHFJYXl1WHUwcVFkdDljeTZhU3hoZ28zS0wwZk5ndk9fbWV3UmYwQVJrOWNSMnlJbzVObDlP?oc=5",
-     "quelle": "Yahoo",
-     "status": "nachschub",
-     "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections: Live restock updates at Amazon, Walmart, and Target (Nov. 13)"
-    },
-    {
-     "datum": "2026-11-12T12:59:01Z",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN095TzJyR2FUY3M3VlRCSEpLSEczNjlpV1VXenp0eWJCa3lrX0swQVYtVEp2UndzNVdWa2JmWFktSEJ6bXdUUi10c1IwNVpYOUhSSTExcWt1WjBlUmh0TVRnelJxWFhlaXM3ZWNoNHpYX083dGJQdHRCcmoyUDFpd0JBNUhXV3hiUThuV0VFLXctWXFrY1EwRjFhM1o?oc=5",
-     "quelle": "Mashable",
-     "status": "nachschub",
-     "titel": "Pokémon TCG 30th Celebration Ultra-Premium Collections restock retailers: Where to buy"
-    },
-    {
-     "datum": "2026-11-06T20:13:30Z",
-     "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUzQ2VDRTUExkMXhCRGJYVGh2NFo3MHVIMDB2R1IyMjFaZWlHcklVT0JKOVFwbkhyQXlNdkpfQlY5NGV4ZkJoTmV1bXBYbnk2bUV6UWlUank5bml1a2c1Ym9FaDk0SWxJeV8tSjlyYmJ1YUNoWUVQUnNLVExjcXB1eTZiMmRRbDhBVFVRWW5sREdfbkIwMTBMbVlXRHJkRTJ5QU4wckEwZnVlVmdpQUlKdW94d2pybVpnYnY3cFpIc0pTTUt0MEFMTTZ1ZzlmeEk2dkZnN2xDSlM5STVVU0VmTUt0NlE5UW45RE4wSktpbTlGdXZMTmlCQW1sb2N6Uy1wYWJTTWpuaWdmYVlhWVRBNC02S0pfZTVwNTAyeWZra9IBpAJBVV95cUxQaXpjT2dXbjNmd0RpU1U2OTY1WU54c2RGZXl1YTBNa3FCRTB4dDU4ZTltWHEwdlp2ZHNfdEFlSE5JTzFzaFVISVdVRUMzMVlobFFlZFIzSUduX2RhR1R4YVJaUzF4U2hyWEhkeFlheGxrTS11N2Yya0RiU1BpOS1QUmM0aE5LUHkxZk00dEI3ZzFFeUVzWU1Db2Nud3J3aXozbTFEeXIxRjl2MFJWTUdia0luZnY0S2huSEJZdHJiaE1yMVdSOXFQYUE3ZWtFVGh1SDRzbnJWQm5TYXdkQmdaWDVEZEZRTHhSNWlUUU1sOC1QRXQwTjNHTVczSFAycDFaUDZkNVEtTEJJTS1adFVPLTdPVGJrMWo0TTlWMUZiTVVDM2Ff?oc=5",
-     "quelle": "The Economic Times",
-     "status": "angekuendigt",
-     "titel": "Pokémon 30th anniversary ultra-premium collection arriving with exclusive cards and accessories on Novembe"
-    }
-   ],
-   "rating": {
-    "gruende": [
-     "Nachschub – kurze Gelegenheit zum Originalpreis",
-     "Limitiertes Set, hoher Fan-Bezug",
-     "Preisstabilität trotz großen Angebots",
-     "Hype um Evolutions-Entwicklungen"
-    ],
-    "sterne": 5,
-    "urteil": "Top-Chance"
-   },
-   "set": "30th UPC",
-   "sprache": "en",
-   "stage": "nachschub",
-   "typ": "upc",
-   "variante": null,
-   "vorverkauf_ab": "2026-11-05"
   },
   {
    "aktualisiert": "2026-11-20T05:24:36Z",
